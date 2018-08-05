@@ -1,0 +1,28 @@
+! openload.co
+$popup,domain=openload.co|xbyvexekkrnt.com|exdynsrv.com|obqtccxcfjmd.com|kbjddmnkallz.com|snfqpqyecdrb.com|zetads.com|jypmcknqvnfd.com|whizspin.com|xkoyfyaqk.com
+! systembooster.info
+$popup,domain=systembooster.info
+! thevid.net
+||pop.thevid.net^$popup
+||thevid.net^$popup,third-party
+/ad/$script,image,popup,domain=thevid.net
+||rapidvideo.com^$popup,domain=rapidvideo.com
+! flashx
+$popup,domain=flashx.co|flashx1.tv|flashx.tv
+! widestream
+$popup,domain=widestream.io
+||rivalo.com^$popup,domain=widestream.io
+! hibids10
+||hibids10.com^$popup
+! popups
+$popup,domain=ydujmccmydwu.bid
+! semi-generic popup block
+/http*.:\/\/.*[?|=|&|%|#|+].*/$popup,domain=redecanais.gratis
+/http*.:\/\/.*[a-zA-Z0-9]{110,}.*/$popup,domain=redecanais.gratis
+! data popups
+|data^$popup,domain=redecanais.gratis
+|about^$popup,domain=redecanais.gratis
+! javascript popups
+|javascript^$popup,domain=1337x.to
+! regex to pickup ip-address popups
+/^https?:\/\/([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=redecanais.gratis

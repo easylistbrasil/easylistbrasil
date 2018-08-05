@@ -1,0 +1,8 @@
+||cdn.advnet.xyz^$third-party
+||moatads.com^$third-party
+||googlesyndication.com^$third-party
+||doubleclick.*^$third-party
+||mgid.com^$third-party
+||pushnews.eu^$third-party
+||tgdaudience.com^$third-party
+||tinypass.com^$third-party

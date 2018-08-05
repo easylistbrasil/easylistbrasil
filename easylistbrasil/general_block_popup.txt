@@ -1,0 +1,4 @@
+! Used with many websites to generate multiple popups
+|blob:$popup
+|data:text$popup
+|dddata:text$popup

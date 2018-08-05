@@ -1,0 +1,34 @@
+! redtube, pornhub
+@@||ht.redtube.com/js/ht.js?site_id=2
+@@||cdn1d-static-shared.phncdn.com/iframe-*.html#zone_id=*&site_id=*&channel*
+@@||ads.trafficjunky.net/ads?zone_id=11531&site_id=16&refresh_times=2&channel%5Bsite%5D=redtube
+@@||ads.trafficjunky.net/ads?zone_id=*&site_id=*&channel*
+@@||doublepimpssl.com/*/*
+@@||thumbs-*.redtube*
+@@||cdn.doublepimpssl.com/Scripts/infinity.js.aspx?guid=*
+@@||media.trafficjunky.net/js/holiday-promo.js
+@@||afgr3.com/en/us/banner/url/zone?*^$image,domain=redtube.com|redtube.com.br|pornhub.com
+@@||ads.trafficjunky.net/ad*/get/*^$script,domain=redtube.com|redtube.com.br|pornhub.com
+@@||ads.trafficjunky.net/ad*/get/*^$image,domain=redtube.com|redtube.com.br|pornhub.com
+@@||ads.trafficjunky.net/tj_pixel?*^$image
+@@||*.rdtcdn.com/www-static/cdn_files/redtube/js/*.js?*^$script,domain=redtube.com|redtube.com.br|pornhub.com
+@@||ads.trafficjunky.net/ad*/get/*^$subdocument,domain=redtube.com|redtube.com.br|pornhub.com
+@@||ads2.contentabc.com/ads?spot_id=*^$script,domain=redtube.com|redtube.com.br|pornhub.com
+@@||ads2.contentabc.com/ads?spot_id=*^$subdocument,domain=redtube.com|redtube.com.br|pornhub.com
+@@||doublepimpssl.com/Tag.engine?*redtube*^$script
+@@||doublepimpssl.com/Tag.engine?*pornhub*^$script
+@@||google-analytics.com*^$domain=redtube.com|redtube.com.br|pornhub.com
+@@||stats.g.doubleclick.net*^$domain=redtube.com|redtube.com.br|pornhub.com
+@@||www.afgr3.com/en/us/banner/url/zone?zid=*^$script,domain=redtube.com|redtube.com.br|pornhub.com
+@@||www.afgr3.com/en/us/banner/url/zone?zid=*^$subdocument,domain=redtube.com|redtube.com.br|pornhub.com
+@@||google-analytics.com/analytics.js^$script,domain=redtube.com|redtube.com.br|pornhub.com
+! sexyhotplay.com.br
+@@||static.sexyhotplay.com.br/libs/javascripts/js/jquery.cookie.js
+@@||facebook.com^$domain=sexyhotplay.com.br
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js^$domain=sexyhotplay.com.br
+@@||static-vod-client-html.sexyhotplay.com.br/scripts/vod/*/publicidade.min.js
+@@||canalsexyhot.com.br^$popup,domain=sexyhotplay.com.br
+@@||blog.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
+@@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
+@@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
+@@||tumblr.com^$popup,domain=sexyhotplay.com.br

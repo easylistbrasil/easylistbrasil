@@ -1,0 +1,523 @@
+! youtube.com
+/pubads.$xmlhttprequest,media,domain=youtube.com
+||youtube.com/api/stats/ads?
+||youtube.com/ptracking?
+||youtube.com/player_204?
+||youtube-nocookie.com/gen_204?
+||googleads.g.doubleclick.net/pagead/ads?^$script,image,media,xmlhttprequest,domain=youtube.com
+||googleads.g.doubleclick.net/pagead/ads?^$script,image,media,xmlhttprequest,domain=youtube.com
+||pagead2.googlesyndication.com/pagead/show_ads.js^$script,domain=youtube.com
+|google.com/uds/api/ads^$script
+||s.youtube.com^
+||*/show_companion_ad.js$domain=youtube.com
+||a.b.googletag.companionAds?$domain=youtube.com
+||s.ytimg.com/yts/jsbin/www-en_US-vflKnfUzv/ypc_bootstrap.js$domain=youtube.com
+||youtube.com/api/stats/ads?*
+||^*/new_watch_background.jpg?$domain=youtube.com
+||ytimg.com^*/new_watch_background_*.jpg?$domain=youtube.com
+||ytimg.com^*_banner$domain=youtube.com
+||Ytimg.com^*/swfbin/*AD1
+||Ytimg.com^*/swfbin/*AD2
+||Ytimg.com^*/swfbin/*AD3
+||Ytimg.com^*/swfbin/*AD4
+||Ytimg.com^*/swfbin/*AD5
+||Ytimg.com^*/swfbin/*AD6
+||Ytimg.com^*/swfbin/*AD7
+||Ytimg.com^*/swfbin/*AD8
+||ytmnd.com/ugh
+||yts.ag/images/vpnanim.gif
+||yudu.com^*_intro_ads
+||premiumyva.appspot.com^$domain=youtube.com
+/vmclicksq^$domain=youtube.com
+||youtube.com/get_endscreen?
+! openload.co
+||*openload*^$script,third-party,xmlhttprequest,popup
+||*oload*^$script,third-party,xmlhttprequest,popup
+|http*://$script,third-party,xmlhttprequest,popup,domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+||*.com^$third-party,domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+||*.js^$script,domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+||openload.*/assets/js/license.*.js
+||oload.*/assets/js/license.*.js
+||logdev.openload.co^
+||logdev.onload.*^
+||thumb.openload.*/logo/*.png
+||thumb.onload.*/logo/*.png
+||ssl.gstatic.com^$domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+||openload.co/logpopup/*^
+||onload.*/logpopup/*^
+||*/hitwe/*^$domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+||*/?l=*^$domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+||*/?a=*^$domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+||*/o?c=*^$domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+||*/imp?p=*^$domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+||*/afu.php^$domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+||*/*.php^$domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+||adanalytics.openload.co^
+||adanalytics.onload.*^
+||stats.openload.co/log
+||stats.onload.*/log
+||*.openload.co/log
+||*.oload.*/log
+||*.info/googlead.js^$script
+||thumb.oloadcdn.net/logo/*.png
+||thumb.oloadcdn.net/logo/os_pXLWj_OY.png
+||openload.*/assets/js/script.23*.js^$script
+||oload.*/assets/js/script.23*.js^$script
+||openload.*/assets/js/script.2321.js
+||openload.*/corsframe.html
+||oload.*/corsframe.html
+||openload.*/embed/*/undefined^$xmlhttprequest
+||oload.*/embed/*/undefined^$xmlhttprequest
+||www.facebook.com^$domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv
+! streamango.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=streamango.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=fruitadblock.net
+||*.com^$third-party,domain=streamango.com
+||*.js^$script,domain=streamango.com
+||*/hitwe/*^$domain=streamango.com
+||*/?l=*^$domain=streamango.com
+||*/?a=*^$domain=streamango.com
+||*/o?c=*^$domain=streamango.com
+||*/imp?p=*^$domain=streamango.com
+||*/afu.php^$domain=streamango.com
+||*/*.php^$domain=streamango.com
+||*.bid^$third-party,domain=streamango.com
+||*.com^$third-party,domain=fruitadblock.net
+||*.js^$script,domain=fruitadblock.net
+||*/hitwe/*^$domain=fruitadblock.net
+||*/?l=*^$domain=fruitadblock.net
+||*/?a=*^$domain=fruitadblock.net
+||*/o?c=*^$domain=fruitadblock.net
+||*/imp?p=*^$domain=fruitadblock.net
+||*/afu.php^$domain=fruitadblock.net
+||*/*.php^$domain=fruitadblock.net
+||*.bid^$third-party,domain=fruitadblock.net
+||predictivadnetwork.com^$domain=streamango.com
+||cpm10.com^$domain=streamango.com
+||spotscenered.info^$domain=streamango.com
+! streamcherry.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=streamcherry.com
+! vidzi
+|http*://$script,third-party,xmlhttprequest,popup,domain=vidzi.tv
+||vidzi.tv/300e.html
+||vidzi.tv^$script
+||*/path/ads/ads.js$domain=vidzi.tv
+||vidzi.tv^$script,domain=putload.tv|estream.to|assistirfilmesonline.club|megafilmestop.org|filmeseseriesonline.net|pirataplay.com|player.xplayer.top|watchvideo.us|assistirfilmeshd.org|openlink.biz|www.ultracine.com.br
+! vidoza.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=vidoza.net
+! vid.ag
+|http*://$script,third-party,xmlhttprequest,popup,domain=vid.ag
+||*.bid^$domain=vid.ag
+! vidto.me
+|http*://$script,third-party,xmlhttprequest,popup,domain=vidto.me
+||vidto.me^$script,domain=putload.tv|estream.to|assistirfilmesonline.club|megafilmestop.org|filmeseseriesonline.net|pirataplay.com|player.xplayer.top|watchvideo.us|assistirfilmeshd.org|openlink.biz
+||vidto.me/300e.html
+! vidlox.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=vidlox.tv|vidlox.me
+! estream
+|http*://$script,third-party,xmlhttprequest,popup,domain=estream.to|estream.xyz|estream.co|estream.info|estream.site|estream.online|estream.win|estream.io|estream.top|estream.tv|estream.nu|estream.win|estream.ru|estream.me|estream.net|estream.online|estream.cc
+||*.xyz^$domain=estream.to|estream.xyz|estream.co|estream.info|estream.site|estream.online|estream.win|estream.io|estream.top|estream.tv|estream.nu|estream.win|estream.ru|estream.me|estream.net|estream.online|estream.cc
+! micetop
+$script,domain=micetop.us|micetop.co|micetop.org|micetop.net|micetop.com|micetop.tv
+! cinepremiere.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=cinepremiere.net
+||i.imgur.com/4Io0o1p.png^$domain=cinepremiere.net
+! thevid
+|http*://$script,third-party,xmlhttprequest,popup,domain=thevid.net
+||*.xyz$script,domain=thevideo.me
+||*.xyz$script,domain=thevid.net
+||thevid.net/ad/syn/g*.html
+||thevid.net/ad/*.html
+||thevid.net/ad/g3.html
+||thevid.net/ad/pop/js.js?v=0.1
+||thevid.net/ad/g2.html
+||thevid.net/ad/g4.html
+||thevid.net/ad/g5.html
+||thevid.net/ad/300x250.php
+||thevid.net/ad/ads1.php
+/ad/300x250.php$domain=thevid.net
+/ad/ads3.php$domain=thevid.net
+/ad/ads1.php$domain=thevid.net
+||thevid.net/ad/psd.js
+||thevid.net/imgs/thevid-logo3.png
+! rapidvideo.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=www.rapidvideo.com
+||www.rapidvideo.com/css/layout.css
+! youwatch
+||youwatch.org/js/jquery.cookie.js^$script
+||*/embed-*-_-*.html^$script
+||*/embed-*-_-*.html*^$script
+||*.com/embed-*-_-*^$script
+||voodaith*.c*m^$script
+/flash.png$domain=smed79.info|youwatch.org|chouhaa.info
+/popout.js$domain=smed79.info|youwatch.org|chouhaa.info
+/sharing.js$domain=smed79.info|youwatch.org|chouhaa.info
+/logo.png$domain=smed79.info|youwatch.org|chouhaa.info
+/earn.png$domain=smed79.info|youwatch.org|chouhaa.info
+/pop-under.js$domain=smed79.info|youwatch.org|chouhaa.info
+||youwatch.org/9elawi.html
+||youwatch.org/driba.html
+||youwatch.org/iframe1.html
+||youwatch.org/vod-str.html
+||youwatch.org$script
+||z7ilika.info/css/main.css
+||z7ilika.info/pick.html
+||youwatch.org/*/sharing.js
+/pisto.html$third-party,domain=smed79.info
+/js/pop.js$script,domain=smed79.info
+/js/jquery.cookie.js$domain=smed79.info
+/dl$domain=smed79.info|youwatch.org
+/moda*.html$domain=smed79.info|youwatch.org
+/a/display.php$domain=smed79.info|youwatch.org
+/px.html$domain=smed79.info|youwatch.org
+||static.*.xyz/img/*.html
+||rienlol.info/pisto.html
+||*.info/pisto.html
+||*.org/pisto.html
+||*.xyz/pisto.html
+||*.to/pisto.html
+||*.me/pisto.html
+||*.eu/pisto.html
+||*.bid/pisto.html
+||*.com/pisto.html
+||rienlol.info/doda.html
+||*.info/doda.html
+||*.xyz/doda.html
+||*.org/doda.html
+||*.bid/doda.html
+||*.com/doda.html
+||rienlol.info/prope.html
+||*.info/prope.html
+||*.org/prope.html
+||*.xyz/prope.html
+||*.to/prope.html
+||*.me/prope.html
+||*.eu/prope.html
+||*.bid/prope.html
+||*.com/prope.html
+||rienlol.info/moda1.html
+||*.info/moda1.html
+||*.org/moda1.html
+||*.to/moda1.html
+||*.me/moda1.html
+||*.eu/moda1.html
+||*.bid/moda1.html
+||*.com/moda1.html
+||rienlol.info/pick.html
+||*.info/pick.html
+||*.org/pick.html
+||*.xyz/pick.html
+||*.to/pick.html
+||*.me/pick.html
+||*.bid/pick.html
+||*.com/pick.html
+||youwatch.org/make-money.html
+||*.org/make-money.html
+||*.info/make-money.html
+||*.xyz/make-money.html
+||*.to/make-money.html
+||*.me/make-money.html
+||*.eu/make-money.html
+||*.com/make-money.html
+||*.org/*/sharing.js
+||*.xyz/*/sharing.js
+||*.info/*/sharing.js
+||*.to/*/sharing.js
+||*.me/*/sharing.js
+||*.bid/*/sharing.js
+||rienlol.info$script
+||sidek.info$script
+||z7ilika.info$script
+||sidek.info/prope.html
+||sidek.info/moda1.html
+! chishare
+$script,domain=chishare.org|chishare.cc|chishare.com|chishare.net|chishare.com.br|chishare.info|chishare.co
+||*.club^$domain=chishare.org|chishare.cc|chishare.com|chishare.net|chishare.com.br|chishare.info|chishare.co
+! mail.ru
+||boom.mail.ru^
+||imgsmail.ru/*_share_buttons_sprite.$third-party
+||km.ru^*/km_shares/
+||mail.ru/js/social-likes.
+||mail.ru^*/jquery.shares.
+||platform.twitter.com^$domain=mail.ru
+||webagent.mail.ru^
+||connect.mail.ru/share?
+||ad.mail.ru/crossdomain.xml
+||my1.imgsmail.ru/mail/ru/images/my/compass/static/head/*
+||my2.imgsmail.ru/mail/ru/images/my/compass/static/alert/*
+||mail.ru/cookie-token.do?
+||mail.ru/count/
+||mail.ru/counter/
+||mail.ru/dstat?
+||mail.ru/share_count?
+! flashx
+|http*://$script,third-party,xmlhttprequest,domain=flashx.co|flashx1.tv|flashx.tv
+||vibeo.to^$popup,domain=flashx.co|flashx1.tv|flashx.tv
+||free-stream.tv^$popup,domain=flashx.co|flashx1.tv|flashx.tv
+||ww2.flashx.tv/embed2?*
+||ww2.flashx.tv/embed1?*
+/atrk.gif$domain=flashx.co|flashx1.tv|flashx.tv
+||cdn.flashx.tv/trailer.mp4
+/checkembed.php^$domain=flashx.co|flashx1.tv|flashx.tv
+||www.flashx.tv/counter2.cgi*^
+||data:jpeg*^$domain=flashx.co|flashx1.tv|flashx.tv
+! watchvideo.us
+|http*://$script,third-party,xmlhttprequest,popup,domain=watchvideo.us
+||watchvideo.us^$script,domain=putload.tv|estream.to|assistirfilmesonline.club|megafilmestop.org|filmeseseriesonline.net|pirataplay.com|player.xplayer.top|watchvideo.us|assistirfilmeshd.org|openlink.biz|fsplayer.org
+! watchers.to
+|http*://$script,third-party,xmlhttprequest,popup,domain=watchers.to
+||*.com^$domain=watchers.to
+! freelivestream
+|http*://$script,third-party,xmlhttprequest,popup,domain=freelivestream.tv
+||freelivestream.tv/servidoresdedicado.php
+! widestream
+|http*://$script,third-party,xmlhttprequest,popup,domain=widestream.io
+||rivalo.com^$domain=widestream.io
+! ekostreams.co
+||ekostreams.*^$script,xmlhttprequest,popup
+||*.cloudfront.net/logo.png^
+||cloudfront.net^$script,domain=ekostreams.co|flowplayer.org
+! tvgram.stream
+$script,domain=tvgram.stream
+! onplay.tv
+|http://$script,third-party,xmlhttprequest,popup,domain=onplay.tv
+|https://$script,third-party,xmlhttprequest,popup,domain=onplay.tv
+! otampadabola2.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=otampadabola2.com
+! janjua
+|http*://$script,third-party,xmlhttprequest,popup,domain=janjuaplayer.com
+||janjuaplayer.com/resources/ads/*.htm
+! p3g.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=p3g.tv
+||p3g.tv/resources/ads/*.htm
+! mipsplayer
+|http*://$script,third-party,xmlhttprequest,popup,domain=mipsplayer.com
+||mipsplayer.com/resources/scripts/skipad.png
+||mipsplayer.com/resources/ads/*.htm
+! embeducaster
+|http*://$script,third-party,xmlhttprequest,popup,domain=embeducaster.com
+! vidnode.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=vidnode.net
+||*.com^$third-party,domain=vidnode.net
+! sportzonline.xyz
+|http*://$script,third-party,xmlhttprequest,popup,domain=sportzonline.xyz
+! whostreams.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=whostreams.net
+! g1futebolaovivo.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=g1futebolaovivo.com
+! jogosaovivo.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=jogosaovivo.tv
+! kastream.biz
+|http*://$script,third-party,xmlhttprequest,popup,domain=kastream.biz
+! torcidatricolor.eu
+|http*://$script,third-party,xmlhttprequest,popup,domain=torcidatricolor.eu
+||torcidatricolor.eu/ads.htm
+! tudotv.tv
+|http*://$script,third-party,xmlhttprequest,websocket,popup,domain=tudotv.tv
+! aovivonatv.com
+|http*://$script,third-party,xmlhttprequest,websocket,popup,domain=aovivonatv.com
+! portalzuca.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=portalzuca.com
+! tv-aovivo.nl
+|http*://$script,third-party,xmlhttprequest,popup,domain=tv-aovivo.nl
+! tvonlineaovivo.net
+|http*://$script,third-party,xmlhttprequest,websocket,popup,domain=tvonlineaovivo.net
+! vertvonline.org
+|http*://$script,third-party,xmlhttprequest,popup,domain=vertvonline.org
+! iptv.gratis
+|http*://$script,third-party,xmlhttprequest,popup,domain=iptv.gratis
+! vto.gratis
+|http*://$script,third-party,xmlhttprequest,popup,domain=vto.gratis
+! futebolaovivo.in
+|http*://$script,third-party,xmlhttprequest,popup,domain=futebolaovivo.in
+! netu
+|http*://$script,third-party,xmlhttprequest,popup,domain=hqq.tv|hqq.watch
+||*.hqq.*/images/Black_and_white_mini_logo.png
+! up2stream
+|http*://$script,third-party,xmlhttprequest,popup,domain=up2stream.com
+! streamplay.to
+|http*://$script,third-party,xmlhttprequest,popup,domain=streamplay.to|streamplay.me
+||amazonaws.com^$script,domain=globes.co.il|mp3goo.com|streamplay.to|streamplay.me
+||cloudfront.net^$script,domain=streamplay.to
+||dacash.streamplay.to^
+||streamplay.to/images/videoplayer.png
+||streamplay.to/js/pu*/
+||streamplay.to/favicon-48x48.png
+/sharing.js$script,third-party,domain=streamplay.to|streamplay.me
+! abcast.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=abcast.net|abcast.me
+||abcast.net/ao.html
+! vlive.pw
+|http*://$script,third-party,xmlhttprequest,popup,domain=vlive.pw
+! streamlive.to
+|http*://$script,third-party,xmlhttprequest,popup,domain=streamlive.to
+||heatmap.it^$domain=streamlive.to
+||rebrand.ly^$domain=streamlive.to
+||*.com^$domain=streamlive.to
+! assistirtvaovivo.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=assistirtvaovivo.tv
+! geroubuzz.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=geroubuzz.com
+! tvonlineaovivo.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=tvonlineaovivo.net
+||www.tv-msn.com/master.mp4$media
+||tvonlineaovivo.net/master.mp4$media
+! tvonline.plus
+|http*://$script,third-party,xmlhttprequest,popup,domain=tvonline.plus
+! aovivoagora
+||aovivoagora.*^$script,xmlhttprequest,popup
+! hipertela.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=hipertela.net
+! netesportiva.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=netesportiva.com
+! buffstream.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=buffstream.com
+! canais.ink
+|http*://$script,third-party,xmlhttprequest,popup,domain=canais.ink
+! tvgratis.me
+|http*://$script,third-party,xmlhttprequest,popup,domain=tvgratis.me
+! futebolaovivohd.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=futebolaovivohd.net
+! vertv.me
+|http*://$script,third-party,xmlhttprequest,popup,domain=vertv.me
+! tudotvonline.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=tudotvonline.com
+! vertvhd.org
+|http*://$script,third-party,xmlhttprequest,popup,domain=vertvhd.org
+! seuseriado.com
+|http://$script,third-party,xmlhttprequest,popup,domain=seuseriado.com
+! playflixhd.co
+|http*://$script,third-party,xmlhttprequest,popup,domain=playflixhd.co
+! netcine.tk
+|http*://$script,third-party,xmlhttprequest,popup,domain=netcine.tk
+! armagedomfilmes.info
+|http*://$script,third-party,xmlhttprequest,popup,domain=armagedomfilmes.info
+! megadictos
+|http*://$script,third-party,xmlhttprequest,popup,domain=megadictos.org|desmix.org
+! filmes
+||*megafilmes*.*^$script,xmlhttprequest,popup
+||*mega*filmes*.*^$script,xmlhttprequest,popup
+||*filmesonline*.*^$script,xmlhttprequest,popup
+||*seriesonline*.*^$script,xmlhttprequest,popup
+||*filmeshd*.*^$script,xmlhttprequest,popup
+||ultracine*.*^$script,xmlhttprequest,popup
+||*nightfilmes*.*^$script,xmlhttprequest,popup
+||*cinefilmes*.*^$script,xmlhttprequest,popup
+||*megacine*.*^$script,xmlhttprequest,popup
+||*qqfilmes*.*^$script,xmlhttprequest,popup
+||blogspot.com^$image,domain=filmesonlinex.co|filmesonlinexhd.biz
+||*teste*^$script,xmlhttprequest,popup
+! ultracine.com.br redirect abp 3.2
+||ultracine.com.br/index2.html$rewrite=/index.html
+! mgid Anti adblock - adblock plus 3.2
+$image,domain=piguiqproxy.com
+$script,domain=piguiqproxy.com
+$image,domain=amgload.net
+$script,domain=amgload.net
+||*piguiqproxy.com/*$rewrite=/favicon.ico
+||*amgload.net/*$rewrite=/favicon.ico
+||*piguiqproxy.com/favicon.ico$rewrite=/favicon2.ico
+||*amgload.net/favicon.ico$rewrite=/favicon2.ico
+||*smcheck.org/*$rewrite=/favicon.ico
+||*smcheck.org/favicon.ico$rewrite=/favicon2.ico
+! brfutebol.org
+||brfutebol.org/canais/imagens/fechar.png
+! mmfilmes.online
+|http*://$script,third-party,xmlhttprequest,popup,domain=mmfilmes.online
+! abrirlinks.com
+|http*://$script,third-party,xmlhttprequest,domain=abrirlinks.com
+! reviewsdecelular.ga
+|http*://$third-party,xmlhttprequest,popup,domain=reviewsdecelular.ga
+! netcine.us
+|http*://$script,third-party,xmlhttprequest,domain=netcine.us
+! filmes0800.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=filmes0800.com
+! apollocdn.cc
+|http*://$script,third-party,xmlhttprequest,popup,domain=apollocdn.cc
+! netfly.net.br
+|http*://$script,third-party,xmlhttprequest,popup,domain=netfly.net.br
+! gofilmes.me
+|http*://$script,third-party,xmlhttprequest,popup,domain=gofilmes.me
+! vstreaming.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=vstreaming.net
+! redecanais
+||*redecanais*^$script,xmlhttprequest,popup
+! Anti mine mining
+||hide.ovh^
+||graftpool.ovh^
+||encoding.ovh^
+||altavista.ovh^
+||scaleway.ovh^
+||nexttime.ovh^
+||never.ovh^
+||2giga.download^
+||besti.ga^
+||jurty.ml^
+||jurtym.cf^
+||mfio.cf^
+||mwor.gq^
+||oei1.gq^
+||wordc.ga^
+||berateveng.ru^
+||ctlrnwbv.ru^
+||ermaseuc.ru^
+||kdmkauchahynhrs.ru^
+||uoldid.ru^
+||bmst.pw^
+||bmnr.pw^
+||bmcm.pw^
+||bmcm.ml^
+||videoplayer2.xyz^
+||0x1f4b0.com^
+||httpp.gdn^
+||skencituer.com^
+||tainiesonline.pw^
+||pampopholf.com^
+||filmoljupci.com^
+||authcaptcha.com^
+||flowplayer.space^
+||belicimo.pw^
+||cc.gofile.io^
+||yololike.space^
+||play.mix.kinostuff.com^
+||sourcecode.pro^
+||gay-hotvideo.net^
+||intellecthosting.net^
+||thersprens.com^
+||gramombird.com^
+||clickwith.bid^
+||intactoffers.club^
+||dekoder.ws^*?proxy=
+||openkatalog.com^$subdocument
+||mine.torrent.pw^
+||cryptobara.com/client/worker.js
+||nahnoji.cz^$websocket
+||js.nahnoji.cz^
+||mine.nahnoji.cz^
+||hive.tubetitties.com^
+||miner.nablabee.com^
+||shrink-service.it/js/cM.js
+||p.estream.to^
+||www2.adfreetv.ch^
+||adfreetv.ch^*$xmlhttprequest
+||adfreetv.ch/js/jquery.js
+||ddns.net^*=ws://$third-party
+||ddns.net^*=wss://$third-party
+||myeffect.net^*=ws://$third-party
+||myeffect.net^*=wss://$third-party
+||worker.salon.com^
+||streamplay.*.wasm$xmlhttprequest
+||sleeptimer.org/playerc.js
+||kinokongo.cc^*.php
+||video.streaming.estream.to^
+||support.2giga.link^
+||directprimal.com^$websocket
+||play.estream.nu^
+||play.estream.to^
+||play.estream.xyz^
+||play.s01.vidtodo.pro^
+||on.animeteatr.ru^
+||play.vb.wearesaudis.net^
+$script,domain=centrum-dramy.pl|hentai-online.pl
+|http://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
+|https://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com

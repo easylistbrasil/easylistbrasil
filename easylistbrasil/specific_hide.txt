@@ -1,0 +1,425 @@
+! youtube.com
+youtube.com##iframe[id="video-masthead"]
+youtube.com##div[id="video-masthead"]
+youtube.com##ytd-video-masthead-ad-renderer[class="style-scope ytd-browse"]
+youtube.com##div[id="masthead-ad"]
+youtube.com##div[class="alerts-wrapper"]
+youtube.com##div[class="html5-video-player ad-created ytp-small-mode ad-showing ad-interrupting videoAdUiRedesign ytp-video-ad-learn-more-ui iv-module-created iv-module-loaded paused-mode"]
+youtube.com##div[class="ytp-title ytp-title-extra-info"]
+youtube.com##div[class="video-ads"]
+youtube.com##div[class="videoAdUiSkipContainer html5-stop-propagation"]
+youtube.com##div[class="annotation-shape annotation-popup-shape annotation-type-text"]
+! youtube.com##div[class="ytp-chrome-top-buttons"]
+youtube.com##div[class="ytp-button ytp-share-button"]
+youtube.com##div[class="ytp-ad-persistent-progress-bar-container"]
+youtube.com##div[class="ytp-ad-persistent-progress-bar"]
+youtube.com##div[class="ytp-ad-progress-list"]
+youtube.com##div[class="ytp-ad-progress"]
+youtube.com##div[class="videoAdUiSkipContainer html5-stop-propagation"]
+youtube.com##div[class="videoAdUiSkipButton videoAdUiAction"]
+youtube.com##div[class="videoAdUiBottomBar"]
+youtube.com##div[class="videoAdUiProgressBar"]
+youtube.com##div[class="pyv-afc-ads-container"]
+youtube.com##div[class="pyv-afc-ads-inner pyv-search-server-side"]
+youtube.com##div[id="watch7-sidebar-ads"]
+! youtube.com##button[class="ytp-button ytp-cards-button"]
+! youtube.com##div[class="ytp-cards-teaser-box"]
+! youtube.com##div[class="ytp-cards-teaser-text"]
+youtube.com##div[id="feed-pyv-container"]
+youtube.com##div[id="footer-ads"]
+youtube.com##div[id="hats-container"]
+youtube.com##div[id="watch7-hidden-extras"]
+youtube.com##iframe[style="border: 0px; vertical-align: bottom; display: none;"]
+youtube.com##div[class="masthead-ad-control open content-alignment masthead-ad-control-header hid"]
+youtube.com##div[id="ad_creative_expand_btn_1"]
+youtube.com##div[class="ad-div mastad"]
+youtube.com##div[id="ad_creative_1"]
+www.youtube.com##.ytp-buttonytp-share-button
+www.youtube.com##.pyv-afc-ads-innerpyv-search-server-side
+! openload.co
+openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##div[class="BetterJsPopOverlay"]
+openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##div[id*="ScriptRoot"]
+openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##.videologo
+openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##div[id="mediaspace_wrapper"] > script:last-child
+openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##script
+openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##iframe[src="https://openload.co/corsframe.html"]
+##iframe[src="https://openload.co/corsframe.html"]
+openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##div[id="adbdetect"] > script
+! vidzi.tv
+vidzi.tv##a
+vidzi.tv##body > div + div:last-child
+vidzi.tv##.adsbox
+vidzi.tvl##div[class="large-zi-center"]
+###custom-vidzi_backscreen2
+##custom-vidzi_backscreen2
+###vidzi_backscreen2
+##vidzi_backscreen2
+##div[class="custom-vidzi_backscreen2 vidzi_backscreen2"]
+vidzi.tv##.large-ad-center-close
+vidzi.tv##.large-ad-center
+vidzi.tv##.custom-vidzi_backscreen
+! vid.ag
+vid.ag##div[id="playbutton"]
+vid.ag##div[class="delete"]
+! vidito.me
+vidito.me##div[id="custom-ad"]
+##.custom-vidto_backscreen2
+! vidlox.tv
+vidlox.tv##body > div:last-child
+vidlox.tv##a[class="dwnld"]
+vidlox.tv##div[class="adsbox"]
+vidlox.me##div[style*="z-index"]
+! micetop
+micetop.us,micetop.co,micetop.org,micetop.net,micetop.com,micetop.tv##span[class="jwcontrols"] > img[class="jwlogo"]
+! cinepremiere.net
+cinepremiere.net##div[class="mobileon"]
+cinepremiere.net##div[class="mobileoff"]
+cinepremiere.net##div[class="ads-fx"]
+cinepremiere.net###CloseSv
+cinepremiere.net##.CloseButton
+cinepremiere.net##div[class="CloseButton"]
+cinepremiere.net##div[id="SvplayerID"] > div
+cinepremiere.net##a[class="close"]
+cinepremiere.net##.close CloseDownload
+cinepremiere.net##close CloseDownload
+cinepremiere.net##.CloseDownload
+! thevid.net
+thevid.net##div[id="Html1"]
+thevid.net###Html1
+thevid.net##iframe[id="InlineFrame1"]
+thevid.net##table[id="tbl1"]
+thevid.net##div[id="player_logo"]
+thevid.net##div[id="videotitle"]
+thevid.net##.banner
+! rapidvideo.com
+www.rapidvideo.com##noscript
+www.rapidvideo.com###dimbg-premium
+www.rapidvideo.com##dimbg-premium
+! youwatch
+chouhaa.info##div[class="jw-dock jw-reset"]
+chouhaa.info###player_img
+chouhaa.info###player_ads
+chouhaa.info##div[style="width: 315px; height: 266px; position: absolute; z-index: 999998; left: 50%; top: 50%; margin-left: -158px; margin-top: -133px; text-align: left; font-size: 14px; display: block !important;"]
+youwatch.org,smed79.info,chouhaa.info,z7ilika.info,rienlol.info,sidek.info##div[style="width:315px;height:266px;position:absolute;z-index:999998;left:50%;top:50%;margin-left:-158px;margin-top:-133px;text-align:left;font-size:14px;display:block!important;"]
+youwatch.org,chouhaa.info,rienlol.info,z7ilika.info,sidek.info##.jw-logo
+youwatch.org,chouhaa.info,rienlol.info,z7ilika.info,sidek.info##.jw-logo-image
+youwatch.org,chouhaa.info,rienlol.info,z7ilika.info,sidek.info##div[style="width: 315px; height: 266px; position: absolute; z-index: 999998; left: 50%; top: 50%; margin-left: -158px; margin-top: -133px; text-align: left; font-size: 14px; display: block !important;"]
+youwatch.org,chouhaa.info,rienlol.info,z7ilika.info,sidek.info##div[class="jw-dock jw-reset"]
+youwatch.org,chouhaa.info,rienlol.info,z7ilika.info,sidek.info###player_img
+youwatch.org,chouhaa.info,rienlol.info,z7ilika.info,sidek.info##player_img
+youwatch.org,chouhaa.info,rienlol.info,z7ilika.info,sidek.info##.fillme
+youwatch.org,chouhaa.info,rienlol.info,z7ilika.info,sidek.info##div[class="jw-logojw-resetjw-hide"]
+youwatch.org,chouhaa.info,rienlol.info,z7ilika.info,sidek.info##div[class="jw-controls-right jw-reset"]
+youwatch.org,chouhaa.info,rienlol.info,z7ilika.info,sidek.info##div[class="jw-controls-right jw-reset"]
+youwatch.org,chouhaa.info,rienlol.info,z7ilika.info,sidek.info###player_ads
+sidek.info##jw-title-primary.jw-reset
+! chishare
+chishare.co,chishare.cc,chishare.info,chishare.net,chishare.org,chishare.com,chishare.com.br##div[class="panel_boot"]
+chishare.co,chishare.cc,chishare.info,chishare.net,chishare.org,chishare.com,chishare.com.br##div[class="botaodiferente"] > a
+chishare.co,chishare.cc,chishare.info,chishare.net,chishare.org,chishare.com,chishare.com.br##div[class="playerContent"] > a:first-child
+chishare.co,chishare.cc,chishare.info,chishare.net,chishare.org,chishare.com,chishare.com.br##nav[class="playerFooter navbar navbar-inverse navbar-fixed-bottom"]
+! tv4embed.com
+tv4embed.com##layer1
+tv4embed.com##div[id="ads-wrap"]
+tv4embed.com##div[id="ads-close"]
+tv4embed.com##iframe[style="margin-top:20px;"]
+tv4embed.com###ads-wrap
+tv4embed.com##.mask adblock ad advertisement
+tv4embed.com##.adblock ad advertisement
+tv4embed.com##iframe[src="http://tv4embed.com/AD468.html"]
+tv4embed.com##iframe[src="http://tv4embed.com/AD300.html"]
+tv4embed.com##div[style="position: absolute; left: 435px; top: 5; width: 12px; height: 12px"]
+tv4embed.com##div[style="position: absolute; top:  370px; left: 90px; height: 70px; width: 445px"]
+! ok.ru
+ok.ru##div[class="vid-card_duration-w"]
+ok.ru##div[class="vid-card_n_w"]
+ok.ru##.html5-vpl_info-panel
+ok.ru##div[class="html5-vpl_logo"]
+ok.ru##div[class="html5-vpl_title vpl-ani-top"]
+ok.ru##div[class="html5-vpl_related vpl-ani-bottom"]
+! mail.ru
+mail.ru##.slot_left
+maps.mail.ru###mm_share
+mail.ru##.article__item_share
+tv.mail.ru##.b-tvshow__like
+sport.mail.ru##.likeframes
+news.mail.ru##.promo-raketa
+mail.ru##.s-chart-shares
+mail.ru##.s-chart-shares
+mail.ru##.s-sharelist
+mail.ru##.sharelist__items
+auto.mail.ru##.sharelist_justify
+mail.ru##:not([class*="teaser__preview"]):not([class*="article-embed"]) > .twitter-tweet
+mail.ru##aside[class*="twitter"]:not([class*="teaser_incontent"])
+lady.mail.ru##div[data-module="Shares.Compact"]
+auto.mail.ru##.box__block.box__block_main
+auto.mail.ru##.b-context.b-context__r3945514
+##.icon-player-backscreen_video_mm_share_60x60
+##.icon-player-backscreen_video_gplus_share_60x60
+##.icon-player-backscreen_video_fb_share_60x60
+##.icon-player-backscreen_video_ok_share_60x60
+##.icon-player-backscreen_video_twitter_share_60x60
+##.icon-player-backscreen_video_vk_share_60x60
+my.mail.ru##.mm_right_block_footer
+my.mail.ru###holidays_main
+##.notif__marketing.notif__marketing-new-groups
+##.mfv_smsTop
+##DIV[class="mfv_smsTop"][data-clns="d676455"]
+##DIV[class="mm_right_block_content mm_right_block__sm"]
+my.mail.ru##DIV[class="mm_right_block mm_right_block_reklama"]
+my.mail.ru##DIV[class="groups-list__promo"]
+my.mail.ru##DIV[class="mf_smsTop mf_ohd"]
+my.mail.ru##DIV[class="mfv_smsTop"]
+my.mail.ru##.mm_right_block.mm_right_block_content.mm_right_block__sm
+my.mail.ru##DIV[class="mm_right_block_content.mm_right_block__sm"]
+mail.ru##.mm_right_block[data-clns="d916473"]
+my.mail.ru##h2[class="mm_right_block_title"]
+mail.ru##.mm_right_block[data-clns="d916318"]
+my.mail.ru##DIV[data-clns="d676453"]
+my.mail.ru##DIV[id="app-banners"][class="b-app-list"]
+my.mail.ru##.b-leftmenu__li-item-app.e-promo-app.new-app
+my.mail.ru##.b-leftmenu__li-item-app
+mail.ru##div[class*="toolbar"]
+! vidoza.net
+vidoza.net##div[class="btn-group btn-block"]
+vidoza.net##div[id="vplayer"] > div[id="player"] > aside[class*="vjs-topbar"]
+vidoza.net##iframe[src*="rekovers"]
+vidoza.net##div[class$="verlay"]
+vidoza.net##div[class^="pub_"]
+! flashx
+flashx.tv,flashx.co,flashx1.tv##div[class="rec_container_footer"]
+flashx.tv,flashx.co,flashx1.tv##noscript
+flashx.tv,flashx.co,flashx1.tv##img[class="jwlogo"]
+flashx.tv,flashx.co,flashx1.tv##div[class="jwdockbuttons"]
+##a[href^="http://www.flashx.tv/downloadthis"]
+flashx.tv,flashx.co,flashx1.tv##.ad
+flashx.tv,flashx.co,flashx1.tv##.ads
+flashx.tv,flashx.co,flashx1.tv###nuevoa
+flashx.tv,flashx.co,flashx1.tv###header
+flashx.tv,flashx.co,flashx1.tv###div_extra
+flashx.tv,flashx.co,flashx1.tv###extra_data
+flashx.tv,flashx.co,flashx1.tv###footer
+flashx.tv,flashx.co,flashx1.tv##.sec-title2
+flashx.tv,flashx.co,flashx1.tv##.rec_container_footer
+flashx.tv,flashx.co,flashx1.tv##div[class="rec_container_footer"]
+flashx.tv,flashx.co,flashx1.tv##div[class="vjs-watermark"]
+flashx.tv,flashx.co,flashx1.tv##img[src*="/logo/"]
+! watchers.to
+watchers.to##body > script
+watchers.to##video-content
+! freelivestream
+freelivestream.tv##img[src*="/close_button.png"]
+freelivestream.tv##img[src*="/protected.png"]
+freelivestream.tv###ad1
+freelivestream.tv###secondad
+freelivestream.tv###firstad
+freelivestream.tv###testX
+freelivestream.tv##.afs_ads
+freelivestream.tv##.jw-logo
+! p3g.tv
+p3g.tv##body > div:last-child
+p3g.tv##div[class="video_ads_overdiv"]
+p3g.tv##noscript + div
+p3g.tv##div[class="logo_overlay"]
+! mipsplayer
+mipsplayer.com##img[src*="skipad.png"]
+! 123moviesfreez.com
+123moviesfreez.com##div[class="content-ads"]
+123moviesfreez.com##img[src*="i.imgur.com/K7WmqLY.png"]
+123moviesfreez.com##img[src*="i.imgur.com/dHrcGOC.png"]
+! estream
+estream.to,estream.xyz,estream.co,estream.info,estream.site,estream.online,estream.win,estream.io,estream.top,estream.tv,estream.nu,estream.win,estream.ru,estream.me,estream.net,estream.online,estream.cc##div[class$="container-bg"] > h2
+! tudotv.tv
+tudotv.tv#?#div[class="Titulo"]:-abp-contains(Publicidade)
+tudotv.tv##a[href*="goo.gl"]
+tudotv.tv#?#div[class="Titulo"]:-abp-contains(Curiosidades) + div[class="widgetpx"]
+tudotv.tv#?#div[class="Titulo"]:-abp-contains(Curiosidades)
+tudotv.tv#?#div[class="Titulo"]:-abp-contains(Baixe) + div[class="widgetpx"]
+tudotv.tv#?#div[class="Titulo"]:-abp-contains(Baixe)
+tudotv.tv##[id*="ScriptRoot"]
+tudotv.tv##div[class^="Pub"]
+! widestream.io
+widestream.io##body > link + style + div[class]
+! g1futebolaovivo.com
+g1futebolaovivo.com,jogosaovivo.tv##ins[class="adsbygoogle"]
+g1futebolaovivo.com,jogosaovivo.tv###banner
+! sportzonline.xyz
+sportzonline.xyz##div[id="html1"]
+! whostreams.net
+whostreams.net##body > div:last-child
+! aovivonatv.com
+aovivonatv.com##a[href*="3br.tv"]
+aovivonatv.com##section[class="BBB"]
+aovivonatv.com#?#section[class="Titulo"]:-abp-contains(Publicidade)
+! vertvonline.org
+iptv.gratis,vertvonline.org##div[id="posiciona"]
+vertvonline.org,xat.com##div[class="modalDialog"]
+vertvonline.org,iptv.gratis##a[class="logoOnThePlayer"]
+! vto.gratis
+vto.gratis##div[style="height:280px; margin-bottom:280px;"]
+! futebolaovivo.in
+futebolaovivo.in##[class^="banner"][class$="xs"]
+futebolaovivo.in##[class^="novo"][class$="xs"]
+futebolaovivo.in##div[class^="col"][class$="right"] > div
+futebolaovivo.in##div[class="mspopup"]
+futebolaovivo.in##li > a[href*="tvon.html"]
+! netu
+hqq.tv##ad
+hqq.tv###ad
+hqq.tv##ad > script
+hqq.tv###imgcx2
+hqq.tv##imgcx2
+hqq.tv##.for_ad
+hqq.tv##.ad
+hqq.tv##for_ad
+hqq.tv###for_ad
+hqq.tv##script > div
+hqq.tv##script > div
+hqq.tv##div[id="ad"]
+hqq.tv##[id="for_ad"]
+netu.tv##div[id="ad"]
+netu.tv##[id="for_ad"]
+hqq.watch##ad
+hqq.watch###ad
+hqq.watch##ad > script
+hqq.watch###imgcx2
+hqq.watch##imgcx2
+hqq.watch##.for_ad
+hqq.watch##.ad
+hqq.watch##for_ad
+hqq.watch###for_ad
+hqq.watch##script > div
+hqq.watch##script > div
+hqq.watch##div[id="ad"]
+hqq.watch##[id="for_ad"]
+! streamplay.to
+streamplay.to##a[href*="/apu.php"]
+streamplay.to##a[href*="/apv.hh"]
+streamplay.to##div[id="overlay"]
+streamplay.to,streamplay.me##iframe[src*="glorinlost"]
+! playk7
+playk7.com##div[id="BLuZYC"]
+playk7.com##.topBar
+playk7.com##div[class="textwidget"]
+playk7.com##section[id="text-3"][class="widget widget_text"]
+playk7.com##img[src*="advertiz"]
+playk7.com##a[href*="ads"]
+! abcast.net
+abcast.net##protected
+abcast.net##jt1olm4Q
+abcast.net##body + div
+abcast.net,tvaovivo.co,tvaovivobr.com,tv-aovivo.nl##div[id*="floatLayer"]
+abcast.net,tvaovivo.co,tvaovivobr.com,tv-aovivo.nl##div[id="timerDiv"]
+abcast.net,tvaovivo.co,tvaovivobr.com,tv-aovivo.nl##div[class="video_ads_overdiv"]
+abcast.net,tvaovivo.co,tvaovivobr.com,tv-aovivo.nl##div[id="floatLayer"]
+abcast.net##div[class="widget-content"] > style
+abcast.net##body > span
+! abcast.me
+abcast.me,vlive.pw##div[id*="floatLayer"]
+abcast.me,vlive.pw##div[id="closediv"]
+abcast.me,vlive.pw##div[id="closebutton"]
+abcast.me##center > a[href*="streamhunter"]
+! streamlive.to
+streamlive.to##[class^="ad"]
+streamlive.to##img[src*="/close_button.png"]
+streamlive.to##img[src*="/close.gif"]
+streamlive.to##.removeOverlayHTML
+streamlive.to##body > div:last-child
+streamlive.to##div[id="ad_overlay_content"]
+streamlive.to##[id*="ScriptRoot"]
+streamlive.to##[id*="Preload"]
+streamlive.to##[style*="data"]
+streamlive.to##div[class="afs_ads"]
+! assistirtvaovivo.tv
+assistirtvaovivo.tv##div[id="ads"]
+! tvonline.plus
+tvonline.plus##[class^="pub"]
+tvonline.plus##[class^="ad"]
+tvonline.plus##[class$="_ad"]
+tvonline.plus##[class$="-ad"]
+! geroubuzz.com
+geroubuzz.com##div[id*="video-ad"]
+geroubuzz.com##img[class="jw-banner"]
+geroubuzz.com##div[class="afs_ads"]
+geroubuzz.com##img[src*="data"]
+! tvonlineaovivo.net
+tvonlineaovivo.net##img[class="jw-banner"]
+tvonlineaovivo.net##div[class="afs_ads"]
+tvonlineaovivo.net##img[src*="data"]
+tvonlineaovivo.net##div[id*="video-ad"]
+tvonlineaovivo.net##div[class^="banner_"]
+! brasilsports.tv
+brasilsports.tv##center
+! netesportiva.com
+netesportiva.com##a[class="fp-logo"]
+! ilovefilmesonline.com.br
+ilovefilmesonline.com.br##div[class="item"] > a[href*="afilio"]
+! seucinema.net
+seucinema.net##iframe[src^="about"]
+seucinema.net##div[class^="hidden"] > center
+seucinema.net##br
+seucinema.net##a[href*="advertis"]
+seucinema.net##a[href*="goo.gl"]
+! ekostream.co
+ekostream.co##div[id*="floatLayer"]
+ekostream.co##span[title*="Clique"]
+ekostream.co##img[src*="fechar"]
+! canais.ink
+canais.ink##body > div:last-child
+! tvgratis.me
+tvgratis.me##.tv10link
+tvgratis.me##[id*="floatLayer"]
+! torcidatricolor.eu
+torcidatricolor.eu##.tv10link
+torcidatricolor.eu##[id*="floatLayer"]
+! futebolaovivohd.net
+futebolaovivohd.net##.tv10link
+futebolaovivohd.net##[id*="floatLayer"]
+! vertv.me
+vertv.me##iframe[src*="banner"]
+vertv.me##div[id*="anun"]
+vertv.me###AdsDiv
+vertv.me###adsdiv
+vertv.me##[id*="floatLayer"]
+! vertvhd.org
+vertvhd.org##iframe[src*="banner"]
+vertvhd.org##div[id*="anun"]
+vertvhd.org###AdsDiv
+vertvhd.org###adsdiv
+vertvhd.org##[id*="floatLayer"]
+vertvhd.org##div[class^="jw-logo"]
+! tudotvonline.com
+tudotvonline.com#?#section[class="Titulo"]:-abp-contains(Publicidade)
+! seuseriado.com
+seuseriado.com##div[id="itfbppl_overlay"]
+seuseriado.com##div[class="entry-actions vlog-vcenter-actions"]
+! reviewsdecelular.ga
+reviewsdecelular.ga##div[class*="intro"]
+! netcine.us
+netcine.us##script[src*="oclasrv"]
+netcine.us##div[style*="z-index"]
+netcine.us##div[class*="jw-dock-button"]
+netcine.us##div[class^="jw-logo"]
+netcine.us##a[href*="loja"]
+! filmes0800.com
+filmes0800.com##.afs_ads
+! filmeseseriesonline.net
+filmeseseriesonline.net##a[onclick*="player"]
+! redecanais
+redecanais.gratis,redecanais.com,redecanais.me,redecanais.cz,redecanais.to,redecanais.io,redecanais.site,redecanais.online,redecanais.biz,redecanais.info,redecanais.tv,redecanais.ru,redecanais.cc,redecanais.co,redecanais.org##div[style*="z-index"]
+! filmesonlinex
+filmesonlinex.co,filmesonlinex.com,filmesonlinex.cc,filmesonlinex.online,filmesonlinex.site,filmesonlinex.net,filmesonlinex.top,filmesonlinex.me,filmesonlinex.org,filmesonlinex.br,filmesonlinex.vip,filmesonlinex.info,filmesonlinex.ru,filmesonlinex.tk,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis##div[style*="z-index"]
+filmesonlinex.co,filmesonlinex.com,filmesonlinex.cc,filmesonlinex.online,filmesonlinex.site,filmesonlinex.net,filmesonlinex.top,filmesonlinex.me,filmesonlinex.org,filmesonlinex.br,filmesonlinex.vip,filmesonlinex.info,filmesonlinex.ru,filmesonlinex.tk,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis##div[style*="height: 804px; width: 1440px;"]
+filmesonlinex.co,filmesonlinex.com,filmesonlinex.cc,filmesonlinex.online,filmesonlinex.site,filmesonlinex.net,filmesonlinex.top,filmesonlinex.me,filmesonlinex.org,filmesonlinex.br,filmesonlinex.vip,filmesonlinex.info,filmesonlinex.ru,filmesonlinex.tk,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis##div[id^="floatLayer"]
+filmesonlinex.co,filmesonlinex.com,filmesonlinex.cc,filmesonlinex.online,filmesonlinex.site,filmesonlinex.net,filmesonlinex.top,filmesonlinex.me,filmesonlinex.org,filmesonlinex.br,filmesonlinex.vip,filmesonlinex.info,filmesonlinex.ru,filmesonlinex.tk,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis##div[class*="Modal"]
+filmesonlinex.co,filmesonlinex.com,filmesonlinex.cc,filmesonlinex.online,filmesonlinex.site,filmesonlinex.net,filmesonlinex.top,filmesonlinex.me,filmesonlinex.org,filmesonlinex.br,filmesonlinex.vip,filmesonlinex.info,filmesonlinex.ru,filmesonlinex.tk,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis##div[id*="topbar"]
+filmesonlinex.co,filmesonlinex.com,filmesonlinex.cc,filmesonlinex.online,filmesonlinex.site,filmesonlinex.net,filmesonlinex.top,filmesonlinex.me,filmesonlinex.org,filmesonlinex.br,filmesonlinex.vip,filmesonlinex.info,filmesonlinex.ru,filmesonlinex.tk,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis##dmbar[id*="topbar"]
+filmesonlinex.co,filmesonlinex.com,filmesonlinex.cc,filmesonlinex.online,filmesonlinex.site,filmesonlinex.net,filmesonlinex.top,filmesonlinex.me,filmesonlinex.org,filmesonlinex.br,filmesonlinex.vip,filmesonlinex.info,filmesonlinex.ru,filmesonlinex.tk,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis##div[class="bloco2"] > div > a[href*="melhores"]
+! glorinlost.rocks
+glorinlost.rocks##div[style="height: 99999px; width: 99999px;"]
+! megadictos.org
+megadictos.org,desmix.org##div[class*="lambada"]
+! mgid anti adblock
+piguiqproxy.com##svg
+amgload.net##svg
+smcheck.org##svg
