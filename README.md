@@ -3,3 +3,7 @@
 adicione o link no bloqueador de anúncio
 
 https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt
+
+### Sobre
+
+EasyList Brasil é um filtro complementar ao que vem junto com os bloqueadores de anúncios, esse filtro tem como foco paginas do Brasil e serviços de hospedagem de arquivos
