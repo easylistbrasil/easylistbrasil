@@ -22,7 +22,6 @@ before_script:
 
 # https://docs.travis-ci.com/user/customizing-the-build/#Customizing-the-Build-Step
 script:
-  - export TZ=America/Noronha
  # - git clone -b filtro "https://$GITHUB_TOKEN@github.com/easylistbrasil/easylistbrasil" output
   - git clone -b filtro $DEPLOY_REPO output
   - flrender -i easylistbrasil=. easylistbrasil.template output/easylistbrasil.txt
