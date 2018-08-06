@@ -1,2 +1,2 @@
-# easylistbrasil
+## easylistbrasil
 EasyList Brasil
