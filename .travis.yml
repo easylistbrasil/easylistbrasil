@@ -1,0 +1,26 @@
+# https://docs.travis-ci.com/user/languages/python/
+language: python
+
+# https://docs.travis-ci.com/user/customizing-the-build/#Building-Specific-Branches
+branches:
+  only:
+    - master
+
+# https://docs.travis-ci.com/user/encryption-keys/
+env:
+  global:
+    - secure: "hOCsv8gAPsMNjHqcLPeGh/jsbWl46bQewjjwkavUa70lu8yRwlib1a2+6MIr7o4PSvqWhh43rYDrBO7MiUPb2BFuMlKn6AC1Fo+upFQxyrOfT8jkIszuf5q864W9teO5ojvE+9D5j2Ycm3CLM69eY6nIMe3wkIw+Os7q6FI8H7LgIxEp0a4MaKFtTC8XkTRPOrDoiZ/c6gzGP5zxgglm2k0yr2Nag0fLsz4mySEy2tspOOWrAqIUub4CspZiaJeTdZ7ohxaR9alUJudk2mGrT2iiS7n5S23YFHnDoZn0V1hVbbq7ohLyBh8vxGphw/WZ4DKbAlBRffHLzV0LDZMY+xfSyddv/3nAeTPu/9ZwBA1MEswH0b3YggC+JtS8EFcP+zmS5NFroJR0XdB4rMYUX6xywNU0oYlI4X6AjcCvsf/L5v9oD3JyS8GlSp6qYE2TPH/K8Z641hTDlNJWxbX2x8PMvEW5Yqba+Ps8woMspAFdTOvE8Rlcorg3HgNWwi+25h8lvyrW8BBoMKIXdJf+xU0qEkeMSjfTw70iLvlBDSs2wMecT+5sDwu7fbDmwKVdb0FatCDoLkvVofkMvtCMvZuGMR3GLgpkds6Zo6nFj2jpULkj0zdvTGu18TMGBTNC2PLoNthcf6MTc04pRuhWALW4ffeU5Xks29hHLfmVpJk="
+
+# https://docs.travis-ci.com/user/customizing-the-build/#The-Build-Lifecycle
+install:
+  - pip install git+https://github.com/adblockplus/python-abp
+before_script:
+  - git config --global user.email "travis@travis-ci.org"
+  - git config --global user.name "TravisCI"
+  - git config --global push.default "matching"
+
+# https://docs.travis-ci.com/user/customizing-the-build/#Customizing-the-Build-Step
+script:
+  - git clone -b filtro "https://$GITHUB_TOKEN@github.com/easylistbrasil/easylistbrasil" output
+  - flrender -i easylistbrasil=. easylistbrasil.template output/easylistbrasil.txt
+  - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
