@@ -15,25 +15,12 @@ env:
 install:
   - pip install git+https://github.com/adblockplus/python-abp
 before_script:
- # time
-def change_time(freeze_time)
-  if Time.now.strftime("%Z") == "AEDT"
-    Timecop.freeze(freeze_time - 3.hours)
-  else
-    Timecop.freeze(freeze_time)
-  end
-end
-
-def reset_time
-  Timecop.return
-end
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "TravisCI"
   - git config --global push.default "matching"
 
 # https://docs.travis-ci.com/user/customizing-the-build/#Customizing-the-Build-Step
 script:
- # - git clone -b filtro "https://$GITHUB_TOKEN@github.com/easylistbrasil/easylistbrasil" output
   - git clone -b filtro $DEPLOY_REPO output
   - flrender -i easylistbrasil=. easylistbrasil.template output/easylistbrasil.txt
   - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
