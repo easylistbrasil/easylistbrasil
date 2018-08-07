@@ -1,3 +1,9 @@
+deploy:
+  provider: script
+  script: bash organize.sh
+  on:
+    branch: master
+
 # https://docs.travis-ci.com/user/languages/python/
 language: python
 
