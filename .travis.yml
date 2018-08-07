@@ -17,8 +17,9 @@ before_script:
   - git config --global push.default "matching"
 
 # https://docs.travis-ci.com/user/customizing-the-build/#Customizing-the-Build-Step
-#script:
-script: ./make.sh 
- # - git clone -b filtro $DEPLOY_REPO output
+script:
+#script: ./make.sh 
+  - git clone -b filtro $DEPLOY_REPO output
+  ./make.sh 
 #  -  php compile.php 
- # - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
+ - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
