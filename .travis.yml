@@ -1,3 +1,11 @@
+---
+ENV TZ 'America/Sao_Paulo'
+RUN echo $TZ > /etc/timezone && \
+    apt-get -y install tzdata && \
+    rm /etc/localtime && ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && \
+    dpkg-reconfigure -f noninteractive tzdata
+---
+
 # https://docs.travis-ci.com/user/languages/python/
 language: python
 
@@ -15,8 +23,6 @@ env:
 install:
   - pip install git+https://github.com/adblockplus/python-abp
 before_script:
-  timezone:
-    name: America/Sao_Paulo
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "TravisCI"
   - git config --global push.default "matching"
