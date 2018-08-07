@@ -1,4 +1,4 @@
-### Quais sites está tendo problemas?:
+### Quais sites está tendo problemas?
 
 
 ### O que está acontecendo?
