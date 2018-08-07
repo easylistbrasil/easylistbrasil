@@ -13,7 +13,6 @@ env:
 
 # https://docs.travis-ci.com/user/customizing-the-build/#The-Build-Lifecycle
 install:
-  - pip install -r requirements.txt"
   - pip install git+https://github.com/adblockplus/python-abp
 before_script:
   - git config --global user.email "travis@travis-ci.org"
@@ -24,5 +23,4 @@ before_script:
 script:
   - git clone -b filtro $DEPLOY_REPO output
   - flrender -i easylistbrasil=. easylistbrasil.template output/easylistbrasil.txt
-  - python lines.py
   - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
