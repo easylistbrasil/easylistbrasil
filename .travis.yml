@@ -28,3 +28,5 @@ script:
   - git clone -b filtro $DEPLOY_REPO output
   - flrender -i easylistbrasil=. easylistbrasil.template output/easylistbrasil.txt
   - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
+
+
