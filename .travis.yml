@@ -18,5 +18,5 @@ before_script:
 # https://docs.travis-ci.com/user/customizing-the-build/#Customizing-the-Build-Step
 script:
   - git clone -b filtro $DEPLOY_REPO output
-    $ ./compile.php 
+    php compile.php 
   - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
