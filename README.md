@@ -1,2 +1,1 @@
-# easylistbrasil
-EasyList Brasil
+Gerando automaticamente pelo Travis CL
