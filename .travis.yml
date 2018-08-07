@@ -15,7 +15,6 @@ env:
 install:
   - pip install git+https://github.com/adblockplus/python-abp
 before_script:
-  - chmod +x organize.sh
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "TravisCI"
   - git config --global push.default "matching"
@@ -24,10 +23,5 @@ before_script:
 script:
   - git clone -b filtro $DEPLOY_REPO output
   - flrender -i easylistbrasil=. easylistbrasil.template output/easylistbrasil.txt
- deploy:
-  provider: script
-  script: bash organize.sh
-  on:
-    branch: master
-    
+  - python lines.py
   - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
