@@ -399,12 +399,12 @@ $result = $rp;
 $final = trim($result);
 
 /// Header
-header("Cache-Control: no-cache, no-store, must-revalidate"); // HTTP 1.1.
-header("Pragma: no-cache"); // HTTP 1.0.
-header("Expires: 0"); // Proxies.
-header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
-header("Connection: close");
-header('Content-Type: text/plain; charset=utf-8');
+//header("Cache-Control: no-cache, no-store, must-revalidate"); // HTTP 1.1.
+//header("Pragma: no-cache"); // HTTP 1.0.
+//header("Expires: 0"); // Proxies.
+//header("Last-Modified: " . gmdate("D, d M Y H:i:s") . " GMT");
+//header("Connection: close");
+//header('Content-Type: text/plain; charset=utf-8');
 $head = "[Adblock Plus 2.0]\n";
 $version = "! Version: $year$month$day$hour$minute\n";
 $title = "! Title: $filtername\n";
