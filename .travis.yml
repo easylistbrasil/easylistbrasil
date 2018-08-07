@@ -1,3 +1,6 @@
+dist: trusty
+sudo: required
+
 # https://docs.travis-ci.com/user/languages/python/
 language: python
 
@@ -15,26 +18,7 @@ env:
 install:
   - pip install git+https://github.com/adblockplus/python-abp
 before_script:
-  - export TZ=America/Maceio
- 
- require 'spec_helper'
-context "during the week after 11:00am for Morning Follow Up Call" do
-  before do
-    valid_prospect_params["treatment_enquiry_form"]["contact_time"] = "10:00 am"
-    freeze_time = Time.local(2015, 11, 18, 11, 01, 0)
-    change_time(freeze_time)
-    post :create_prospect, valid_prospect_params
-    reset_time
-  end
-
-  it "creates follow up activities" do
-    expect(prospect_followup_activities).to eq(3)
-  end
-
-  it "creates follow_up_call for the next day in the morning " do
-    expect(first_call.scheduled_for.to_s).to  eq("2015-11-19 10:00:00 +1100")
-  end
-end
+  - sudo timedatectl set-timezone America/Sao_Paulo
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "TravisCI"
   - git config --global push.default "matching"
