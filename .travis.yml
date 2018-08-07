@@ -15,7 +15,6 @@ env:
 install:
   - pip install git+https://github.com/adblockplus/python-abp
 before_script:
-  - TZ=America/Sao_Paulo
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "TravisCI"
   - git config --global push.default "matching"
