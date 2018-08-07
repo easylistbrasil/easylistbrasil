@@ -1,9 +1,3 @@
-deploy:
-  provider: script
-  script: bash organize.sh
-  on:
-    branch: master
-
 # https://docs.travis-ci.com/user/languages/python/
 language: python
 
@@ -30,5 +24,10 @@ before_script:
 script:
   - git clone -b filtro $DEPLOY_REPO output
   - flrender -i easylistbrasil=. easylistbrasil.template output/easylistbrasil.txt
-  - bash organize.sh
+ deploy:
+  provider: script
+  script: bash organize.sh
+  on:
+    branch: master
+    
   - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
