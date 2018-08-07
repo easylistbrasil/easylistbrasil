@@ -13,6 +13,7 @@ env:
 
 # https://docs.travis-ci.com/user/customizing-the-build/#The-Build-Lifecycle
 install:
+  - pip install -r requirements.txt"
   - pip install git+https://github.com/adblockplus/python-abp
 before_script:
   - git config --global user.email "travis@travis-ci.org"
