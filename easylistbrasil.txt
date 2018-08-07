@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808070418
+! Version: 201808070422
 ! Title: EasyList Brasil
-! Last modified: 07 Aug 2018 04:18 UTC
+! Last modified: 07 Aug 2018 04:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1549,6 +1549,13 @@ megadictos.org,desmix.org##div[class*="lambada"]
 piguiqproxy.com##svg
 amgload.net##svg
 smcheck.org##svg
+! tecmundo.com.br
+tecmundo.com.br##div[id^="ads"]
+tecmundo.com.br##div[class*="taboola"]
+tecmundo.com.br##div[class$="more"]
+tecmundo.com.br##div[class="news-list"]
+! uol.com.br
+uol.com.br##div[id^="banner"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub
 ##div[id="pb_block"]
@@ -2447,4 +2454,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 
-! Checksum: f3eufuFnChITwit/88CWdA
+! Checksum: JQaBzKvbQfjk+YNuB8Ylgw
