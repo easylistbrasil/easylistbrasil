@@ -15,7 +15,6 @@ env:
 install:
   - pip install git+https://github.com/adblockplus/python-abp
 before_script:
-- name: set timezone to America/Sao_Paulo
   timezone:
     name: America/Sao_Paulo
   - git config --global user.email "travis@travis-ci.org"
