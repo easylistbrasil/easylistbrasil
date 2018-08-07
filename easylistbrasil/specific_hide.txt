@@ -423,3 +423,10 @@ megadictos.org,desmix.org##div[class*="lambada"]
 piguiqproxy.com##svg
 amgload.net##svg
 smcheck.org##svg
+! tecmundo.com.br
+tecmundo.com.br##div[id^="ads"]
+tecmundo.com.br##div[class*="taboola"]
+tecmundo.com.br##div[class$="more"]
+tecmundo.com.br##div[class="news-list"]
+! uol.com.br
+uol.com.br##div[id^="banner"]
