@@ -1,1 +1,1 @@
-Gerando automaticamente pelo Travis CL
+Gerando automaticamente pelo Travis CI
