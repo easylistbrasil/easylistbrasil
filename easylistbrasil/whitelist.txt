@@ -389,6 +389,13 @@
 @@||*/melody.min.js
 @@||*/js/jquery.cookee.js
 @@||*/jquery.typewatch.js
+@@||*/kk-star-ratings/js.min.js
+@@||*/cloudflare-static/email-decode.min.js
+@@||*/lazy-load/js/jquery.sonar.min.js
+@@||*/lazy-load/js/lazy-load.js
+@@||*/js/ion.rangeSlider.js
+@@||*/classes/min/index.php?charset=utf-8&g=general&v=*
+@@||*.disk.ly/assets/*/spritesheet.json$xmlhttprequest
 ! media
 @@/*.m3u8
 @@/*.ts
@@ -824,7 +831,7 @@
 @@||filmesonline*/wp-content/themes/*/js/script.js
 ! redecanais
 @@||*redecanais*/*.html$popup
-! online movies
+! filmes
 @@||*filme*/episodios/script.js
 @@||*megafilmes*.*^$generichide
 @@||*mega*filmes*.*^$generichide
@@ -839,3 +846,6 @@
 @@||*cine*.*^$generichide
 @@||*filme*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com|yahoo.com|yandex.com
 @@||*serie*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com|yahoo.com|yandex.com
+! qqfilmes
+@@||*qqfilmes*/templates/*/js/white_list.js
+@@||*qqfilmes*/vid_online/$xmlhttprequest
