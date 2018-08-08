@@ -17,16 +17,9 @@ env:
 # https://docs.travis-ci.com/user/customizing-the-build/#The-Build-Lifecycle
 install:
  # - pip install -U git+https://github.com/cdown/tzupdate.git@develop
-  - pip install git+https://github.com/adblockplus/python-abp
+#  - pip install git+https://github.com/adblockplus/python-abp
+  - pip install git+https://github.com/easylistbrasil/abp
 before_script:
-from datetime import datetime
-now = datetime.now()
-print now.year
-print now.month
-print now.day
-print now.hour
-print now.minute
-print now.second
  # - date -d "-2 hours"
  # - sudo tzupdate
  # - sudo timedatectl set-timezone America/Sao_Paulo
