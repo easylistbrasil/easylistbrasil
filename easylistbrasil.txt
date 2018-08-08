@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808081348
+! Version: 201808081619
 ! Title: EasyList Brasil
-! Last modified: 08 Aug 2018 13:48 UTC
+! Last modified: 08 Aug 2018 16:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1963,6 +1963,13 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*/melody.min.js
 @@||*/js/jquery.cookee.js
 @@||*/jquery.typewatch.js
+@@||*/kk-star-ratings/js.min.js
+@@||*/cloudflare-static/email-decode.min.js
+@@||*/lazy-load/js/jquery.sonar.min.js
+@@||*/lazy-load/js/lazy-load.js
+@@||*/js/ion.rangeSlider.js
+@@||*/classes/min/index.php?charset=utf-8&g=general&v=*
+@@||*.disk.ly/assets/*/spritesheet.json$xmlhttprequest
 ! media
 @@/*.m3u8
 @@/*.ts
@@ -2398,7 +2405,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||filmesonline*/wp-content/themes/*/js/script.js
 ! redecanais
 @@||*redecanais*/*.html$popup
-! online movies
+! filmes
 @@||*filme*/episodios/script.js
 @@||*megafilmes*.*^$generichide
 @@||*mega*filmes*.*^$generichide
@@ -2413,6 +2420,9 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*cine*.*^$generichide
 @@||*filme*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com|yahoo.com|yandex.com
 @@||*serie*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com|yahoo.com|yandex.com
+! qqfilmes
+@@||*qqfilmes*/templates/*/js/white_list.js
+@@||*qqfilmes*/vid_online/$xmlhttprequest
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
@@ -2454,4 +2464,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: 7PP8U8KMKyGwupZnvjib5Q
+! Checksum: gDXxKC1KZfbuCofX8XaHvg
