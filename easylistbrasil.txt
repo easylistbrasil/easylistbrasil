@@ -313,7 +313,7 @@ img[src*="/protected.png"]
 ||tinypass.com^$third-party
 ||ads.vev.io^$third-party
 ! *** easylistbrasil:easylistbrasil/adservers_popup.txt ***
-! 
+||ads.vev.io^$popup
 ! *** easylistbrasil:easylistbrasil/adult_adservers.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/adult_adservers_popup.txt ***
@@ -2486,4 +2486,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: 8Ky+u8XueEMq2g8UTlnCxg
+! Checksum: 7O7M6nnYHCN43VBiCuhdPA
