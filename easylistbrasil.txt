@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808081619
+! Version: 201808081642
 ! Title: EasyList Brasil
-! Last modified: 08 Aug 2018 16:19 UTC
+! Last modified: 08 Aug 2018 16:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1312,6 +1312,8 @@ vidoza.net##div[id="vplayer"] > div[id="player"] > aside[class*="vjs-topbar"]
 vidoza.net##iframe[src*="rekovers"]
 vidoza.net##div[class$="verlay"]
 vidoza.net##div[class^="pub_"]
+vidoza.net##div[style*="z-index"]
+vidoza.net##div[class^="modal"]
 ! flashx
 flashx.tv,flashx.co,flashx1.tv##div[class="rec_container_footer"]
 flashx.tv,flashx.co,flashx1.tv##noscript
@@ -1355,6 +1357,10 @@ mipsplayer.com##img[src*="skipad.png"]
 123moviesfreez.com##img[src*="i.imgur.com/dHrcGOC.png"]
 ! estream
 estream.to,estream.xyz,estream.co,estream.info,estream.site,estream.online,estream.win,estream.io,estream.top,estream.tv,estream.nu,estream.win,estream.ru,estream.me,estream.net,estream.online,estream.cc##div[class$="container-bg"] > h2
+! vev.io
+vev.io,vev.co,vev.cc,vev.to,vev.tv,vev.me,vev.net,vev.com,vev.win,vev.info,vev.org,vev.ru,vev.online,vev.xyz,vev.site##div[class^="Cookie"]
+vev.io,vev.co,vev.cc,vev.to,vev.tv,vev.me,vev.net,vev.com,vev.win,vev.info,vev.org,vev.ru,vev.online,vev.xyz,vev.site##div[style*="z-index"]
+vev.io,vev.co,vev.cc,vev.to,vev.tv,vev.me,vev.net,vev.com,vev.win,vev.info,vev.org,vev.ru,vev.online,vev.xyz,vev.site##div[class^="modal"]
 ! tudotv.tv
 tudotv.tv#?#div[class="Titulo"]:-abp-contains(Publicidade)
 tudotv.tv##a[href*="goo.gl"]
@@ -1556,6 +1562,13 @@ tecmundo.com.br##div[class$="more"]
 tecmundo.com.br##div[class="news-list"]
 ! uol.com.br
 uol.com.br##div[id^="banner"]
+! julien.danjou.info
+julien.danjou.info###ck_overlay
+! qqfilmes
+qqfilmes.com,qqfilmes.org,qqfilmes.net,qqfilmes.online##ul > li:first-child
+qqfilmes.com,qqfilmes.org,qqfilmes.net,qqfilmes.online##video[src*="universal"]
+qqfilmes.com,qqfilmes.org,qqfilmes.net,qqfilmes.online##div[style*="z-index"]
+qqfilmes.com,qqfilmes.org,qqfilmes.net,qqfilmes.online##div[class^="modal"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub
 ##div[id="pb_block"]
@@ -2464,4 +2477,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: gDXxKC1KZfbuCofX8XaHvg
+! Checksum: sIZpVapi6u93KeAdB8+5aQ
