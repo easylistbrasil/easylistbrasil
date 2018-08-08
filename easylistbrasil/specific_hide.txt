@@ -443,3 +443,4 @@ qqfilmes.com,qqfilmes.org,qqfilmes.net,qqfilmes.online##ul > li:first-child
 qqfilmes.com,qqfilmes.org,qqfilmes.net,qqfilmes.online##video[src*="universal"]
 qqfilmes.com,qqfilmes.org,qqfilmes.net,qqfilmes.online##div[style*="z-index"]
 qqfilmes.com,qqfilmes.org,qqfilmes.net,qqfilmes.online##div[class^="modal"]
+qqfilmes.com,qqfilmes.org,qqfilmes.net,qqfilmes.online##div[id="buttonplay"]
