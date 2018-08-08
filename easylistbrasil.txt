@@ -314,7 +314,7 @@ img[src*="/protected.png"]
 ! *** easylistbrasil:easylistbrasil/adservers_popup.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/adult_adservers.txt ***
-
+! 
 ! *** easylistbrasil:easylistbrasil/adult_adservers_popup.txt ***
 ! 
 ! -----------------------------Anúncios de terceiros-----------------------------!
@@ -2454,4 +2454,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: Qe3lIS8DxD/IUj92xqjohQ
+! Checksum: gMNo1z5jrU8Y5jbezBPHtg
