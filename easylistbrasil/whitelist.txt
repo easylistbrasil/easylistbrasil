@@ -851,3 +851,5 @@
 @@||*qqfilmes*/vid_online/$xmlhttprequest
 @@||*qqfilmes*/templates/*/html5player/plyr.js
 @@||*qqfilmes*/templates/*/html5player/demo.js
+! gadgetsparablog.com
+@@||gadgetsparablog.com/ws/tabeladobrasileirao/script?funcao=*^$script
