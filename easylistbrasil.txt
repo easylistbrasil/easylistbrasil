@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808080312
+! Version: 201808080314
 ! Title: EasyList Brasil
-! Last modified: 08 Aug 2018 03:12 UTC
+! Last modified: 08 Aug 2018 03:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -300,7 +300,7 @@ img[src*="/protected.png"]
 ###adsdiv
 ##div[style*="z-index"]
 ! *** easylistbrasil:easylistbrasil/whitelist_general_hide.txt ***
-
+! 
 ! ---------------------------Anunciantes de terceiros---------------------------!
 ! *** easylistbrasil:easylistbrasil/adservers.txt ***
 ||cdn.advnet.xyz^$third-party
@@ -2454,4 +2454,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: 9i6H60RvodSaORN6PlMttw
+! Checksum: cJNv1jiFy3dOcMJQUYSiTw
