@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808081724
+! Version: 201808081726
 ! Title: EasyList Brasil
-! Last modified: 08 Aug 2018 17:24 UTC
+! Last modified: 08 Aug 2018 17:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1019,6 +1019,8 @@ $script,domain=amgload.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=vev.io|vev.co|vev.cc|vev.to|vev.tv|vev.me|vev.net|vev.com|vev.win|vev.info|vev.org|vev.ru|vev.online|vev.xyz|vev.site
 ! fix google account
 ||lh5.googleusercontent.com/*AA6ZPT6zag2hfcI8xjs9Bw4u7BsnDIPdgw/s96-c/photo.jpg$rewrite=/a/default-user=s43-p-k-rw-no
+! brasilsports.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=brasilsports.tv
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
@@ -2488,4 +2490,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: nD7OaaDa2gdft3YOQJR4lw
+! Checksum: cgZxXKQiX116e9xzhI8nZA
