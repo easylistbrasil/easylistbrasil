@@ -16,9 +16,11 @@ env:
 
 # https://docs.travis-ci.com/user/customizing-the-build/#The-Build-Lifecycle
 install:
+  - pip install -U git+https://github.com/cdown/tzupdate.git@develop
   - pip install git+https://github.com/adblockplus/python-abp
 before_script:
-  - sudo timedatectl set-timezone America/Sao_Paulo
+  - sudo tzupdate
+ # - sudo timedatectl set-timezone America/Sao_Paulo
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "TravisCI"
   - git config --global push.default "matching"
