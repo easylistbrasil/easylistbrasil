@@ -450,6 +450,8 @@ $script,domain=amgload.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=vev.io|vev.co|vev.cc|vev.to|vev.tv|vev.me|vev.net|vev.com|vev.win|vev.info|vev.org|vev.ru|vev.online|vev.xyz|vev.site
 ! fix google account
 ||lh5.googleusercontent.com/*AA6ZPT6zag2hfcI8xjs9Bw4u7BsnDIPdgw/s96-c/photo.jpg$rewrite=/a/default-user=s43-p-k-rw-no
+! brasilsports.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=brasilsports.tv
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
