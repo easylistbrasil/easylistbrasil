@@ -849,3 +849,5 @@
 ! qqfilmes
 @@||*qqfilmes*/templates/*/js/white_list.js
 @@||*qqfilmes*/vid_online/$xmlhttprequest
+@@||*qqfilmes*/templates/*/html5player/plyr.js
+@@||*qqfilmes*/templates/*/html5player/demo.js
