@@ -354,8 +354,6 @@ tvonlineaovivo.net##div[class="afs_ads"]
 tvonlineaovivo.net##img[src*="data"]
 tvonlineaovivo.net##div[id*="video-ad"]
 tvonlineaovivo.net##div[class^="banner_"]
-! brasilsports.tv
-brasilsports.tv##center
 ! netesportiva.com
 netesportiva.com##a[class="fp-logo"]
 ! ilovefilmesonline.com.br
