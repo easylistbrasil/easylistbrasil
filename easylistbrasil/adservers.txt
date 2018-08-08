@@ -6,3 +6,4 @@
 ||pushnews.eu^$third-party
 ||tgdaudience.com^$third-party
 ||tinypass.com^$third-party
+||ads.vev.io^$third-party
