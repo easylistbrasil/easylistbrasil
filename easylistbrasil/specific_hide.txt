@@ -457,3 +457,5 @@ viki.com##div[class="vkp-timed-comments-message"]
 viki.com##a[class="btn btn-flat btn-full-screen"]
 viki.com##div[class="vkp-vikipass-ads-label"]
 viki.com##div[class="mod mod-advertisement vp-no-ads mod-advertisement-narrow"]
+! hardware.com.br
+hardware.com.br##div[id*="-ad-"]
