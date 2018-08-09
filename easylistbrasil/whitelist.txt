@@ -872,3 +872,4 @@
 @@||js.honeybadger.io/*/honeybadger.min.js
 @@||*.viki.io/a/font_loader-*.js
 @@||*.viki.io/a/picturefill_lazysizes-*.js
+@@||*.viki.io/*/ima3.js
