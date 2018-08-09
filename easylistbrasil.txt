@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808092059
+! Version: 201808092139
 ! Title: EasyList Brasil
-! Last modified: 09 Aug 2018 20:59 UTC
+! Last modified: 09 Aug 2018 21:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1599,6 +1599,8 @@ viki.com##div[class="vkp-timed-comments-message"]
 viki.com##a[class="btn btn-flat btn-full-screen"]
 viki.com##div[class="vkp-vikipass-ads-label"]
 viki.com##div[class="mod mod-advertisement vp-no-ads mod-advertisement-narrow"]
+! hardware.com.br
+hardware.com.br##div[id*="-ad-"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub
 ##div[id="pb_block"]
@@ -2473,7 +2475,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 ! viki.com
 @@||viki.com^$generichide
 @@blob:*www.viki.com/*^$script
-@@||1.viki.io/a/cur-igitur-tu-*.js
+@@||*.viki.io/a/cur-igitur-tu-*.js
 @@||*.viki.io/a/react_apps/content_window_app_video-*.js
 @@||0.viki.io/a/*.js
 @@||*.viki.io/a/flash_detect-*.js
@@ -2490,6 +2492,8 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*.viki.io/a/font_loader-*.js
 @@||*.viki.io/a/picturefill_lazysizes-*.js
 @@||*.viki.io/*/ima3.js
+! hardware.com.br
+@@||hardware.com.br^$generichide
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
@@ -2540,4 +2544,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: TqUJs6TCjNCeWZKv/XIFaw
+! Checksum: Df05B6m0AQ8N0ja5uHWBMg
