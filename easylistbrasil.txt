@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808090604
+! Version: 201808090613
 ! Title: EasyList Brasil
-! Last modified: 09 Aug 2018 06:04 UTC
+! Last modified: 09 Aug 2018 06:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2462,6 +2462,26 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*qqfilmes*/templates/*/html5player/demo.js
 ! gadgetsparablog.com
 @@||gadgetsparablog.com/ws/tabeladobrasileirao/script?funcao=*^$script
+! viki.com
+@@||viki.com^$generichide
+@@blob:*www.viki.com/*^$script
+@@||1.viki.io/a/cur-igitur-tu-*.js
+@@||*.viki.io/a/react_apps/content_window_app_video-*.js
+@@||0.viki.io/a/*.js
+@@||*.viki.io/a/flash_detect-*.js
+@@||*.viki.io/a/react_apps/collections_app-*.js
+@@||*.viki.io/a/react_apps/review_app-*.js
+@@||*.viki.io/a/react_apps/video_list_app-*.js
+@@||*.viki.io/a/utility-*.js
+@@||*.viki.io/a/i*n/pt-*.js
+@@||*.viki.io/a/application-*.js
+@@||*.viki.io/a/react_apps/content_window_app-*.js
+@@||*.viki.io/a/react_apps/homepage_app-*.js
+@@||*.viki.io/a/react_apps/recommendations_app-*.js
+@@||js.honeybadger.io/*/honeybadger.min.js
+@@||*.viki.io/a/font_loader-*.js
+@@||*.viki.io/a/picturefill_lazysizes-*.js
+@@||*.viki.io/*/ima3.js
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
@@ -2512,4 +2532,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: hynhm7FaKrFLvRs6TbwiWQ
+! Checksum: IRPZCk5hUl2nDTOIuWpBAw
