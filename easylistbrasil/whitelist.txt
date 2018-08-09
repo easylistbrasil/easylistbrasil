@@ -856,7 +856,7 @@
 ! viki.com
 @@||viki.com^$generichide
 @@blob:*www.viki.com/*^$script
-@@||1.viki.io/a/cur-igitur-tu-*.js
+@@||*.viki.io/a/cur-igitur-tu-*.js
 @@||*.viki.io/a/react_apps/content_window_app_video-*.js
 @@||0.viki.io/a/*.js
 @@||*.viki.io/a/flash_detect-*.js
@@ -873,3 +873,5 @@
 @@||*.viki.io/a/font_loader-*.js
 @@||*.viki.io/a/picturefill_lazysizes-*.js
 @@||*.viki.io/*/ima3.js
+! hardware.com.br
+@@||hardware.com.br^$generichide
