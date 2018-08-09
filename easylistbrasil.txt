@@ -1593,6 +1593,12 @@ megafilmess.com##[id="countDown"]
 megafilmess.com##[id^="ads"][id*="banner"]
 megafilmess.com##[class*="modal"]
 megafilmess.com##[id*="anuncio"]
+! viki.com
+viki.com##div[class="row section recommended-row"]
+viki.com##div[class="vkp-timed-comments-message"]
+viki.com##a[class="btn btn-flat btn-full-screen"]
+viki.com##div[class="vkp-vikipass-ads-label"]
+viki.com##div[class="mod mod-advertisement vp-no-ads mod-advertisement-narrow"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub
 ##div[id="pb_block"]
@@ -2534,4 +2540,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: krk6Jgkjcmcp3Q/iYc2mKg
+! Checksum: aIvLmL2GYZI2CCxIstu63A
