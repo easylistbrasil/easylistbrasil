@@ -1,1 +1,10 @@
-!
+! fix popup
+@@||*filme*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*online*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*flix*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*serie*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*anime*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*anima*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*canais*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*torrent*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*sky*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
