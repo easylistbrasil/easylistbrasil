@@ -4,12 +4,18 @@
 #
 # settings
 #
+# build pushed branch - activated
+#
 # Environment Variables
 #
 # token
 # username
 # repository
 #
+#
+# Cron Jobs
+#
+# Runs daily - Always run
 #
 #  config
 #
@@ -31,9 +37,13 @@ env:
 # https://rubyinstaller.org/downloads/
 # https://rubygems.org/pages/download
 #
-# create .travis.yml
-# command to encrypt
+# travis (ms-dos):
+# 
+# gem install travis
+# cd desktop
+# echo. > .travis.yml
 # travis encrypt --add -r username/repository token=token-value
+# notepad .travis.yml
 # copy secure code
 #
     - secure: xfwdgsEqdmVW8m0s3WWXVNZwX+p8Zq0Gc61tzBE3yOZpwRRHr/9yNgACrzI9dInMiZ0i4zr99q2IowQAz1MEgPZKP74uVAZeltT7DI69Sitz3o9T9NWNvXzsHYmV2E38NETwc5rCAJUQJp5LHrB0ZRBp1KkTTdKxSie+mTGU08zm9ObiprN1LJFwLagEQPhaCS8F842PbYXTM2AOEfWwo1rBcjTNoao0Wq3FPmW1vz3HSB3yZHHOZOYQyy2D1q6soK0JoDv2dUjFwG6I5NLH+zp7QpKn2w66JMNDh8jW7MYIJNEUNT0XVeiGdzkxWETsJAXkmfT0NlWXNtu8eSkL2wVPmiKfpZfq5W1yWW6Hu8Vp19JocGFmbh8QrHmX3QUCyb4Y3wRWhFbBc2FP60iNiSyn4cCK6eMyRfR1nFnvTbzOFkcZHaDqN1wIh+KYGelJlid6NnRp5CBPJMwEcx2bHPpaGvcahg0t56/Uz+zUSZQI1EIMaaZgv3TOQLJnlaLV7mccmN/C0ByS1xaVP/t1JrzDzEwEe4mFbGa8h44CixGBzw0KgCXM+BNjtzgtfm2JNwF83U/uiMGCfZBz9x8JycvFdY1bLliaxFhP/14NBKWXs+yLHp/BD9fUKo/RVDjpY0Pfsq8NhLwySe6azAXLaJ4hJsJHOxQY1B7CA7pekq8=
