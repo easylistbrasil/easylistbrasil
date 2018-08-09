@@ -454,6 +454,8 @@ $script,domain=amgload.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=brasilsports.tv
 ! hipertela.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=hipertela.net
+! viki.com
+|http*://$script,third-party,popup,domain=viki.com
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
