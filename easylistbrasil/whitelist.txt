@@ -853,3 +853,22 @@
 @@||*qqfilmes*/templates/*/html5player/demo.js
 ! gadgetsparablog.com
 @@||gadgetsparablog.com/ws/tabeladobrasileirao/script?funcao=*^$script
+! viki.com
+@@||viki.com^$generichide
+@@blob:*www.viki.com/*^$script
+@@||1.viki.io/a/cur-igitur-tu-*.js
+@@||*.viki.io/a/react_apps/content_window_app_video-*.js
+@@||0.viki.io/a/*.js
+@@||*.viki.io/a/flash_detect-*.js
+@@||*.viki.io/a/react_apps/collections_app-*.js
+@@||*.viki.io/a/react_apps/review_app-*.js
+@@||*.viki.io/a/react_apps/video_list_app-*.js
+@@||*.viki.io/a/utility-*.js
+@@||*.viki.io/a/i*n/pt-*.js
+@@||*.viki.io/a/application-*.js
+@@||*.viki.io/a/react_apps/content_window_app-*.js
+@@||*.viki.io/a/react_apps/homepage_app-*.js
+@@||*.viki.io/a/react_apps/recommendations_app-*.js
+@@||js.honeybadger.io/*/honeybadger.min.js
+@@||*.viki.io/a/font_loader-*.js
+@@||*.viki.io/a/picturefill_lazysizes-*.js
