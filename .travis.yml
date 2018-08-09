@@ -1,3 +1,18 @@
+# travis ci
+# https://travis-ci.org/
+# token https://github.com/settings/tokens
+#
+# settings
+#
+# Environment Variables
+#
+# token
+# username
+# repository
+#
+#
+#  config
+#
 # https://docs.travis-ci.com/user/languages/python/
 language: python
 
@@ -9,9 +24,22 @@ branches:
 # https://docs.travis-ci.com/user/encryption-keys/
 env:
   global:
-    - secure: "Pn1FnXJM8rsXp8+rkhwMYWazmElqM979PWVjmJ7CxLi/Dw++R0tj1zjZfkyxPW4G26fZRd4W5pvw0BAk1ymqKbBR0TlHNi9uSMZVHNNZMGW0WG1WF2ucSpe+WZWMfgbiUXA1IqqkjGjUYsBloeMJ4u+c7H5YIA4vwDIyIoh8qTKu6ggplRlEWGuKauDDRZoXabPFwAo/YnyeQrdAbShvidvObVIUA2aYE+hfpqhgYBEd8gdpD3OMTOu3bRGP4z+c4Dp1l8lsixvGrA+ikzKBgQqWDYrpaHlnOTX8sheQAmOffzikWFn6YDNp1V1IJHyZuBcD0LPJeKVLhH3Jkt2jlhXYzSH2/LYAWE8x0oFHCl5vy3tdfc9TWdRYPEinmKpZNR3SaDveLk7/9J52ubs0vWnGSr83ABDRlcsyerBepVj5XUq8vQReRd1Io9BMuvjr/DKZ971RRGRGYz0CZzWip+ANNAUiv0MZn46rgKbtUZyIE1tMvFsGL1MTz+oy883fcdUV+xt/45KQPgy75nWmI6hLr7ZY99EFnAbNDG33D47YFz56YJ3M+vssmNhHvGpserWfaS8qpvT8v2tcSf+QPhZh1wrVL+rAG9F8x95wNe4nMJP/CC4Nx1KtRj8tGZK83dRoUeoD1GOXn7pYQP+NNffXlwGGKsNRxcirerko+T8="
+#
+# secure edit
+#
+# requirements: ruby devkit, rubygems
+# https://rubyinstaller.org/downloads/
+# https://rubygems.org/pages/download
+#
+# create .travis.yml
+# command to encrypt
+# travis encrypt --add -r username/repository token=token-value
+# copy secure code
+#
+    - secure: xfwdgsEqdmVW8m0s3WWXVNZwX+p8Zq0Gc61tzBE3yOZpwRRHr/9yNgACrzI9dInMiZ0i4zr99q2IowQAz1MEgPZKP74uVAZeltT7DI69Sitz3o9T9NWNvXzsHYmV2E38NETwc5rCAJUQJp5LHrB0ZRBp1KkTTdKxSie+mTGU08zm9ObiprN1LJFwLagEQPhaCS8F842PbYXTM2AOEfWwo1rBcjTNoao0Wq3FPmW1vz3HSB3yZHHOZOYQyy2D1q6soK0JoDv2dUjFwG6I5NLH+zp7QpKn2w66JMNDh8jW7MYIJNEUNT0XVeiGdzkxWETsJAXkmfT0NlWXNtu8eSkL2wVPmiKfpZfq5W1yWW6Hu8Vp19JocGFmbh8QrHmX3QUCyb4Y3wRWhFbBc2FP60iNiSyn4cCK6eMyRfR1nFnvTbzOFkcZHaDqN1wIh+KYGelJlid6NnRp5CBPJMwEcx2bHPpaGvcahg0t56/Uz+zUSZQI1EIMaaZgv3TOQLJnlaLV7mccmN/C0ByS1xaVP/t1JrzDzEwEe4mFbGa8h44CixGBzw0KgCXM+BNjtzgtfm2JNwF83U/uiMGCfZBz9x8JycvFdY1bLliaxFhP/14NBKWXs+yLHp/BD9fUKo/RVDjpY0Pfsq8NhLwySe6azAXLaJ4hJsJHOxQY1B7CA7pekq8=
 
 # https://docs.travis-ci.com/user/customizing-the-build/#The-Build-Lifecycle
+# timezone
 before_install:
 - export TZ=America/Sao_Paulo
 install:
@@ -23,6 +51,6 @@ before_script:
 
 # https://docs.travis-ci.com/user/customizing-the-build/#Customizing-the-Build-Step
 script:
-  - git clone -b filtro $DEPLOY_REPO output
+  - git clone -b filtro "https://$token@github.com/$username/$repository.git" output
   - flrender -i easylistbrasil=. easylistbrasil.template output/easylistbrasil.txt
   - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
