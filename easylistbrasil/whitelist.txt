@@ -399,6 +399,8 @@
 @@||*/wp-content/themes/*mega*filme*/js/script.js
 @@||*/wp-content/themes/*mega*filme*/js/SC_01APP.js
 @@||*/wp-content/themes/*mega*filme*/js/SC_JSAPP.js
+! github
+@@||github.com^$generichide
 ! media
 @@/*.m3u8
 @@/*.ts
