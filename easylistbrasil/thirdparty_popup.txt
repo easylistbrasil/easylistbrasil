@@ -1,2 +1,4 @@
 ||popads.net^$third-party
 ||afriflatry.co^$popup
+||rotumal.com^$third-party,popup
+||hqq.*/out$popup
