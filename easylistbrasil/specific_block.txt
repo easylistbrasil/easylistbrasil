@@ -458,6 +458,8 @@ $script,domain=amgload.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=cometa.top
 ! viki.com
 |http*://$script,third-party,popup,domain=viki.com
+! clipwatching.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=clipwatching.com
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
