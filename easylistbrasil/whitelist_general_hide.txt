@@ -1,1 +1,5 @@
 player.theplatform.com#@#div[style*="z-index"]
+megafilmesonline-hd.com,megafilmes.org#@#[class*="modal"]
+megafilmesonline-hd.com,megafilmes.org#@#[id*="modal"]
+megafilmesonline-hd.com,megafilmesserieshd.com,megafilmeshdplus.org#@#[class*="modal"]
+megafilmesonline-hd.com,megafilmeshd50.top#@#div[id^="ad"]
