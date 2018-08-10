@@ -1040,6 +1040,8 @@ $script,domain=amgload.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=cometa.top
 ! viki.com
 |http*://$script,third-party,popup,domain=viki.com
+! clipwatching.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=clipwatching.com
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
@@ -2627,4 +2629,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: WMLGquTXCHsAvhRk1fk5rA
+! Checksum: df4PyeKSk2qo14v9d3fG8g
