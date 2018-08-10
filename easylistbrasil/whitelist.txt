@@ -63,6 +63,7 @@
 @@||plugins.longtailvideo.com/*/timeslidertooltipplugin/timeslidertooltipplugin-*.js
 @@||jwpltx.com^$script
 @@||jwpsrv.com/library/5V3tOP97EeK2SxIxOUCPzg.js$script
+@@||jwpsrv.com/library/*.js
 @@||assets-jpcust.jwpsrv.com/player/*/*/jwplayer.html5.js^$script
 @@||p.jwpcdn.com^$media,font,object,script
 @@||p.jwpcdn.com^$script,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
@@ -396,6 +397,10 @@
 @@||*/js/ion.rangeSlider.js
 @@||*/classes/min/index.php?charset=utf-8&g=general&v=*
 @@||*.disk.ly/assets/*/spritesheet.json$xmlhttprequest
+@@||*/wp-content/*/js/frontend.js
+@@||*/wp-content/themes/*mega*filme*/js/script.js
+@@||*/wp-content/themes/*mega*filme*/js/SC_01APP.js
+@@||*/wp-content/themes/*mega*filme*/js/SC_JSAPP.js
 ! media
 @@/*.m3u8
 @@/*.ts
@@ -831,6 +836,7 @@
 @@||filmesonline*/wp-content/themes/*/js/script.js
 ! redecanais
 @@||*redecanais*/*.html$popup
+@@||*.cometa.*/RedeCanais/*/ondemand/*.mp4$popup
 ! filmes
 @@||*filme*/episodios/script.js
 @@||*megafilmes*.*^$generichide
@@ -875,3 +881,13 @@
 @@||*.viki.io/*/ima3.js
 ! hardware.com.br
 @@||hardware.com.br^$generichide
+! megafilmesonlinegratis
+@@||*/wp-content/*/js/favorites.js
+@@||*/wp-content/*/js/favorites.min.js
+@@||*/wp-content/*/js/additional-methods.js
+@@||*/wp-content/themes/*mega*filme*/js/script.js
+@@||*/wp-content/themes/*mega*filme*/js/main.min.js
+! clipwatching.com
+@@||clipwatching.com^$generichide
+@@||clipwatching.com/js/adframe.js
+@@||megafilmesonlinegratis.*/wp-content/cache/min/*.js
