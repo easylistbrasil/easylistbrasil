@@ -1,6 +1,4 @@
 ! youtube.com
-@@||static.doubleclick.net/instream/ad_status.js
-@@/pubads.$subdocument,domain=youtube.com
 @@||www.gstatic.com/youtube/doodle/yt-doodle-*-*.png
 @@||www.gstatic.com/inputtools/images/tia.png^$domain=www.youtube.com|www.google.com
 @@||www.youtube-creatorcommunity.com^$popup,domain=youtube.com
@@ -890,4 +888,7 @@
 ! clipwatching.com
 @@||clipwatching.com^$generichide
 @@||clipwatching.com/js/adframe.js
+! megafilmesonlinegratis
 @@||megafilmesonlinegratis.*/wp-content/cache/min/*.js
+! megahfilmeshd.net
+@@||megahfilmeshd.net/min/*.js
