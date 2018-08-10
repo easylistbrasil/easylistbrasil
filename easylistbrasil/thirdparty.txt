@@ -31,6 +31,14 @@
 ||smartadtags.com^$third-party
 ||adap.tv^$~object-subrequest,third-party
 ||turn.com^$third-party
+||adap.tv^$~object-subrequest,third-party
+||tidaltv.com^$third-party
+||tagbucket.cc^$third-party
+||infolinks.com^$third-party
+||srcsmrtgs.com^$third-party
+||imagetopng.club^$third-party,popup
+||unrestern.info^$third-party,popup
+||authorne.info^$third-party,popup
 ! Anti Coin Mining
 ||cnhv.co^$third-party
 ||coin-hive.com^$third-party
