@@ -253,6 +253,9 @@ g1futebolaovivo.com,jogosaovivo.tv###banner
 sportzonline.xyz##div[id="html1"]
 ! whostreams.net
 whostreams.net##body > div:last-child
+whostreams.net##div[class="bn"]
+whostreams.net##iframe[src*="ad"]
+whostreams.net##img[onclick*="remove"]
 ! aovivonatv.com
 aovivonatv.com##a[href*="3br.tv"]
 aovivonatv.com##section[class="BBB"]
@@ -408,7 +411,34 @@ netcine.us##a[href*="loja"]
 ! filmes0800.com
 filmes0800.com##.afs_ads
 ! filmeseseriesonline.net
-filmeseseriesonline.net##a[onclick*="player"]
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##a[onclick*="player"]
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##a[href*="adserver"]
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##div[class="itens"] > a:first-child
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##div[style*="z-index"]
+filmeseseriesonline.co,filmesonlineseries.co,filmeeseriesonline.co,filmeseserieonline.co,filmesonlineseries.co##a[onclick*="player"]
+filmeseseriesonline.co,filmesonlineseries.co,filmeeseriesonline.co,filmeseserieonline.co,filmesonlineseries.co##a[href*="adserver"]
+filmeseseriesonline.co,filmesonlineseries.co,filmeeseriesonline.co,filmeseserieonline.co,filmesonlineseries.co##div[class="itens"] > a:first-child
+filmeseseriesonline.co,filmesonlineseries.co,filmeeseriesonline.co,filmeseserieonline.co,filmesonlineseries.co##div[style*="z-index"]
+filmeseseriesonline.online,filmesonlineseries.online,filmeeseriesonline.online,filmeseserieonline.online,filmesonlineseries.online##a[onclick*="player"]
+filmeseseriesonline.online,filmesonlineseries.online,filmeeseriesonline.online,filmeseserieonline.online,filmesonlineseries.online##a[href*="adserver"]
+filmeseseriesonline.online,filmesonlineseries.online,filmeeseriesonline.online,filmeseserieonline.online,filmesonlineseries.online##div[class="itens"] > a:first-child
+filmeseseriesonline.online,filmesonlineseries.online,filmeeseriesonline.online,filmeseserieonline.online,filmesonlineseries.online##div[style*="z-index"]
+filmeseseriesonline.gratis,filmesonlineseries.gratic,filmeeseriesonline.gratis,filmeseserieonline.gratis,filmesonlineseries.gratis##a[onclick*="player"]
+filmeseseriesonline.gratis,filmesonlineseries.gratis,filmeeseriesonline.gratis,filmeseserieonline.gratis,filmesonlineseries.gratis##a[href*="adserver"]
+filmeseseriesonline.gratis,filmesonlineseries.gratis,filmeeseriesonline.gratis,filmeseserieonline.gratis,filmesonlineseries.gratis##div[class="itens"] > a:first-child
+filmeseseriesonline.gratis,filmesonlineseries.gratis,filmeeseriesonline.gratis,filmeseserieonline.gratis,filmesonlineseries.gratis##div[style*="z-index"]
+filmeseseriesonline.info,filmesonlineseries.info,filmeeseriesonline.info,filmeseserieonline.info,filmesonlineseries.info##a[onclick*="player"]
+filmeseseriesonline.info,filmesonlineseries.info,filmeeseriesonline.info,filmeseserieonline.info,filmesonlineseries.info##a[href*="adserver"]
+filmeseseriesonline.info,filmesonlineseries.info,filmeeseriesonline.info,filmeseserieonline.info,filmesonlineseries.info##div[class="itens"] > a:first-child
+filmeseseriesonline.info,filmesonlineseries.info,filmeeseriesonline.info,filmeseserieonline.info,filmesonlineseries.info##div[style*="z-index"]
+filmeseseriesonline.com,filmesonlineseries.com,filmeeseriesonline.com,filmeseserieonline.com,filmesonlineseries.com##a[onclick*="player"]
+filmeseseriesonline.com,filmesonlineseries.com,filmeeseriesonline.com,filmeseserieonline.com,filmesonlineseries.com##a[href*="adserver"]
+filmeseseriesonline.com,filmesonlineseries.com,filmeeseriesonline.com,filmeseserieonline.com,filmesonlineseries.com##div[class="itens"] > a:first-child
+filmeseseriesonline.com,filmesonlineseries.com,filmeeseriesonline.com,filmeseserieonline.com,filmesonlineseries.com##div[style*="z-index"]
+filmeseseriesonline.org,filmesonlineseries.org,filmeeseriesonline.org,filmeseserieonline.org,filmesonlineseries.org##a[onclick*="player"]
+filmeseseriesonline.org,filmesonlineseries.org,filmeeseriesonline.org,filmeseserieonline.org,filmesonlineseries.org##a[href*="adserver"]
+filmeseseriesonline.org,filmesonlineseries.org,filmeeseriesonline.org,filmeseserieonline.org,filmesonlineseries.org##div[class="itens"] > a:first-child
+filmeseseriesonline.org,filmesonlineseries.org,filmeeseriesonline.org,filmeseserieonline.org,filmesonlineseries.org##div[style*="z-index"]
 ! redecanais
 redecanais.gratis,redecanais.com,redecanais.me,redecanais.cz,redecanais.to,redecanais.io,redecanais.site,redecanais.online,redecanais.biz,redecanais.info,redecanais.tv,redecanais.ru,redecanais.cc,redecanais.co,redecanais.org##div[style*="z-index"]
 ! filmesonlinex
@@ -511,3 +541,8 @@ megafilmesahd.com##video[src*="mp4"]
 megafilmesahd.com##li:first-child
 megafilmesahd.com##div[onclick*="travar"]
 megafilmes.tv##ul > li:first-child
+! filmesonline.online
+filmesonline.online##div[class="full-story"] > center
+filmesonline.online##div[class="full-poster"] > center
+! servico de straming
+vidlox.tv,rapidvideo.com,openload.co,oload.tv,openload.tv,thevid.net,widestream.io,estream.to,streamguard.cc,uptostream.com,streamango.com,vidoza.net,vidito.me,vidzi.tv,p3g.tv,pxstream.tv,ekostreams.co,onplay.tv,whostreams.net##div[style*="z-index"]
