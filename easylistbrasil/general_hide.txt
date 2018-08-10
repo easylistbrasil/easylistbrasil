@@ -136,3 +136,4 @@ img[src*="/protected.png"]
 ###AdsDiv
 ###adsdiv
 ##div[style*="z-index"]
+##a[href*="adserver"]
