@@ -885,10 +885,9 @@
 @@||*/wp-content/*/js/additional-methods.js
 @@||*/wp-content/themes/*mega*filme*/js/script.js
 @@||*/wp-content/themes/*mega*filme*/js/main.min.js
+@@||megafilmesonlinegratis.*/wp-content/cache/min/*.js
 ! clipwatching.com
 @@||clipwatching.com^$generichide
 @@||clipwatching.com/js/adframe.js
-! megafilmesonlinegratis
-@@||megafilmesonlinegratis.*/wp-content/cache/min/*.js
 ! megahfilmeshd.net
 @@||megahfilmeshd.net/min/*.js
