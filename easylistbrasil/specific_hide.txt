@@ -510,3 +510,4 @@ megafilmesahd.com,megafilmesonline-hd.com,megafilmeshdplus.org,megafilmesseriesh
 megafilmesahd.com##video[src*="mp4"]
 megafilmesahd.com##li:first-child
 megafilmesahd.com##div[onclick*="travar"]
+megafilmes.tv##ul > li:first-child
