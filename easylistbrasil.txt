@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808100554
+! Version: 201808100555
 ! Title: EasyList Brasil
-! Last modified: 10 Aug 2018 05:54 UTC
+! Last modified: 10 Aug 2018 05:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -358,6 +358,14 @@ megafilmesonline-hd.com,megafilmeshd50.top#@#div[id^="ad"]
 ||smartadtags.com^$third-party
 ||adap.tv^$~object-subrequest,third-party
 ||turn.com^$third-party
+||adap.tv^$~object-subrequest,third-party
+||tidaltv.com^$third-party
+||tagbucket.cc^$third-party
+||infolinks.com^$third-party
+||srcsmrtgs.com^$third-party
+||imagetopng.club^$third-party,popup
+||unrestern.info^$third-party,popup
+||authorne.info^$third-party,popup
 ! Anti Coin Mining
 ||cnhv.co^$third-party
 ||coin-hive.com^$third-party
@@ -2600,4 +2608,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: b7NdZMUo2BOFshJzTCD4MQ
+! Checksum: RToxXcqH3mF2l/EvBDmeLw
