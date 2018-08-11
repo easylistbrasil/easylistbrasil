@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808110338
+! Version: 201808110343
 ! Title: EasyList Brasil
-! Last modified: 11 Aug 2018 03:38 UTC
+! Last modified: 11 Aug 2018 03:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1807,6 +1807,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 ! Api
 @@||fonts.gstatic.com^$font
 @@||fonts.googleapis.com^$font
+@@||fonts.googleapis.com^$stylesheet
 @@||ajax.googleapis.com/ajax/libs/angularjs/*/angular.min.js
 @@||ajax.googleapis.com/ajax/libs/angular_material/*/angular-material.min.js
 @@||ajax.googleapis.com/ajax/libs/dojo/*/dojo/dojo.js
@@ -2196,6 +2197,8 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*/wp-content/themes/*mega*filme*/js/SC_01APP.js
 @@||*/wp-content/themes/*mega*filme*/js/SC_JSAPP.js
 @@||*filme*/classes/min/index.php?charset=utf-8*^$script
+@@||*/wp-content/cache/autoptimize/autoptimize_*.php$script
+@@||*.p.jwpcdn.com/player/$script
 ! github
 @@||github.com^$generichide
 ! media
@@ -2224,6 +2227,8 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*oload*^$generichide
 @@/popunder2.js$domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
 @@/popunder2.js$domain=openload.co|openload.com|openload.info|openload.org|openload.biz|openload.us|openload.net|openload.top|openload.me|openload.to|openload.vip|openload.ru|openload.site|openload.online|openload.download|openload.tv|oload.co|oload.com|oload.info|oload.org|oload.biz|oload.us|oload.us|olaod.net|oload.top|oload.me|oload.to|oload.vip|oload.ru|oload.site|oload.online|oload.download|oload.tv|openload.io|oload.io|openload.win
+@@||openload.co/assets/js/jquery.jtruncate.pack.js
+@@||openload.co/assets/js/jquery-select-list.js
 @@||openload.*/assets/js/script.2*.js
 @@||oload.*/assets/js/script.2*.js
 @@||openload.*/embed/*/undefined^$script
@@ -2690,6 +2695,33 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||clipwatching.com/js/adframe.js
 ! megahfilmeshd.net
 @@||megahfilmeshd.net/min/*.js
+! kkfilmesonline
+@@||kkfilmesonline*/js/responsiveslides.min.js
+@@||kkfilmesonline*/categorias/*/*/index.html$popup
+! cineaticos.com
+@@||cineaticos.com/video/js/js.js
+! thenightseries.net
+@@||thenightseries.net^$generichide
+! filmesonlinehd
+@@||filmesonlinehd*.cc/static/scripts.js
+! superflix.net
+@@||superflix.net/*/assets/jwplayer/jwplayer.js
+@@||superflix.net/*/assets/js/jquery.min.js
+@@||superflix.net/wp-content/uploads/fvm/out/footer-*-*.min.js
+@@||superflix.net/wp-content/uploads/fvm/out/header-*-*.min.js
+! assistirfilmesonline
+@@||assistirfilmesonline*/wp-content/themes/*/app.js
+@@||assistirfilmesonline*/wp-content/themes/*/js/SC_01APP.js
+@@||assistirfilmesonline*/wp-content/themes/*/js/SC_JSAPP.js
+@@||assistirfilmesonline*/wp-content/themes/*/js/script.js
+! temseries - temfilmes - temanimes
+@@||temseries.net$popup,domain=temfilmes.net
+@@||temfilmes.net$popup,domain=temseries.net
+@@||temanimes.net$popup,domain=temseries.net
+@@||temseries.net$popup,domain=temanimes.net
+@@||temanimes.net$popup,domain=temfilmes.net
+@@||temfilmes.net$popup,domain=temanimes.net
+@@||openload.co/f/*$popup,domain=temfilmes.net|temseries.net|temanimes.net
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
@@ -2740,4 +2772,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: dqG6iBY42Nm8TEg9PQ5IDg
+! Checksum: btrHELrssEUXvpbbiuuGKA
