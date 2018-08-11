@@ -120,7 +120,7 @@
 ! monwalk
 |http*://$script,third-party,xmlhttprequest,popup,domain=streamguard.cc
 ! micetop
-$script,domain=micetop.us|micetop.co|micetop.org|micetop.net|micetop.com|micetop.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=micetop.us|micetop.co|micetop.org|micetop.net|micetop.com|micetop.tv
 ! cinepremiere.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=cinepremiere.net
 ||i.imgur.com/4Io0o1p.png^$domain=cinepremiere.net
@@ -462,6 +462,29 @@ $script,domain=amgload.net
 |http*://$script,third-party,popup,domain=viki.com
 ! clipwatching.com
 |http*://$script,third-party,xmlhttprequest,popup,domain=clipwatching.com
+! livrefilmeshd.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=livrefilmeshd.net
+! mmfilmes.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=mmfilmes.tv
+! maybeup.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=maybeup.net
+! kkfilmesonline.com.br
+|http*://$script,third-party,xmlhttprequest,popup,domain=kkfilmesonline.com.br
+! thenightfilmes.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=thenightfilmes.net
+! thenightseries.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=thenightseries.net
+! cineaticos.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=cineaticos.com
+||ulala.us$script,third-party,popup,xmlhttprequest,websocket
+! superflix.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=superflix.net
+! mefilmeshd.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=mefilmeshd.com
+! filmesonlinegratis.co
+|http*://$script,third-party,xmlhttprequest,popup,domain=filmesonlinegratis.co
+! temfilmes.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=temfilmes.net|temanimes.net|temseries.net
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
