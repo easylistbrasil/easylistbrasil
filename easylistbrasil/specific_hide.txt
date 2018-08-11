@@ -563,9 +563,12 @@ cineaticos.com##dmbar[id="dm_topbar"]
 thenightseries.net##div[class="itens"] > a:first-child
 thenightseries.net##div[class="afs_ads"]
 thenightseries.net##div[style*="z-index"]
+thenightseries.net##div[class="container"] > center
 ! thenightfilmes.net
 thenightfilmes.net##div[class="afs_ads"]
 thenightfilmes.net##div[style*="z-index"]
+thenightfilmes.net##div[class="container"] > center
+thenightfilmes.net##div[class="publicidade-rodape"]
 ! filmesonlinehd7.cc
 filmesonlinehd7.cc##div[style*="z-index"]
 ! superflix.net
