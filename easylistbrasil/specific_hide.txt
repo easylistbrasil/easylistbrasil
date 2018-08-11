@@ -546,3 +546,40 @@ filmesonline.online##div[class="full-story"] > center
 filmesonline.online##div[class="full-poster"] > center
 ! servico de straming
 vidlox.tv,rapidvideo.com,openload.co,oload.tv,openload.tv,thevid.net,widestream.io,estream.to,streamguard.cc,uptostream.com,streamango.com,vidoza.net,vidito.me,vidzi.tv,p3g.tv,pxstream.tv,ekostreams.co,onplay.tv,whostreams.net##div[style*="z-index"]
+! filmesonlinegratis.com
+filmesonlinegratis.com##div[class^="ads-"]
+! livrefilmeshd.net
+livrefilmeshd.net##a[href*="porn"]
+livrefilmeshd.net##div[class="afs_ads"]
+! mmfilmes.tv
+mmfilmes.tv##div[class="afs_ads"]
+! kkfilmesonline.com.br
+kkfilmesonline.com.br##a[href*="zip"]
+! cineaticos.com
+cineaticos.com##div[id="divads"]
+cineaticos.com##div[id="ads2"]
+cineaticos.com##dmbar[id="dm_topbar"]
+! thenightseries.net
+thenightseries.net##div[class="itens"] > a:first-child
+thenightseries.net##div[class="afs_ads"]
+thenightseries.net##div[style*="z-index"]
+! thenightfilmes.net
+thenightfilmes.net##div[class="afs_ads"]
+thenightfilmes.net##div[style*="z-index"]
+! filmesonlinehd7.cc
+filmesonlinehd7.cc##div[style*="z-index"]
+! superflix.net
+superflix.net##div[class="afs_ads"]
+superflix.net##div[style*="z-index"]
+! filmesonlinegratis.co
+filmesonlinegratis.co##div[style*="z-index"]
+filmesonlinegratis.co##div[class="afs_ads"]
+filmesonlinegratis.co##div[class^="ads-"]
+filmesonlinegratis.co##li[id="count"]
+filmesonlinegratis.co##[id="countDown"]
+filmesonlinegratis.co##[id*="anuncio"]
+filmesonlinegratis.co##div[id="playerads"]
+filmesonlinegratis.co##[id*="floatLayer"]
+! rakan.biz
+rakan.biz##div[style*="z-index"]
+rakan.biz##div[class="afs_ads"]
