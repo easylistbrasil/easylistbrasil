@@ -308,6 +308,7 @@ megafilmesonline-hd.com,megafilmes.org#@#[id*="modal"]
 megafilmesonline-hd.com,megafilmesserieshd.com,megafilmeshdplus.org#@#[class*="modal"]
 megafilmesonline-hd.com,megafilmeshd50.top#@#div[id^="ad"]
 megafilmes.co#@#div[class*="pop"]
+temfilmes.net,temanimes.net,temseries.net#@#[id*="tela"]
 ! ---------------------------Anunciantes de terceiros---------------------------!
 ! *** easylistbrasil:easylistbrasil/adservers.txt ***
 ||cdn.advnet.xyz^$third-party
@@ -2772,4 +2773,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: btrHELrssEUXvpbbiuuGKA
+! Checksum: 9WPXf7Uy2TYZu0cFUzcTDQ
