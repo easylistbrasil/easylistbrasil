@@ -225,6 +225,9 @@ p3g.tv##noscript + div
 p3g.tv##div[class="logo_overlay"]
 ! mipsplayer
 mipsplayer.com##img[src*="skipad.png"]
+! unitplay.net
+unitplay.net##div[class="afs_ads"]
+unitplay.net##div[style*="z-index"]
 ! 123moviesfreez.com
 123moviesfreez.com##div[class="content-ads"]
 123moviesfreez.com##img[src*="i.imgur.com/K7WmqLY.png"]
@@ -586,3 +589,15 @@ filmesonlinegratis.co##[id*="floatLayer"]
 ! rakan.biz
 rakan.biz##div[style*="z-index"]
 rakan.biz##div[class="afs_ads"]
+! xilften.net
+xilften.net##a[onclick*="player"]
+xilften.net##a[href*="adserver"]
+xilften.net##div[style*="z-index"]
+xilften.net##dmbar[id*="topbar"]
+xilften.net##div[id^="ad-"]
+xilften.net##a[href*="engine."]
+xilften.net##div[class="content"] > center
+xilften.net##.module_single_ads
+xilften.net##div[class="afs_ads"]
+xilften.net##script[src*="engine."]
+xilften.net##iframe[src*="get."]
