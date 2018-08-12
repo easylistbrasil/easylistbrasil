@@ -491,6 +491,8 @@ $script,domain=amgload.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=xilften.net
 engine.$domain=xilften.net
 get.$domain=xilften.net
+! tugarflix
+|http*://$script,third-party,xmlhttprequest,popup,domain=tugaflix.com|tugaflix.date
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
