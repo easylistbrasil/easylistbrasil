@@ -489,6 +489,8 @@ $script,domain=amgload.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=temfilmes.net|temanimes.net|temseries.net
 ! xilften.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=xilften.net
+engine.$domain=xilften.net
+get.$domain=xilften.net
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
