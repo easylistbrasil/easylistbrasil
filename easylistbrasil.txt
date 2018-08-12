@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808120436
+! Version: 201808120437
 ! Title: EasyList Brasil
-! Last modified: 12 Aug 2018 04:36 UTC
+! Last modified: 12 Aug 2018 04:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1077,6 +1077,8 @@ $script,domain=amgload.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=temfilmes.net|temanimes.net|temseries.net
 ! xilften.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=xilften.net
+engine.$domain=xilften.net
+get.$domain=xilften.net
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
@@ -2799,4 +2801,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: Bl5GRWhZWVXo13pPaWgyhw
+! Checksum: TLsf2yr/Nff9sy2GQEHJPQ
