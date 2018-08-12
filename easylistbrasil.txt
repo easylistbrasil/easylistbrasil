@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808120431
+! Version: 201808120434
 ! Title: EasyList Brasil
-! Last modified: 12 Aug 2018 04:31 UTC
+! Last modified: 12 Aug 2018 04:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1427,6 +1427,9 @@ p3g.tv##noscript + div
 p3g.tv##div[class="logo_overlay"]
 ! mipsplayer
 mipsplayer.com##img[src*="skipad.png"]
+! unitplay.net
+unitplay.net##div[class="afs_ads"]
+unitplay.net##div[style*="z-index"]
 ! 123moviesfreez.com
 123moviesfreez.com##div[class="content-ads"]
 123moviesfreez.com##img[src*="i.imgur.com/K7WmqLY.png"]
@@ -1788,6 +1791,18 @@ filmesonlinegratis.co##[id*="floatLayer"]
 ! rakan.biz
 rakan.biz##div[style*="z-index"]
 rakan.biz##div[class="afs_ads"]
+! xilften.net
+xilften.net##a[onclick*="player"]
+xilften.net##a[href*="adserver"]
+xilften.net##div[style*="z-index"]
+xilften.net##dmbar[id*="topbar"]
+xilften.net##div[id^="ad-"]
+xilften.net##a[href*="engine."]
+xilften.net##div[class="content"] > center
+xilften.net##.module_single_ads
+xilften.net##div[class="afs_ads"]
+xilften.net##script[src*="engine."]
+xilften.net##iframe[src*="get."]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub
 ##div[id="pb_block"]
@@ -2782,4 +2797,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: 2YocYbicF5OM906xQLS+tQ
+! Checksum: uMQ9W7+W7d84nO57rrVQcA
