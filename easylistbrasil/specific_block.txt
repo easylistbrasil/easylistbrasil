@@ -145,6 +145,8 @@
 ! rapidvideo.com
 |http*://$script,third-party,xmlhttprequest,popup,domain=www.rapidvideo.com
 ||www.rapidvideo.com/css/layout.css
+! unitplay.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=unitplay.net
 ! youwatch
 ||youwatch.org/js/jquery.cookie.js^$script
 ||*/embed-*-_-*.html^$script
@@ -485,6 +487,8 @@ $script,domain=amgload.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=filmesonlinegratis.co
 ! temfilmes.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=temfilmes.net|temanimes.net|temseries.net
+! xilften.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=xilften.net
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
