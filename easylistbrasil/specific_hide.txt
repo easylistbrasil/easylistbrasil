@@ -601,3 +601,10 @@ xilften.net##.module_single_ads
 xilften.net##div[class="afs_ads"]
 xilften.net##script[src*="engine."]
 xilften.net##iframe[src*="get."]
+! tugarflix
+tugaflix.com,tugaflix.date##a[onclick*="player"]
+tugaflix.com,tugaflix.date##a[href*="adserver"]
+tugaflix.com,tugaflix.date##dmbar[id*="topbar"]
+tugaflix.com,tugaflix.date##div[id^="ad-"]
+tugaflix.com,tugaflix.date##div[class="afs_ads"]
+tugaflix.com,tugaflix.date##div[style^="background-"][style$="000000;"]
