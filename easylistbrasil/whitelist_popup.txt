@@ -8,3 +8,6 @@
 @@||*canais*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
 @@||*torrent*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
 @@||*sky*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+! imdb
+@@||imdb.com/video/imdb/$popup
+@@||imdb.com/videoplayer/$popup
