@@ -702,6 +702,8 @@
 @@||flashx*/js/popad.js
 @@||*.info/popunder.gif^$domain=flashx.co|flashx1.tv|flashx.tv
 @@||*.com/popunder.gif^$domain=flashx.co|flashx1.tv|flashx.tv
+! unitplay.net
+@@||unitplay.net^$generichide
 ! watchvideo.us
 @@||watchvideo.us/player*/jwplayer.js
 @@||watchvideo.us/player*/jwplayer.flash.swf
