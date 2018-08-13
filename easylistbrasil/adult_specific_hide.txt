@@ -1,11 +1,11 @@
 ! redtube, pornhub
 ##div[id="pb_block"]
 ##div[id="pb_block"] > div[id="pb_top_bar"]
-redtube.com,redtube.com.br,pornhub.com##a[href*="doublepimpssl"]
-redtube.com,redtube.com.br,pornhub.com##iframe[src*="phncdn"]
-redtube.com,redtube.com.br,pornhub.com##a[class^="removeAdLink"]
-redtube.com,redtube.com.br,pornhub.com##div[id="ab_banner"]
-redtube.com,redtube.com.br,pornhub.com##p[class*="subtxt"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com##a[href*="doublepimpssl"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com##iframe[src*="phncdn"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com##a[class^="removeAdLink"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com##div[id="ab_banner"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com##p[class*="subtxt"]
 redtube.com,redtube.com.br##div[id="content_container"] > div:last-child
 ! sexyhotplay.com.br
 sexyhotplay.com.br##div[class="banner-full"]
