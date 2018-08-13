@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808130408
+! Version: 201808130410
 ! Title: EasyList Brasil
-! Last modified: 13 Aug 2018 04:08 UTC
+! Last modified: 13 Aug 2018 04:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1884,11 +1884,11 @@ sosfilmes.com##div[style*="z-index"]
 ! redtube, pornhub
 ##div[id="pb_block"]
 ##div[id="pb_block"] > div[id="pb_top_bar"]
-redtube.com,redtube.com.br,pornhub.com##a[href*="doublepimpssl"]
-redtube.com,redtube.com.br,pornhub.com##iframe[src*="phncdn"]
-redtube.com,redtube.com.br,pornhub.com##a[class^="removeAdLink"]
-redtube.com,redtube.com.br,pornhub.com##div[id="ab_banner"]
-redtube.com,redtube.com.br,pornhub.com##p[class*="subtxt"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com##a[href*="doublepimpssl"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com##iframe[src*="phncdn"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com##a[class^="removeAdLink"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com##div[id="ab_banner"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com##p[class*="subtxt"]
 redtube.com,redtube.com.br##div[id="content_container"] > div:last-child
 ! sexyhotplay.com.br
 sexyhotplay.com.br##div[class="banner-full"]
@@ -2949,4 +2949,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: ptvQIcLvdtMDXbWarjCnBw
+! Checksum: cMi4iwHDyFpQ9Zu68FDvKA
