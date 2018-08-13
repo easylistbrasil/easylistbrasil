@@ -493,6 +493,18 @@ engine.$domain=xilften.net
 get.$domain=xilften.net
 ! tugarflix
 |http*://$script,third-party,xmlhttprequest,popup,domain=tugaflix.com|tugaflix.date
+! comandofilmes.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=comandofilmes.tv
+! comandotorrents.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=comandotorrents.com
+! legendei.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=legendei.com
+! weekseries.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=weekseries.net|week-series.com
+! filmesonlineuhd.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=filmesonlineuhd.com
+! filmesonlineplay.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=filmesonlineplay.com
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
