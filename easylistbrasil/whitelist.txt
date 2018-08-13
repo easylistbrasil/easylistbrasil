@@ -403,6 +403,53 @@
 @@||*filme*/classes/min/index.php?charset=utf-8*^$script
 @@||*/wp-content/cache/autoptimize/autoptimize_*.php$script
 @@||*.p.jwpcdn.com/player/$script
+@@||*/VideoJS/video.min.js
+@@||*/VideoJS/videojs.hotkeys.min.js
+@@||*/VideoJS/videojs-ie8.min.js
+@@||*/VideoJS/resolution-switcher.js
+@@||*/VideoJS/videojs-contrib-hls.min.js
+@@||*/VideoJS/dash.all.debug.js
+@@||*/VideoJS/videojs-dash.js
+@@||*/VideoJS/videojs-playlist.min.js
+@@||*/angular/angular.min.js
+@@||*/angular-animate/angular-animate.min.js
+@@||*/angular-aria/angular-aria.min.js
+@@||*/angular-messages/angular-messages.min.js
+@@||*/angular-material/angular-material.min.js
+@@||*/angular-resource/angular-resource.min.js
+@@||*/angular-sanitize/angular-sanitize.min.js
+@@||*/angular-translate/angular-translate.min.js
+@@||*/angular-translate-loader-partial/angular-translate-loader-partial.min.js
+@@||*/mobile-detect/mobile-detect.min.js
+@@||*/perfect-scrollbar/perfect-scrollbar.min.js
+@@||*/angular-ui-router/angular-ui-router.min.js
+@@||*/core/core.module.js
+@@||*/core/directives/ms-scroll/ms-scroll.directive.js
+@@||*/core/core.config.js
+@@||*/angular-base64-master/angular-base64.min.js
+@@||*/movie.controller.js
+@@||*/movie.module.js
+@@||*/BottomSheet.controller.js
+@@||*/fuse-theming.config.js
+@@||*/fuse-themes.constant.js
+@@||*/fuse-palettes.constant.js
+@@||*/ms-utils.service.js
+@@||*/player.service.js
+@@||*/jwplayer.service.js
+@@||*/videojs.service.js
+@@||*/iframe.service.js
+@@||*/js/lazyload-*.min.js
+@@||*/VideoJS/videojs-logo.min.js
+@@||*/moment/moment.min.js
+@@||*/angular-cookies/angular-cookies.min.js
+@@||*/main/movie/movie-select.html
+@@||*/jwplayer-*/jwplayer.core.controls.html5.js
+@@||*/ms-splash-screen/ms-splash-screen.directive.js
+@@||*/tvshow-episode.module.js
+@@||*/tvshow-episode.controller.js
+@@||*/tvshow/toolbar2.html
+@@||*/jwplayer-*/provider.cast.js
+@@||*/main/BottomSheet.html
 ! github
 @@||github.com^$generichide
 ! media
@@ -928,3 +975,12 @@
 @@||temanimes.net$popup,domain=temfilmes.net
 @@||temfilmes.net$popup,domain=temanimes.net
 @@||openload.co/f/*$popup,domain=temfilmes.net|temseries.net|temanimes.net
+! comandofilmes.tv
+@@||comandofilmes.tv^$generichide
+! comandotorrents.com
+@@||comandotorrents.com^$generichide
+! legendei.com
+@@||legendei.com^$generichide
+! filmesonlineplay.com
+@@||demo.filmesonlineplay.com/init-stream$xmlhttprequest
+@@||demo.filmesonlineplay.com/report-stream$xmlhttprequest
