@@ -653,3 +653,10 @@ filmesonlineplay.com##[id="countDown"]
 filmesonlineplay.com##div[id="playerads"]
 filmesonlineplay.com,filmesonlineuhd.com##div[class^="jw-logo"]
 filmesonlineplay.com#?#li[id^="menu-item-"]:-abp-contains(Online)
+! sosfilmes.com
+sosfilmes.com##div[id="playerads"]
+sosfilmes.com##li[id="count"]
+sosfilmes.com##div[class="ajudaclick"]
+sosfilmes.com##div[class="slowSpeed"]
+sosfilmes.com##div[class*="Modal"]
+sosfilmes.com##div[style*="z-index"]
