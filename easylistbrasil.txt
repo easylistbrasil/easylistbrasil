@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808130348
+! Version: 201808130408
 ! Title: EasyList Brasil
-! Last modified: 13 Aug 2018 03:48 UTC
+! Last modified: 13 Aug 2018 04:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1214,7 +1214,7 @@ $popup,domain=ydujmccmydwu.bid
 ! *** easylistbrasil:easylistbrasil/adult_specific_block.txt ***
 
 ! *** easylistbrasil:easylistbrasil/adult_specific_block_popup.txt ***
-$popup,domain=redtube.com|redtube.com.br|pornhub.com
+$popup,domain=redtube.com|redtube.com.br|pornhub.com|youporn.com
 $popup,domain=sexyhotplay.com.br
 ! ------------------------Regras de ocultação de elemento específico------------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
@@ -2949,4 +2949,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: W3y+LbW7dA2NOsxskJw5wQ
+! Checksum: ptvQIcLvdtMDXbWarjCnBw
