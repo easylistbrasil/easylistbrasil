@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808130254
+! Version: 201808130255
 ! Title: EasyList Brasil
-! Last modified: 13 Aug 2018 02:54 UTC
+! Last modified: 13 Aug 2018 02:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -310,6 +310,7 @@ megafilmesonline-hd.com,megafilmeshd50.top#@#div[id^="ad"]
 megafilmes.co#@#div[class*="pop"]
 temfilmes.net,temanimes.net,temseries.net#@#[id*="tela"]
 tugaflix.com,tugaflix.date#@#div[style*="z-index"]
+filmesonlineplay.com#@#div[style*="z-index"]
 ! ---------------------------Anunciantes de terceiros---------------------------!
 ! *** easylistbrasil:easylistbrasil/adservers.txt ***
 ||cdn.advnet.xyz^$third-party
@@ -2941,4 +2942,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: Iav7VKdf5WZO7EPHJnSgNw
+! Checksum: Rb8ORyja3EkYRyH7Gg7+lg
