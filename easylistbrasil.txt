@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808121824
+! Version: 201808130230
 ! Title: EasyList Brasil
-! Last modified: 12 Aug 2018 18:24 UTC
+! Last modified: 13 Aug 2018 02:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1082,6 +1082,18 @@ engine.$domain=xilften.net
 get.$domain=xilften.net
 ! tugarflix
 |http*://$script,third-party,xmlhttprequest,popup,domain=tugaflix.com|tugaflix.date
+! comandofilmes.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=comandofilmes.tv
+! comandotorrents.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=comandotorrents.com
+! legendei.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=legendei.com
+! weekseries.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=weekseries.net|week-series.com
+! filmesonlineuhd.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=filmesonlineuhd.com
+! filmesonlineplay.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=filmesonlineplay.com
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
@@ -2814,4 +2826,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: DnIeJ5dRxQQBEonUTOWPOA
+! Checksum: z+MVw4Slr2Zua2PfXieM2g
