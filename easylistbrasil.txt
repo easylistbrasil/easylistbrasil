@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808130413
+! Version: 201808130520
 ! Title: EasyList Brasil
-! Last modified: 13 Aug 2018 04:13 UTC
+! Last modified: 13 Aug 2018 05:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2913,7 +2913,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||goo.gl/fAuSYT$popup,domain=comandotorrents.com|comandofilmes.tv
 ! *** easylistbrasil:easylistbrasil/adult_whitelist.txt ***
-! redtube, pornhub
+! redtube, pornhub, youporn
 @@||ht.redtube.com/js/ht.js?site_id=2
 @@||cdn1d-static-shared.phncdn.com/iframe-*.html#zone_id=*&site_id=*&channel*
 @@||ads.trafficjunky.net/ads?zone_id=11531&site_id=16&refresh_times=2&channel%5Bsite%5D=redtube
@@ -2941,6 +2941,11 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||www.afgr3.com/en/us/banner/url/zone?zid=*^$script,domain=redtube.com|redtube.com.br|pornhub.com|youporn.com
 @@||www.afgr3.com/en/us/banner/url/zone?zid=*^$subdocument,domain=redtube.com|redtube.com.br|pornhub.com|youporn.com
 @@||google-analytics.com/analytics.js^$script,domain=redtube.com|redtube.com.br|pornhub.com|youporn.com
+@@||phncdn.com^$script,xmlhttprequest,domain=youporn.com
+@@||ypncdn.com^$stylesheet,script,xmlhttprequest,domain=youporn.com
+@@||cdn.engine.phn.doublepimp.com/Scripts/infinity.js.aspx?guid=*^$script
+@@||cdn.engine.phn.doublepimp.com/img/phn.logo.png
+@@||youporn.com^$script,xmlhttprequest
 ! sexyhotplay.com.br
 @@||static.sexyhotplay.com.br/libs/javascripts/js/jquery.cookie.js
 @@||facebook.com^$domain=sexyhotplay.com.br
@@ -2953,4 +2958,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: TMa8P045o2LVrBytNYNg+A
+! Checksum: QYH7yBd3Q9nPhcawQc/4Tw
