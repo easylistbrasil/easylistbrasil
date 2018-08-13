@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808130247
+! Version: 201808130254
 ! Title: EasyList Brasil
-! Last modified: 13 Aug 2018 02:47 UTC
+! Last modified: 13 Aug 2018 02:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2887,9 +2887,23 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*canais*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
 @@||*torrent*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
 @@||*sky*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*legend*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*aovivo*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*fute*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*tv*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+@@||*ani*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
 ! imdb
 @@||imdb.com/video/imdb/$popup
 @@||imdb.com/videoplayer/$popup
+! outros
+@@||baixaki.com.br/download/*.htm$popup,domain=comandofilmes.tv
+@@||baixaki.com.br/download/*.htm$popup,domain=comandotorrents.com
+@@||legendei.com/$popup,domain=comandofilmes.tv
+@@||legendei.com/$popup,domain=comandotorrents.com
+@@||mega.nz$popup,domain=comandotorrents.com|comandofilmes.tv
+@@||i.imgur.com/xSIkNpm.png$image,popup
+@@||i.imgur.com/XFFTBtB.png$image,popup
+@@||goo.gl/fAuSYT$popup,domain=comandotorrents.com|comandofilmes.tv
 ! *** easylistbrasil:easylistbrasil/adult_whitelist.txt ***
 ! redtube, pornhub
 @@||ht.redtube.com/js/ht.js?site_id=2
@@ -2927,4 +2941,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: 9m6zjgJW0c6hMRzkqcLXaQ
+! Checksum: Iav7VKdf5WZO7EPHJnSgNw
