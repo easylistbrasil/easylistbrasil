@@ -608,3 +608,48 @@ tugaflix.com,tugaflix.date##dmbar[id*="topbar"]
 tugaflix.com,tugaflix.date##div[id^="ad-"]
 tugaflix.com,tugaflix.date##div[class="afs_ads"]
 tugaflix.com,tugaflix.date##div[style^="background-"][style$="000000;"]
+! comandofilmes.tv
+comandofilmes.tv##div[class="afs_ads"]
+comandofilmes.tv##div[id*="floatLayer"]
+comandofilmes.tv##div[style*="z-index"]
+! comandotorrents.com
+comandotorrents.com##div[class="afs_ads"]
+comandotorrents.com##div[id*="floatLayer"]
+comandotorrents.com##div[style*="z-index"]
+comandotorrents.com##a[href*="baa2e174884c9c0460e.com"]
+! legendei.com
+legendei.com##div[class="afs_ads"]
+legendei.com##div[id*="floatLayer"]
+legendei.com##div[style*="z-index"]
+! weekseries.net
+weekseries.net,week-series.com##div[class="afs_ads"]
+weekseries.net,week-series.com##div[id*="floatLayer"]
+weekseries.net,week-series.com##div[style*="z-index"]
+weekseries.net,week-series.com##[id*="ScriptRoot"]
+weekseries.net,week-series.com#?#div[class^="col-"] > p:-abp-contains(Assistir)
+weekseries.net,week-series.com##.adsbox
+! filmesonlineuhd.com
+filmesonlineuhd.com##dmbar[id="dm_topbar"]
+filmesonlineuhd.com##div[class="afs_ads"]
+filmesonlineuhd.com##[id*="ScriptRoot"]
+filmesonlineuhd.com##li[id="count"]
+filmesonlineuhd.com##[id="countDown"]
+filmesonlineuhd.com##[id*="anuncio"]
+filmesonlineuhd.com##div[id="playerads"]
+filmesonlineuhd.com##div[style*="z-index"]
+filmesonlineuhd.com##div[class^="ads-"]
+filmesonlineuhd.com##div[id*="floatLayer"]
+filmesonlineuhd.com##a[href*="megafilmeshd.org"]
+filmesonlineuhd.com#?#li[id^="menu-item-"]:-abp-contains(Porno)
+filmesonlineuhd.com#?#li[id^="menu-item-"]:-abp-contains(Dublado)
+filmesonlineuhd.com#?#li[id^="menu-item-"]:-abp-contains(online)
+! filmesonlineplay.com
+filmesonlineplay.com##div[class="afs_ads"]
+filmesonlineplay.com##div[id*="floatLayer"]
+filmesonlineplay.com##[id*="ScriptRoot"]
+filmesonlineplay.com##.adsbox
+filmesonlineplay.com##li[id="count"]
+filmesonlineplay.com##[id="countDown"]
+filmesonlineplay.com##div[id="playerads"]
+filmesonlineplay.com,filmesonlineuhd.com##div[class^="jw-logo"]
+filmesonlineplay.com#?#li[id^="menu-item-"]:-abp-contains(Online)
