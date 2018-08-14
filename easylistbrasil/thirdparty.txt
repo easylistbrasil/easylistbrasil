@@ -39,6 +39,7 @@
 ||imagetopng.club^$third-party,popup
 ||unrestern.info^$third-party,popup
 ||authorne.info^$third-party,popup
+||sendpulse.com^$third-party,domain=seriesonlinex.org
 ! Anti Coin Mining
 ||cnhv.co^$third-party
 ||coin-hive.com^$third-party
