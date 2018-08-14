@@ -984,3 +984,5 @@
 ! filmesonlineplay.com
 @@||demo.filmesonlineplay.com/init-stream$xmlhttprequest
 @@||demo.filmesonlineplay.com/report-stream$xmlhttprequest
+! popfilmeshd.net
+@@||api.popfilmeshd.net/init-stream$xmlhttprequest
