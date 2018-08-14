@@ -98,9 +98,8 @@
 ! streamcherry.com
 |http*://$script,third-party,xmlhttprequest,popup,domain=streamcherry.com
 ! vidzi
-|http*://$script,third-party,xmlhttprequest,popup,domain=vidzi.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=vidzi.nu|vidzi.online|vidzi.si|vidzi.tv
 ||vidzi.tv/300e.html
-||vidzi.tv^$script
 ||*/path/ads/ads.js$domain=vidzi.tv
 ||vidzi.tv^$script,domain=putload.tv|estream.to|assistirfilmesonline.club|megafilmestop.org|filmeseseriesonline.net|pirataplay.com|player.xplayer.top|watchvideo.us|assistirfilmeshd.org|openlink.biz|www.ultracine.com.br
 ! vidoza.net
@@ -505,6 +504,10 @@ get.$domain=xilften.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=filmesonlineuhd.com
 ! filmesonlineplay.com
 |http*://$script,third-party,xmlhttprequest,popup,domain=filmesonlineplay.com
+! baixarfilmestorrent.me
+|http*://$script,third-party,xmlhttprequest,popup,domain=baixarfilmestorrent.me
+! verfilmes.biz
+|http*://$script,third-party,xmlhttprequest,popup,domain=verfilmes.biz
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
