@@ -16,7 +16,6 @@
 /js/pop-under.js
 *pub*/ads.js
 /js/pop.js
-/js/jquery.cookie.js
 /play72/popout.js
 /?zoneid
 .php?zoneid=
