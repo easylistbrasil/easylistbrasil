@@ -9,3 +9,4 @@
 ||ads.vev.io^$third-party
 ||pagead*.googlesyndication.com^$third-party
 ||disqusads.com^$third-party
+||spider.ad^$third-party
