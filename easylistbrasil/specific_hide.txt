@@ -660,3 +660,15 @@ sosfilmes.com##div[class="ajudaclick"]
 sosfilmes.com##div[class="slowSpeed"]
 sosfilmes.com##div[class*="Modal"]
 sosfilmes.com##div[style*="z-index"]
+! popfilmeshd.net
+popfilmeshd.net##div[class="afs_ads"]
+popfilmeshd.net##div[id*="floatLayer"]
+popfilmeshd.net##[id*="ScriptRoot"]
+popfilmeshd.net##.adsbox
+popfilmeshd.net##li[id="count"]
+popfilmeshd.net##[id="countDown"]
+popfilmeshd.net##div[id="playerads"]
+popfilmeshd.net##div[class^="jw-logo"]
+popfilmeshd.net#?#p > span:-abp-contains(OFF,)
+popfilmeshd.net##div[id="oscuridad"]
+popfilmeshd.net##div[itemprop="description"] > strong
