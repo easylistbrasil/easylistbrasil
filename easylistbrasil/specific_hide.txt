@@ -457,6 +457,7 @@ tecmundo.com.br##div[id^="ads"]
 tecmundo.com.br##div[class*="taboola"]
 tecmundo.com.br##div[class$="more"]
 tecmundo.com.br##div[class="news-list"]
+tecmundo.com.br##div[class="trc_rbox_container"]
 ! uol.com.br
 uol.com.br##div[id^="banner"]
 ! julien.danjou.info
