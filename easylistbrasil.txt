@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808140432
+! Version: 201808140436
 ! Title: EasyList Brasil
-! Last modified: 14 Aug 2018 04:32 UTC
+! Last modified: 14 Aug 2018 04:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -695,9 +695,8 @@ adblockplus.org#@#a[href*="adserver"]
 ! streamcherry.com
 |http*://$script,third-party,xmlhttprequest,popup,domain=streamcherry.com
 ! vidzi
-|http*://$script,third-party,xmlhttprequest,popup,domain=vidzi.tv
+|http*://$script,third-party,xmlhttprequest,popup,domain=vidzi.nu|vidzi.online|vidzi.si|vidzi.tv
 ||vidzi.tv/300e.html
-||vidzi.tv^$script
 ||*/path/ads/ads.js$domain=vidzi.tv
 ||vidzi.tv^$script,domain=putload.tv|estream.to|assistirfilmesonline.club|megafilmestop.org|filmeseseriesonline.net|pirataplay.com|player.xplayer.top|watchvideo.us|assistirfilmeshd.org|openlink.biz|www.ultracine.com.br
 ! vidoza.net
@@ -1102,6 +1101,10 @@ get.$domain=xilften.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=filmesonlineuhd.com
 ! filmesonlineplay.com
 |http*://$script,third-party,xmlhttprequest,popup,domain=filmesonlineplay.com
+! baixarfilmestorrent.me
+|http*://$script,third-party,xmlhttprequest,popup,domain=baixarfilmestorrent.me
+! verfilmes.biz
+|http*://$script,third-party,xmlhttprequest,popup,domain=verfilmes.biz
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
@@ -2986,4 +2989,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: rK3PtSMUeJY4hpoFGlX+jw
+! Checksum: vd+mobYozNZs+0CeAfEZ5g
