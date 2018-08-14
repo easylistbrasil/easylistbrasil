@@ -377,6 +377,7 @@ adblockplus.org#@#a[href*="adserver"]
 ||imagetopng.club^$third-party,popup
 ||unrestern.info^$third-party,popup
 ||authorne.info^$third-party,popup
+||sendpulse.com^$third-party,domain=seriesonlinex.org
 ! Anti Coin Mining
 ||cnhv.co^$third-party
 ||coin-hive.com^$third-party
@@ -2981,4 +2982,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: bdmaFJglZn5gNgWLCoYiwQ
+! Checksum: EWfvLFzartTP+IKBPIUkYw
