@@ -672,3 +672,8 @@ popfilmeshd.net##div[class^="jw-logo"]
 popfilmeshd.net#?#p > span:-abp-contains(OFF,)
 popfilmeshd.net##div[id="oscuridad"]
 popfilmeshd.net##div[itemprop="description"] > strong
+! seriesonlinex.org
+seriesonlinex.org##div[id="darkBack"]
+seriesonlinex.org##div[id="popUp"]
+seriesonlinex.org##div[style*="z-index"]
+seriesonlinex.org##script[src*=".aspx?"]
