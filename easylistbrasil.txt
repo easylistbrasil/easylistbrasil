@@ -2897,6 +2897,8 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 ! filmesonlineplay.com
 @@||demo.filmesonlineplay.com/init-stream$xmlhttprequest
 @@||demo.filmesonlineplay.com/report-stream$xmlhttprequest
+! popfilmeshd.net
+@@||api.popfilmeshd.net/init-stream$xmlhttprequest
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
@@ -2973,4 +2975,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: 8xBzuWNaUnohYcKoXd/94Q
+! Checksum: Tk1IW6b9zMEKbm9Bn2NBIg
