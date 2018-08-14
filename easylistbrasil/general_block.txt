@@ -40,7 +40,7 @@
 /banner.gif?
 /adservice.$domain=~adservice.io
 /ads.htm
-! Anit Coin Mining
+! Anti Coin Mining
 /nimxxnew.min.js
 -coin-hive.js
 -crypto-miner/*
