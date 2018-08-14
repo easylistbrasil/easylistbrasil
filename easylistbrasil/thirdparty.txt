@@ -42,6 +42,9 @@
 ||sendpulse.com^$third-party,domain=seriesonlinex.org
 ||hcyqwhquqjosn.com^$third-party
 ||ipehunxxyir.com^$third-party
+||clevernt.com^$third-party
+||mellowads.com^$third-party
+||areyouahuman.com^$third-party
 ! Anti Coin Mining
 ||cnhv.co^$third-party
 ||coin-hive.com^$third-party
