@@ -7,3 +7,6 @@ megafilmes.co#@#div[class*="pop"]
 temfilmes.net,temanimes.net,temseries.net#@#[id*="tela"]
 tugaflix.com,tugaflix.date#@#div[style*="z-index"]
 filmesonlineplay.com#@#div[style*="z-index"]
+! fix adblockplus.org/en/subscriptions
+adblockplus.org#@#a[href*="ads."]
+adblockplus.org#@#a[href*="adserver"]
