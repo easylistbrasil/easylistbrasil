@@ -10,3 +10,6 @@ filmesonlineplay.com#@#div[style*="z-index"]
 ! fix adblockplus.org/en/subscriptions
 adblockplus.org#@#a[href*="ads."]
 adblockplus.org#@#a[href*="adserver"]
+concrete.com.br#@#div[style*="z-index"]
+tecmundo.com.br#@#div[style*="z-index"]
+tecmundo.com.br##div[class="trc_rbox_container"]
