@@ -46,18 +46,10 @@ openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,ope
 ##iframe[src="https://openload.co/corsframe.html"]
 openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##div[id="adbdetect"] > script
 ! vidzi.tv
-vidzi.tv##a
-vidzi.tv##body > div + div:last-child
-vidzi.tv##.adsbox
-vidzi.tvl##div[class="large-zi-center"]
-###custom-vidzi_backscreen2
-##custom-vidzi_backscreen2
-###vidzi_backscreen2
-##vidzi_backscreen2
-##div[class="custom-vidzi_backscreen2 vidzi_backscreen2"]
-vidzi.tv##.large-ad-center-close
-vidzi.tv##.large-ad-center
-vidzi.tv##.custom-vidzi_backscreen
+vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##div[class="large-zi-center"]
+vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##div[class^="custom-"][class$="backscreen2"]
+vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##.adsbox
+vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##div[style*="z-index"]
 ! vid.ag
 vid.ag##div[id="playbutton"]
 vid.ag##div[class="delete"]
@@ -677,3 +669,13 @@ seriesonlinex.org##div[id="darkBack"]
 seriesonlinex.org##div[id="popUp"]
 seriesonlinex.org##div[style*="z-index"]
 seriesonlinex.org##script[src*=".aspx?"]
+! seriesonlinex.co
+seriesonlinex.com##div[align^="banner"]
+seriesonlinex.com##div[style*="z-index"]
+! verfilmes.biz
+verfilmes.biz##div[id*="publicidade"]
+verfilmes.biz##div[style*="z-index"]
+verfilmes.biz##div[class="ads-in-player"]
+! baixarfilmestorrent.me
+baixarfilmestorrent.me##div[class^="code-"][class$="block-2"]
+baixarfilmestorrent.me##iframe[src*="coinpot"]
