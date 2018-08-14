@@ -571,7 +571,11 @@
 ! ok.ru
 @@||*.mycdn.me/res/js/*.js$domain=ok.ru
 ! vidzi.tv
-@@||static.vidzi.tv/nplayer/jwplayer.js
+@@||static.vidzi.*/nplayer/jwplayer.js
+@@||static.vidzi.*/jwplayer-*/related.js
+@@||static.vidzi.*/jwplayer-*/provider.hlsjs.js
+@@||static.vidzi.*/jwplayer-*/vast.js
+@@||static.vidzi.*/jwplayer-*/jwplayer.core.controls.js
 ! vidoza.net
 @@||vidoza.net/js/videojs.5.min.js
 @@||vidoza.net/js/videojs.stm.5.min.js
