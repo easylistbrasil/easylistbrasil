@@ -112,7 +112,6 @@
 ##closingtimer
 ##adsdiv
 ##.closeMyAd
-##.FooterAds
 ##.footerAds
 ##[id*="adnl_zone"]
 ##a[href*="adstract"]
