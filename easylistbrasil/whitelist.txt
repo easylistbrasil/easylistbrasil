@@ -990,3 +990,5 @@
 @@||demo.filmesonlineplay.com/report-stream$xmlhttprequest
 ! popfilmeshd.net
 @@||api.popfilmeshd.net/init-stream$xmlhttprequest
+! theoplayer.com
+@@||theoplayer.com/*/THEOplayer.js
