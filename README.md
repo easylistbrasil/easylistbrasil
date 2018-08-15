@@ -1,3 +1,5 @@
+![GitHub repo size in bytes](https://img.shields.io/github/repo-size/easylistbrasil/easylistbrasil.svg)
+
 ### EasyList Brasil
 
 adicione o link no bloqueador de anúncio
