@@ -29,3 +29,4 @@
 @@||i.imgur.com/xSIkNpm.png$image,popup
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||goo.gl/fAuSYT$popup,domain=comandotorrents.com|comandofilmes.tv
+@@||canais.gratis/*.html$popup
