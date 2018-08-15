@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808150458
+! Version: 201808150500
 ! Title: EasyList Brasil
-! Last modified: 15 Aug 2018 04:58 UTC
+! Last modified: 15 Aug 2018 05:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1919,14 +1919,15 @@ darthfilmes.com.br##div[class^="jw-logo"]
 darthfilmes.com.br##div[style*="z-index"]
 darthfilmes.com.br##.module_single_ads
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
-! redtube, pornhub
+! redtube, pornhub, youporn, tube8
 ##div[id="pb_block"]
 ##div[id="pb_block"] > div[id="pb_top_bar"]
-redtube.com,redtube.com.br,pornhub.com,youporn.com##a[href*="doublepimpssl"]
-redtube.com,redtube.com.br,pornhub.com,youporn.com##iframe[src*="phncdn"]
-redtube.com,redtube.com.br,pornhub.com,youporn.com##a[class^="removeAdLink"]
-redtube.com,redtube.com.br,pornhub.com,youporn.com##div[id="ab_banner"]
-redtube.com,redtube.com.br,pornhub.com,youporn.com##p[class*="subtxt"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com,tube8.com##a[href*="doublepimpssl"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com,tube8.com##iframe[src*="phncdn"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com,tube8.com##a[class^="removeAdLink"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com,tube8.com##div[id="ab_banner"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com,tube8.com##p[class*="subtxt"]
+tube8.com##div[class="rightColBanner"]
 redtube.com,redtube.com.br##div[id="content_container"] > div:last-child
 ! sexyhotplay.com.br
 sexyhotplay.com.br##div[class="banner-full"]
@@ -3014,4 +3015,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: KhiZx16As5u8bYIf04RQAg
+! Checksum: suCcnQsTJCncLE6oShkX/g
