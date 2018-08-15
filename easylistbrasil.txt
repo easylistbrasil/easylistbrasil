@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808150115
+! Version: 201808150121
 ! Title: EasyList Brasil
-! Last modified: 15 Aug 2018 01:15 UTC
+! Last modified: 15 Aug 2018 01:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1236,7 +1236,6 @@ youtube.com##div[class="ytp-title ytp-title-extra-info"]
 youtube.com##div[class="video-ads"]
 youtube.com##div[class="videoAdUiSkipContainer html5-stop-propagation"]
 youtube.com##div[class="annotation-shape annotation-popup-shape annotation-type-text"]
-! youtube.com##div[class="ytp-chrome-top-buttons"]
 youtube.com##div[class="ytp-button ytp-share-button"]
 youtube.com##div[class="ytp-ad-persistent-progress-bar-container"]
 youtube.com##div[class="ytp-ad-persistent-progress-bar"]
@@ -1249,9 +1248,6 @@ youtube.com##div[class="videoAdUiProgressBar"]
 youtube.com##div[class="pyv-afc-ads-container"]
 youtube.com##div[class="pyv-afc-ads-inner pyv-search-server-side"]
 youtube.com##div[id="watch7-sidebar-ads"]
-! youtube.com##button[class="ytp-button ytp-cards-button"]
-! youtube.com##div[class="ytp-cards-teaser-box"]
-! youtube.com##div[class="ytp-cards-teaser-text"]
 youtube.com##div[id="feed-pyv-container"]
 youtube.com##div[id="footer-ads"]
 youtube.com##div[id="hats-container"]
@@ -1263,6 +1259,8 @@ youtube.com##div[class="ad-div mastad"]
 youtube.com##div[id="ad_creative_1"]
 www.youtube.com##.ytp-buttonytp-share-button
 www.youtube.com##.pyv-afc-ads-innerpyv-search-server-side
+youtube.com###player-ads
+youtube.com##.ad-title
 ! openload.co
 openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##div[class="BetterJsPopOverlay"]
 openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##div[id*="ScriptRoot"]
@@ -1663,6 +1661,7 @@ filmeseseriesonline.org,filmesonlineseries.org,filmeeseriesonline.org,filmeseser
 filmeseseriesonline.org,filmesonlineseries.org,filmeeseriesonline.org,filmeseserieonline.org,filmesonlineseries.org##div[style*="z-index"]
 ! redecanais
 redecanais.gratis,redecanais.com,redecanais.me,redecanais.cz,redecanais.to,redecanais.io,redecanais.site,redecanais.online,redecanais.biz,redecanais.info,redecanais.tv,redecanais.ru,redecanais.cc,redecanais.co,redecanais.org##div[style*="z-index"]
+canais.gratis##div[style*="z-index"]
 ! filmesonlinex
 filmesonlinex.co,filmesonlinex.com,filmesonlinex.cc,filmesonlinex.online,filmesonlinex.site,filmesonlinex.net,filmesonlinex.top,filmesonlinex.me,filmesonlinex.org,filmesonlinex.br,filmesonlinex.vip,filmesonlinex.info,filmesonlinex.ru,filmesonlinex.tk,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis##div[style*="z-index"]
 filmesonlinex.co,filmesonlinex.com,filmesonlinex.cc,filmesonlinex.online,filmesonlinex.site,filmesonlinex.net,filmesonlinex.top,filmesonlinex.me,filmesonlinex.org,filmesonlinex.br,filmesonlinex.vip,filmesonlinex.info,filmesonlinex.ru,filmesonlinex.tk,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis##div[style*="height: 804px; width: 1440px;"]
@@ -1907,6 +1906,17 @@ verfilmes.biz##div[class="ads-in-player"]
 ! baixarfilmestorrent.me
 baixarfilmestorrent.me##div[class^="code-"][class$="block-2"]
 baixarfilmestorrent.me##iframe[src*="coinpot"]
+! darthfilmes.com.br
+darthfilmes.com.br##div[class="afs_ads"]
+darthfilmes.com.br##div[id*="floatLayer"]
+darthfilmes.com.br##[id*="ScriptRoot"]
+darthfilmes.com.br##.adsbox
+darthfilmes.com.br##li[id="count"]
+darthfilmes.com.br##[id="countDown"]
+darthfilmes.com.br##div[id="playerads"]
+darthfilmes.com.br##div[class^="jw-logo"]
+darthfilmes.com.br##div[style*="z-index"]
+darthfilmes.com.br##.module_single_ads
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub
 ##div[id="pb_block"]
@@ -2995,4 +3005,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: /FLOF/uyMpGb0l3AM8/vfA
+! Checksum: 2f7CW+0mQ5Cm+2WY0ZNYyA
