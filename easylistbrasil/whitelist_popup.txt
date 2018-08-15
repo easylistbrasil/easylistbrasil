@@ -13,6 +13,10 @@
 @@||*fute*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
 @@||*tv*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
 @@||*ani*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com
+! liberar rede social dos sites de streaming bloqueados
+@@||facebook.com^$popup
+@@||twitter.com^$popup
+@@||instagram.com^$popup
 ! imdb
 @@||imdb.com/video/imdb/$popup
 @@||imdb.com/videoplayer/$popup
