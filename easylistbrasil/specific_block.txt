@@ -4,30 +4,20 @@
 ||youtube.com/ptracking?
 ||youtube.com/player_204?
 ||youtube-nocookie.com/gen_204?
+||youtube.com/get_midroll_
 ||googleads.g.doubleclick.net/pagead/ads?^$script,image,media,xmlhttprequest,domain=youtube.com
 ||googleads.g.doubleclick.net/pagead/ads?^$script,image,media,xmlhttprequest,domain=youtube.com
 ||pagead2.googlesyndication.com/pagead/show_ads.js^$script,domain=youtube.com
-|google.com/uds/api/ads^$script
+||google.com/uds/api/ads^$script
 ||s.youtube.com^
 ||*/show_companion_ad.js$domain=youtube.com
 ||a.b.googletag.companionAds?$domain=youtube.com
 ||s.ytimg.com/yts/jsbin/www-en_US-vflKnfUzv/ypc_bootstrap.js$domain=youtube.com
 ||youtube.com/api/stats/ads?*
 ||^*/new_watch_background.jpg?$domain=youtube.com
-||ytimg.com^*/new_watch_background_*.jpg?$domain=youtube.com
-||ytimg.com^*_banner$domain=youtube.com
-||Ytimg.com^*/swfbin/*AD1
-||Ytimg.com^*/swfbin/*AD2
-||Ytimg.com^*/swfbin/*AD3
-||Ytimg.com^*/swfbin/*AD4
-||Ytimg.com^*/swfbin/*AD5
-||Ytimg.com^*/swfbin/*AD6
-||Ytimg.com^*/swfbin/*AD7
-||Ytimg.com^*/swfbin/*AD8
-||ytmnd.com/ugh
-||yts.ag/images/vpnanim.gif
-||yudu.com^*_intro_ads
 ||premiumyva.appspot.com^$domain=youtube.com
+/pagead/$domain=youtube.com
+-pagead-id.$domain=youtube.com
 /vmclicksq^$domain=youtube.com
 ||youtube.com/get_endscreen?
 ! openload.co
@@ -445,6 +435,8 @@ $script,domain=amgload.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=vstreaming.net
 ! redecanais
 ||*redecanais*^$script,xmlhttprequest,popup
+|http*://$script,third-party,xmlhttprequest,popup,domain=canais.gratis
+|http*://$script,third-party,xmlhttprequest,popup,domain=cometa.top
 ! maisfilmes.online
 |http*://$script,third-party,xmlhttprequest,popup,domain=maisfilmes.online
 ! uptostream.com
@@ -457,8 +449,6 @@ $script,domain=amgload.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=brasilsports.tv
 ! hipertela.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=hipertela.net
-! redecanais - cometa.top
-|http*://$script,third-party,xmlhttprequest,popup,domain=cometa.top
 ! viki.com
 |http*://$script,third-party,popup,domain=viki.com
 ! clipwatching.com
@@ -508,6 +498,8 @@ get.$domain=xilften.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=baixarfilmestorrent.me
 ! verfilmes.biz
 |http*://$script,third-party,xmlhttprequest,popup,domain=verfilmes.biz
+! darthfilmes.com.br
+|http*://$script,third-party,xmlhttprequest,popup,domain=darthfilmes.com.br
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
