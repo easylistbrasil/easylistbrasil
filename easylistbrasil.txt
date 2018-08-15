@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808150121
+! Version: 201808150122
 ! Title: EasyList Brasil
-! Last modified: 15 Aug 2018 01:21 UTC
+! Last modified: 15 Aug 2018 01:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -313,6 +313,7 @@ tugaflix.com,tugaflix.date#@#div[style*="z-index"]
 filmesonlineplay.com#@#div[style*="z-index"]
 concrete.com.br#@#div[style*="z-index"]
 tecmundo.com.br#@#div[style*="z-index"]
+canais.ink#@#body > div:last-child
 ! fix adblockplus.org/en/subscriptions
 adblockplus.org#@#a[href*="ads."]
 adblockplus.org#@#a[href*="adserver"]
@@ -3005,4 +3006,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! 
-! Checksum: 2f7CW+0mQ5Cm+2WY0ZNYyA
+! Checksum: HJiGfgOiLO4I+26GDYD8xw
