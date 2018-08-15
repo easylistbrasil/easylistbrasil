@@ -1,11 +1,12 @@
-! redtube, pornhub
+! redtube, pornhub, youporn, tube8
 ##div[id="pb_block"]
 ##div[id="pb_block"] > div[id="pb_top_bar"]
-redtube.com,redtube.com.br,pornhub.com,youporn.com##a[href*="doublepimpssl"]
-redtube.com,redtube.com.br,pornhub.com,youporn.com##iframe[src*="phncdn"]
-redtube.com,redtube.com.br,pornhub.com,youporn.com##a[class^="removeAdLink"]
-redtube.com,redtube.com.br,pornhub.com,youporn.com##div[id="ab_banner"]
-redtube.com,redtube.com.br,pornhub.com,youporn.com##p[class*="subtxt"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com,tube8.com##a[href*="doublepimpssl"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com,tube8.com##iframe[src*="phncdn"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com,tube8.com##a[class^="removeAdLink"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com,tube8.com##div[id="ab_banner"]
+redtube.com,redtube.com.br,pornhub.com,youporn.com,tube8.com##p[class*="subtxt"]
+tube8.com##div[class="rightColBanner"]
 redtube.com,redtube.com.br##div[id="content_container"] > div:last-child
 ! sexyhotplay.com.br
 sexyhotplay.com.br##div[class="banner-full"]
