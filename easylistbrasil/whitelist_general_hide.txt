@@ -9,6 +9,7 @@ tugaflix.com,tugaflix.date#@#div[style*="z-index"]
 filmesonlineplay.com#@#div[style*="z-index"]
 concrete.com.br#@#div[style*="z-index"]
 tecmundo.com.br#@#div[style*="z-index"]
+canais.ink#@#body > div:last-child
 ! fix adblockplus.org/en/subscriptions
 adblockplus.org#@#a[href*="ads."]
 adblockplus.org#@#a[href*="adserver"]
