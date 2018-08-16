@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808160313
+! Version: 201808160318
 ! Title: EasyList Brasil
-! Last modified: 16 Aug 2018 03:13 UTC
+! Last modified: 16 Aug 2018 03:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1640,10 +1640,10 @@ netcine.us##a[href*="loja"]
 ! filmes0800.com
 filmes0800.com##.afs_ads
 ! filmeseseriesonline.net
-filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##a[onclick*="player"]
-filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##a[href*="adserver"]
-filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##div[class="itens"] > a:first-child
-filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##div[style*="z-index"]
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net##a[onclick*="player"]
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net##a[href*="adserver"]
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net##div[class="itens"] > a:first-child
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net##div[style*="z-index"]
 filmeseseriesonline.co,filmesonlineseries.co,filmeeseriesonline.co,filmeseserieonline.co,filmesonlineseries.co##a[onclick*="player"]
 filmeseseriesonline.co,filmesonlineseries.co,filmeeseriesonline.co,filmeseserieonline.co,filmesonlineseries.co##a[href*="adserver"]
 filmeseseriesonline.co,filmesonlineseries.co,filmeeseriesonline.co,filmeseserieonline.co,filmesonlineseries.co##div[class="itens"] > a:first-child
@@ -3061,4 +3061,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
-! Checksum: 2EqFwQDP8R7G4MVUWYxtIQ
+! Checksum: IHR6Dd7BJmc/iOhs5j8HMw
