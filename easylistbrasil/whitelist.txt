@@ -450,6 +450,7 @@
 @@||*/tvshow/toolbar2.html
 @@||*/jwplayer-*/provider.cast.js
 @@||*/main/BottomSheet.html
+@@||*/wp-content/themes/*/js/zepto.min.js
 ! github
 @@||github.com^$generichide
 ! media
@@ -595,10 +596,12 @@
 ! vid.ag
 @@||vid.ag/js/jquery.min.js
 ! vidto.me
-@@||static.vidto.me/static/js/jquery.jplayer.min.js
-@@||static.vidto.me/play/jwplayer.js
-@@||static.vidto.me/player*/jwplayer.js
-@@||static.vidto.me/player*/provider.flash.js
+@@||static.vidto.*/static/js/jquery.jplayer.min.js
+@@||static.vidto.*/play/jwplayer.js
+@@||static.vidto.*/player*/jwplayer.js
+@@||static.vidto.*/player*/provider.flash.js
+@@||static.vidto.*/static/js/ads.js
+@@||static.vidto.*/player/jwplayer-*/related.js
 ! vidlox.tv
 @@||vidlox.tv/js/hrpr.js
 @@||vidlox.me/bootstrap.js
@@ -992,3 +995,6 @@
 @@||api.popfilmeshd.net/init-stream$xmlhttprequest
 ! theoplayer.com
 @@||theoplayer.com/*/THEOplayer.js
+! seriesonlinehd.biz
+@@||seriesonlinehd.biz/wp-content/themes/*/js/cpScript.js
+@@||seriesonlinehd.biz/player/codigo.js
