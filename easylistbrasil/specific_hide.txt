@@ -408,10 +408,10 @@ netcine.us##a[href*="loja"]
 ! filmes0800.com
 filmes0800.com##.afs_ads
 ! filmeseseriesonline.net
-filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##a[onclick*="player"]
-filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##a[href*="adserver"]
-filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##div[class="itens"] > a:first-child
-filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net,filmesonlineseries.net##div[style*="z-index"]
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net##a[onclick*="player"]
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net##a[href*="adserver"]
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net##div[class="itens"] > a:first-child
+filmeseseriesonline.net,filmesonlineseries.net,filmeeseriesonline.net,filmeseserieonline.net##div[style*="z-index"]
 filmeseseriesonline.co,filmesonlineseries.co,filmeeseriesonline.co,filmeseserieonline.co,filmesonlineseries.co##a[onclick*="player"]
 filmeseseriesonline.co,filmesonlineseries.co,filmeeseriesonline.co,filmeseserieonline.co,filmesonlineseries.co##a[href*="adserver"]
 filmeseseriesonline.co,filmesonlineseries.co,filmeeseriesonline.co,filmeseserieonline.co,filmesonlineseries.co##div[class="itens"] > a:first-child
