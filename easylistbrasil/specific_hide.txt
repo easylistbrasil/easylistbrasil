@@ -30,8 +30,9 @@ youtube.com##div[class="masthead-ad-control open content-alignment masthead-ad-c
 youtube.com##div[id="ad_creative_expand_btn_1"]
 youtube.com##div[class="ad-div mastad"]
 youtube.com##div[id="ad_creative_1"]
-www.youtube.com##.ytp-buttonytp-share-button
-www.youtube.com##.pyv-afc-ads-innerpyv-search-server-side
+youtube.com##.ytp-buttonytp-share-button
+youtube.com##.pyv-afc-ads-innerpyv-search-server-side
+youtube.com###ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com###player-ads
 youtube.com##.ad-title
 ! openload.co
