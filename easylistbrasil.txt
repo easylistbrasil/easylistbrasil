@@ -2986,6 +2986,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||goo.gl/fAuSYT$popup,domain=comandotorrents.com|comandofilmes.tv
 @@||canais.gratis/*.html$popup
 @@||assistirseriados.net/p/video.php$popup
+@@||seriesonlinehd.biz/player/$popup
 ! *** easylistbrasil:easylistbrasil/adult_whitelist.txt ***
 ! redtube, pornhub, youporn, tube8
 @@||ht.redtube.com/js/ht.js?site_id=2
@@ -3040,4 +3041,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
-! Checksum: bCLLaY7u8zEfOMjv+MNq9Q
+! Checksum: voqYWaYVA3BqUbS3MZLPMg
