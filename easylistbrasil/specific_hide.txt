@@ -690,3 +690,9 @@ darthfilmes.com.br##div[id="playerads"]
 darthfilmes.com.br##div[class^="jw-logo"]
 darthfilmes.com.br##div[style*="z-index"]
 darthfilmes.com.br##.module_single_ads
+! assistirseriados.net
+assistirseriados.net##div[class="afs_ads"]
+assistirseriados.net##div[id*="floatLayer"]
+assistirseriados.net##.adsbox
+assistirseriados.net##div[class^="jw-logo"]
+assistirseriados.net##div[style*="z-index"]
