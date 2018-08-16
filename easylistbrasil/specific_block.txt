@@ -500,6 +500,8 @@ get.$domain=xilften.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=verfilmes.biz
 ! darthfilmes.com.br
 |http*://$script,third-party,xmlhttprequest,popup,domain=darthfilmes.com.br
+! assistirseriados.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=assistirseriados.net
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
