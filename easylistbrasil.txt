@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808160119
+! Version: 201808160122
 ! Title: EasyList Brasil
-! Last modified: 16 Aug 2018 01:19 UTC
+! Last modified: 16 Aug 2018 01:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2397,6 +2397,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*/tvshow/toolbar2.html
 @@||*/jwplayer-*/provider.cast.js
 @@||*/main/BottomSheet.html
+@@||*/wp-content/themes/*/js/zepto.min.js
 ! github
 @@||github.com^$generichide
 ! media
@@ -2542,10 +2543,12 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 ! vid.ag
 @@||vid.ag/js/jquery.min.js
 ! vidto.me
-@@||static.vidto.me/static/js/jquery.jplayer.min.js
-@@||static.vidto.me/play/jwplayer.js
-@@||static.vidto.me/player*/jwplayer.js
-@@||static.vidto.me/player*/provider.flash.js
+@@||static.vidto.*/static/js/jquery.jplayer.min.js
+@@||static.vidto.*/play/jwplayer.js
+@@||static.vidto.*/player*/jwplayer.js
+@@||static.vidto.*/player*/provider.flash.js
+@@||static.vidto.*/static/js/ads.js
+@@||static.vidto.*/player/jwplayer-*/related.js
 ! vidlox.tv
 @@||vidlox.tv/js/hrpr.js
 @@||vidlox.me/bootstrap.js
@@ -2939,6 +2942,9 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||api.popfilmeshd.net/init-stream$xmlhttprequest
 ! theoplayer.com
 @@||theoplayer.com/*/THEOplayer.js
+! seriesonlinehd.biz
+@@||seriesonlinehd.biz/wp-content/themes/*/js/cpScript.js
+@@||seriesonlinehd.biz/player/codigo.js
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
@@ -3029,4 +3035,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
-! Checksum: oi06pb0FfwMJnCKvfCnvvQ
+! Checksum: jj6V/gfOJikCiijMIumMTw
