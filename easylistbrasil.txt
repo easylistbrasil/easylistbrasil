@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808160139
+! Version: 201808160212
 ! Title: EasyList Brasil
-! Last modified: 16 Aug 2018 01:39 UTC
+! Last modified: 16 Aug 2018 02:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1934,6 +1934,17 @@ seriesonlinehd.biz##.adsbox
 seriesonlinehd.biz##div[class^="jw-logo"]
 seriesonlinehd.biz##div[style*="z-index"]
 seriesonlinehd.biz##div[style^="float:"]
+! filmeshd-online.com
+filmeshd-online.com##div[class="afs_ads"]
+filmeshd-online.com##div[id*="floatLayer"]
+filmeshd-online.com##[id*="ScriptRoot"]
+filmeshd-online.com##.adsbox
+filmeshd-online.com##li[id="count"]
+filmeshd-online.com##[id="countDown"]
+filmeshd-online.com##div[id="playerads"]
+filmeshd-online.com##div[class^="jw-logo"]
+filmeshd-online.com##div[style*="z-index"]
+filmeshd-online.com##.module_single_ads
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 ##div[id="pb_block"]
@@ -3042,4 +3053,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
-! Checksum: uZ9+l4NZOdHOiA3ikzHx3w
+! Checksum: oilehDwPg8eogO+6hPMAYQ
