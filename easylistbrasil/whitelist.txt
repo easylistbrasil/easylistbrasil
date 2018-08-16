@@ -454,7 +454,7 @@
 @@||*/wp-content/themes/dooplay-v*/assets/js/scripts.js
 @@||*/wp-content/themes/*/assets/js/isotope.js
 @@||/wp-content/themes/*/assets/js/simple-requests-public.js
-@@||filmeseseriesonlinex.com/wp-content/themes/*/assets/js/scripts.js
+@@||*/wp-content/cache/autoptimize/js/autoptimize_*.js
 ! github
 @@||github.com^$generichide
 ! media
@@ -918,6 +918,8 @@
 @@||*cine*.*^$generichide
 @@||*filme*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com|yahoo.com|yandex.com
 @@||*serie*^$popup,domain=google.com|google.com.br|bing.com|duckduckgo.com|yahoo.com|yandex.com
+@@||*megafilmes*/wp-content/themes/*/js/SC_01APP.js
+@@||*megafilmes*/wp-content/themes/*/js/SC_JSAPP.js
 ! qqfilmes
 @@||*qqfilmes*/templates/*/js/white_list.js
 @@||*qqfilmes*/vid_online/$xmlhttprequest
@@ -1008,3 +1010,4 @@
 @@||filmeseseriesonlinex.com/wp-content/themes/*/inc/ajax/login.php$xmlhttprequest
 @@||filmeseseriesonlinex.com/wp-content/themes/*/assets/js/scripts.js
 @@||filmeseseriesonlinex.com/wp-content/themes/*/inc/parts/*.php$xmlhttprequest
+@@||filmeseseriesonlinex.com/wp-content/themes/*/assets/js/scripts.js
