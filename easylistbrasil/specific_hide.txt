@@ -52,10 +52,10 @@ vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##div[style*="z-index"]
 vid.ag##div[id="playbutton"]
 vid.ag##div[class="delete"]
 ! vidto.me
-vidto.se,vidto.me##div[id="custom-ad"]
-vidto.se,vidto.me##div[style*="z-index"]
-vidto.se,vidto.me##div[class^="custom-"][class$="backscreen2"]
-vidto.me,vidto.se##iframe[src*="/300e.html"]
+vidto.me,vidto.se,vidto.co,vidto.to,vidto.top,vidto.tv,vidto.io,vidto.com,vidto.net##div[id="custom-ad"]
+vidto.me,vidto.se,vidto.co,vidto.to,vidto.top,vidto.tv,vidto.io,vidto.com,vidto.net##div[style*="z-index"]
+vidto.me,vidto.se,vidto.co,vidto.to,vidto.top,vidto.tv,vidto.io,vidto.com,vidto.net##div[class^="custom-"][class$="backscreen2"]
+vidto.me,vidto.se,vidto.co,vidto.to,vidto.top,vidto.tv,vidto.io,vidto.com,vidto.net##iframe[src*="/300e.html"]
 ! vidlox.tv
 vidlox.tv##body > div:last-child
 vidlox.tv##a[class="dwnld"]
@@ -698,3 +698,9 @@ assistirseriados.net##div[id*="floatLayer"]
 assistirseriados.net##.adsbox
 assistirseriados.net##div[class^="jw-logo"]
 assistirseriados.net##div[style*="z-index"]
+! seriesonlinehd.biz
+seriesonlinehd.biz##div[class="afs_ads"]
+seriesonlinehd.biz##div[id*="floatLayer"]
+seriesonlinehd.biz##.adsbox
+seriesonlinehd.biz##div[class^="jw-logo"]
+seriesonlinehd.biz##div[style*="z-index"]
