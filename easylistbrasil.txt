@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808160318
+! Version: 201808160330
 ! Title: EasyList Brasil
-! Last modified: 16 Aug 2018 03:18 UTC
+! Last modified: 16 Aug 2018 03:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1950,6 +1950,8 @@ filmeshd-online.com##div[id="playerads"]
 filmeshd-online.com##div[class^="jw-logo"]
 filmeshd-online.com##div[style*="z-index"]
 filmeshd-online.com##.module_single_ads
+! filmeseseriesonlinex.com
+filmeseseriesonlinex.com##div[style*="z-index"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 ##div[id="pb_block"]
@@ -3061,4 +3063,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
-! Checksum: IHR6Dd7BJmc/iOhs5j8HMw
+! Checksum: oiqQKOtHfFPaqdzTfMmVJw
