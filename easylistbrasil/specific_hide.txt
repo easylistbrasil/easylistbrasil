@@ -43,6 +43,7 @@ openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,ope
 openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##iframe[src="https://openload.co/corsframe.html"]
 ##iframe[src="https://openload.co/corsframe.html"]
 openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##div[id="adbdetect"] > script
+openload.co,openload.com,openload.info,openload.org,openload.biz,openload.us,openload.net,openload.top,openload.me,openload.to,openload.vip,openload.ru,openload.site,openload.online,openload.download,openload.tv,oload.co,oload.com,oload.info,oload.org,oload.biz,oload.us,oload.us,olaod.net,oload.top,oload.me,oload.to,oload.vip,oload.ru,oload.site,oload.online,oload.download,oload.tv,openload.io,oload.io,openload.win##div[style*="z-index"]
 ! vidzi.tv
 vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##div[class="large-zi-center"]
 vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##div[class^="custom-"][class$="backscreen2"]
@@ -720,3 +721,9 @@ filmeshd-online.com##div[style*="z-index"]
 filmeshd-online.com##.module_single_ads
 ! filmeseseriesonlinex.com
 filmeseseriesonlinex.com##div[style*="z-index"]
+! megafilmeshd.org
+megafilmeshd.org##div[class="afs_ads"]
+megafilmeshd.org##div[id*="floatLayer"]
+megafilmeshd.org##div[style*="z-index"]
+megafilmeshd.org##[id*="ScriptRoot"]
+megafilmeshd.org##script[src*="lojapremio"]
