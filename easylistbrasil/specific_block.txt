@@ -98,9 +98,8 @@
 |http*://$script,third-party,xmlhttprequest,popup,domain=vid.ag
 ||*.bid^$domain=vid.ag
 ! vidto.me
-|http*://$script,third-party,xmlhttprequest,popup,domain=vidto.me
-||vidto.me^$script,domain=putload.tv|estream.to|assistirfilmesonline.club|megafilmestop.org|filmeseseriesonline.net|pirataplay.com|player.xplayer.top|watchvideo.us|assistirfilmeshd.org|openlink.biz
-||vidto.me/300e.html
+|http*://$script,third-party,xmlhttprequest,popup,domain=vidto.me|vidto.se|vidto.co|vidto.to|vidto.top|vidto.tv|vidto.io|vidto.com|vidto.net
+||vidto.*^$script,domain=putload.tv|estream.to|assistirfilmesonline.club|megafilmestop.org|filmeseseriesonline.net|pirataplay.com|player.xplayer.top|watchvideo.us|assistirfilmeshd.org|openlink.biz
 ! vidlox.tv
 |http*://$script,third-party,xmlhttprequest,popup,domain=vidlox.tv|vidlox.me
 ! estream
