@@ -718,3 +718,5 @@ filmeshd-online.com##div[id="playerads"]
 filmeshd-online.com##div[class^="jw-logo"]
 filmeshd-online.com##div[style*="z-index"]
 filmeshd-online.com##.module_single_ads
+! filmeseseriesonlinex.com
+filmeseseriesonlinex.com##div[style*="z-index"]
