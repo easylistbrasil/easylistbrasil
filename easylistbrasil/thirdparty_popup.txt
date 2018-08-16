@@ -2,3 +2,4 @@
 ||afriflatry.co^$popup
 ||rotumal.com^$third-party,popup
 ||hqq.*/out$popup
+||zukxd6fkxqn.com^$third-party,popup
