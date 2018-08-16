@@ -30,3 +30,4 @@
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||goo.gl/fAuSYT$popup,domain=comandotorrents.com|comandofilmes.tv
 @@||canais.gratis/*.html$popup
+@@||assistirseriados.net/p/video.php$popup
