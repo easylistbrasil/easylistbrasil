@@ -224,6 +224,8 @@ unitplay.net##div[style*="z-index"]
 123moviesfreez.com##div[class="content-ads"]
 123moviesfreez.com##img[src*="i.imgur.com/K7WmqLY.png"]
 123moviesfreez.com##img[src*="i.imgur.com/dHrcGOC.png"]
+! vidcloud
+vcstream.to##div[style*="z-index"]
 ! estream
 estream.to,estream.xyz,estream.co,estream.info,estream.site,estream.online,estream.win,estream.io,estream.top,estream.tv,estream.nu,estream.win,estream.ru,estream.me,estream.net,estream.online,estream.cc##div[class$="container-bg"] > h2
 ! vev.io
