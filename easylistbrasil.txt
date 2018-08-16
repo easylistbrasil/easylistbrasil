@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808160306
+! Version: 201808160308
 ! Title: EasyList Brasil
-! Last modified: 16 Aug 2018 03:06 UTC
+! Last modified: 16 Aug 2018 03:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1455,6 +1455,8 @@ unitplay.net##div[style*="z-index"]
 123moviesfreez.com##div[class="content-ads"]
 123moviesfreez.com##img[src*="i.imgur.com/K7WmqLY.png"]
 123moviesfreez.com##img[src*="i.imgur.com/dHrcGOC.png"]
+! vidcloud
+vcstream.to##div[style*="z-index"]
 ! estream
 estream.to,estream.xyz,estream.co,estream.info,estream.site,estream.online,estream.win,estream.io,estream.top,estream.tv,estream.nu,estream.win,estream.ru,estream.me,estream.net,estream.online,estream.cc##div[class$="container-bg"] > h2
 ! vev.io
@@ -3058,4 +3060,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
-! Checksum: HH2U2A05tSXiHMqHQruHew
+! Checksum: ZSOn9yjj4fhYyXwyylk0mA
