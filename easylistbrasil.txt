@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808160255
+! Version: 201808160306
 ! Title: EasyList Brasil
-! Last modified: 16 Aug 2018 02:55 UTC
+! Last modified: 16 Aug 2018 03:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -705,6 +705,8 @@ adblockplus.org#@#a[href*="adserver"]
 ||vidto.*^$script,domain=putload.tv|estream.to|assistirfilmesonline.club|megafilmestop.org|filmeseseriesonline.net|pirataplay.com|player.xplayer.top|watchvideo.us|assistirfilmeshd.org|openlink.biz
 ! vidlox.tv
 |http*://$script,third-party,xmlhttprequest,popup,domain=vidlox.tv|vidlox.me
+! vidcloud
+|http*://$script,third-party,xmlhttprequest,popup,domain=vcstream.to
 ! estream
 |http*://$script,third-party,xmlhttprequest,popup,domain=estream.to|estream.xyz|estream.co|estream.info|estream.site|estream.online|estream.win|estream.io|estream.top|estream.tv|estream.nu|estream.win|estream.ru|estream.me|estream.net|estream.online|estream.cc
 ||*.xyz^$domain=estream.to|estream.xyz|estream.co|estream.info|estream.site|estream.online|estream.win|estream.io|estream.top|estream.tv|estream.nu|estream.win|estream.ru|estream.me|estream.net|estream.online|estream.cc
@@ -3056,4 +3058,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
-! Checksum: xz1i1eCS5Ur+9DhuhVehPw
+! Checksum: HH2U2A05tSXiHMqHQruHew
