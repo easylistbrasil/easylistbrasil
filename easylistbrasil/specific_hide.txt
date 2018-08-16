@@ -704,3 +704,4 @@ seriesonlinehd.biz##div[id*="floatLayer"]
 seriesonlinehd.biz##.adsbox
 seriesonlinehd.biz##div[class^="jw-logo"]
 seriesonlinehd.biz##div[style*="z-index"]
+seriesonlinehd.biz##div[style^="float:"]
