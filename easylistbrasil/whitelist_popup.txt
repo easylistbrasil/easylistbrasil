@@ -32,3 +32,4 @@
 @@||canais.gratis/*.html$popup
 @@||assistirseriados.net/p/video.php$popup
 @@||seriesonlinehd.biz/player/$popup
+@@||filmeseseriesonlinex.com/wp-login.php$popup
