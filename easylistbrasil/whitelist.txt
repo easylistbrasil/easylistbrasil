@@ -452,6 +452,9 @@
 @@||*/main/BottomSheet.html
 @@||*/wp-content/themes/*/js/zepto.min.js
 @@||*/wp-content/themes/dooplay-v*/assets/js/scripts.js
+@@||*/wp-content/themes/*/assets/js/isotope.js
+@@||/wp-content/themes/*/assets/js/simple-requests-public.js
+@@||filmeseseriesonlinex.com/wp-content/themes/*/assets/js/scripts.js
 ! github
 @@||github.com^$generichide
 ! media
@@ -1001,3 +1004,7 @@
 @@||seriesonlinehd.biz/player/codigo.js
 ! filmeshd-online.com
 @@||filmeshd-online.*/wp-content/cache/wpfc-minified/*/*.js
+! filmeseseriesonlinex.com
+@@||filmeseseriesonlinex.com/wp-content/themes/*/inc/ajax/login.php$xmlhttprequest
+@@||filmeseseriesonlinex.com/wp-content/themes/*/assets/js/scripts.js
+@@||filmeseseriesonlinex.com/wp-content/themes/*/inc/parts/*.php$xmlhttprequest
