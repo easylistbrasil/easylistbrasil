@@ -451,6 +451,7 @@
 @@||*/jwplayer-*/provider.cast.js
 @@||*/main/BottomSheet.html
 @@||*/wp-content/themes/*/js/zepto.min.js
+@@||*/wp-content/themes/dooplay-v*/assets/js/scripts.js
 ! github
 @@||github.com^$generichide
 ! media
@@ -998,3 +999,5 @@
 ! seriesonlinehd.biz
 @@||seriesonlinehd.biz/wp-content/themes/*/js/cpScript.js
 @@||seriesonlinehd.biz/player/codigo.js
+! filmeshd-online.com
+@@||filmeshd-online.*/wp-content/cache/wpfc-minified/*/*.js
