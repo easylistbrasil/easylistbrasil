@@ -102,6 +102,8 @@
 ||vidto.*^$script,domain=putload.tv|estream.to|assistirfilmesonline.club|megafilmestop.org|filmeseseriesonline.net|pirataplay.com|player.xplayer.top|watchvideo.us|assistirfilmeshd.org|openlink.biz
 ! vidlox.tv
 |http*://$script,third-party,xmlhttprequest,popup,domain=vidlox.tv|vidlox.me
+! vidcloud
+|http*://$script,third-party,xmlhttprequest,popup,domain=vcstream.to
 ! estream
 |http*://$script,third-party,xmlhttprequest,popup,domain=estream.to|estream.xyz|estream.co|estream.info|estream.site|estream.online|estream.win|estream.io|estream.top|estream.tv|estream.nu|estream.win|estream.ru|estream.me|estream.net|estream.online|estream.cc
 ||*.xyz^$domain=estream.to|estream.xyz|estream.co|estream.info|estream.site|estream.online|estream.win|estream.io|estream.top|estream.tv|estream.nu|estream.win|estream.ru|estream.me|estream.net|estream.online|estream.cc
