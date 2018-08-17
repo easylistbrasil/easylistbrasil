@@ -1011,3 +1011,5 @@
 @@||filmeseseriesonlinex.com/wp-content/themes/*/assets/js/scripts.js
 @@||filmeseseriesonlinex.com/wp-content/themes/*/inc/parts/*.php$xmlhttprequest
 @@||filmeseseriesonlinex.com/wp-content/themes/*/assets/js/scripts.js
+! playtop.online
+@@||playtop.online/embed/$subdocument
