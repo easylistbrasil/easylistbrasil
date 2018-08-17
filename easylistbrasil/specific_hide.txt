@@ -728,3 +728,13 @@ megafilmeshd.org##div[id*="floatLayer"]
 megafilmeshd.org##div[style*="z-index"]
 megafilmeshd.org##[id*="ScriptRoot"]
 megafilmeshd.org##script[src*="lojapremio"]
+! megaseriehd.com
+megaseriehd.com##div[class="afs_ads"]
+megaseriehd.com##div[id*="floatLayer"]
+megaseriehd.com##div[style*="z-index"]
+megaseriehd.com##[id*="ScriptRoot"]
+! playtop.online
+playtop.online##[id*="ScriptRoot"]
+playtop.online##div[style*="z-index"]
+playtop.online##div[id*="floatLayer"]
+playtop.online##div[class="afs_ads"]
