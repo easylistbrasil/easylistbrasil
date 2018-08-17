@@ -134,5 +134,5 @@ img[src*="/protected.png"]
 ##iframe[src^="about"]
 ###AdsDiv
 ###adsdiv
-##div[style*="z-index"]
+~google.com,~facebook.com,~yahoo.com,~bing.com,~live.com,~instagram.com,~reddit.com,~linkedin.com,~pinterest.com##div[style*="z-index"]
 ##a[href*="adserver"]
