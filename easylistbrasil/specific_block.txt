@@ -511,6 +511,8 @@ get.$domain=xilften.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=darthfilmes.com.br
 ! assistirseriados.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=assistirseriados.net
+! megaseriehd.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=megaseriehd.com
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
