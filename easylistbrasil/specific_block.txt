@@ -21,12 +21,12 @@
 /vmclicksq^$domain=youtube.com
 ||youtube.com/get_endscreen?
 ! video ad - Web Sniffer
-/annotations_invideo?instream_ad=*^$xmlhttprequest,domain=youtube.com
-/csi_204$domain=youtube.com
-/generate_204$domain=youtube.com
-||beacons.gcp.gvt2.com^$third-party,domain=youtube.com
-/mac_204^$xmlhttprequest,domain=youtube.com
-/videogoodput$xmlhttprequest,domain=youtube.com
+! /annotations_invideo?instream_ad=*^$xmlhttprequest,domain=youtube.com
+! /csi_204$domain=youtube.com
+! /generate_204$domain=youtube.com
+! ||beacons.gcp.gvt2.com^$third-party,domain=youtube.com
+! /mac_204^$xmlhttprequest,domain=youtube.com
+! /videogoodput$xmlhttprequest,domain=youtube.com
 ! openload.co
 ||*openload*^$script,third-party,xmlhttprequest,popup
 ||*oload*^$script,third-party,xmlhttprequest,popup
