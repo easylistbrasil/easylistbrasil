@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808181958
+! Version: 201808182120
 ! Title: EasyList Brasil
-! Last modified: 18 Aug 2018 19:58 UTC
+! Last modified: 18 Aug 2018 21:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -282,7 +282,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ##div[class="jw-logojw-resetjw-hide"]
 ##div[class="mspopup"]
 ##div[id="divPanel"]
-~bing.com,~facebook.com,~google.com,~instagram.com,~linkedin.com,~live.com,~pinterest.com,~reddit.com,~yahoo.com##div[style*="z-index"]
+~bing.com,~facebook.com,~google.com,~instagram.com,~linkedin.com,~live.com,~pinterest.com,~rapidvideo.com,~reddit.com,~yahoo.com##div[style*="z-index"]
 ##dmbar[id="dm_topbar"]
 ##iframe[id="Ifid"]
 ##iframe[name="PiruLiAoTv"]
@@ -1267,8 +1267,8 @@ olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="mediaspace_wrapper"] > script:last-child
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[style*="z-index"]
-olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##iframe[src="https://openload.co/corsframe.html"]
 ##iframe[src="https://openload.co/corsframe.html"]
+olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##iframe[src="https://openload.co/corsframe.html"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##script
 ! vidzi.tv
 vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##.adsbox
@@ -1313,6 +1313,8 @@ thevid.net##table[id="tbl1"]
 ! rapidvideo.com
 www.rapidvideo.com###dimbg-premium
 www.rapidvideo.com##dimbg-premium
+rapidvideo.com##div[style*="z-index:50"]
+rapidvideo.com##div[style*="z-index:9999"]
 www.rapidvideo.com##noscript
 ! youwatch
 chouhaa.info,rienlol.info,sidek.info,youwatch.org,z7ilika.info###player_ads
@@ -2602,15 +2604,17 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||thevid.net^$media
 @@||velocecdn.com/script/compatibility.js^$domain=thevid.net
 ! rapidvideo.com
-@@||rapidvideo.com/*/ie8/videojs-ie8.min.js
-@@||rapidvideo.com/js/videojs.logobrand.js
-@@||rapidvideo.com/jwplayer-*/jwplayer.js
-@@||www.rapidvideo.com/embed/undefined^
-@@||www.rapidvideo.com/js/jquery-ui.min.js
-@@||www.rapidvideo.com/js/jquery.limit-*.source.js
-@@||www.rapidvideo.com/js/jquery.min.js
-@@||www.rapidvideo.com/js/jquery.tipsy.js
-@@||www.rapidvideo.com/js/jquery.validate.min.js
+@@||rapidvideo.*/*/ie8/videojs-ie8.min.js
+@@||rapidvideo.*/embed/undefined^
+@@||rapidvideo.*/js/jquery-ui.min.js
+@@||rapidvideo.*/js/jquery.limit-*.source.js
+@@||rapidvideo.*/js/jquery.min.js
+@@||rapidvideo.*/js/jquery.tipsy.js
+@@||rapidvideo.*/js/jquery.validate.min.js
+@@||rapidvideo.*/js/videojs.logobrand.js
+@@||rapidvideo.*/jwplayer-*/jwplayer.js
+@@||rapidvideo.*/plugins/video.min.js
+@@||rapidvideo.*/plugins/videojs-resolution-switcher.js
 ! yandex.ru
 @@||mc.yandex.ru/metrika/watch.js
 ! youwatch
@@ -3057,4 +3061,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
-! Checksum: +C2lzFy/ulY43N7F7xS3AQ
+! Checksum: yQ7g4xF6aseHTc4GUq7JWA
