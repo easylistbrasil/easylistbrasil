@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808180210
+! Version: 201808180239
 ! Title: EasyList Brasil
-! Last modified: 18 Aug 2018 02:10 UTC
+! Last modified: 18 Aug 2018 02:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1196,8 +1196,7 @@ get.$domain=xilften.net
 ||on.animeteatr.ru^
 ||play.vb.wearesaudis.net^
 $script,domain=centrum-dramy.pl|hentai-online.pl
-|http://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
-|https://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
+|http*://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
 ! *** easylistbrasil:easylistbrasil/specific_block_popup.txt ***
 ! openload.co
 $popup,domain=openload.co|xbyvexekkrnt.com|exdynsrv.com|obqtccxcfjmd.com|kbjddmnkallz.com|snfqpqyecdrb.com|zetads.com|jypmcknqvnfd.com|whizspin.com|xkoyfyaqk.com
@@ -3115,4 +3114,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
-! Checksum: 5EPugWRC3YwOPl+hlsh+Ag
+! Checksum: n4wqk1eTnVaHq+jMlWfItQ
