@@ -118,7 +118,7 @@
 ##div[class="jw-logojw-resetjw-hide"]
 ##div[class="mspopup"]
 ##div[id="divPanel"]
-~bing.com,~facebook.com,~google.com,~instagram.com,~linkedin.com,~live.com,~pinterest.com,~reddit.com,~yahoo.com##div[style*="z-index"]
+~bing.com,~facebook.com,~google.com,~instagram.com,~linkedin.com,~live.com,~pinterest.com,~rapidvideo.com,~reddit.com,~yahoo.com##div[style*="z-index"]
 ##dmbar[id="dm_topbar"]
 ##iframe[id="Ifid"]
 ##iframe[name="PiruLiAoTv"]

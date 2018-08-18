@@ -643,15 +643,17 @@
 @@||thevid.net^$media
 @@||velocecdn.com/script/compatibility.js^$domain=thevid.net
 ! rapidvideo.com
-@@||rapidvideo.com/*/ie8/videojs-ie8.min.js
-@@||rapidvideo.com/js/videojs.logobrand.js
-@@||rapidvideo.com/jwplayer-*/jwplayer.js
-@@||www.rapidvideo.com/embed/undefined^
-@@||www.rapidvideo.com/js/jquery-ui.min.js
-@@||www.rapidvideo.com/js/jquery.limit-*.source.js
-@@||www.rapidvideo.com/js/jquery.min.js
-@@||www.rapidvideo.com/js/jquery.tipsy.js
-@@||www.rapidvideo.com/js/jquery.validate.min.js
+@@||rapidvideo.*/*/ie8/videojs-ie8.min.js
+@@||rapidvideo.*/embed/undefined^
+@@||rapidvideo.*/js/jquery-ui.min.js
+@@||rapidvideo.*/js/jquery.limit-*.source.js
+@@||rapidvideo.*/js/jquery.min.js
+@@||rapidvideo.*/js/jquery.tipsy.js
+@@||rapidvideo.*/js/jquery.validate.min.js
+@@||rapidvideo.*/js/videojs.logobrand.js
+@@||rapidvideo.*/jwplayer-*/jwplayer.js
+@@||rapidvideo.*/plugins/video.min.js
+@@||rapidvideo.*/plugins/videojs-resolution-switcher.js
 ! yandex.ru
 @@||mc.yandex.ru/metrika/watch.js
 ! youwatch
