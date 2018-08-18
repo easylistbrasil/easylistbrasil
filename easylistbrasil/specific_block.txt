@@ -592,5 +592,4 @@ get.$domain=xilften.net
 ||on.animeteatr.ru^
 ||play.vb.wearesaudis.net^
 $script,domain=centrum-dramy.pl|hentai-online.pl
-|http://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
-|https://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
+|http*://$script,third-party,domain=kinokrad.co|kinokong.cc|skyback.ru|oload.info|oload.tv|openload.co|streamango.com|streamcherry.com
