@@ -745,3 +745,10 @@ suatela.com##div[id*="floatLayer"]
 suatela.com##div[class="afs_ads"]
 suatela.com##header
 suatela.com##center
+! seriesflixapp.net
+seriesflixapp.net##[id*="ScriptRoot"]
+seriesflixapp.net##div[style*="z-index"]
+seriesflixapp.net##div[id*="floatLayer"]
+seriesflixapp.net##div[class="afs_ads"]
+seriesflixapp.net##li[id="count"]
+seriesflixapp.net##[id="countDown"]

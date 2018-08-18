@@ -515,6 +515,8 @@ get.$domain=xilften.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=megaseriehd.com
 ! suatela.com
 |http*://$script,third-party,xmlhttprequest,popup,domain=suatela.com
+! seriesflixapp.net
+|http*://$script,third-party,xmlhttprequest,popup,domain=seriesflixapp.net
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
