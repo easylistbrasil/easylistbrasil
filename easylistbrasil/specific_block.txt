@@ -513,6 +513,8 @@ get.$domain=xilften.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=assistirseriados.net
 ! megaseriehd.com
 |http*://$script,third-party,xmlhttprequest,popup,domain=megaseriehd.com
+! suatela.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=suatela.com
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^

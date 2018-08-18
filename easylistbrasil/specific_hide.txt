@@ -738,3 +738,10 @@ playtop.online##[id*="ScriptRoot"]
 playtop.online##div[style*="z-index"]
 playtop.online##div[id*="floatLayer"]
 playtop.online##div[class="afs_ads"]
+! suatela.com
+suatela.com##[id*="ScriptRoot"]
+suatela.com##div[style*="z-index"]
+suatela.com##div[id*="floatLayer"]
+suatela.com##div[class="afs_ads"]
+suatela.com##header
+suatela.com##center

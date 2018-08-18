@@ -1013,3 +1013,5 @@
 @@||filmeseseriesonlinex.com/wp-content/themes/*/assets/js/scripts.js
 ! playtop.online
 @@||playtop.online/embed/$subdocument
+! suatela.com
+@@||suatela.com^$generichide
