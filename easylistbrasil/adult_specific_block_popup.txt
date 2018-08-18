@@ -1,2 +1,1 @@
-$popup,domain=redtube.com|redtube.com.br|pornhub.com|youporn.com|tube8.com
-$popup,domain=sexyhotplay.com.br
+$popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com

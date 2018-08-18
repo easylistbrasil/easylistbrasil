@@ -1,6 +1,6 @@
 ! sexyhotplay.com.br
-@@||canalsexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||blog.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
-@@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
+@@||canalsexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
+@@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br

@@ -1,6 +1,6 @@
-||popads.net^$third-party
-||afriflatry.co^$popup
-||rotumal.com^$third-party,popup
-||hqq.*/out$popup
-||zukxd6fkxqn.com^$third-party,popup
 ||ad.lojapremio.net^
+||afriflatry.co^$popup
+||hqq.*/out$popup
+||popads.net^$third-party
+||rotumal.com^$popup,third-party
+||zukxd6fkxqn.com^$popup,third-party
