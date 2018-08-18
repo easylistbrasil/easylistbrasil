@@ -41,8 +41,8 @@ olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="mediaspace_wrapper"] > script:last-child
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[style*="z-index"]
-##iframe[src="https://openload.co/corsframe.html"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##iframe[src="https://openload.co/corsframe.html"]
+##iframe[src="https://openload.co/corsframe.html"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##script
 ! vidzi.tv
 vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##.adsbox
@@ -497,7 +497,7 @@ megafilmesahd.com##video[src*="mp4"]
 filmesonline.online##div[class="full-poster"] > center
 filmesonline.online##div[class="full-story"] > center
 ! servico de straming
-ekostreams.co,estream.to,oload.tv,onplay.tv,openload.co,openload.tv,p3g.tv,pxstream.tv,rapidvideo.com,streamango.com,streamguard.cc,thevid.net,uptostream.com,vidito.me,vidlox.tv,vidoza.net,vidzi.tv,whostreams.net,widestream.io##div[style*="z-index"]
+ekostreams.co,estream.to,oload.tv,onplay.tv,openload.co,openload.tv,p3g.tv,pxstream.tv,streamango.com,streamguard.cc,thevid.net,uptostream.com,vidito.me,vidlox.tv,vidoza.net,vidzi.tv,whostreams.net,widestream.io##div[style*="z-index"]
 ! filmesonlinegratis.com
 filmesonlinegratis.com##div[class^="ads-"]
 ! livrefilmeshd.net
