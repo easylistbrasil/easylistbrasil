@@ -752,3 +752,5 @@ seriesflixapp.net##div[id*="floatLayer"]
 seriesflixapp.net##div[class="afs_ads"]
 seriesflixapp.net##li[id="count"]
 seriesflixapp.net##[id="countDown"]
+! seriesonlineplay.tk
+seriesonline.droppages.com,seriesonlineplay.tk##div[style*="z-index"]
