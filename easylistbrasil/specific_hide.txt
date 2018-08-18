@@ -41,8 +41,8 @@ olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="mediaspace_wrapper"] > script:last-child
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[style*="z-index"]
-olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##iframe[src="https://openload.co/corsframe.html"]
 ##iframe[src="https://openload.co/corsframe.html"]
+olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##iframe[src="https://openload.co/corsframe.html"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##script
 ! vidzi.tv
 vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##.adsbox
@@ -58,10 +58,12 @@ vidto.co,vidto.com,vidto.io,vidto.me,vidto.net,vidto.se,vidto.to,vidto.top,vidto
 vidto.co,vidto.com,vidto.io,vidto.me,vidto.net,vidto.se,vidto.to,vidto.top,vidto.tv##div[style*="z-index"]
 vidto.co,vidto.com,vidto.io,vidto.me,vidto.net,vidto.se,vidto.to,vidto.top,vidto.tv##iframe[src*="/300e.html"]
 ! vidlox.tv
-vidlox.tv##a[class="dwnld"]
-vidlox.tv##body > div:last-child
-vidlox.tv##div[class="adsbox"]
-vidlox.me##div[style*="z-index"]
+vidlox.me,vidlox.tv##a[class="dwnld"]
+vidlox.me,vidlox.tv##a[href*="zukxd6fkxqn"]
+vidlox.me,vidlox.tv##article
+vidlox.me,vidlox.tv##body > div:last-child
+vidlox.me,vidlox.tv##div[class="adsbox"]
+vidlox.me,vidlox.tv##div[style*="z-index"]
 ! micetop
 micetop.co,micetop.com,micetop.net,micetop.org,micetop.tv,micetop.us##span[class="jwcontrols"] > img[class="jwlogo"]
 ! cinepremiere.net

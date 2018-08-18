@@ -43,6 +43,7 @@
 ||ysm.yahoo.com^$third-party
 ||zdfyowkafur.com^$third-party
 ||zplvjgpxvh.com^$third-party
+||zukxd6fkxqn.com^$third-party
 ! Anti Coin Mining
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
