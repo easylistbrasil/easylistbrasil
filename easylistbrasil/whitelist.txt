@@ -1015,3 +1015,8 @@
 @@||playtop.online/embed/$subdocument
 ! suatela.com
 @@||suatela.com^$generichide
+! filmezando.com
+@@||*filmezando*.*/wp-content/themes/*/dwflix/scripts.js
+@@||*filmezando*.*/wp-content/themes/*/dwflix/app.js
+@@||*filmezando*.*/wp-content/themes/*/dwflix/home-slide.json
+@@||*filmezando*.*/wp-content/themes/*/dwflix/home-slide.php

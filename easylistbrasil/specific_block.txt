@@ -519,6 +519,8 @@ get.$domain=xilften.net
 |http*://$script,third-party,xmlhttprequest,popup,domain=seriesflixapp.net
 ! seriesonlineplay.tk
 |http*://$script,third-party,xmlhttprequest,popup,domain=seriesonline.droppages.com|seriesonlineplay.tk
+! filmezando.com
+|http*://$script,third-party,xmlhttprequest,popup,domain=filmezando.com
 ! Anti mine mining
 ||hide.ovh^
 ||graftpool.ovh^
