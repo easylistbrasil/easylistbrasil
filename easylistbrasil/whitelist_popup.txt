@@ -1,18 +1,18 @@
 ! fix popup
-@@||*ani*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*anima*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*anime*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*aovivo*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*canais*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*filme*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*flix*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*fute*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*legend*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*online*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*serie*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*sky*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*torrent*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*tv*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
+@@||*ani*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*anima*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*anime*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*aovivo*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*canais*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*filme*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*flix*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*fute*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*legend*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*online*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*serie*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*sky*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*torrent*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*tv*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
 ! liberar rede social dos sites de streaming bloqueados
 @@||facebook.com^$popup
 @@||instagram.com^$popup
