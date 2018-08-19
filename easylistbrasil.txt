@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808182155
+! Version: 201808190355
 ! Title: EasyList Brasil
-! Last modified: 18 Aug 2018 21:55 UTC
+! Last modified: 19 Aug 2018 03:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2978,20 +2978,20 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
 ! fix popup
-@@||*ani*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*anima*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*anime*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*aovivo*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*canais*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*filme*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*flix*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*fute*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*legend*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*online*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*serie*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*sky*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*torrent*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
-@@||*tv*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
+@@||*ani*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*anima*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*anime*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*aovivo*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*canais*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*filme*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*flix*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*fute*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*legend*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*online*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*serie*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*sky*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*torrent*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*tv*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
 ! liberar rede social dos sites de streaming bloqueados
 @@||facebook.com^$popup
 @@||instagram.com^$popup
@@ -3064,4 +3064,4 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
-! Checksum: VWBW9Pz+TiRqtnR+zmAaWg
+! Checksum: OW/N7STp3hMNJc14GLWsNA
