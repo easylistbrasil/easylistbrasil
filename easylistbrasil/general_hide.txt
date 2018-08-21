@@ -96,7 +96,7 @@
 ##[id^="close"][id*="frame"]
 ##[id^="fechar"][id$="fx"]
 ##[id^="total"][id$="banner"]
-~disqus.com##[src*="data:image"]
+~disqus.com,~youtube.com##[src*="data:image"]
 ##a[href*=".adk2x.com/"]
 ##a[href*="ads."]
 ##a[href*="adserver"]

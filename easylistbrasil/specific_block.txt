@@ -3,21 +3,9 @@
 /pagead/$domain=youtube.com
 /pubads.$media,xmlhttprequest,domain=youtube.com
 /vmclicksq^$domain=youtube.com
-||*/show_companion_ad.js$domain=youtube.com
-||^*/new_watch_background.jpg?$domain=youtube.com
-||a.b.googletag.companionAds?$domain=youtube.com
-||google.com/uds/api/ads^$script
-||googleads.g.doubleclick.net/pagead/ads?^$image,media,script,xmlhttprequest,domain=youtube.com
-||pagead2.googlesyndication.com/pagead/show_ads.js^$script,domain=youtube.com
-||premiumyva.appspot.com^$domain=youtube.com
-||s.youtube.com^
-||s.ytimg.com/yts/jsbin/www-en_US-vflKnfUzv/ypc_bootstrap.js$domain=youtube.com
-||youtube-nocookie.com/gen_204?
 ||youtube.com/api/stats/ads?
 ||youtube.com/get_endscreen?
 ||youtube.com/get_midroll_
-||youtube.com/player_204?
-||youtube.com/ptracking?
 ! video ad - Web Sniffer
 ! /annotations_invideo?instream_ad=*^$xmlhttprequest,domain=youtube.com
 ! /csi_204$domain=youtube.com

@@ -14,7 +14,6 @@
 /blockadblock.js
 /frameads.
 /gen_204?$image,script
-/generate_204$image
 /home_zidor.php?
 /icon-vkontakte.
 /icon_mailru.
@@ -25,7 +24,6 @@
 /js/pop-under.js
 /js/pop.js
 /jsredir
-/log_interaction?
 /mspopup.js
 /pagead2.
 /play72/popout.js
