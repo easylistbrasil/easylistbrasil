@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808210210
+! Version: 201808210252
 ! Title: EasyList Brasil
-! Last modified: 21 Aug 2018 02:10 UTC
+! Last modified: 21 Aug 2018 02:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -339,6 +339,7 @@ adblockplus.org#@#a[href*="adserver"]
 ||.website^$third-party
 ||9likesg.com^$third-party
 ||adap.tv^$~object-subrequest,third-party
+||adsymptotic.com^$third-party
 ||afriflatry.co^$third-party
 ||areyouahuman.com^$third-party
 ||authorne.info^$popup,third-party
@@ -348,6 +349,7 @@ adblockplus.org#@#a[href*="adserver"]
 ||defpush.com^$third-party
 ||drumuwimmzxqps.com^$third-party
 ||fwmrm.net^$~object-subrequest,third-party
+||generaller.mobi^$third-party
 ||ggyrnhdbqxufh.com^$third-party
 ||gmeomlvmqlmu.com^$third-party
 ||go.*.*^$third-party
@@ -355,6 +357,7 @@ adblockplus.org#@#a[href*="adserver"]
 ||hcyqwhquqjosn.com^$third-party
 ||ie8eamus.com^$third-party
 ||imagetopng.club^$popup,third-party
+||ineity.pro^$third-party
 ||infolinks.com^$third-party
 ||ipehunxxyir.com^$third-party
 ||mellowads.com^$third-party
@@ -363,6 +366,8 @@ adblockplus.org#@#a[href*="adserver"]
 ||onclickmega.com^$third-party
 ||onclicksuper.com^$third-party
 ||ooecgdeq.com^$third-party
+||popcash.net^
+||redirect*.ws^
 ||rhmyiplqmuupmf.com^$third-party
 ||sendpulse.com^$third-party,domain=seriesonlinex.org
 ||smartadtags.com^$third-party
@@ -379,11 +384,6 @@ adblockplus.org#@#a[href*="adserver"]
 ||zdfyowkafur.com^$third-party
 ||zplvjgpxvh.com^$third-party
 ||zukxd6fkxqn.com^$third-party
-||redirect*.ws^
-||adsymptotic.com^$third-party
-||ineity.pro^$third-party
-||generaller.mobi^$third-party
-||popcash.net^
 ! Anti Coin Mining
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
@@ -1110,17 +1110,20 @@ get.$domain=xilften.net
 ! bobfilmes.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=bobfilmes.com
 ! adf.ly
-||*.xyz^$domain=clearload.bid
-||*.info^$domain=clearload.bid
-||*.com^$domain=clearload.bid
-||*.net^$domain=clearload.bid
-||*.site^$domain=clearload.bid
+$csp=frame-src 'self',domain=clearload.bid
 /afu.php$domain=clearload.bid
-||go.onclasrv.com^$domain=clearload.bid
 /popunder.gif$domain=clearload.bid
 /show.php$domain=clearload.bid
+||*.com^$domain=clearload.bid
+||*.info^$domain=clearload.bid
+||*.net^$domain=clearload.bid
+||*.site^$domain=clearload.bid
+||*.xyz^$domain=clearload.bid
 ||clearload.bid/puopen.php
-$csp=frame-src 'self',domain=clearload.bid
+||go.onclasrv.com^$domain=clearload.bid
+! futeboltv.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=futeboltv.com|futeboltvgratis.com
+||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1244,7 +1247,6 @@ $popup,domain=ydujmccmydwu.bid
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 ! ------------------------Regras de ocultação de elemento específico------------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-! youtube.com
 youtube.com###player-ads
 youtube.com###ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com##.ad-title
@@ -1280,6 +1282,7 @@ youtube.com##div[id="watch7-sidebar-ads"]
 youtube.com##iframe[id="video-masthead"]
 youtube.com##iframe[style="border: 0px; vertical-align: bottom; display: none;"]
 youtube.com##ytd-video-masthead-ad-renderer[class="style-scope ytd-browse"]
+﻿! youtube.com
 ! openload.co
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
@@ -1965,10 +1968,18 @@ bobfilmes.com##div[class="afs_ads"]
 bobfilmes.com##div[id*="floatLayer"]
 bobfilmes.com##div[style*="z-index"]
 ! adf.ly
+clearload.bid##iframe[src*="redirect"]
 clearload.bid#?#div[id="_bd"] > p:-abp-contains(advert)
 clearload.bid#?#div[id="_bd"] > p:-abp-contains(Atenção)
 clearload.bid#?#div[id="_bd"] > p:-abp-contains(Warning)
-clearload.bid##iframe[src*="redirect"]
+! futeboltvgratis.com
+futeboltvgratis.com##[id*="anuncio"]
+futeboltvgratis.com##a[id="linkantes"]
+futeboltvgratis.com##div[class="vjs-watermark"]
+futeboltvgratis.com##div[id="adtaboola"]
+futeboltvgratis.com##form[onsubmit*=".pubads"]
+futeboltvgratis.com##img[id="imgantes"]
+futeboltvgratis.com##span[id^="viblast_"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -2998,6 +3009,9 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*filmezando*.*/wp-content/themes/*/dwflix/home-slide.json
 @@||*filmezando*.*/wp-content/themes/*/dwflix/home-slide.php
 @@||*filmezando*.*/wp-content/themes/*/dwflix/scripts.js
+! futeboltvgratis.com
+@@||futeboltv.com^$generichide
+@@||futeboltvgratis.com^$generichide
 ! adf.ly
 @@/nr-*.min.js$domain=clearload.bid
 @@/script/wait.php$domain=clearload.bid
@@ -3010,6 +3024,8 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||bitonclick.com/script/suurl.php?$script,domain=clearload.bid
 @@||boudja.com/$subdocument,domain=clearload.bid
 @@||boudja.com/popunder.gif$domain=clearload.bid
+@@||cdn.ay.gy/static/image/logo.png
+@@||cdn.clearload.bid$image,stylesheet
 @@||clearload.bid^$generichide
 @@||clearonclick.com/script/suurl.php?$script,domain=clearload.bid
 @@||liveadexchanger.com/a/display.php?$script,domain=clearload.bid
@@ -3021,8 +3037,6 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||unrestern.info/popunder.gif$domain=clearload.bid
 @@||venturead.com/script/suurl.php?$script,domain=clearload.bid
 @@||www.google-analytics.com^$domain=clearload.bid
-@@||cdn.clearload.bid$image,stylesheet
-@@||cdn.ay.gy/static/image/logo.png
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
