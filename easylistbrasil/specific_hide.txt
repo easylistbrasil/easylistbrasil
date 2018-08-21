@@ -1,4 +1,4 @@
-youtube.com###player-ads
+﻿youtube.com###player-ads
 youtube.com###ytd-player-legacy-desktop-watch-ads-renderer
 youtube.com##.ad-title
 youtube.com##.pyv-afc-ads-innerpyv-search-server-side
@@ -33,7 +33,6 @@ youtube.com##div[id="watch7-sidebar-ads"]
 youtube.com##iframe[id="video-masthead"]
 youtube.com##iframe[style="border: 0px; vertical-align: bottom; display: none;"]
 youtube.com##ytd-video-masthead-ad-renderer[class="style-scope ytd-browse"]
-﻿﻿! youtube.com
 ! openload.co
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
