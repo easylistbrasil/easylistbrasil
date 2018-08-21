@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808201828
+! Version: 201808210008
 ! Title: EasyList Brasil
-! Last modified: 20 Aug 2018 18:28 UTC
+! Last modified: 21 Aug 2018 00:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1205,6 +1205,8 @@ $popup,domain=widestream.io
 ||acceder.gratis^
 ||assistir.thenightseries.net$popup
 ||rotumal.com^$popup,third-party
+! adf.ly
+$popup,domain=clearload.bid
 ! popups
 $popup,domain=ydujmccmydwu.bid
 ! semi-generic popup block
@@ -1268,8 +1270,8 @@ olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="mediaspace_wrapper"] > script:last-child
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[style*="z-index"]
-##iframe[src="https://openload.co/corsframe.html"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##iframe[src="https://openload.co/corsframe.html"]
+##iframe[src="https://openload.co/corsframe.html"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##script
 ! vidzi.tv
 vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##.adsbox
@@ -2974,6 +2976,28 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*filmezando*.*/wp-content/themes/*/dwflix/home-slide.json
 @@||*filmezando*.*/wp-content/themes/*/dwflix/home-slide.php
 @@||*filmezando*.*/wp-content/themes/*/dwflix/scripts.js
+! adf.ly
+@@/nr-*.min.js$domain=clearload.bid
+@@/script/wait.php$domain=clearload.bid
+@@||*./script/wait.php?^$domain=clearload.bid
+@@||*/a/display.php?r=$script,domain=clearload.bid
+@@||*/script/pub.js$script,domain=clearload.bid
+@@||adexchangetracker.com/script/suurl.php?$script,domain=clearload.bid
+@@||b.adexchangemachine.com/script/wait.php?$domain=clearload.bid
+@@||bam.nr-data.net$script,domain=clearload.bid
+@@||bitonclick.com/script/suurl.php?$script,domain=clearload.bid
+@@||boudja.com/$subdocument,domain=clearload.bid
+@@||boudja.com/popunder.gif$domain=clearload.bid
+@@||clearload.bid^$generichide
+@@||clearonclick.com/script/suurl.php?$script,domain=clearload.bid
+@@||liveadexchanger.com/a/display.php?$script,domain=clearload.bid
+@@||liveadexchanger.com/a/display.php?$subdocument,domain=clearload.bid
+@@||maxonclick.com/script/suurl.php?$script,domain=clearload.bid
+@@||onclickprediction.com/script/suurl.php?$script,domain=clearload.bid
+@@||onclickpulse.com/script/chrome.js^$domain=clearload.bid
+@@||onclickpulse.com/script/identify.html$domain=clearload.bid
+@@||unrestern.info/popunder.gif$domain=clearload.bid
+@@||venturead.com/script/suurl.php?$script,domain=clearload.bid
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
@@ -3010,6 +3034,43 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
+! adf.ly
+@@||0bin.net/$popup,domain=clearload.bid
+@@||2shared.com/$popup,domain=clearload.bid
+@@||4shared.com/$popup,domain=clearload.bid
+@@||adrive.com/$popup,domain=clearload.bid
+@@||anonfiles.com/$popup,domain=clearload.bid
+@@||bitcasa.com/$popup,domain=clearload.bid
+@@||box.com/$popup,domain=clearload.bid
+@@||chopapp.com/$popup,domain=clearload.bid
+@@||codepad.org/$popup,domain=clearload.bid
+@@||copy.com/$popup,domain=clearload.bid
+@@||depositfiles.com/$popup,domain=clearload.bid
+@@||drive.google.com/$popup,domain=clearload.bid
+@@||dropbox.com/$popup,domain=clearload.bid
+@@||evernote.com/$popup,domain=clearload.bid
+@@||filefactory.com/$popup,domain=clearload.bid
+@@||fileserve.com/$popup,domain=clearload.bid
+@@||github.com/$popup,domain=clearload.bid
+@@||gitlab.com/$popup,domain=clearload.bid
+@@||hastebin.com/$popup,domain=clearload.bid
+@@||hightail.com/$popup,domain=clearload.bid
+@@||icloud.com/$popup,domain=clearload.bid
+@@||ideone.com/$popup,domain=clearload.bid
+@@||live.com/$popup,domain=clearload.bid
+@@||mediafire.com/$popup,domain=clearload.bid
+@@||mega.nz/#$popup
+@@||paste.ee/$popup,domain=clearload.bid
+@@||pastebin.com/$popup,domain=clearload.bid
+@@||pasted.co/$popup,domain=clearload.bid
+@@||raw.githubusercontent.com/$popup,domain=clearload.bid
+@@||snipt.org/$popup,domain=clearload.bid
+@@||spideroak.com/$popup,domain=clearload.bid
+@@||uploaded.net/$popup,domain=clearload.bid
+@@||userscloud.com/$popup,domain=clearload.bid
+@@||volafile.io/$popup,domain=clearload.bid
+@@||wetransfer.com/$popup,domain=clearload.bid
+@@||zippyshare.com/$popup,domain=clearload.bid
 ! *** easylistbrasil:easylistbrasil/adult_whitelist.txt ***
 ! redtube, pornhub, youporn, tube8
 @@||*.rdtcdn.com/www-static/cdn_files/redtube/js/*.js?*^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|youporn.com
