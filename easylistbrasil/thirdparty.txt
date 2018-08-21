@@ -44,6 +44,11 @@
 ||zdfyowkafur.com^$third-party
 ||zplvjgpxvh.com^$third-party
 ||zukxd6fkxqn.com^$third-party
+||redirect*.ws^
+||adsymptotic.com^$third-party
+||ineity.pro^$third-party
+||generaller.mobi^$third-party
+||popcash.net^
 ! Anti Coin Mining
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
