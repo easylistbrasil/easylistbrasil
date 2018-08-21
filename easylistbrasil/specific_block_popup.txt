@@ -20,6 +20,8 @@ $popup,domain=widestream.io
 ||acceder.gratis^
 ||assistir.thenightseries.net$popup
 ||rotumal.com^$popup,third-party
+! adf.ly
+$popup,domain=clearload.bid
 ! popups
 $popup,domain=ydujmccmydwu.bid
 ! semi-generic popup block
