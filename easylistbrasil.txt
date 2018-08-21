@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808210206
+! Version: 201808210208
 ! Title: EasyList Brasil
-! Last modified: 21 Aug 2018 02:06 UTC
+! Last modified: 21 Aug 2018 02:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1104,6 +1104,18 @@ get.$domain=xilften.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=filmezando.com
 ! bobfilmes.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=bobfilmes.com
+! adf.ly
+||*.xyz^$domain=clearload.bid
+||*.info^$domain=clearload.bid
+||*.com^$domain=clearload.bid
+||*.net^$domain=clearload.bid
+||*.site^$domain=clearload.bid
+/afu.php$domain=clearload.bid
+||go.onclasrv.com^$domain=clearload.bid
+/popunder.gif$domain=clearload.bid
+/show.php$domain=clearload.bid
+||clearload.bid/puopen.php
+$csp=frame-src 'self',domain=clearload.bid
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
