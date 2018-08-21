@@ -507,17 +507,20 @@ get.$domain=xilften.net
 ! bobfilmes.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=bobfilmes.com
 ! adf.ly
-||*.xyz^$domain=clearload.bid
-||*.info^$domain=clearload.bid
-||*.com^$domain=clearload.bid
-||*.net^$domain=clearload.bid
-||*.site^$domain=clearload.bid
+$csp=frame-src 'self',domain=clearload.bid
 /afu.php$domain=clearload.bid
-||go.onclasrv.com^$domain=clearload.bid
 /popunder.gif$domain=clearload.bid
 /show.php$domain=clearload.bid
+||*.com^$domain=clearload.bid
+||*.info^$domain=clearload.bid
+||*.net^$domain=clearload.bid
+||*.site^$domain=clearload.bid
+||*.xyz^$domain=clearload.bid
 ||clearload.bid/puopen.php
-$csp=frame-src 'self',domain=clearload.bid
+||go.onclasrv.com^$domain=clearload.bid
+! futeboltv.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=futeboltv.com|futeboltvgratis.com
+||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

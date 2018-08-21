@@ -4,6 +4,7 @@
 ||.website^$third-party
 ||9likesg.com^$third-party
 ||adap.tv^$~object-subrequest,third-party
+||adsymptotic.com^$third-party
 ||afriflatry.co^$third-party
 ||areyouahuman.com^$third-party
 ||authorne.info^$popup,third-party
@@ -13,6 +14,7 @@
 ||defpush.com^$third-party
 ||drumuwimmzxqps.com^$third-party
 ||fwmrm.net^$~object-subrequest,third-party
+||generaller.mobi^$third-party
 ||ggyrnhdbqxufh.com^$third-party
 ||gmeomlvmqlmu.com^$third-party
 ||go.*.*^$third-party
@@ -20,6 +22,7 @@
 ||hcyqwhquqjosn.com^$third-party
 ||ie8eamus.com^$third-party
 ||imagetopng.club^$popup,third-party
+||ineity.pro^$third-party
 ||infolinks.com^$third-party
 ||ipehunxxyir.com^$third-party
 ||mellowads.com^$third-party
@@ -28,6 +31,8 @@
 ||onclickmega.com^$third-party
 ||onclicksuper.com^$third-party
 ||ooecgdeq.com^$third-party
+||popcash.net^
+||redirect*.ws^
 ||rhmyiplqmuupmf.com^$third-party
 ||sendpulse.com^$third-party,domain=seriesonlinex.org
 ||smartadtags.com^$third-party
@@ -44,11 +49,6 @@
 ||zdfyowkafur.com^$third-party
 ||zplvjgpxvh.com^$third-party
 ||zukxd6fkxqn.com^$third-party
-||redirect*.ws^
-||adsymptotic.com^$third-party
-||ineity.pro^$third-party
-||generaller.mobi^$third-party
-||popcash.net^
 ! Anti Coin Mining
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
