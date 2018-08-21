@@ -718,3 +718,8 @@ bobfilmes.com##a[href*="ads."]
 bobfilmes.com##div[class="afs_ads"]
 bobfilmes.com##div[id*="floatLayer"]
 bobfilmes.com##div[style*="z-index"]
+! adf.ly
+clearload.bid#?#div[id="_bd"] > p:-abp-contains(advert)
+clearload.bid#?#div[id="_bd"] > p:-abp-contains(Atenção)
+clearload.bid#?#div[id="_bd"] > p:-abp-contains(Warning)
+clearload.bid##iframe[src*="redirect"]
