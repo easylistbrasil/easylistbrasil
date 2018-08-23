@@ -4,3 +4,10 @@
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
+! aba sites pornhub nas buscas
+@@||pornhub.com^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
+@@||redtube.com.br^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
+@@||redtube.com^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
+@@||sexyhotplay.com.br^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
+@@||tube8.com^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
+@@||youporn.com^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
