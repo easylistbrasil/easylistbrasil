@@ -13,7 +13,6 @@
 /banner.gif?
 /blockadblock.js
 /frameads.
-/gen_204?$image,script
 /home_zidor.php?
 /icon-vkontakte.
 /icon_mailru.
