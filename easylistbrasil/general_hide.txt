@@ -98,7 +98,7 @@
 ##[id^="total"][id$="banner"]
 ~bing.com,~disqus.com,~facebook.com,~github.com,~github.io,~gitlab.com,~gmail.com,~google.com,~google.com.br,~linkedin.com,~live.com,~pinterest.com,~reddit.com,~twitter.com,~yahoo.com,~yahoo.com.br,~youtube.com##[src*="data:image"]
 ##a[href*=".adk2x.com/"]
-##a[href*="ads."]
+~bing.com,~disqus.com,~facebook.com,~github.com,~github.io,~gitlab.com,~gmail.com,~google.com,~google.com.br,~linkedin.com,~live.com,~pinterest.com,~reddit.com,~twitter.com,~yahoo.com,~yahoo.com.br##a[href*="ads."]
 ##a[href*="adserver"]
 ##a[href*="adstract"]
 ##a[href*="marketing"]
