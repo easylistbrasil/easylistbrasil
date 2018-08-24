@@ -1,39 +1,3 @@
-﻿youtube.com###player-ads
-youtube.com###ytd-player-legacy-desktop-watch-ads-renderer
-youtube.com##.ad-title
-youtube.com##.pyv-afc-ads-innerpyv-search-server-side
-youtube.com##.ytp-buttonytp-share-button
-youtube.com##div[class="ad-div mastad"]
-youtube.com##div[class="alerts-wrapper"]
-youtube.com##div[class="annotation-shape annotation-popup-shape annotation-type-text"]
-youtube.com##div[class="html5-video-player ad-created ytp-small-mode ad-showing ad-interrupting videoAdUiRedesign ytp-video-ad-learn-more-ui iv-module-created iv-module-loaded paused-mode"]
-youtube.com##div[class="masthead-ad-control open content-alignment masthead-ad-control-header hid"]
-youtube.com##div[class="pyv-afc-ads-container"]
-youtube.com##div[class="pyv-afc-ads-inner pyv-search-server-side"]
-youtube.com##div[class="video-ads"]
-youtube.com##div[class="videoAdUiBottomBar"]
-youtube.com##div[class="videoAdUiProgressBar"]
-youtube.com##div[class="videoAdUiSkipButton videoAdUiAction"]
-youtube.com##div[class="videoAdUiSkipContainer html5-stop-propagation"]
-youtube.com##div[class="ytp-ad-persistent-progress-bar"]
-youtube.com##div[class="ytp-ad-persistent-progress-bar-container"]
-youtube.com##div[class="ytp-ad-progress"]
-youtube.com##div[class="ytp-ad-progress-list"]
-youtube.com##div[class="ytp-button ytp-share-button"]
-youtube.com##div[class="ytp-title ytp-title-extra-info"]
-youtube.com##div[id="ad_creative_1"]
-youtube.com##div[id="ad_creative_expand_btn_1"]
-youtube.com##div[id="feed-pyv-container"]
-youtube.com##div[id="footer-ads"]
-youtube.com##div[id="hats-container"]
-youtube.com##div[id="masthead-ad"]
-youtube.com##div[id="video-masthead"]
-youtube.com##div[id="watch7-hidden-extras"]
-youtube.com##div[id="watch7-sidebar-ads"]
-youtube.com##iframe[id="video-masthead"]
-youtube.com##iframe[style="border: 0px; vertical-align: bottom; display: none;"]
-youtube.com##ytd-video-masthead-ad-renderer[class="style-scope ytd-browse"]
-! openload.co
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
@@ -42,6 +6,7 @@ olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[style*="z-index"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##iframe[src="https://openload.co/corsframe.html"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##script
+﻿! openload.co
 ! vidzi.tv
 vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##.adsbox
 vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##div[class="large-zi-center"]
