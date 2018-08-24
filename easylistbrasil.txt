@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808232027
+! Version: 201808240454
 ! Title: EasyList Brasil
-! Last modified: 23 Aug 2018 20:27 UTC
+! Last modified: 24 Aug 2018 04:54 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -603,7 +603,6 @@ adblockplus.org#@#a[href*="adserver"]
 /pagead/$domain=youtube.com
 /pubads.$media,xmlhttprequest,domain=youtube.com
 /vmclicksq^$domain=youtube.com
-||youtube.com/api/stats/ads?
 ||youtube.com/get_endscreen?
 ||youtube.com/get_midroll_
 ! video ad - Web Sniffer
