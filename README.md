@@ -1,7 +1,7 @@
 
 ### EasyList Brasil
 
-[Adicionar](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt&title=EasyList Brasil)
+[Adicionar](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt&title=EasyList%20Brasil)
 
 [Android](https://easylistbrasil.github.io/main/2018/08/22/android.html)
 
