@@ -3,7 +3,6 @@
 /pagead/$domain=youtube.com
 /pubads.$media,xmlhttprequest,domain=youtube.com
 /vmclicksq^$domain=youtube.com
-||youtube.com/api/stats/ads?
 ||youtube.com/get_endscreen?
 ||youtube.com/get_midroll_
 ! video ad - Web Sniffer
