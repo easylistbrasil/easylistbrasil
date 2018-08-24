@@ -482,6 +482,8 @@ get.$domain=xilften.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=filmezando.com
 ! bobfilmes.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=bobfilmes.com
+! aovivobrasil.com.br
+|http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
 $csp=frame-src 'self',domain=clearload.bid
 /afu.php$domain=clearload.bid

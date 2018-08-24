@@ -420,6 +420,7 @@
 @@||connect.facebook.net/en_US/fbevents.js
 @@||connect.facebook.net/pt_BR/sdk.js
 @@||content.jwplatform.com/libraries/*.js
+@@||developer.jwplayer.com/js/developer.js
 @@||disqus.com/embed/comments/
 @@||disqus.com/next/config.js
 @@||entitlements.jwplayer.com^$domain=pxstream.tv|tv-msn.com
@@ -1012,6 +1013,10 @@
 ! futeboltvgratis.com
 @@||futeboltv.com^$generichide
 @@||futeboltvgratis.com^$generichide
+! aovivobrasil.com.br
+@@||aovivobrasil.com.br/assets/js/fuckadblock.js
+@@||aovivobrasil.com.br^$generichide
+@@||maps.googleapis.com^$domain=aovivobrasil.com.br
 ! adf.ly
 @@/nr-*.min.js$domain=clearload.bid
 @@/script/wait.php$domain=clearload.bid
