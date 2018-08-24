@@ -1,5 +1,8 @@
 
 ### EasyList Brasil
+```
+https://github.com/easylistbrasil/easylistbrasil/raw/filtro/easylistbrasil.txt
+```
 
 [Adicionar](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt&title=EasyList%20Brasil)
 
