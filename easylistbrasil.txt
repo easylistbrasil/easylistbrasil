@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808240502
+! Version: 201808240518
 ! Title: EasyList Brasil
-! Last modified: 24 Aug 2018 05:02 UTC
+! Last modified: 24 Aug 2018 05:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -599,19 +599,8 @@ adblockplus.org#@#a[href*="adserver"]
 ! ----------------------Filtros de bloqueio de anúncio específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_block.txt ***
 ! youtube.com
--pagead-id.$domain=youtube.com
-/pagead/$domain=youtube.com
-/pubads.$media,xmlhttprequest,domain=youtube.com
-/vmclicksq^$domain=youtube.com
 ||youtube.com/get_endscreen?
 ||youtube.com/get_midroll_
-! video ad - Web Sniffer
-/annotations_invideo?instream_ad=*^$xmlhttprequest,domain=youtube.com
-/csi_204$domain=youtube.com
-/generate_204$domain=youtube.com
-/mac_204^$xmlhttprequest,domain=youtube.com
-/videogoodput$xmlhttprequest,domain=youtube.com
-||beacons.gcp.gvt2.com^$third-party,domain=youtube.com
 ! openload.co
 |http*://$popup,script,third-party,xmlhttprequest,domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*.com^$third-party,domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
@@ -1231,42 +1220,6 @@ $popup,domain=ydujmccmydwu.bid
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 ! ------------------------Regras de ocultação de elemento específico------------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-﻿youtube.com###player-ads
-youtube.com###ytd-player-legacy-desktop-watch-ads-renderer
-youtube.com##.ad-title
-youtube.com##.pyv-afc-ads-innerpyv-search-server-side
-youtube.com##.ytp-buttonytp-share-button
-youtube.com##div[class="ad-div mastad"]
-youtube.com##div[class="alerts-wrapper"]
-youtube.com##div[class="annotation-shape annotation-popup-shape annotation-type-text"]
-youtube.com##div[class="html5-video-player ad-created ytp-small-mode ad-showing ad-interrupting videoAdUiRedesign ytp-video-ad-learn-more-ui iv-module-created iv-module-loaded paused-mode"]
-youtube.com##div[class="masthead-ad-control open content-alignment masthead-ad-control-header hid"]
-youtube.com##div[class="pyv-afc-ads-container"]
-youtube.com##div[class="pyv-afc-ads-inner pyv-search-server-side"]
-youtube.com##div[class="video-ads"]
-youtube.com##div[class="videoAdUiBottomBar"]
-youtube.com##div[class="videoAdUiProgressBar"]
-youtube.com##div[class="videoAdUiSkipButton videoAdUiAction"]
-youtube.com##div[class="videoAdUiSkipContainer html5-stop-propagation"]
-youtube.com##div[class="ytp-ad-persistent-progress-bar"]
-youtube.com##div[class="ytp-ad-persistent-progress-bar-container"]
-youtube.com##div[class="ytp-ad-progress"]
-youtube.com##div[class="ytp-ad-progress-list"]
-youtube.com##div[class="ytp-button ytp-share-button"]
-youtube.com##div[class="ytp-title ytp-title-extra-info"]
-youtube.com##div[id="ad_creative_1"]
-youtube.com##div[id="ad_creative_expand_btn_1"]
-youtube.com##div[id="feed-pyv-container"]
-youtube.com##div[id="footer-ads"]
-youtube.com##div[id="hats-container"]
-youtube.com##div[id="masthead-ad"]
-youtube.com##div[id="video-masthead"]
-youtube.com##div[id="watch7-hidden-extras"]
-youtube.com##div[id="watch7-sidebar-ads"]
-youtube.com##iframe[id="video-masthead"]
-youtube.com##iframe[style="border: 0px; vertical-align: bottom; display: none;"]
-youtube.com##ytd-video-masthead-ad-renderer[class="style-scope ytd-browse"]
-! openload.co
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
@@ -1275,6 +1228,7 @@ olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[style*="z-index"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##iframe[src="https://openload.co/corsframe.html"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##script
+﻿! openload.co
 ! vidzi.tv
 vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##.adsbox
 vidzi.nu,vidzi.online,vidzi.si,vidzi.tv##div[class="large-zi-center"]
