@@ -6,14 +6,14 @@ https://github.com/easylistbrasil/easylistbrasil/raw/filtro/easylistbrasil.txt
 
 Compatível com: [Adblock][], [Adblock Plus][], [uBlock Origin][], e [AdGuard][].
 
-[Adblock]: https://getadblock.com/{:target="_blank"}
-[Adblock Plus]: https://adblockplus.org/{:target="_blank"}
-[uBlock Origin]: https://github.com/gorhill/uBlock{:target="_blank"}
-[AdGuard]: https://adguard.com/{:target="_blank"}
+[Adblock]: https://getadblock.com/
+[Adblock Plus]: https://adblockplus.org/
+[uBlock Origin]: https://github.com/gorhill/uBlock
+[AdGuard]: https://adguard.com/
 
 [Adicionar](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt&title=EasyList%20Brasil)
 
-[Android](https://easylistbrasil.github.io/main/2018/08/22/android.html)
+[Android](https://easylistbrasil.github.io/main/2018/08/22/android.html){:target="_blank"}
 
 ### Sobre
 
