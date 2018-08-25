@@ -13,7 +13,7 @@ Compatível com: [Adblock][], [Adblock Plus][], [uBlock Origin][], e [AdGuard][]
 
 [Adicionar](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt&title=EasyList%20Brasil)
 
-[Android](https://easylistbrasil.github.io/main/2018/08/22/android.html "title" target="_blank")
+[Android](https://easylistbrasil.github.io/main/2018/08/22/android.html)
 
 ### Sobre
 
