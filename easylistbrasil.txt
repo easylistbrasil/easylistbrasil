@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808270151
+! Version: 201808270226
 ! Title: EasyList Brasil
-! Last modified: 27 Aug 2018 01:51 UTC
+! Last modified: 27 Aug 2018 02:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1102,6 +1102,9 @@ $csp=frame-src 'self',domain=clearload.bid
 ||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
 ! rarbg.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=rarbg.to|rarbgproxied.org
+! torrentfilmes
+||receitasdamaria.*^$script,third-party,xmlhttprequest
+||torrentfilmes.*^$script,third-party,xmlhttprequest
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1206,7 +1209,7 @@ $popup,domain=widestream.io
 ! adf.ly
 $popup,domain=clearload.bid
 ! popups
-$popup,domain=ydujmccmydwu.bid
+$popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torrentfilmes.net|ydujmccmydwu.bid
 ! semi-generic popup block
 /http*.:\/\/.*[?|=|&|%|#|+].*/$popup,domain=abcast.me|abcast.net|aovivonatv.com|baixarfilmestorrent.me|buffstream.com|canais.gratis|canais.ink|cinepremiere.net|comandofilmes.tv|comandotorrents.com|darthfilmes.com.br|ekostreams.co|ekostreams.me|embeducaster.com|filmeshd-online.com|filmesonlinegratis.co|filmesonlineplay.com|filmesonlineseries.net|filmesonlineuhd.com|filmesonlinex.br|filmesonlinex.cc|filmesonlinex.co|filmesonlinex.com|filmesonlinex.com.br|filmesonlinex.gratis|filmesonlinex.info|filmesonlinex.me|filmesonlinex.net|filmesonlinex.online|filmesonlinex.org|filmesonlinex.ru|filmesonlinex.site|filmesonlinex.tk|filmesonlinex.top|filmesonlinex.tv|filmesonlinex.us|filmesonlinex.vip|flashx.co|flashx.tv|flashx1.tv|freelivestream.tv|fruitadblock.net|futebolaovivo.in|futebolaovivohd.net|g1futebolaovivo.com|geroubuzz.com|hipertela.net|hqq.tv|hqq.watch|iptv.gratis|janjuaplayer.com|kastream.biz|legendei.com|megafilmes.co|megafilmes.org|megafilmes.tv|megafilmesahd.com|megafilmeshd.org|megafilmeshd50.top|megafilmeshdplus.org|megafilmesonline-hd.com|megafilmesonlinegratis.org|megafilmess.com|megafilmesserieshd.com|megaseriehd.com|micetop.co|micetop.com|micetop.net|micetop.org|micetop.tv|micetop.us|mipsplayer.com|netcine.tk|netcine.us|netesportiva.com|olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|onplay.tv|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|otampadabola2.com|p3g.tv|playflixhd.co|playtop.online|popfilmeshd.net|portalzuca.com|qqfilmes.com|qqfilmes.net|qqfilmes.online|qqfilmes.org|rapidvideo.com|redecanais.cz|redecanais.gratis|redecanais.ink|redecanais.me|seriesonlinehd.biz|seriesonlinex.com|sosfilmes.com|sportzonline.xyz|streamango.com|streamcherry.com|streamlive.to|streamplay.to|thevid.net|torcidatricolor.eu|tudotv.tv|tudotvonline.com|tugaflix.com|tugaflix.date|tv-aovivo.nl|tvonline.plus|tvonlineaovivo.net|verfilmes.biz|vertv.me|vidlox.me|vidlox.tv|vidnode.net|vidoza.net|vidto.co|vidto.com|vidto.io|vidto.me|vidto.net|vidto.se|vidto.to|vidto.top|vidto.tv|vidzi.nu|vidzi.online|vidzi.si|vidzi.tv|vlive.pw|vto.gratis|watchers.to|watchvideo.us|week-series.com|weekseries.net|whostreams.net|widestream.io|wstream.video|xilften.net
 /http*.:\/\/.*[a-zA-Z0-9]{110,}.*/$popup,domain=abcast.me|abcast.net|aovivonatv.com|apollocdn.cc|baixarfilmestorrent.me|buffstream.com|canais.gratis|canais.ink|cinepremiere.net|comandofilmes.tv|comandotorrents.com|darthfilmes.com.br|ekostreams.co|ekostreams.me|embeducaster.com|filmeshd-online.com|filmesonlinegratis.co|filmesonlineplay.com|filmesonlineseries.net|filmesonlineuhd.com|filmesonlinex.br|filmesonlinex.cc|filmesonlinex.co|filmesonlinex.com|filmesonlinex.com.br|filmesonlinex.gratis|filmesonlinex.info|filmesonlinex.me|filmesonlinex.net|filmesonlinex.online|filmesonlinex.org|filmesonlinex.ru|filmesonlinex.site|filmesonlinex.tk|filmesonlinex.top|filmesonlinex.tv|filmesonlinex.us|filmesonlinex.vip|flashx.co|flashx.tv|flashx1.tv|freelivestream.tv|fruitadblock.net|futebolaovivo.in|futebolaovivohd.net|g1futebolaovivo.com|geroubuzz.com|hipertela.net|hqq.tv|hqq.watch|iptv.gratis|janjuaplayer.com|kastream.biz|legendei.com|megafilmes.co|megafilmes.org|megafilmes.tv|megafilmesahd.com|megafilmeshd.org|megafilmeshd50.top|megafilmeshdplus.org|megafilmesonline-hd.com|megafilmesonlinegratis.org|megafilmess.com|megafilmesserieshd.com|megaseriehd.com|micetop.co|micetop.com|micetop.net|micetop.org|micetop.tv|micetop.us|mipsplayer.com|netcine.tk|netcine.us|netesportiva.com|olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|onplay.tv|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|otampadabola2.com|p3g.tv|playflixhd.co|playtop.online|popfilmeshd.net|portalzuca.com|qqfilmes.com|qqfilmes.net|qqfilmes.online|qqfilmes.org|rapidvideo.com|redecanais.cz|redecanais.gratis|redecanais.ink|redecanais.me|seriesonlinehd.biz|seriesonlinex.com|sosfilmes.com|sportzonline.xyz|streamango.com|streamcherry.com|streamlive.to|streamplay.to|thevid.net|torcidatricolor.eu|tudotv.tv|tudotvonline.com|tugaflix.com|tugaflix.date|tv-aovivo.nl|tvonline.plus|tvonlineaovivo.net|verfilmes.biz|vertv.me|vidlox.me|vidlox.tv|vidnode.net|vidoza.net|vidto.co|vidto.com|vidto.io|vidto.me|vidto.net|vidto.se|vidto.to|vidto.top|vidto.tv|vidzi.nu|vidzi.online|vidzi.si|vidzi.tv|vlive.pw|vto.gratis|watchers.to|watchvideo.us|week-series.com|weekseries.net|whostreams.net|widestream.io|wstream.video|xilften.net
@@ -1225,7 +1228,7 @@ $popup,domain=ydujmccmydwu.bid
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 ! ------------------------Regras de ocultação de elemento específico------------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz##.videologo
+oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -1928,6 +1931,8 @@ terra.com.br##div[class^="cards"][class$="ad"]
 ! uol.com.br
 uol.com.br##div[class*="-ofertas-"]
 uol.com.br##div[class*="moduloBanner"]
+! receitasdamaria.me
+receitasdamaria.me##ins[class="adsbygoogle"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -2997,6 +3002,8 @@ uol.com.br#@#[src*="data:image"]
 @@||dyncdn.me/static/*/js/comments2.min.js
 @@||dyncdn.me/static/*/js/rating3.js
 @@||dyncdn.me/static/*/js/scrollspy.min.js
+! receitasdamaria.me
+@@||receitasdamaria.me^$generichide
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
@@ -3070,6 +3077,11 @@ uol.com.br#@#[src*="data:image"]
 @@||volafile.io/$popup,domain=clearload.bid
 @@||wetransfer.com/$popup,domain=clearload.bid
 @@||zippyshare.com/$popup,domain=clearload.bid
+! torrentfilmes
+@@||link-download.in$popup,domain=torrentfilmes.biz|torrentfilmes.net
+@@||receitasdamaria.me$popup,domain=torrentfilmes.biz|torrentfilmes.net
+@@||significadosbrasil.com$popup,domain=torrentfilmes.biz|torrentfilmes.net
+@@||sites.google.com$popup,domain=torrentfilmes.biz|torrentfilmes.net
 ! *** easylistbrasil:easylistbrasil/adult_whitelist.txt ***
 ! redtube, pornhub, youporn, tube8
 @@||*.rdtcdn.com/www-static/cdn_files/redtube/js/*.js?*^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|youporn.com
