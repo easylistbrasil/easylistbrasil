@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808270328
+! Version: 201808270340
 ! Title: EasyList Brasil
-! Last modified: 27 Aug 2018 03:28 UTC
+! Last modified: 27 Aug 2018 03:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1238,7 +1238,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 ! ------------------------Regras de ocultação de elemento específico------------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com##.videologo
+oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -1767,6 +1767,7 @@ comandofilmes.tv##div[id*="floatLayer"]
 comandofilmes.tv##div[style*="z-index"]
 ! comandotorrents.com
 comandotorrents.com##a[href*="baa2e174884c9c0460e.com"]
+comandotorrents.com##center
 comandotorrents.com##div[class="afs_ads"]
 comandotorrents.com##div[id*="floatLayer"]
 comandotorrents.com##div[style*="z-index"]
@@ -1947,10 +1948,10 @@ receitasdamaria.me##ins[class="adsbygoogle"]
 torrentmegafilmes.com##center
 legendasonline.net##div[class="Banner"]
 legendasonline.net##div[class="text-left"]
-receitasmaster.net##div[id^="adx"]
+receitasdabela.com,receitasmaster.net##div[id^="adx"]
 legendasonline.net##div[id^="pop"]
 legendasonline.net##ins[class="adsbygoogle"]
-receitasmaster.net##td[background*="/topo.jpg"]
+receitasdabela.com,receitasmaster.net##td[background*="/topo.jpg"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3058,7 +3059,9 @@ uol.com.br#@#[src*="data:image"]
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||i.imgur.com/xSIkNpm.png$image,popup
 @@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||masterads.info$popup,domain=comandotorrents.com
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||receitasdabela.com$popup,domain=comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
 ! adf.ly
 @@||0bin.net/$popup,domain=clearload.bid
