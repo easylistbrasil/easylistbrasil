@@ -501,6 +501,9 @@ $csp=frame-src 'self',domain=clearload.bid
 ||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
 ! rarbg.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=rarbg.to|rarbgproxied.org
+! torrentfilmes
+||receitasdamaria.*^$script,third-party,xmlhttprequest
+||torrentfilmes.*^$script,third-party,xmlhttprequest
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

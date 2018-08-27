@@ -68,3 +68,8 @@
 @@||volafile.io/$popup,domain=clearload.bid
 @@||wetransfer.com/$popup,domain=clearload.bid
 @@||zippyshare.com/$popup,domain=clearload.bid
+! torrentfilmes
+@@||link-download.in$popup,domain=torrentfilmes.biz|torrentfilmes.net
+@@||receitasdamaria.me$popup,domain=torrentfilmes.biz|torrentfilmes.net
+@@||significadosbrasil.com$popup,domain=torrentfilmes.biz|torrentfilmes.net
+@@||sites.google.com$popup,domain=torrentfilmes.biz|torrentfilmes.net

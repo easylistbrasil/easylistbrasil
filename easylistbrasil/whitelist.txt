@@ -1050,3 +1050,5 @@ uol.com.br#@#[src*="data:image"]
 @@||dyncdn.me/static/*/js/comments2.min.js
 @@||dyncdn.me/static/*/js/rating3.js
 @@||dyncdn.me/static/*/js/scrollspy.min.js
+! receitasdamaria.me
+@@||receitasdamaria.me^$generichide
