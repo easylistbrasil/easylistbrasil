@@ -1052,3 +1052,5 @@ uol.com.br#@#[src*="data:image"]
 @@||dyncdn.me/static/*/js/scrollspy.min.js
 ! receitasdamaria.me
 @@||receitasdamaria.me^$generichide
+! legendasonline.net
+@@||legendasonline.net^$generichide

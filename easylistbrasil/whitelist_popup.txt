@@ -74,3 +74,7 @@
 @@||receitasdamaria.me$popup,domain=torrentfilmes.biz|torrentfilmes.net
 @@||significadosbrasil.com$popup,domain=torrentfilmes.biz|torrentfilmes.net
 @@||sites.google.com$popup,domain=torrentfilmes.biz|torrentfilmes.net
+! torrentmegafilmes.com
+@@||legendasonline.net$popup,domain=torrentmegafilmes.com
+@@||masterads.info$popup,domain=torrentmegafilmes.com
+@@||receitasmaster.net$popup,domain=torrentmegafilmes.com

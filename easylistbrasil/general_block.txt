@@ -19,6 +19,7 @@
 /images/close_gray.png
 /img/pub*.jpg
 /includes/ads/*
+/instagram/cache.js$domain=~instagram.com
 /js/gcounter.js
 /js/pop-under.js
 /js/pop.js
