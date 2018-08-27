@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808270226
+! Version: 201808270234
 ! Title: EasyList Brasil
-! Last modified: 27 Aug 2018 02:26 UTC
+! Last modified: 27 Aug 2018 02:34 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1104,6 +1104,7 @@ $csp=frame-src 'self',domain=clearload.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=rarbg.to|rarbgproxied.org
 ! torrentfilmes
 ||receitasdamaria.*^$script,third-party,xmlhttprequest
+||significadosbrasil.*^$script,third-party,xmlhttprequest
 ||torrentfilmes.*^$script,third-party,xmlhttprequest
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
