@@ -24,6 +24,8 @@
 @@||assistirseriados.net/p/video.php$popup
 @@||baixaki.com.br/download/*.htm$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||canais.gratis/*.html$popup
+@@||caxiasdigital.com$popup,domain=ondeeubaixo.com.br
+@@||desapegacaxias.com$popup,domain=ondeeubaixo.com.br
 @@||filmeseseriesonlinex.com/wp-login.php$popup
 @@||goo.gl/fAuSYT$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||i.imgur.com/XFFTBtB.png$image,popup
