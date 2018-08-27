@@ -29,7 +29,9 @@
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||i.imgur.com/xSIkNpm.png$image,popup
 @@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||masterads.info$popup,domain=comandotorrents.com
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||receitasdabela.com$popup,domain=comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
 ! adf.ly
 @@||0bin.net/$popup,domain=clearload.bid

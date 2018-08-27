@@ -1,4 +1,4 @@
-oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com##.videologo
+oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -527,6 +527,7 @@ comandofilmes.tv##div[id*="floatLayer"]
 comandofilmes.tv##div[style*="z-index"]
 ! comandotorrents.com
 comandotorrents.com##a[href*="baa2e174884c9c0460e.com"]
+comandotorrents.com##center
 comandotorrents.com##div[class="afs_ads"]
 comandotorrents.com##div[id*="floatLayer"]
 comandotorrents.com##div[style*="z-index"]
@@ -707,7 +708,7 @@ receitasdamaria.me##ins[class="adsbygoogle"]
 torrentmegafilmes.com##center
 legendasonline.net##div[class="Banner"]
 legendasonline.net##div[class="text-left"]
-receitasmaster.net##div[id^="adx"]
+receitasdabela.com,receitasmaster.net##div[id^="adx"]
 legendasonline.net##div[id^="pop"]
 legendasonline.net##ins[class="adsbygoogle"]
-receitasmaster.net##td[background*="/topo.jpg"]
+receitasdabela.com,receitasmaster.net##td[background*="/topo.jpg"]
