@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808270340
+! Version: 201808270355
 ! Title: EasyList Brasil
-! Last modified: 27 Aug 2018 03:40 UTC
+! Last modified: 27 Aug 2018 03:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1115,6 +1115,8 @@ $csp=frame-src 'self',domain=clearload.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=torrentmegafilmes.com
 ! receitasmaster.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=receitasmaster.net
+! ondeeubaixo.com.br
+|http*://$popup,script,third-party,xmlhttprequest,domain=ondeeubaixo.com.br
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1238,7 +1240,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 ! ------------------------Regras de ocultação de elemento específico------------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download##.videologo
+oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -1952,6 +1954,8 @@ receitasdabela.com,receitasmaster.net##div[id^="adx"]
 legendasonline.net##div[id^="pop"]
 legendasonline.net##ins[class="adsbygoogle"]
 receitasdabela.com,receitasmaster.net##td[background*="/topo.jpg"]
+! caxiasdigital.com
+caxiasdigital.com##center
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3054,6 +3058,8 @@ uol.com.br#@#[src*="data:image"]
 @@||assistirseriados.net/p/video.php$popup
 @@||baixaki.com.br/download/*.htm$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||canais.gratis/*.html$popup
+@@||caxiasdigital.com$popup,domain=ondeeubaixo.com.br
+@@||desapegacaxias.com$popup,domain=ondeeubaixo.com.br
 @@||filmeseseriesonlinex.com/wp-login.php$popup
 @@||goo.gl/fAuSYT$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||i.imgur.com/XFFTBtB.png$image,popup
