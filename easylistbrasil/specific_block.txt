@@ -503,6 +503,7 @@ $csp=frame-src 'self',domain=clearload.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=rarbg.to|rarbgproxied.org
 ! torrentfilmes
 ||receitasdamaria.*^$script,third-party,xmlhttprequest
+||significadosbrasil.*^$script,third-party,xmlhttprequest
 ||torrentfilmes.*^$script,third-party,xmlhttprequest
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
