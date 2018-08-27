@@ -1046,3 +1046,7 @@
 @@||icarros.com.br^$genericblock,generichide,image
 ! uol.com.br
 uol.com.br#@#[src*="data:image"]
+! rarbg.to
+@@||dyncdn.me/static/*/js/comments2.min.js
+@@||dyncdn.me/static/*/js/rating3.js
+@@||dyncdn.me/static/*/js/scrollspy.min.js
