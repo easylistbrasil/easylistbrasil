@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808261831
+! Version: 201808270137
 ! Title: EasyList Brasil
-! Last modified: 26 Aug 2018 18:31 UTC
+! Last modified: 27 Aug 2018 01:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -278,6 +278,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ##div[class="jw-dockjw-reset"]
 ##div[class="jw-logojw-resetjw-hide"]
 ##div[class="mspopup"]
+##div[data-item-id^="~~V1~~"]
 ##div[id="divPanel"]
 ~bing.com,~blokada.org,~facebook.com,~github.com,~github.io,~gitlab.com,~gmail.com,~google.com,~google.com.br,~instagram.com,~linkedin.com,~live.com,~pinterest.com,~rapidvideo.com,~reddit.com,~twitter.com,~yahoo.com,~yahoo.com.br##div[style*="z-index"]
 ##dmbar[id="dm_topbar"]
@@ -1222,7 +1223,7 @@ $popup,domain=ydujmccmydwu.bid
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 ! ------------------------Regras de ocultação de elemento específico------------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net##.videologo
+oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -1917,6 +1918,14 @@ futeboltvgratis.com##div[id="adtaboola"]
 futeboltvgratis.com##form[onsubmit*=".pubads"]
 futeboltvgratis.com##img[id="imgantes"]
 futeboltvgratis.com##span[id^="viblast_"]
+! terra.com.br
+terra.com.br##div[class*="-taboola_"]
+terra.com.br##div[class*="advertising"]
+terra.com.br##div[class="ad-topstories"]
+terra.com.br##div[class^="cards"][class$="ad"]
+! uol.com.br
+uol.com.br##div[class*="-ofertas-"]
+uol.com.br##div[class*="moduloBanner"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -2980,6 +2989,8 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||www.google-analytics.com^$domain=clearload.bid
 ! icarros.com.br
 @@||icarros.com.br^$genericblock,generichide,image
+! uol.com.br
+uol.com.br#@#[src*="data:image"]
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
