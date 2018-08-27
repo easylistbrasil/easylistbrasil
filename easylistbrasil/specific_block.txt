@@ -505,6 +505,8 @@ $csp=frame-src 'self',domain=clearload.bid
 ||receitasdamaria.*^$script,third-party,xmlhttprequest
 ||significadosbrasil.*^$script,third-party,xmlhttprequest
 ||torrentfilmes.*^$script,third-party,xmlhttprequest
+! thefilmestorrents.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=thefilmestorrents.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
