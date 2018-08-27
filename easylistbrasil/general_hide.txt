@@ -117,6 +117,7 @@
 ##div[class="jw-dockjw-reset"]
 ##div[class="jw-logojw-resetjw-hide"]
 ##div[class="mspopup"]
+##div[data-item-id^="~~V1~~"]
 ##div[id="divPanel"]
 ~bing.com,~blokada.org,~facebook.com,~github.com,~github.io,~gitlab.com,~gmail.com,~google.com,~google.com.br,~instagram.com,~linkedin.com,~live.com,~pinterest.com,~rapidvideo.com,~reddit.com,~twitter.com,~yahoo.com,~yahoo.com.br##div[style*="z-index"]
 ##dmbar[id="dm_topbar"]

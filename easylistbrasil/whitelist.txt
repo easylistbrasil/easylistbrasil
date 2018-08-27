@@ -1044,3 +1044,5 @@
 @@||www.google-analytics.com^$domain=clearload.bid
 ! icarros.com.br
 @@||icarros.com.br^$genericblock,generichide,image
+! uol.com.br
+uol.com.br#@#[src*="data:image"]
