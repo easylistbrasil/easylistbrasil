@@ -1,4 +1,5 @@
 megafilmes.org,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesserieshd.com#@#[class*="modal"]
+reddit.com#@#[href*="anuncio"]
 megafilmes.org,megafilmesonline-hd.com#@#[id*="modal"]
 temanimes.net,temfilmes.net,temseries.net#@#[id*="tela"]
 canais.ink#@#body > div:last-child
