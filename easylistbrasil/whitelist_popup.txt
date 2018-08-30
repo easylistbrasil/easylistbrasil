@@ -21,12 +21,15 @@
 @@||imdb.com/video/imdb/$popup
 @@||imdb.com/videoplayer/$popup
 ! outros
+@@||abrirlinks.com$popup,domain=bludv.me|filmestr.com|sofilmestorrent.com|wolverdonfilmes.org
 @@||assistirseriados.net/p/video.php$popup
 @@||baixaki.com.br/download/*.htm$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||bludv.me$popup,domain=filmestr.com
 @@||canais.gratis/*.html$popup
 @@||caxiasdigital.com$popup,domain=ondeeubaixo.com.br
 @@||desapegacaxias.com$popup,domain=ondeeubaixo.com.br
 @@||filmeseseriesonlinex.com/wp-login.php$popup
+@@||filmestr.com$popup,domain=sofilmestorrent.com
 @@||goo.gl/fAuSYT$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||i.imgur.com/xSIkNpm.png$image,popup

@@ -1054,3 +1054,5 @@ uol.com.br#@#[src*="data:image"]
 @@||receitasdamaria.me^$generichide
 ! legendasonline.net
 @@||legendasonline.net^$generichide
+! minhaconexao.com.br
+@@||minhaconexao.com.br/js/ads_detect.js

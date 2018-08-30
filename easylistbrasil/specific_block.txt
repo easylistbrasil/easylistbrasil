@@ -515,6 +515,16 @@ $csp=frame-src 'self',domain=clearload.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=receitasmaster.net
 ! ondeeubaixo.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=ondeeubaixo.com.br
+! filmestorrent.co
+|http*://$popup,script,third-party,xmlhttprequest,domain=filmestorrent.co
+! wolverdonfilmes.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=wolverdonfilmes.org
+! sofilmestorrent.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=sofilmestorrent.com
+! filmestr.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=filmestr.com
+! bludv.me
+|http*://$popup,script,third-party,xmlhttprequest,domain=bludv.me
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

@@ -102,6 +102,7 @@
 ##a[href*="adserver"]
 ##a[href*="adstract"]
 ##a[href*="marketing"]
+##a[href*="traqueto.com"]
 ##ad_creative_expand_btn_1
 ##ads_id
 ##adsdiv
