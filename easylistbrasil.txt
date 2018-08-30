@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808301833
+! Version: 201808302232
 ! Title: EasyList Brasil
-! Last modified: 30 Aug 2018 18:33 UTC
+! Last modified: 30 Aug 2018 22:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -349,6 +349,7 @@ adblockplus.org#@#a[href*="adserver"]
 ||clevernt.com^$third-party
 ||defpush.com^$third-party
 ||drumuwimmzxqps.com^$third-party
+||func*clam.co*^$third-party
 ||fwmrm.net^$~object-subrequest,third-party
 ||generaller.mobi^$third-party
 ||ggyrnhdbqxufh.com^$third-party
@@ -1256,7 +1257,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 ! ------------------------Regras de ocultação de elemento específico------------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me##.videologo
+oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -1981,6 +1982,21 @@ sofilmestorrent.com##a[href*="/mensagem-importante-"]
 bludvfilmes.com##div[id*="floatLayer"]
 ! soparagamestorrents.com
 soparagamestorrents.com##div[id*="floatLayer"]
+! globo.com
+abril.com.br,globo.com##[class$="-advertising"]
+abril.com.br,globo.com##a[href*="-adblock"]
+abril.com.br,globo.com##div[class$="-superbanner"]
+abril.com.br,globo.com##div[class*="publicidade"]
+abril.com.br,globo.com##div[class="OUTBRAIN"]
+abril.com.br,globo.com##div[class="ad-sense"]
+abril.com.br,globo.com##div[class^="block__advertising"]
+abril.com.br,globo.com##div[id^="abrAD_"]
+abril.com.br,globo.com##div[id^="ad_3"][class="widget"]
+abril.com.br,globo.com##div[id^="outbrain-"]
+! istoe.com.br
+istoe.com.br#?#div[id*="trc_wrapper_"]:-abp-has(div > span:-abp-contains(gostar))
+! estadao.com.br
+estadao.com.br##div[class^="taboola-"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
