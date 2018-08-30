@@ -13,6 +13,7 @@
 ||clevernt.com^$third-party
 ||defpush.com^$third-party
 ||drumuwimmzxqps.com^$third-party
+||func*clam.co*^$third-party
 ||fwmrm.net^$~object-subrequest,third-party
 ||generaller.mobi^$third-party
 ||ggyrnhdbqxufh.com^$third-party
