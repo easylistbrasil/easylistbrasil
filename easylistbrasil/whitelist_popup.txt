@@ -21,10 +21,11 @@
 @@||imdb.com/video/imdb/$popup
 @@||imdb.com/videoplayer/$popup
 ! outros
-@@||abrirlinks.com$popup,domain=bludv.me|filmestr.com|sofilmestorrent.com|wolverdonfilmes.org
+@@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
 @@||assistirseriados.net/p/video.php$popup
 @@||baixaki.com.br/download/*.htm$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||bludv.me$popup,domain=filmestr.com
+@@||bludvfilmes.com$popup,domain=soparagamestorrents.com
 @@||canais.gratis/*.html$popup
 @@||caxiasdigital.com$popup,domain=ondeeubaixo.com.br
 @@||desapegacaxias.com$popup,domain=ondeeubaixo.com.br
@@ -38,6 +39,7 @@
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||receitasdabela.com$popup,domain=comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
+@@||soparagamestorrents.com$popup,domain=bludvfilmes.com
 ! adf.ly
 @@||0bin.net/$popup,domain=clearload.bid
 @@||2shared.com/$popup,domain=clearload.bid

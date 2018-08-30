@@ -1056,3 +1056,7 @@ uol.com.br#@#[src*="data:image"]
 @@||legendasonline.net^$generichide
 ! minhaconexao.com.br
 @@||minhaconexao.com.br/js/ads_detect.js
+! bludvfilmes.com
+@@||bludvfilmes.com^$generichide
+! soparagamestorrents.com
+@@||soparagamestorrents.com^$generichide

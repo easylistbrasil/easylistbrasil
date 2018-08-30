@@ -525,6 +525,10 @@ $csp=frame-src 'self',domain=clearload.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=filmestr.com
 ! bludv.me
 |http*://$popup,script,third-party,xmlhttprequest,domain=bludv.me
+! bludvfilmes.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=bludvfilmes.com
+! soparagamestorrents.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=soparagamestorrents.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
