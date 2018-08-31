@@ -1064,6 +1064,7 @@ uol.com.br#@#[src*="data:image"]
 @@||flashfilmes.org^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide
+@@||americanas.com.br^$genericblock,generichide
 @@||banco.bradesco^$genericblock,generichide
 @@||bancobrasil.com.br^$genericblock,generichide
 @@||bancopan.com.br^$genericblock,generichide
@@ -1071,12 +1072,23 @@ uol.com.br#@#[src*="data:image"]
 @@||bb.com.br^$genericblock,generichide
 @@||btgpactual.com^$genericblock,generichide
 @@||btgpactualdigital.com^$genericblock,generichide
+@@||carrefour.com.br^$genericblock,generichide
+@@||casasbahia.com.br^$genericblock,generichide
 @@||citibank.com.br^$genericblock,generichide
+@@||eletroshopping.com.br^$genericblock,generichide
+@@||extra.com.br^$genericblock,generichide
+@@||girafa.com.br^$genericblock,generichide
 @@||hsbc.com^$genericblock,generichide
 @@||hsbcnet.com^$genericblock,generichide
 @@||hsbcprivatebank.com^$genericblock,generichide
+@@||ibyte.com.br^$genericblock,generichide
 @@||itau.com.br^$genericblock,generichide
+@@||kabum.com.br^$genericblock,generichide
+@@||magazineluiza.com.br^$genericblock,generichide
+@@||novomundo.com.br^$genericblock,generichide
+@@||ricardoeletro.com.br^$genericblock,generichide
 @@||safra.com.br^$genericblock,generichide
 @@||santander.com.br^$genericblock,generichide
 @@||santandernet.com.br^$genericblock,generichide
 @@||sicredi.com.br^$genericblock,generichide
+@@||waz.com.br^$genericblock,generichide
