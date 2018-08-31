@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201808311833
+! Version: 201808312219
 ! Title: EasyList Brasil
-! Last modified: 31 Aug 2018 18:33 UTC
+! Last modified: 31 Aug 2018 22:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -338,6 +338,7 @@ adblockplus.org#@#a[href*="adserver"]
 ||*.site^$third-party
 ||*.xyz^$third-party
 ||.website^$third-party
+||5t59uw2iuh.com^$third-party
 ||9likesg.com^$third-party
 ||adap.tv^$~object-subrequest,third-party
 ||adsymptotic.com^$third-party
@@ -901,6 +902,7 @@ $script,domain=tvgram.stream
 ! netu
 |http*://$popup,script,third-party,xmlhttprequest,domain=hqq.tv|hqq.watch
 ||*.hqq.*/images/Black_and_white_mini_logo.png
+||moviestream.*^$popup,script,third-party,xmlhttprequest
 ! up2stream
 |http*://$popup,script,third-party,xmlhttprequest,domain=up2stream.com
 ! streamplay.to
@@ -1134,6 +1136,11 @@ $csp=frame-src 'self',domain=clearload.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=bludvfilmes.com
 ! soparagamestorrents.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=soparagamestorrents.com
+! flashfilmes.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=flashfilmes.org
+! miceret.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=miceret.com
+||miceret.com/contador.php
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1257,7 +1264,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 ! ------------------------Regras de ocultação de elemento específico------------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org##.videologo
+oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -2000,6 +2007,11 @@ estadao.com.br##div[class^="taboola-"]
 ! megafilmestorrents.org
 megafilmestorrents.org##a[href*="//goo.gl"]
 megafilmestorrents.org##dmbar[id="dm_topbar"]
+! megaboxfilmesonline.com
+megaboxfilmesonline.com##a[href*="/velocimetro"]
+! miceret.com
+miceret.com##div[id="saudacao"]
+miceret.com##div[id^="ads"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3079,6 +3091,8 @@ uol.com.br#@#[src*="data:image"]
 @@||bludvfilmes.com^$generichide
 ! soparagamestorrents.com
 @@||soparagamestorrents.com^$generichide
+! flashfilmes.org
+@@||flashfilmes.org^$generichide
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
 ! 
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
@@ -3124,6 +3138,8 @@ uol.com.br#@#[src*="data:image"]
 @@||receitasdabela.com$popup,domain=comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
+@@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
+@@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 ! adf.ly
 @@||0bin.net/$popup,domain=clearload.bid
 @@||2shared.com/$popup,domain=clearload.bid
