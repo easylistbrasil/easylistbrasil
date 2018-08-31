@@ -2,6 +2,7 @@
 ||*.site^$third-party
 ||*.xyz^$third-party
 ||.website^$third-party
+||5t59uw2iuh.com^$third-party
 ||9likesg.com^$third-party
 ||adap.tv^$~object-subrequest,third-party
 ||adsymptotic.com^$third-party

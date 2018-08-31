@@ -40,6 +40,8 @@
 @@||receitasdabela.com$popup,domain=comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
+@@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
+@@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 ! adf.ly
 @@||0bin.net/$popup,domain=clearload.bid
 @@||2shared.com/$popup,domain=clearload.bid

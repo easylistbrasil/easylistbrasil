@@ -296,6 +296,7 @@ $script,domain=tvgram.stream
 ! netu
 |http*://$popup,script,third-party,xmlhttprequest,domain=hqq.tv|hqq.watch
 ||*.hqq.*/images/Black_and_white_mini_logo.png
+||moviestream.*^$popup,script,third-party,xmlhttprequest
 ! up2stream
 |http*://$popup,script,third-party,xmlhttprequest,domain=up2stream.com
 ! streamplay.to
@@ -529,6 +530,11 @@ $csp=frame-src 'self',domain=clearload.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=bludvfilmes.com
 ! soparagamestorrents.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=soparagamestorrents.com
+! flashfilmes.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=flashfilmes.org
+! miceret.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=miceret.com
+||miceret.com/contador.php
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

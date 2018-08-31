@@ -1060,3 +1060,5 @@ uol.com.br#@#[src*="data:image"]
 @@||bludvfilmes.com^$generichide
 ! soparagamestorrents.com
 @@||soparagamestorrents.com^$generichide
+! flashfilmes.org
+@@||flashfilmes.org^$generichide
