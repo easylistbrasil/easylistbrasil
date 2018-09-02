@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201809020118
+! Version: 201809020125
 ! Title: EasyList Brasil
-! Last modified: 02 Sep 2018 01:18 UTC
+! Last modified: 02 Sep 2018 01:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
