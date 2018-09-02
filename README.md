@@ -4,12 +4,12 @@
 https://github.com/easylistbrasil/easylistbrasil/raw/filtro/easylistbrasil.txt
 ```
 
-Compatível com: [Adblock][], [Adblock Plus][], [uBlock Origin][], e [AdGuard][].
+Compatível com:![AdBlock](https://i.imgur.com/3KbyifF.png) [Adblock][], ![AdBlock Plus](https://i.imgur.com/kPRCfhu.png) [Adblock Plus][], ![uBock Origin](https://i.imgur.com/PSFuzKb.png) [uBlock Origin][], e ![AdGuard](https://i.imgur.com/zmMHq2j.png) [AdGuard][].
 
 [Adblock]: https://getadblock.com/
 [Adblock Plus]: https://adblockplus.org/
 [uBlock Origin]: https://github.com/gorhill/uBlock
-[AdGuard]: https://adguard.com/
+[AdGuard]: https://adguard.com/en/adguard-browser-extension/overview.html
 
 [Adicionar](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt&title=EasyList%20Brasil)
 
