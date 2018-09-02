@@ -15,6 +15,9 @@ Compatível com: [Adblock][], [Adblock Plus][], [uBlock Origin][], e [AdGuard][]
 
 [Android](https://easylistbrasil.github.io/main/2018/08/22/android.html)
 
+[Changelog](https://github.com/easylistbrasil/easylistbrasil/commits/filtro/easylistbrasil.txt)
+
+
 ### Sobre
 
 EasyList Brasil é um filtro complementar ao que vem junto com os bloqueadores de anúncios, esse filtro tem como foco paginas do Brasil e serviços de hospedagem de arquivos.
