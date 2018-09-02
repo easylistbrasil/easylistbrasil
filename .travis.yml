@@ -13,11 +13,6 @@
 # repository
 #
 #
-# Cron Jobs
-#
-# Runs daily - Always run
-#
-#
 # https://docs.travis-ci.com/user/languages/python/
 language: python
 
