@@ -1,4 +1,4 @@
-oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to##.videologo
+oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -346,6 +346,7 @@ reviewsdecelular.ga##div[class*="intro"]
 ! netcine.us
 netcine.us##a[href*="loja"]
 netcine.us##div[class*="jw-dock-button"]
+netcine.us##div[class="afs_ads"]
 netcine.us##div[class^="jw-logo"]
 netcine.us##div[style*="z-index"]
 netcine.us##script[src*="oclasrv"]
@@ -749,3 +750,7 @@ megaboxfilmesonline.com##a[href*="/velocimetro"]
 ! miceret.com
 miceret.com##div[id="saudacao"]
 miceret.com##div[id^="ads"]
+! estantepublica.net, letrasdemusicas.biz
+estantepublica.net,letrasdemusicas.biz##div[id="divads"]
+estantepublica.net,letrasdemusicas.biz##div[id^="ads"]
+estantepublica.net,letrasdemusicas.biz##img[src*="/video/"]

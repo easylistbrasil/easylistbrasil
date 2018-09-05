@@ -535,6 +535,8 @@ $csp=frame-src 'self',domain=clearload.bid
 ! miceret.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=miceret.com
 ||miceret.com/contador.php
+! estantepublica.net, letrasdemusicas.biz
+|http*://$popup,script,third-party,xmlhttprequest,domain=estantepublica.net|letrasdemusicas.biz
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
