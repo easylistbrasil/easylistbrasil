@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201809050414
+! Version: 201809050501
 ! Title: EasyList Brasil
-! Last modified: 05 Sep 2018 04:14 UTC
+! Last modified: 05 Sep 2018 05:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1141,6 +1141,8 @@ $csp=frame-src 'self',domain=clearload.bid
 ! miceret.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=miceret.com
 ||miceret.com/contador.php
+! estantepublica.net, letrasdemusicas.biz
+|http*://$popup,script,third-party,xmlhttprequest,domain=estantepublica.net|letrasdemusicas.biz
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1265,7 +1267,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 ! ------------------------Regras de ocultação de elemento específico------------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to##.videologo
+oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -1613,6 +1615,7 @@ reviewsdecelular.ga##div[class*="intro"]
 ! netcine.us
 netcine.us##a[href*="loja"]
 netcine.us##div[class*="jw-dock-button"]
+netcine.us##div[class="afs_ads"]
 netcine.us##div[class^="jw-logo"]
 netcine.us##div[style*="z-index"]
 netcine.us##script[src*="oclasrv"]
@@ -2016,6 +2019,10 @@ megaboxfilmesonline.com##a[href*="/velocimetro"]
 ! miceret.com
 miceret.com##div[id="saudacao"]
 miceret.com##div[id^="ads"]
+! estantepublica.net, letrasdemusicas.biz
+estantepublica.net,letrasdemusicas.biz##div[id="divads"]
+estantepublica.net,letrasdemusicas.biz##div[id^="ads"]
+estantepublica.net,letrasdemusicas.biz##img[src*="/video/"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3169,17 +3176,21 @@ uol.com.br#@#[src*="data:image"]
 @@||canais.gratis/*.html$popup
 @@||caxiasdigital.com$popup,domain=ondeeubaixo.com.br
 @@||desapegacaxias.com$popup,domain=ondeeubaixo.com.br
+@@||estantepublica.net/video/campanha.php?*^$popup,domain=netcine.us
 @@||filmeseseriesonlinex.com/wp-login.php$popup
 @@||filmestr.com$popup,domain=sofilmestorrent.com
 @@||goo.gl/fAuSYT$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||i.imgur.com/xSIkNpm.png$image,popup
 @@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||letrasdemusicas.biz/video/campanha.php?*^$popup,domain=netcine.us
 @@||masterads.info$popup,domain=comandotorrents.com
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
+@@||p.netcine.us/players/*.php?n=*&p=*^$popup,domain=netcine.us
 @@||receitasdabela.com$popup,domain=comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
+@@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=netcine.us
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
 @@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
