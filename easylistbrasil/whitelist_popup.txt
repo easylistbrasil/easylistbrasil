@@ -44,6 +44,7 @@
 @@||receitasdabela.com$popup,domain=comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
 @@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=netcine.us
+@@||social.ulala.us/link.php$popup,domain=netcine.us
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
 @@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
