@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 201809050305
+! Version: 201809050400
 ! Title: EasyList Brasil
-! Last modified: 05 Sep 2018 03:05 UTC
+! Last modified: 05 Sep 2018 04:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2992,6 +2992,9 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||clipwatching.com^$generichide
 ! megahfilmeshd.net
 @@||megahfilmeshd.net/min/*.js
+@@||megahfilmeshd.net/wp-admin/admin-ajax.php$xmlhttprequest
+@@||megahfilmeshd.net/wp-content/themes/vizer_beta/assets/js/home.js
+@@||megahfilmeshd.net/wp-content/themes/vizer_beta/assets/js/single-movies.js
 ! kkfilmesonline
 @@||kkfilmesonline*/categorias/*/*/index.html$popup
 @@||kkfilmesonline*/js/responsiveslides.min.js
@@ -3173,6 +3176,7 @@ uol.com.br#@#[src*="data:image"]
 @@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||masterads.info$popup,domain=comandotorrents.com
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||receitasdabela.com$popup,domain=comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
