@@ -1062,6 +1062,8 @@ uol.com.br#@#[src*="data:image"]
 @@||soparagamestorrents.com^$generichide
 ! flashfilmes.org
 @@||flashfilmes.org^$generichide
+! filmesonlinegratis.co
+@@||filmesonlinegratis.*/wp-admin/admin-ajax.php
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide
 @@||americanas.com.br^$genericblock,generichide
