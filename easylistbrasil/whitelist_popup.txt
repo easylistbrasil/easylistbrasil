@@ -37,6 +37,7 @@
 @@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||masterads.info$popup,domain=comandotorrents.com
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||receitasdabela.com$popup,domain=comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com

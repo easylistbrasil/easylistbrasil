@@ -955,6 +955,9 @@
 @@||clipwatching.com^$generichide
 ! megahfilmeshd.net
 @@||megahfilmeshd.net/min/*.js
+@@||megahfilmeshd.net/wp-admin/admin-ajax.php$xmlhttprequest
+@@||megahfilmeshd.net/wp-content/themes/vizer_beta/assets/js/home.js
+@@||megahfilmeshd.net/wp-content/themes/vizer_beta/assets/js/single-movies.js
 ! kkfilmesonline
 @@||kkfilmesonline*/categorias/*/*/index.html$popup
 @@||kkfilmesonline*/js/responsiveslides.min.js
