@@ -1067,6 +1067,8 @@ uol.com.br#@#[src*="data:image"]
 @@||flashfilmes.org^$generichide
 ! filmesonlinegratis.co
 @@||filmesonlinegratis.*/wp-admin/admin-ajax.php
+! nexojornal.com.br
+@@||nexojornal.com.br^$xmlhttprequest
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide
 @@||americanas.com.br^$genericblock,generichide
