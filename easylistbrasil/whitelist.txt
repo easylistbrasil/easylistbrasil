@@ -1069,6 +1069,8 @@ uol.com.br#@#[src*="data:image"]
 @@||filmesonlinegratis.*/wp-admin/admin-ajax.php
 ! nexojornal.com.br
 @@||nexojornal.com.br^$xmlhttprequest
+! cocacola.com.br
+@@||coke.com^$image,script,stylesheet,domain=coca-cola.com|cocacola.com|cocacola.com.br
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide
 @@||americanas.com.br^$genericblock,generichide
