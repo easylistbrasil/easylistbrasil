@@ -8,6 +8,8 @@ sudo: false
 branches:
   only:
     - master
+  except:
+  - filtro
     
 before_script:
   - git config --global user.email "travis@travis-ci.org"
