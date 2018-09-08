@@ -5,11 +5,16 @@ php:
 
 sudo: false      
 
+# blocklist
 branches:
-  only:
-    - master
   except:
   - filtro
+  - backup
+
+# safelist
+branches:
+  only:
+  - master
     
 before_script:
   - git config --global user.email "travis@travis-ci.org"
