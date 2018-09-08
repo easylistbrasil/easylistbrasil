@@ -493,7 +493,6 @@ $csp=frame-src 'self',domain=clearload.bid
 ||*.club$domain=clearload.bid
 ||*.com^$domain=clearload.bid
 ||*.info$domain=clearload.bid
-||*.info^$domain=clearload.bid
 ||*.net^$domain=clearload.bid
 ||*.site^$domain=clearload.bid
 ||*.xyz^$domain=clearload.bid
