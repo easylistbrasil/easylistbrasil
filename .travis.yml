@@ -1,60 +1,19 @@
-# travis ci
-# https://travis-ci.org/
-# token https://github.com/settings/tokens
-#
-# settings
-#
-# build pushed branch - activated
-#
-# Environment Variables
-#
-# token
-# username
-# repository
-#
-#
-# https://docs.travis-ci.com/user/languages/python/
-language: python
+language: php
+php:
+    - 5.6
 
-# https://docs.travis-ci.com/user/customizing-the-build/#Building-Specific-Branches
+sudo: false             # faster builds as long as you don't need sudo access
+
 branches:
   only:
     - master
-
-# https://docs.travis-ci.com/user/encryption-keys/
-env:
-  global:
-#
-# secure edit
-#
-# requirements: ruby devkit, rubygems
-# https://rubyinstaller.org/downloads/
-# https://rubygems.org/pages/download
-#
-# travis (ms-dos):
-# 
-# gem install travis
-# cd desktop
-# echo. > .travis.yml
-# travis encrypt --add -r username/repository token=token-value
-# notepad .travis.yml
-# copy secure code
-#
-    - secure: xfwdgsEqdmVW8m0s3WWXVNZwX+p8Zq0Gc61tzBE3yOZpwRRHr/9yNgACrzI9dInMiZ0i4zr99q2IowQAz1MEgPZKP74uVAZeltT7DI69Sitz3o9T9NWNvXzsHYmV2E38NETwc5rCAJUQJp5LHrB0ZRBp1KkTTdKxSie+mTGU08zm9ObiprN1LJFwLagEQPhaCS8F842PbYXTM2AOEfWwo1rBcjTNoao0Wq3FPmW1vz3HSB3yZHHOZOYQyy2D1q6soK0JoDv2dUjFwG6I5NLH+zp7QpKn2w66JMNDh8jW7MYIJNEUNT0XVeiGdzkxWETsJAXkmfT0NlWXNtu8eSkL2wVPmiKfpZfq5W1yWW6Hu8Vp19JocGFmbh8QrHmX3QUCyb4Y3wRWhFbBc2FP60iNiSyn4cCK6eMyRfR1nFnvTbzOFkcZHaDqN1wIh+KYGelJlid6NnRp5CBPJMwEcx2bHPpaGvcahg0t56/Uz+zUSZQI1EIMaaZgv3TOQLJnlaLV7mccmN/C0ByS1xaVP/t1JrzDzEwEe4mFbGa8h44CixGBzw0KgCXM+BNjtzgtfm2JNwF83U/uiMGCfZBz9x8JycvFdY1bLliaxFhP/14NBKWXs+yLHp/BD9fUKo/RVDjpY0Pfsq8NhLwySe6azAXLaJ4hJsJHOxQY1B7CA7pekq8=
-
-# https://docs.travis-ci.com/user/customizing-the-build/#The-Build-Lifecycle
-# timezone
-before_install:
-- export TZ=America/Sao_Paulo
-install:
-  - pip install git+https://github.com/adblockplus/python-abp
+    
 before_script:
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "TravisCI"
   - git config --global push.default "matching"
 
-# https://docs.travis-ci.com/user/customizing-the-build/#Customizing-the-Build-Step
 script:
-  - git clone -b filtro "https://$token@github.com/$username/$repository.git" output
-  - flrender -i easylistbrasil=. easylistbrasil.template output/easylistbrasil.txt
-  - cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
+- git clone -b filtro "https://$token@github.com/$username/$repository.git" output
+- php script/build.php
+- cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
