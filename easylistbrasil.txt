@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 5Q2kGZTafsEShiy8o2T1hQ
-! Version: 201809080101
+! Checksum: f9i72QSJzk7W1I+E8QRsdQ
+! Version: 201809080140
 ! Title: EasyList Brasil
-! Last modified: 08 Sep 2018 01:01 UTC
+! Last modified: 08 Sep 2018 01:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
