@@ -57,6 +57,7 @@
 @@||bitcasa.com/$popup,domain=clearload.bid
 @@||box.com/$popup,domain=clearload.bid
 @@||chopapp.com/$popup,domain=clearload.bid
+@@||cld.pt/dl/download/*^$popup,domain=clearload.bid
 @@||codepad.org/$popup,domain=clearload.bid
 @@||copy.com/$popup,domain=clearload.bid
 @@||depositfiles.com/$popup,domain=clearload.bid
