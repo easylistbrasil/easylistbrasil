@@ -9,6 +9,8 @@ $branch = 'master';
 // export 1 - export file, export 0 - display
 $export = '1';
 $exportname = './output/easylistbrasil.txt';
+// local (fast), remote '' (slow)
+$source = 'local';
 // filter info
 $filtername = 'EasyList Brasil';
 // Homepage - example: https://username.github.io or https://github.com/username/repository or your host
@@ -92,7 +94,9 @@ $f1 = "! *** $repository:$file1 ***";
 
 $link1 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file1";
 
-if (url_exists($link1)) {
+if ($source = 'local' && file_exists("./$file1")){
+ $filter01 = file_get_contents("./$file1");
+}elseif (url_exists($link1)) {
     $filter01 = file_get_contents($link1);
 } else {
    $filter01 = '! not found';
@@ -104,7 +108,9 @@ $f2 = "! *** $repository:$file2 ***";
 
 $link2 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file2";
 
-if (url_exists($link2)) {
+if ($source = 'local' && file_exists("./$file2")){
+    $filter02 = file_get_contents("./$file2");
+}elseif (url_exists($link2)) {
     $filter02 = file_get_contents($link2);
 } else {
     $filter02 = '! not found';
@@ -116,7 +122,9 @@ $f3 = "! *** $repository:$file3 ***";
 
 $link3 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file3";
 
-if (url_exists($link3)) {
+if ($source = 'local' && file_exists("./$file3")){
+    $filter03 = file_get_contents("./$file3");
+}elseif (url_exists($link3)) {
     $filter03 = file_get_contents($link3);
 } else {
     $filter03 = '! not found';
@@ -130,7 +138,9 @@ $f4 = "! *** $repository:$file4 ***";
 
 $link4 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file4";
 
-if (url_exists($link4)) {
+if ($source = 'local' && file_exists("./$file4")){
+    $filter04 = file_get_contents("./$file4");
+}elseif (url_exists($link4)) {
     $filter04 = file_get_contents($link4);
 } else {
     $filter04 = '! not found';
@@ -142,7 +152,9 @@ $f5 = "! *** $repository:$file5 ***";
 
 $link5 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file5";
 
-if (url_exists($link5)) {
+if ($source = 'local' && file_exists("./$file5")){
+    $filter05 = file_get_contents("./$file5");
+}elseif (url_exists($link5)) {
     $filter05 = file_get_contents($link5);
 } else {
     $filter05 = '! not found';
@@ -156,7 +168,9 @@ $f6 = "! *** $repository:$file6 ***";
 
 $link6 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file6";
 
-if (url_exists($link6)) {
+if ($source = 'local' && file_exists("./$file6")){
+    $filter06 = file_get_contents("./$file6");
+}elseif (url_exists($link6)) {
     $filter06 = file_get_contents($link6);
 } else {
     $filter06 = '! not found';
@@ -168,7 +182,9 @@ $f7 = "! *** $repository:$file7 ***";
 
 $link7 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file7";
 
-if (url_exists($link7)) {
+if ($source = 'local' && file_exists("./$file7")){
+    $filter07 = file_get_contents("./$file7");
+}elseif (url_exists($link7)) {
     $filter07 = file_get_contents($link7);
 } else {
     $filter07 = '! not found';
@@ -180,7 +196,9 @@ $f8 = "! *** $repository:$file8 ***";
 
 $link8 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file8";
 
-if (url_exists($link8)) {
+if ($source = 'local' && file_exists("./$file8")){
+    $filter08 = file_get_contents("./$file8");
+}elseif (url_exists($link8)) {
     $filter08 = file_get_contents($link8);
 } else {
     $filter08 = '! not found';
@@ -192,7 +210,9 @@ $f9 = "! *** $repository:$file9 ***";
 
 $link9 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file9";
 
-if (url_exists($link9)) {
+if ($source = 'local' && file_exists("./$file9")){
+    $filter09 = file_get_contents("./$file9");
+}elseif (url_exists($link9)) {
     $filter09 = file_get_contents($link9);
 } else {
     $filter09 = '! not found';
@@ -206,7 +226,9 @@ $f10 = "! *** $repository:$file10 ***";
 
 $link10 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file10";
 
-if (url_exists($link10)) {
+if ($source = 'local' && file_exists("./$file10")){
+    $filter10 = file_get_contents("./$file10");
+}elseif (url_exists($link10)) {
     $filter10 = file_get_contents($link10);
 } else {
    $filter10 = '! not found';
@@ -218,7 +240,9 @@ $f11 = "! *** $repository:$file11 ***";
 
 $link11 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file11";
 
-if (url_exists($link11)) {
+if ($source = 'local' && file_exists("./$file11")){
+    $filter11 = file_get_contents("./$file11");
+}elseif (url_exists($link11)) {
     $filter11 = file_get_contents($link11);
 } else {
     $filter11 = '! not found';
@@ -230,7 +254,9 @@ $f12 = "! *** $repository:$file12 ***";
 
 $link12 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file12";
 
-if (url_exists($link12)) {
+if ($source = 'local' && file_exists("./$file12")){
+    $filter12 = file_get_contents("./$file12");
+}elseif (url_exists($link12)) {
     $filter12 = file_get_contents($link12);
 } else {
     $filter12 = '! not found';
@@ -242,7 +268,9 @@ $f13 = "! *** $repository:$file13 ***";
 
 $link13 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file13";
 
-if (url_exists($link13)) {
+if ($source = 'local' && file_exists("./$file13")){
+    $filter13 = file_get_contents("./$file13");
+}elseif (url_exists($link13)) {
     $filter13 = file_get_contents($link13);
 } else {
     $filter13 = '! not found';
@@ -256,7 +284,9 @@ $f14 = "! *** $repository:$file14 ***";
 
 $link14 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file14";
 
-if (url_exists($link14)) {
+if ($source = 'local' && file_exists("./$file14")){
+     $filter14 = file_get_contents("./$file14");
+}elseif (url_exists($link14)) {
     $filter14 = file_get_contents($link14);
 } else {
     $filter14 = '! not found';
@@ -268,7 +298,9 @@ $f15 = "! *** $repository:$file15 ***";
 
 $link15 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file15";
 
-if (url_exists($link15)) {
+if ($source = 'local' && file_exists("./$file15")){
+    $filter15 = file_get_contents("./$file15");
+}elseif (url_exists($link15)) {
     $filter15 = file_get_contents($link15);
 } else {
     $filter15 = '! not found';
@@ -280,7 +312,9 @@ $f16 = "! *** $repository:$file16 ***";
 
 $link16 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file16";
 
-if (url_exists($link16)) {
+if ($source = 'local' && file_exists("./$file16")){
+    $filter16 = file_get_contents("./$file16");
+}elseif (url_exists($link16)) {
     $filter16 = file_get_contents($link16);
 } else {
     $filter16 = '! not found';
@@ -292,7 +326,9 @@ $f17 = "! *** $repository:$file17 ***";
 
 $link17 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file17";
 
-if (url_exists($link17)) {
+if ($source = 'local' && file_exists("./$file17")){
+    $filter17 = file_get_contents("./$file17");
+}elseif (url_exists($link17)) {
     $filter17 = file_get_contents($link17);
 } else {
     $filter17 = '! not found';
@@ -306,7 +342,9 @@ $f18 = "! *** $repository:$file18 ***";
 
 $link18 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file18";
 
-if (url_exists($link18)) {
+if ($source = 'local' && file_exists("./$file18")){
+    $filter18 = file_get_contents("./$file18");
+}elseif (url_exists($link18)) {
     $filter18 = file_get_contents($link18);
 } else {
     $filter18 = '! not found';
@@ -318,7 +356,9 @@ $f19 = "! *** $repository:$file19 ***";
 
 $link19 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file19";
 
-if (url_exists($link19)) {
+if ($source = 'local' && file_exists("./$file19")){
+    $filter19 = file_get_contents("./$file19");
+}elseif (url_exists($link19)) {
     $filter19 = file_get_contents($link19);
 } else {
     $filter19 = '! not found';
@@ -333,7 +373,9 @@ $f20 = "! *** $repository:$file20 ***";
 
 $link20 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file20";
 
-if (url_exists($link20)) {
+if ($source = 'local' && file_exists("./$file20")){
+    $filter20 = file_get_contents("./$file20");
+}elseif (url_exists($link20)) {
     $filter20 = file_get_contents($link20);
 } else {
     $filter20 = '! not found';
@@ -345,7 +387,9 @@ $f21 = "! *** $repository:$file21 ***";
 
 $link21 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file21";
 
-if (url_exists($link21)) {
+if ($source = 'local' && file_exists("./$file21")){
+    $filter21 = file_get_contents("./$file21");
+}elseif (url_exists($link21)) {
     $filter21 = file_get_contents($link21);
 } else {
     $filter21 = '! not found';
@@ -357,7 +401,9 @@ $f22 = "! *** $repository:$file22 ***";
 
 $link22 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file22";
 
-if (url_exists($link22)) {
+if ($source = 'local' && file_exists("./$file22")){
+    $filter22 = file_get_contents("./$file22");
+}elseif (url_exists($link22)) {
     $filter22 = file_get_contents($link22);
 } else {
     $filter22 = '! not found';
@@ -369,7 +415,9 @@ $f23 = "! *** $repository:$file23 ***";
 
 $link23 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file23";
 
-if (url_exists($link23)) {
+if ($source = 'local' && file_exists("./$file23")){
+    $filter23 = file_get_contents("./$file23");
+}elseif (url_exists($link23)) {
     $filter23 = file_get_contents($link23);
 } else {
     $filter23 = '! not found';
@@ -381,7 +429,9 @@ $f24 = "! *** $repository:$file24 ***";
 
 $link24 = "https://raw.githubusercontent.com/$username/$repository/$branch/$file24";
 
-if (url_exists($link24)) {
+if ($source = 'local' && file_exists("./$file24")){
+    $filter24 = file_get_contents("./$file24");
+}elseif (url_exists($link24)) {
     $filter24 = file_get_contents($link24);
 } else {
     $filter24 = '! not found';
