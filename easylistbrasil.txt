@@ -1,18 +1,19 @@
 [Adblock Plus 2.0]
-! Version: 201809080343
+! Checksum: Zc2fFLvMMonAZX6StMrAqQ
+! Version: 201809080049
 ! Title: EasyList Brasil
-! Last modified: 08 Sep 2018 03:43 UTC
+! Last modified: 08 Sep 2018 00:49 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
-! Licence: https://creativecommons.org/licenses/by-sa/4.0/
-! 
+! License: https://creativecommons.org/licenses/by-sa/4.0/
+!
 ! Por favor comunique quaisquer anúncios desbloqueados ou problemas
 ! no fórum (http://easylistbrasil.freeforums.net/)
 ! ou via e-mail (easylistbrasil.subscription@gmail.com)
 ! GitHub issues: https://github.com/easylistbrasil/easylistbrasil/issues
 ! GitHub pull requests: https://github.com/easylistbrasil/easylistbrasil/pulls
-! 
-! -----------------------Filtros de bloqueio de anúncios em geral-----------------------!
+!
+!-----------------------Filtros de bloqueio de anúncios em geral-----------------------!
 ! *** easylistbrasil:easylistbrasil/general_block.txt ***
 &zoneid=*&ad_$popup
 .openx.$domain=~openx.com
@@ -158,7 +159,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 |blob:$popup
 |data:text$popup
 |dddata:text$popup
-! ------------------------Regras de ocultação de elementos em geral-------------------------!
+!------------------------Regras de ocultação de elementos em geral-------------------------!
 ! *** easylistbrasil:easylistbrasil/general_hide.txt ***
 ###AdsDiv
 ###Advertisement1
@@ -312,7 +313,7 @@ concrete.com.br,filmesonlineplay.com,player.theplatform.com,tecmundo.com.br,tuga
 ! fix adblockplus.org/en/subscriptions
 adblockplus.org#@#a[href*="ads."]
 adblockplus.org#@#a[href*="adserver"]
-! ---------------------------Anunciantes de terceiros---------------------------!
+!---------------------------Anunciantes de terceiros---------------------------!
 ! *** easylistbrasil:easylistbrasil/adservers.txt ***
 ||ads.vev.io^$third-party
 ||cdn.advnet.xyz^$third-party
@@ -329,10 +330,10 @@ adblockplus.org#@#a[href*="adserver"]
 ! *** easylistbrasil:easylistbrasil/adservers_popup.txt ***
 ||ads.vev.io^$popup
 ! *** easylistbrasil:easylistbrasil/adult_adservers.txt ***
-! 
+!
 ! *** easylistbrasil:easylistbrasil/adult_adservers_popup.txt ***
-! 
-! -----------------------------Anúncios de terceiros-----------------------------!
+!
+!-----------------------------Anúncios de terceiros-----------------------------!
 ! *** easylistbrasil:easylistbrasil/thirdparty.txt ***
 ||*.online^$third-party
 ||*.site^$third-party
@@ -601,8 +602,8 @@ adblockplus.org#@#a[href*="adserver"]
 ! *** easylistbrasil:easylistbrasil/adult_thirdparty.txt ***
 ||doublepimpssl.com^$third-party
 ! *** easylistbrasil:easylistbrasil/adult_thirdparty_popup.txt ***
-! 
-! ----------------------Filtros de bloqueio de anúncio específico-----------------------!
+!
+!----------------------Filtros de bloqueio de anúncio específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_block.txt ***
 ! youtube.com
 ||youtube.com/get_endscreen?
@@ -1262,10 +1263,10 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 ! regex to pickup ip-address popups
 /^https?:\/\/([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=abcast.me|abcast.net|aovivonatv.com|apollocdn.cc|baixarfilmestorrent.me|buffstream.com|canais.gratis|canais.ink|cinepremiere.net|comandofilmes.tv|comandotorrents.com|darthfilmes.com.br|ekostreams.co|ekostreams.me|embeducaster.com|filmeshd-online.com|filmesonlinegratis.co|filmesonlineplay.com|filmesonlineseries.net|filmesonlineuhd.com|filmesonlinex.br|filmesonlinex.cc|filmesonlinex.co|filmesonlinex.com|filmesonlinex.com.br|filmesonlinex.gratis|filmesonlinex.info|filmesonlinex.me|filmesonlinex.net|filmesonlinex.online|filmesonlinex.org|filmesonlinex.ru|filmesonlinex.site|filmesonlinex.tk|filmesonlinex.top|filmesonlinex.tv|filmesonlinex.us|filmesonlinex.vip|flashx.co|flashx.tv|flashx1.tv|freelivestream.tv|fruitadblock.net|futebolaovivo.in|futebolaovivohd.net|g1futebolaovivo.com|geroubuzz.com|hipertela.net|hqq.tv|hqq.watch|iptv.gratis|janjuaplayer.com|kastream.biz|legendei.com|megafilmes.co|megafilmes.org|megafilmes.tv|megafilmesahd.com|megafilmeshd.org|megafilmeshd50.top|megafilmeshdplus.org|megafilmesonline-hd.com|megafilmesonlinegratis.org|megafilmess.com|megafilmesserieshd.com|megahfilmeshd.net|megaseriehd.com|micetop.co|micetop.com|micetop.net|micetop.org|micetop.tv|micetop.us|mipsplayer.com|netcine.tk|netcine.us|netesportiva.com|olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|onplay.tv|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|otampadabola2.com|p3g.tv|playflixhd.co|playtop.online|popfilmeshd.net|portalzuca.com|qqfilmes.com|qqfilmes.net|qqfilmes.online|qqfilmes.org|rapidvideo.com|redecanais.cz|redecanais.gratis|redecanais.ink|redecanais.me|seriesonlinehd.biz|sosfilmes.com|sportzonline.xyz|streamango.com|streamcherry.com|streamlive.to|streamplay.to|thevid.net|torcidatricolor.eu|tudotv.tv|tudotvonline.com|tugaflix.com|tugaflix.date|tv-aovivo.nl|tvonline.plus|tvonlineaovivo.net|verfilmes.biz|vertv.me|vidlox.me|vidlox.tv|vidnode.net|vidoza.net|vidto.co|vidto.com|vidto.io|vidto.me|vidto.net|vidto.se|vidto.to|vidto.top|vidto.tv|vidzi.nu|vidzi.online|vidzi.si|vidzi.tv|vlive.pw|vto.gratis|watchers.to|watchvideo.us|week-series.com|weekseries.net|whostreams.net|widestream.io|wstream.video|xilften.net
 ! *** easylistbrasil:easylistbrasil/adult_specific_block.txt ***
-! 
+!
 ! *** easylistbrasil:easylistbrasil/adult_specific_block_popup.txt ***
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
-! ------------------------Regras de ocultação de elemento específico------------------------!
+!------------------------Regras de ocultação de elemento específico------------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
 oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
@@ -2024,24 +2025,7 @@ estantepublica.net,letrasdemusicas.biz##div[id="divads"]
 estantepublica.net,letrasdemusicas.biz##div[id^="ads"]
 estantepublica.net,letrasdemusicas.biz##img[src*="/video/"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
-! redtube, pornhub, youporn, tube8
-pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
-pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[href*="doublepimpssl"]
-pornhub.com##div[class="abAlertInner"] > a
-pornhub.com##div[class="abAlertInner"] > span
-tube8.com##div[class="rightColBanner"]
-pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##div[id="ab_banner"]
-redtube.com,redtube.com.br##div[id="content_container"] > div:last-child
-##div[id="pb_block"]
-##div[id="pb_block"] > div[id="pb_top_bar"]
-redtube.com,redtube.com.br##div[onclick*="cp.abbp"]
-pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##iframe[src*="phncdn"]
-pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##p[class*="subtxt"]
-! sexyhotplay.com.br
-sexyhotplay.com.br##div[class="banner"]
-sexyhotplay.com.br##div[class="banner-full"]
-sexyhotplay.com.br##div[class="banner-retangulo"]
-! -----------------------Lista de permissões para corrigir sites quebrados------------------------!
+!-----------------------Lista de permissões para corrigir sites quebrados------------------------!
 ! *** easylistbrasil:easylistbrasil/whitelist.txt ***
 ! youtube.com
 @@||servicesdirectory.withyoutube.com^$popup,domain=youtube.com
@@ -3149,7 +3133,7 @@ uol.com.br#@#[src*="data:image"]
 @@||sicredi.com.br^$genericblock,generichide
 @@||waz.com.br^$genericblock,generichide
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
-! 
+!
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
 ! fix popup
 @@||*ani*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
