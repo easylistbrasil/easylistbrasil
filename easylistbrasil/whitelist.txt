@@ -194,6 +194,7 @@
 @@||*/js/jquery.cookee.js
 @@||*/js/jquery.jplayer.min.js^$script
 @@||*/js/jquery.repeater.js
+@@||*/js/lazy-images.min.js
 @@||*/js/lazyload-*.min.js
 @@||*/js/libs.js
 @@||*/js/lity.js
@@ -1075,6 +1076,10 @@ uol.com.br#@#[src*="data:image"]
 @@||coke.com^$image,script,stylesheet
 ! phptester.net
 @@||phptester.net^$popup,script,xmlhttprequest
+! elitefilmesonline.com
+@@||elitefilmesonline.com/*relatedposts*^$xmlhttprequest
+! megafilmesbluray.com
+@@||megafilmesbluray.com/play/codigo.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide
 @@||americanas.com.br^$genericblock,generichide

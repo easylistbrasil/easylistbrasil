@@ -29,6 +29,7 @@
 @@||canais.gratis/*.html$popup
 @@||caxiasdigital.com$popup,domain=ondeeubaixo.com.br
 @@||desapegacaxias.com$popup,domain=ondeeubaixo.com.br
+@@||elitefilmesonline.com$popup,domain=maxflixhd.com
 @@||estantepublica.net/video/campanha.php?*^$popup,domain=netcine.us
 @@||filmeseseriesonlinex.com/wp-login.php$popup
 @@||filmestr.com$popup,domain=sofilmestorrent.com
@@ -39,6 +40,7 @@
 @@||letrasdemusicas.biz/video/campanha.php?*^$popup,domain=netcine.us
 @@||masterads.info$popup,domain=comandotorrents.com
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||megafilmesbluray.com$popup,domain=maxflixhd.com
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||p.netcine.us/players/*.php?n=*&p=*^$popup,domain=netcine.us
 @@||receitasdabela.com$popup,domain=comandotorrents.com
@@ -46,6 +48,7 @@
 @@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=netcine.us
 @@||social.ulala.us/link.php$popup,domain=netcine.us
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
+@@||torrentsbaixar.com$popup,domain=maxflixhd.com
 @@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 ! adf.ly
