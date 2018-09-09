@@ -1,7 +1,7 @@
 # https://travis-ci.org/
 language: php
 php:
-    - 7.0
+    - 7.1.11
 
 sudo: false      
 
