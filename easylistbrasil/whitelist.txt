@@ -1073,6 +1073,8 @@ uol.com.br#@#[src*="data:image"]
 @@||coca-cola.*^$generichide
 @@||cocacola.*^$generichide
 @@||coke.com^$image,script,stylesheet
+! phptester.net
+@@||phptester.net^$popup,script,xmlhttprequest
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide
 @@||americanas.com.br^$genericblock,generichide
