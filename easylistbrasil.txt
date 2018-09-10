@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: c61IYadXNm7vjPlN9S+zYQ
-! Version: 201809091433
+! Checksum: ST2P1EZ19Bq+xpxWzuTlpw
+! Version: 201809102020
 ! Title: EasyList Brasil
-! Last modified: 09 Sep 2018 14:33 UTC
+! Last modified: 10 Sep 2018 20:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -159,7 +159,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 |blob:$popup
 |data:text$popup
 |dddata:text$popup
-!------------------------Regras de ocultação de elementos em geral-------------------------!
+!-----------------------Regras de ocultação de elementos em geral-----------------------!
 ! *** easylistbrasil:easylistbrasil/general_hide.txt ***
 ###AdsDiv
 ###Advertisement1
@@ -313,7 +313,7 @@ concrete.com.br,filmesonlineplay.com,player.theplatform.com,tecmundo.com.br,tuga
 ! fix adblockplus.org/en/subscriptions
 adblockplus.org#@#a[href*="ads."]
 adblockplus.org#@#a[href*="adserver"]
-!---------------------------Anunciantes de terceiros---------------------------!
+!-----------------------Anunciantes de terceiros-----------------------!
 ! *** easylistbrasil:easylistbrasil/adservers.txt ***
 ||ads.vev.io^$third-party
 ||cdn.advnet.xyz^$third-party
@@ -333,7 +333,7 @@ adblockplus.org#@#a[href*="adserver"]
 !
 ! *** easylistbrasil:easylistbrasil/adult_adservers_popup.txt ***
 !
-!-----------------------------Anúncios de terceiros-----------------------------!
+!-----------------------Anúncios de terceiros-----------------------!
 ! *** easylistbrasil:easylistbrasil/thirdparty.txt ***
 ||*.online^$third-party
 ||*.site^$third-party
@@ -603,7 +603,7 @@ adblockplus.org#@#a[href*="adserver"]
 ||doublepimpssl.com^$third-party
 ! *** easylistbrasil:easylistbrasil/adult_thirdparty_popup.txt ***
 !
-!----------------------Filtros de bloqueio de anúncio específico-----------------------!
+!-----------------------Filtros de bloqueio de anúncio específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_block.txt ***
 ! youtube.com
 ||youtube.com/get_endscreen?
@@ -1272,7 +1272,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 !
 ! *** easylistbrasil:easylistbrasil/adult_specific_block_popup.txt ***
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
-!------------------------Regras de ocultação de elemento específico------------------------!
+!-----------------------Regras de ocultação de elemento específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
 oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
@@ -2042,7 +2042,24 @@ elitefilmesonline.com##li[id="count"]
 megafilmesbluray.com##a[href*="rgvqcsxqge.com"]
 megafilmesbluray.com##video[id="player1"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
-!-----------------------Lista de permissões para corrigir sites quebrados------------------------!
+! redtube, pornhub, youporn, tube8
+pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
+pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[href*="doublepimpssl"]
+pornhub.com##div[class="abAlertInner"] > a
+pornhub.com##div[class="abAlertInner"] > span
+tube8.com##div[class="rightColBanner"]
+pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##div[id="ab_banner"]
+redtube.com,redtube.com.br##div[id="content_container"] > div:last-child
+##div[id="pb_block"]
+##div[id="pb_block"] > div[id="pb_top_bar"]
+redtube.com,redtube.com.br##div[onclick*="cp.abbp"]
+pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##iframe[src*="phncdn"]
+pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##p[class*="subtxt"]
+! sexyhotplay.com.br
+sexyhotplay.com.br##div[class="banner"]
+sexyhotplay.com.br##div[class="banner-full"]
+sexyhotplay.com.br##div[class="banner-retangulo"]
+!-----------------------Lista de permissões para corrigir sites quebrados-----------------------!
 ! *** easylistbrasil:easylistbrasil/whitelist.txt ***
 ! youtube.com
 @@||servicesdirectory.withyoutube.com^$popup,domain=youtube.com
