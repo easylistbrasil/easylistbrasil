@@ -1080,6 +1080,8 @@ uol.com.br#@#[src*="data:image"]
 @@||elitefilmesonline.com/*relatedposts*^$xmlhttprequest
 ! megafilmesbluray.com
 @@||megafilmesbluray.com/play/codigo.js
+! onlinevideoconverter.com
+@@||onlinevideoconverter.com^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
