@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3ORlsL+DFj2Ny2OonqHtxg
-! Version: 201809110052
+! Checksum: h+d8iFtcvEy7wHSxpAqhEg
+! Version: 201809112223
 ! Title: EasyList Brasil
-! Last modified: 11 Sep 2018 00:52 UTC
+! Last modified: 11 Sep 2018 22:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -3145,6 +3145,8 @@ uol.com.br#@#[src*="data:image"]
 @@||megafilmesbluray.com/play/codigo.js
 ! onlinevideoconverter.com
 @@||onlinevideoconverter.com^$generichide
+! adrenaline.uol.com.br
+@@||adrenaline.uol.com.br^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
