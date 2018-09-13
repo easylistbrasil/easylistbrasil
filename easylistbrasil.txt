@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: h+d8iFtcvEy7wHSxpAqhEg
-! Version: 201809112223
+! Checksum: ewcNHZwuiTb0iaTqoq/GLg
+! Version: 201809130029
 ! Title: EasyList Brasil
-! Last modified: 11 Sep 2018 22:23 UTC
+! Last modified: 13 Sep 2018 00:29 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -42,6 +42,7 @@
 /js/pop.js
 /jsredir
 /mspopup.js
+/OneAdblock.js
 /pagead2.
 /play72/popout.js
 /pop?
@@ -288,6 +289,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ##iframe[id="Ifid"]
 ##iframe[name="PiruLiAoTv"]
 ##iframe[src*="about"]
+##iframe[src*="adlyra.com"]
 ##iframe[src^="about"]
 ##img[class="jw-banner"]
 ##img[src*="/close_button.png"]
@@ -306,10 +308,11 @@ megafilmes.org,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesserieshd.c
 reddit.com#@#[href*="anuncio"]
 megafilmes.org,megafilmesonline-hd.com#@#[id*="modal"]
 temanimes.net,temfilmes.net,temseries.net#@#[id*="tela"]
+animesonline.co#@#[src*="data:image"]
 canais.ink#@#body > div:last-child
 megafilmes.co#@#div[class*="pop"]
 megafilmeshd50.top,megafilmesonline-hd.com#@#div[id^="ad"]
-concrete.com.br,filmesonlineplay.com,player.theplatform.com,tecmundo.com.br,tugaflix.com,tugaflix.date#@#div[style*="z-index"]
+concrete.com.br,filmesonlineplay.com,ipfingerprints.com,player.theplatform.com,tecmundo.com.br,tugaflix.com,tugaflix.date#@#div[style*="z-index"]
 ! fix adblockplus.org/en/subscriptions
 adblockplus.org#@#a[href*="ads."]
 adblockplus.org#@#a[href*="adserver"]
@@ -344,6 +347,7 @@ adblockplus.org#@#a[href*="adserver"]
 ||adap.tv^$~object-subrequest,third-party
 ||adsymptotic.com^$third-party
 ||afriflatry.co^$third-party
+||aoredi.com^$third-party
 ||areyouahuman.com^$third-party
 ||authorne.info^$popup,third-party
 ||baa2e174884c9c0460e.com^$third-party
@@ -364,6 +368,7 @@ adblockplus.org#@#a[href*="adserver"]
 ||ineity.pro^$third-party
 ||infolinks.com^$third-party
 ||ipehunxxyir.com^$third-party
+||j8inn1zektoe.com^$third-party
 ||mellowads.com^$third-party
 ||ngptxgpbdnutvi.com^$third-party
 ||oclasrv.com^$third-party
@@ -710,9 +715,10 @@ adblockplus.org#@#a[href*="adserver"]
 ||thevid.net/imgs/thevid-logo3.png
 ! rapidvideo.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=www.rapidvideo.com
-||www.rapidvideo.com/css/layout.css
 ! unitplay.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=unitplay.net
+! mystream.to
+|http*://$popup,script,third-party,xmlhttprequest,domain=mystream.to
 ! youwatch
 /a/display.php$domain=smed79.info|youwatch.org
 /dl$domain=smed79.info|youwatch.org
@@ -1150,6 +1156,18 @@ $csp=frame-src 'self',domain=clearload.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=maxflixhd.com
 ! torrentsbaixar.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=torrentsbaixar.com
+! animesonlinebr.com.br
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonlinebr.com.br
+! animeflix.biz
+|http*://$popup,script,third-party,xmlhttprequest,domain=animeflix.biz
+! animesonlinez.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonlinez.com
+! animesonehd.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonehd.net
+! centraldeanimes.biz
+|http*://$popup,script,third-party,xmlhttprequest,domain=centraldeanimes.biz
+! animesonline.co
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonline.co
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1274,7 +1292,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 !-----------------------Regras de ocultação de elemento específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv##.videologo
+oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -1656,6 +1674,7 @@ tecmundo.com.br##div[class="news-list"]
 tecmundo.com.br##div[class="trc_rbox_container"]
 tecmundo.com.br##div[id^="ads"]
 ! uol.com.br
+uol.com.br##div[class^="mod-"][class*="-ecommerce"]
 uol.com.br##div[id^="banner"]
 ! julien.danjou.info
 julien.danjou.info###ck_overlay
@@ -2041,6 +2060,38 @@ elitefilmesonline.com##li[id="count"]
 ! megafilmesbluray.com
 megafilmesbluray.com##a[href*="rgvqcsxqge.com"]
 megafilmesbluray.com##video[id="player1"]
+! animesonlinebr.com.br
+animesonlinebr.com.br##a[href*="bit.ly"]
+animesonlinebr.com.br##div[id="sidebarGeral"]
+animesonlinebr.com.br##div[id="tituloSidebar"][align="center"]
+! animesonlinehd.com.br
+animesonlinehd.com.br##div[class*="adsIndex"]
+animesonlinehd.com.br##div[class*="adsSide"]
+animesonlinehd.com.br##section[class="adsEpi"]
+! animesonehd.net
+animesonehd.net#?#div[class="widget-titulo"]:-abp-contains(NOS)
+animesonehd.net#?#div[class="widget-titulo"]:-abp-contains(PUBLICIDADE)
+animesonehd.net##div[class*="adsCenter"]
+animesonehd.net##div[class="ADSIndex"]
+animesonehd.net##div[class="Container"] > div[ class="right"]
+animesonehd.net##div[class="Container"] > div[class="left"]
+animesonehd.net##div[id="custom_html-10"]
+animesonehd.net##div[id="custom_html-12"]
+animesonehd.net##div[id="custom_html-4"]
+animesonehd.net##div[id="custom_html-6"]
+! centraldeanimes.biz
+centraldeanimes.biz##aside[id="custom_html-14"]
+centraldeanimes.biz##aside[id="custom_html-3"]
+centraldeanimes.biz##center > a[href*="goo.gl"]
+centraldeanimes.biz#?#div[style^="text-align"][style$=";"]:-abp-contains(Pokémon)
+centraldeanimes.biz##div[class="adsFooterRiver"]
+! animesonline.co
+animesonline.co##div > div > a[href*="/clk?"]
+animesonline.co##div[class="plads"]
+animesonline.co##div[style^="position:relative;width:728px"][style$="both"]
+animesonline.co##div[style^="width:728px"][style$="none"]
+animesonline.co##iframe[width^="728."][height^="90."]
+animesonline.co##ul > li:first-child
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -2428,6 +2479,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||ajax.googleapis.com/ajax/libs/mootools/*/mootools.min.js
 @@||ajax.googleapis.com/ajax/libs/prototype/*/prototype.js
 @@||ajax.googleapis.com/ajax/libs/swfobject/*/swfobject.js
+@@||ajax.googleapis.com/ajax/libs/webfont/*/webfont.js
 @@||api.peer5.com/jwplayer*.js
 @@||api.peer5.com/peer5.clappr.plugin.js
 @@||api.peer5.com/peer5.flowplayer.plugin.js
@@ -2465,7 +2517,9 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/jquery.slim.min.map
 @@||cdnjs.cloudflare.com/ajax/libs/lity/*/lity.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/materialize/*/js/materialize.js
+@@||cdnjs.cloudflare.com/ajax/libs/mobile-detect/*/mobile-detect.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/semantic-ui/*/semantic.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/video.js/*/lang/*.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video-js.min.css
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.min.js
@@ -2514,6 +2568,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||ssl.p.jwpcdn.com/player/v/*/provider.flash.js
 @@||video.ntcdn.us/jwplayercast.js
 @@||vjs.zencdn.net/*/video.js$script
+@@||vjs.zencdn.net/*/video.min.js
 @@||youtube.com/iframe_api^$media,script
 @@||youtube.com/player_api^$media,script
 @@||zencdn.net^$script,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -3147,6 +3202,10 @@ uol.com.br#@#[src*="data:image"]
 @@||onlinevideoconverter.com^$generichide
 ! adrenaline.uol.com.br
 @@||adrenaline.uol.com.br^$generichide
+! jw.org
+@@||jw.org^$generichide
+! wikipedia.org
+@@||wikipedia.org^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -3207,6 +3266,7 @@ uol.com.br#@#[src*="data:image"]
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
 @@||assistirseriados.net/p/video.php$popup
 @@||baixaki.com.br/download/*.htm$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||blogger.com/video-play.mp4*^$popup
 @@||bludv.me$popup,domain=filmestr.com
 @@||bludvfilmes.com$popup,domain=soparagamestorrents.com
 @@||canais.gratis/*.html$popup
@@ -3217,15 +3277,19 @@ uol.com.br#@#[src*="data:image"]
 @@||filmeseseriesonlinex.com/wp-login.php$popup
 @@||filmestr.com$popup,domain=sofilmestorrent.com
 @@||goo.gl/fAuSYT$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||googlevideo.com^$popup
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||i.imgur.com/xSIkNpm.png$image,popup
 @@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||letrasdemusicas.biz/video/campanha.php?*^$popup,domain=netcine.us
+@@||mangasbr.com.br$popup,domain=animeflix.biz|animesonehd.net|animesonlinebr.com.br|animesonlinehd.com.br|animesonlinez.com
 @@||masterads.info$popup,domain=comandotorrents.com
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||megafilmesbluray.com$popup,domain=maxflixhd.com
+@@||openload.co/f/*/$popup
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||p.netcine.us/players/*.php?n=*&p=*^$popup,domain=netcine.us
+@@||rapidvideo.com/d/$popup
 @@||receitasdabela.com$popup,domain=comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
 @@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=netcine.us
