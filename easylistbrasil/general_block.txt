@@ -25,6 +25,7 @@
 /js/pop.js
 /jsredir
 /mspopup.js
+/OneAdblock.js
 /pagead2.
 /play72/popout.js
 /pop?

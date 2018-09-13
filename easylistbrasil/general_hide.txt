@@ -125,6 +125,7 @@
 ##iframe[id="Ifid"]
 ##iframe[name="PiruLiAoTv"]
 ##iframe[src*="about"]
+##iframe[src*="adlyra.com"]
 ##iframe[src^="about"]
 ##img[class="jw-banner"]
 ##img[src*="/close_button.png"]

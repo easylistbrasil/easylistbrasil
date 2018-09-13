@@ -2,10 +2,11 @@ megafilmes.org,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesserieshd.c
 reddit.com#@#[href*="anuncio"]
 megafilmes.org,megafilmesonline-hd.com#@#[id*="modal"]
 temanimes.net,temfilmes.net,temseries.net#@#[id*="tela"]
+animesonline.co#@#[src*="data:image"]
 canais.ink#@#body > div:last-child
 megafilmes.co#@#div[class*="pop"]
 megafilmeshd50.top,megafilmesonline-hd.com#@#div[id^="ad"]
-concrete.com.br,filmesonlineplay.com,player.theplatform.com,tecmundo.com.br,tugaflix.com,tugaflix.date#@#div[style*="z-index"]
+concrete.com.br,filmesonlineplay.com,ipfingerprints.com,player.theplatform.com,tecmundo.com.br,tugaflix.com,tugaflix.date#@#div[style*="z-index"]
 ! fix adblockplus.org/en/subscriptions
 adblockplus.org#@#a[href*="ads."]
 adblockplus.org#@#a[href*="adserver"]

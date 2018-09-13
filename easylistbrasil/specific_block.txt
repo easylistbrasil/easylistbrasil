@@ -103,9 +103,10 @@
 ||thevid.net/imgs/thevid-logo3.png
 ! rapidvideo.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=www.rapidvideo.com
-||www.rapidvideo.com/css/layout.css
 ! unitplay.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=unitplay.net
+! mystream.to
+|http*://$popup,script,third-party,xmlhttprequest,domain=mystream.to
 ! youwatch
 /a/display.php$domain=smed79.info|youwatch.org
 /dl$domain=smed79.info|youwatch.org
@@ -543,6 +544,18 @@ $csp=frame-src 'self',domain=clearload.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=maxflixhd.com
 ! torrentsbaixar.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=torrentsbaixar.com
+! animesonlinebr.com.br
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonlinebr.com.br
+! animeflix.biz
+|http*://$popup,script,third-party,xmlhttprequest,domain=animeflix.biz
+! animesonlinez.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonlinez.com
+! animesonehd.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonehd.net
+! centraldeanimes.biz
+|http*://$popup,script,third-party,xmlhttprequest,domain=centraldeanimes.biz
+! animesonline.co
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonline.co
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

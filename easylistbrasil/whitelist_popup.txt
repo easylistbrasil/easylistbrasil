@@ -24,6 +24,7 @@
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
 @@||assistirseriados.net/p/video.php$popup
 @@||baixaki.com.br/download/*.htm$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||blogger.com/video-play.mp4*^$popup
 @@||bludv.me$popup,domain=filmestr.com
 @@||bludvfilmes.com$popup,domain=soparagamestorrents.com
 @@||canais.gratis/*.html$popup
@@ -34,15 +35,19 @@
 @@||filmeseseriesonlinex.com/wp-login.php$popup
 @@||filmestr.com$popup,domain=sofilmestorrent.com
 @@||goo.gl/fAuSYT$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||googlevideo.com^$popup
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||i.imgur.com/xSIkNpm.png$image,popup
 @@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||letrasdemusicas.biz/video/campanha.php?*^$popup,domain=netcine.us
+@@||mangasbr.com.br$popup,domain=animeflix.biz|animesonehd.net|animesonlinebr.com.br|animesonlinehd.com.br|animesonlinez.com
 @@||masterads.info$popup,domain=comandotorrents.com
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||megafilmesbluray.com$popup,domain=maxflixhd.com
+@@||openload.co/f/*/$popup
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||p.netcine.us/players/*.php?n=*&p=*^$popup,domain=netcine.us
+@@||rapidvideo.com/d/$popup
 @@||receitasdabela.com$popup,domain=comandotorrents.com
 @@||seriesonlinehd.biz/player/$popup
 @@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=netcine.us

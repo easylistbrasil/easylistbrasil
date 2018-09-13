@@ -365,6 +365,7 @@
 @@||ajax.googleapis.com/ajax/libs/mootools/*/mootools.min.js
 @@||ajax.googleapis.com/ajax/libs/prototype/*/prototype.js
 @@||ajax.googleapis.com/ajax/libs/swfobject/*/swfobject.js
+@@||ajax.googleapis.com/ajax/libs/webfont/*/webfont.js
 @@||api.peer5.com/jwplayer*.js
 @@||api.peer5.com/peer5.clappr.plugin.js
 @@||api.peer5.com/peer5.flowplayer.plugin.js
@@ -402,7 +403,9 @@
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/jquery.slim.min.map
 @@||cdnjs.cloudflare.com/ajax/libs/lity/*/lity.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/materialize/*/js/materialize.js
+@@||cdnjs.cloudflare.com/ajax/libs/mobile-detect/*/mobile-detect.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/semantic-ui/*/semantic.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/video.js/*/lang/*.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video-js.min.css
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.min.js
@@ -451,6 +454,7 @@
 @@||ssl.p.jwpcdn.com/player/v/*/provider.flash.js
 @@||video.ntcdn.us/jwplayercast.js
 @@||vjs.zencdn.net/*/video.js$script
+@@||vjs.zencdn.net/*/video.min.js
 @@||youtube.com/iframe_api^$media,script
 @@||youtube.com/player_api^$media,script
 @@||zencdn.net^$script,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1084,6 +1088,10 @@ uol.com.br#@#[src*="data:image"]
 @@||onlinevideoconverter.com^$generichide
 ! adrenaline.uol.com.br
 @@||adrenaline.uol.com.br^$generichide
+! jw.org
+@@||jw.org^$generichide
+! wikipedia.org
+@@||wikipedia.org^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

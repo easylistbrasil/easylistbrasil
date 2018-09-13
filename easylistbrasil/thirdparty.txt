@@ -7,6 +7,7 @@
 ||adap.tv^$~object-subrequest,third-party
 ||adsymptotic.com^$third-party
 ||afriflatry.co^$third-party
+||aoredi.com^$third-party
 ||areyouahuman.com^$third-party
 ||authorne.info^$popup,third-party
 ||baa2e174884c9c0460e.com^$third-party
@@ -27,6 +28,7 @@
 ||ineity.pro^$third-party
 ||infolinks.com^$third-party
 ||ipehunxxyir.com^$third-party
+||j8inn1zektoe.com^$third-party
 ||mellowads.com^$third-party
 ||ngptxgpbdnutvi.com^$third-party
 ||oclasrv.com^$third-party

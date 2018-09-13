@@ -1,4 +1,4 @@
-oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv##.videologo
+oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -380,6 +380,7 @@ tecmundo.com.br##div[class="news-list"]
 tecmundo.com.br##div[class="trc_rbox_container"]
 tecmundo.com.br##div[id^="ads"]
 ! uol.com.br
+uol.com.br##div[class^="mod-"][class*="-ecommerce"]
 uol.com.br##div[id^="banner"]
 ! julien.danjou.info
 julien.danjou.info###ck_overlay
@@ -765,3 +766,35 @@ elitefilmesonline.com##li[id="count"]
 ! megafilmesbluray.com
 megafilmesbluray.com##a[href*="rgvqcsxqge.com"]
 megafilmesbluray.com##video[id="player1"]
+! animesonlinebr.com.br
+animesonlinebr.com.br##a[href*="bit.ly"]
+animesonlinebr.com.br##div[id="sidebarGeral"]
+animesonlinebr.com.br##div[id="tituloSidebar"][align="center"]
+! animesonlinehd.com.br
+animesonlinehd.com.br##div[class*="adsIndex"]
+animesonlinehd.com.br##div[class*="adsSide"]
+animesonlinehd.com.br##section[class="adsEpi"]
+! animesonehd.net
+animesonehd.net#?#div[class="widget-titulo"]:-abp-contains(NOS)
+animesonehd.net#?#div[class="widget-titulo"]:-abp-contains(PUBLICIDADE)
+animesonehd.net##div[class*="adsCenter"]
+animesonehd.net##div[class="ADSIndex"]
+animesonehd.net##div[class="Container"] > div[ class="right"]
+animesonehd.net##div[class="Container"] > div[class="left"]
+animesonehd.net##div[id="custom_html-10"]
+animesonehd.net##div[id="custom_html-12"]
+animesonehd.net##div[id="custom_html-4"]
+animesonehd.net##div[id="custom_html-6"]
+! centraldeanimes.biz
+centraldeanimes.biz##aside[id="custom_html-14"]
+centraldeanimes.biz##aside[id="custom_html-3"]
+centraldeanimes.biz##center > a[href*="goo.gl"]
+centraldeanimes.biz#?#div[style^="text-align"][style$=";"]:-abp-contains(Pokémon)
+centraldeanimes.biz##div[class="adsFooterRiver"]
+! animesonline.co
+animesonline.co##div > div > a[href*="/clk?"]
+animesonline.co##div[class="plads"]
+animesonline.co##div[style^="position:relative;width:728px"][style$="both"]
+animesonline.co##div[style^="width:728px"][style$="none"]
+animesonline.co##iframe[width^="728."][height^="90."]
+animesonline.co##ul > li:first-child
