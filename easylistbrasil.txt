@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ewcNHZwuiTb0iaTqoq/GLg
-! Version: 201809130029
+! Checksum: t4eXyjiWMXrA3ye+2/K32A
+! Version: 201809142258
 ! Title: EasyList Brasil
-! Last modified: 13 Sep 2018 00:29 UTC
+! Last modified: 14 Sep 2018 22:58 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1256,6 +1256,8 @@ $popup,domain=systembooster.info
 ||pop.thevid.net^$popup
 ||rapidvideo.com^$popup,domain=rapidvideo.com
 ||thevid.net^$popup,third-party
+! depositfiles.org
+$popup,domain=depositfiles.org
 ! flashx
 $popup,domain=flashx.co|flashx.tv|flashx1.tv
 ! widestream
@@ -1292,7 +1294,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 !-----------------------Regras de ocultação de elemento específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us##.videologo
+openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -1581,6 +1583,8 @@ tvonline.plus##[class$="-ad"]
 tvonline.plus##[class$="_ad"]
 tvonline.plus##[class^="ad"]
 tvonline.plus##[class^="pub"]
+tvonline.plus##div[class="adv-watch"]
+tvonline.plus##div[class^="ad_"][class*="pub_"]
 ! geroubuzz.com
 geroubuzz.com##div[class="afs_ads"]
 geroubuzz.com##div[id*="video-ad"]
@@ -1652,6 +1656,7 @@ filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeser
 filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeseriesonline.info,filmeeseriesonline.net,filmeeseriesonline.online,filmeeseriesonline.org,filmeseserieonline.co,filmeseserieonline.com,filmeseserieonline.gratis,filmeseserieonline.info,filmeseserieonline.net,filmeseserieonline.online,filmeseserieonline.org,filmeseseriesonline.co,filmeseseriesonline.com,filmeseseriesonline.gratis,filmeseseriesonline.info,filmeseseriesonline.net,filmeseseriesonline.online,filmeseseriesonline.org,filmesonlineseries.co,filmesonlineseries.com,filmesonlineseries.gratis,filmesonlineseries.info,filmesonlineseries.net,filmesonlineseries.online,filmesonlineseries.org##div[class="itens"] > a:first-child
 filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeseriesonline.info,filmeeseriesonline.net,filmeeseriesonline.online,filmeeseriesonline.org,filmeseserieonline.co,filmeseserieonline.com,filmeseserieonline.gratis,filmeseserieonline.info,filmeseserieonline.net,filmeseserieonline.online,filmeseserieonline.org,filmeseseriesonline.co,filmeseseriesonline.com,filmeseseriesonline.gratis,filmeseseriesonline.info,filmeseseriesonline.net,filmeseseriesonline.online,filmeseseriesonline.org,filmesonlineseries.co,filmesonlineseries.com,filmesonlineseries.gratis,filmesonlineseries.info,filmesonlineseries.net,filmesonlineseries.online,filmesonlineseries.org##div[style*="z-index"]
 ! redecanais
+cometa.top##div[id="video-id_logo"]
 canais.gratis,redecanais.biz,redecanais.cc,redecanais.co,redecanais.com,redecanais.cz,redecanais.gratis,redecanais.info,redecanais.io,redecanais.me,redecanais.online,redecanais.org,redecanais.ru,redecanais.site,redecanais.to,redecanais.tv##div[style*="z-index"]
 ! filmesonlinex
 filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[class*="Modal"]
@@ -2092,6 +2097,8 @@ animesonline.co##div[style^="position:relative;width:728px"][style$="both"]
 animesonline.co##div[style^="width:728px"][style$="none"]
 animesonline.co##iframe[width^="728."][height^="90."]
 animesonline.co##ul > li:first-child
+! tvgazeta.com.br
+tvgazeta.com.br##div[class^="col-lg-"] > div[class*="rmt_container"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3014,8 +3021,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 ! filmesonline
 @@||filmesonline*/wp-content/themes/*/js/script.js
 ! redecanais
-@@||*.cometa.*/RedeCanais/*/ondemand/*.mp4$popup
-@@||*redecanais*/*.html$popup
+@@||canais.ink/fluidplayer/fluidplayer.min.js
 ! filmes
 @@||*cine*.*^$generichide
 @@||*cinefilmes*.*^$generichide
@@ -3296,8 +3302,12 @@ uol.com.br#@#[src*="data:image"]
 @@||social.ulala.us/link.php$popup,domain=netcine.us
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
 @@||torrentsbaixar.com$popup,domain=maxflixhd.com
+@@||tvgazeta.com.br/aovivo/$popup
 @@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
+! redecanais
+@@||*.cometa.*/RedeCanais/*/ondemand/*.mp4$popup
+@@||*redecanais*/*.html$popup
 ! adf.ly
 @@||0bin.net/$popup,domain=clearload.bid
 @@||2shared.com/$popup,domain=clearload.bid
