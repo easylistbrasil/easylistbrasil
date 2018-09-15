@@ -54,8 +54,12 @@
 @@||social.ulala.us/link.php$popup,domain=netcine.us
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
 @@||torrentsbaixar.com$popup,domain=maxflixhd.com
+@@||tvgazeta.com.br/aovivo/$popup
 @@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
+! redecanais
+@@||*.cometa.*/RedeCanais/*/ondemand/*.mp4$popup
+@@||*redecanais*/*.html$popup
 ! adf.ly
 @@||0bin.net/$popup,domain=clearload.bid
 @@||2shared.com/$popup,domain=clearload.bid

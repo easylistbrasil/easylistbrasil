@@ -7,6 +7,8 @@ $popup,domain=systembooster.info
 ||pop.thevid.net^$popup
 ||rapidvideo.com^$popup,domain=rapidvideo.com
 ||thevid.net^$popup,third-party
+! depositfiles.org
+$popup,domain=depositfiles.org
 ! flashx
 $popup,domain=flashx.co|flashx.tv|flashx1.tv
 ! widestream

@@ -900,8 +900,7 @@
 ! filmesonline
 @@||filmesonline*/wp-content/themes/*/js/script.js
 ! redecanais
-@@||*.cometa.*/RedeCanais/*/ondemand/*.mp4$popup
-@@||*redecanais*/*.html$popup
+@@||canais.ink/fluidplayer/fluidplayer.min.js
 ! filmes
 @@||*cine*.*^$generichide
 @@||*cinefilmes*.*^$generichide
