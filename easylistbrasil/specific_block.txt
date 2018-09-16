@@ -513,7 +513,7 @@ $csp=frame-src 'self',domain=clearload.bid|brightvar.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=futeboltv.com|futeboltvgratis.com
 ||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
 ! rarbg.to
-|http*://$popup,script,third-party,xmlhttprequest,domain=rarbg.to|rarbgproxied.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=rarbg.to|rarbgproxied.org|rarbgprx.org
 ! torrentfilmes
 ||receitasdamaria.*^$script,third-party,xmlhttprequest
 ||significadosbrasil.*^$script,third-party,xmlhttprequest

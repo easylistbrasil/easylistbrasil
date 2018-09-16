@@ -1062,6 +1062,7 @@ uol.com.br#@#[src*="data:image"]
 @@||dyncdn.me/static/*/js/comments2.min.js
 @@||dyncdn.me/static/*/js/rating3.js
 @@||dyncdn.me/static/*/js/scrollspy.min.js
+@@||statsy.net/a.php?ref=threat_defence.rarbg.com&res=*^$xmlhttprequest
 ! receitasdamaria.me
 @@||receitasdamaria.me^$generichide
 ! legendasonline.net
