@@ -25,7 +25,7 @@ $popup,domain=widestream.io
 ||assistir.thenightseries.net$popup
 ||rotumal.com^$popup,third-party
 ! adf.ly
-$popup,domain=clearload.bid
+$popup,domain=brightvar.bid|clearload.bid
 ! popups
 $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torrentfilmes.net|ydujmccmydwu.bid
 ! semi-generic popup block
