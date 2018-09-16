@@ -614,6 +614,8 @@
 @@||vidlox.tv/js/hrpr.js
 @@||vidlox.tv/js/jquery.min.js
 @@||vidlox.tv^$generichide
+! ucaster.me
+@@||ucaster.me/static/scripts/hucaster.js
 ! estream
 @@blob:*//estream.*/*^$script
 @@|wss://*.playe.estream.*/$websocket
@@ -827,6 +829,7 @@
 ! torcidatricolor.eu
 @@||torcidatricolor.eu^$generichide
 ! sportzonline.xyz
+@@||sportzonline.xyz/channels/$subdocument,domain=aovivonatv.com|tvfree.me
 ! whostreams.net
 @@||whostreams.net^$generichide
 ! aovivonatv.com
@@ -1091,6 +1094,12 @@ uol.com.br#@#[src*="data:image"]
 @@||jw.org^$generichide
 ! wikipedia.org
 @@||wikipedia.org^$generichide
+! ibytes.com.br
+@@||ibytes.com.br/advertisement.js
+! netstumbler.com
+@@||netstumbler.com^$generichide
+! tvfree.me - tv acores
+@@||tvfree.me$generichide,~subdocument,~third-party
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

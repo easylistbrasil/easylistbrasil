@@ -20,6 +20,7 @@ $popup,domain=widestream.io
 ||hqq.*/out$popup
 ! outros
 ||3*.*.*^$popup,domain=megahfilmeshd.net
+||35.193.*.$popup
 ||acceder.gratis^
 ||assistir.thenightseries.net$popup
 ||rotumal.com^$popup,third-party

@@ -244,8 +244,7 @@ $script,domain=chishare.cc|chishare.co|chishare.com|chishare.com.br|chishare.inf
 ! tvgram.stream
 $script,domain=tvgram.stream
 ! onplay.tv
-|http://$popup,script,third-party,xmlhttprequest,domain=onplay.tv
-|https://$popup,script,third-party,xmlhttprequest,domain=onplay.tv
+|http*://$popup,script,third-party,xmlhttprequest,domain=onplay.tv
 ! otampadabola2.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=otampadabola2.com
 ! janjua
@@ -309,9 +308,17 @@ $script,domain=tvgram.stream
 ||streamplay.to/favicon-48x48.png
 ||streamplay.to/images/videoplayer.png
 ||streamplay.to/js/pu*/
+! ucasterplayer.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=ucasterplayer.com
+! ucaster.me
+|http*://$popup,script,third-party,xmlhttprequest,domain=ucaster.me
 ! abcast.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=abcast.me|abcast.net
 ||abcast.net/ao.html
+! sharecast.eu
+|http*://$popup,script,third-party,xmlhttprequest,domain=sharecast.eu
+! vvcast.tv
+|http*://$popup,script,third-party,xmlhttprequest,domain=vvcast.tv
 ! vlive.pw
 |http*://$popup,script,third-party,xmlhttprequest,domain=vlive.pw
 ! streamlive.to
@@ -556,6 +563,18 @@ $csp=frame-src 'self',domain=clearload.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=centraldeanimes.biz
 ! animesonline.co
 |http*://$popup,script,third-party,xmlhttprequest,domain=animesonline.co
+! tvfree.me - tv acores
+|http*://$popup,script,third-party,xmlhttprequest,domain=tvfree.me
+! onlinenatv.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=onlinenatv.com
+! filmon.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=filmon.com
+! torcidatricolor.tv
+|http*://$popup,script,third-party,xmlhttprequest,domain=torcidatricolor.tv
+||torcidatricolor.tv/bannerassinar*.png
+||www.torcidatricolor.tv/pub.html
+! tvdesporto.info
+|http*://$popup,script,third-party,xmlhttprequest,domain=tvdesporto.info
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

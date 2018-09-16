@@ -1,4 +1,4 @@
-openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip##.videologo
+openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -803,3 +803,50 @@ animesonline.co##iframe[width^="728."][height^="90."]
 animesonline.co##ul > li:first-child
 ! tvgazeta.com.br
 tvgazeta.com.br##div[class^="col-lg-"] > div[class*="rmt_container"]
+! tvfree.me
+tvfree.me##a[href*="adk"]
+tvfree.me##aside[class*="hidden-tablet"][class$="-phone"]
+tvfree.me##button[title*="Clique para ver a TVI"]
+lsops.net,tvfree.me##div[id*="floatLayer"]
+tvfree.me##div[id="ad_footer"]
+tvfree.me##div[id="adn1"]
+tvfree.me##div[id="banner_container"]
+tvfree.me##div[id="sp-above_body_1"]
+tvfree.me##div[id="sp-content1"]
+tvfree.me##div[style*="z-index"]
+tvfree.me##iframe[src*="1xbetapostas"]
+! tvdesporto.info
+tvdesporto.info##div[id="ad_overlay"]
+tvdesporto.info##div[id^="ad_"]
+tvdesporto.info##div[id^="popup-"]
+tvdesporto.info##iframe[src="ads.php"]
+! ucasterplayer.com
+ucasterplayer.com##a[style*="z-index"]
+ucasterplayer.com##div[class="video_ads_overdiv"]
+ucasterplayer.com##iframe[src="ufpcdn.com"]
+! sharecast.eu
+sharecast.eu##a[style*="z-index"]
+sharecast.eu##div[class="afs_ads"]
+sharecast.eu##div[style*="z-index"]
+sharecast.eu##table[id="table1"]
+! vvcast.tv
+vvcast.tv##a[style*="z-index"]
+vvcast.tv##div[class="afs_ads"]
+vvcast.tv##div[id*="floatLayer"]
+vvcast.tv##div[id="ad_overlay"]
+vvcast.tv##div[style*="z-index"]
+vvcast.tv##table[id="table1"]
+! onlinenatv.com
+onlinenatv.com###floatLayer2
+onlinenatv.com##div[class="adsbox"]
+onlinenatv.com##div[id*="floatLayer"]
+onlinenatv.com##div[style*="z-index"]
+onlinenatv.com##iframe[src*="/pub.html"]
+onlinenatv.com##style
+! filmon.com
+filmon.com##div[class="afs_ads"]
+filmon.com##div[class="subscribe-annotation"]
+! tvdesporto.info
+tvdesporto.info##div[id="ad_overlay"]
+tvdesporto.info##div[id^="popup-"]
+tvdesporto.info##iframe[src="ads.php"]
