@@ -1102,6 +1102,8 @@ uol.com.br#@#[src*="data:image"]
 @@||netstumbler.com^$generichide
 ! tvfree.me - tv acores
 @@||tvfree.me$generichide,~subdocument,~third-party
+! download
+@@||www.download*.com.br^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
