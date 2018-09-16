@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: nHBqyzxD6VXWd4KHV+dJuQ
-! Version: 201809160104
+! Checksum: VNZEFyJvudm1devlJEoRlA
+! Version: 201809160119
 ! Title: EasyList Brasil
-! Last modified: 16 Sep 2018 01:04 UTC
+! Last modified: 16 Sep 2018 01:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1106,19 +1106,21 @@ get.$domain=xilften.net
 ! aovivobrasil.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
-$csp=frame-src 'self',domain=clearload.bid
-/afu.php$domain=clearload.bid
-/popunder.gif$domain=clearload.bid
-/show.php$domain=clearload.bid
-||*.club$domain=clearload.bid
-||*.com^$domain=clearload.bid
-||*.info$domain=clearload.bid
-||*.net^$domain=clearload.bid
-||*.site^$domain=clearload.bid
-||*.xyz^$domain=clearload.bid
+$csp=frame-src 'self',domain=clearload.bid|brightvar.bid
+/afu.php$domain=brightvar.bid|clearload.bid
+/popunder.gif$domain=brightvar.bid|clearload.bid
+/show.php$domain=brightvar.bid|clearload.bid
+||*.club$domain=brightvar.bid|clearload.bid
+||*.com^$domain=brightvar.bid|clearload.bid
+||*.info$domain=brightvar.bid|clearload.bid
+||*.net^$domain=brightvar.bid|clearload.bid
+||*.site^$domain=brightvar.bid|clearload.bid
+||*.xyz^$domain=brightvar.bid|clearload.bid
+||brightvar.bid/js/display.js
+||brightvar.bid/puopen.php
 ||clearload.bid/js/display.js
 ||clearload.bid/puopen.php
-||go.onclasrv.com^$domain=clearload.bid
+||go.onclasrv.com^$domain=brightvar.bid|clearload.bid
 ! futeboltv.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=futeboltv.com|futeboltvgratis.com
 ||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
@@ -1314,7 +1316,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 !-----------------------Regras de ocultação de elemento específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz##.videologo
+openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -2003,10 +2005,10 @@ bobfilmes.com##div[class="afs_ads"]
 bobfilmes.com##div[id*="floatLayer"]
 bobfilmes.com##div[style*="z-index"]
 ! adf.ly
-clearload.bid##iframe[src*="redirect"]
-clearload.bid#?#div[id="_bd"] > p:-abp-contains(advert)
-clearload.bid#?#div[id="_bd"] > p:-abp-contains(Atenção)
-clearload.bid#?#div[id="_bd"] > p:-abp-contains(Warning)
+brightvar.bid,clearload.bid##iframe[src*="redirect"]
+brightvar.bid,clearload.bid#?#div[id="_bd"] > p:-abp-contains(advert)
+brightvar.bid,clearload.bid#?#div[id="_bd"] > p:-abp-contains(Atenção)
+brightvar.bid,clearload.bid#?#div[id="_bd"] > p:-abp-contains(Warning)
 ! futeboltvgratis.com
 futeboltvgratis.com##[id*="anuncio"]
 futeboltvgratis.com##a[id="linkantes"]
@@ -3216,30 +3218,32 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||aovivobrasil.com.br^$generichide
 @@||maps.googleapis.com^$domain=aovivobrasil.com.br
 ! adf.ly
-@@/nr-*.min.js$domain=clearload.bid
-@@/script/wait.php$domain=clearload.bid
-@@||*./script/wait.php?^$domain=clearload.bid
-@@||*/a/display.php?r=$script,domain=clearload.bid
-@@||*/script/pub.js$script,domain=clearload.bid
-@@||adexchangetracker.com/script/suurl.php?$script,domain=clearload.bid
-@@||b.adexchangemachine.com/script/wait.php?$domain=clearload.bid
-@@||bam.nr-data.net$script,domain=clearload.bid
-@@||bitonclick.com/script/suurl.php?$script,domain=clearload.bid
-@@||boudja.com/$subdocument,domain=clearload.bid
-@@||boudja.com/popunder.gif$domain=clearload.bid
+@@/nr-*.min.js$domain=brightvar.bid|clearload.bid
+@@/script/wait.php$domain=brightvar.bid|clearload.bid
+@@||*./script/wait.php?^$domain=brightvar.bid|clearload.bid
+@@||*/a/display.php?r=$script,domain=brightvar.bid|clearload.bid
+@@||*/script/pub.js$script,domain=brightvar.bid|clearload.bid
+@@||adexchangetracker.com/script/suurl.php?$script,domain=brightvar.bid|clearload.bid
+@@||b.adexchangemachine.com/script/wait.php?$domain=brightvar.bid|clearload.bid
+@@||bam.nr-data.net$script,domain=brightvar.bid|clearload.bid
+@@||bitonclick.com/script/suurl.php?$script,domain=brightvar.bid|clearload.bid
+@@||boudja.com/$subdocument,domain=brightvar.bid|clearload.bid
+@@||boudja.com/popunder.gif$domain=brightvar.bid|clearload.bid
+@@||brightvar.bid^$generichide
 @@||cdn.ay.gy/static/image/logo.png
+@@||cdn.brightvar.bid$image,stylesheet
 @@||cdn.clearload.bid$image,stylesheet
 @@||clearload.bid^$generichide
-@@||clearonclick.com/script/suurl.php?$script,domain=clearload.bid
-@@||liveadexchanger.com/a/display.php?$script,domain=clearload.bid
-@@||liveadexchanger.com/a/display.php?$subdocument,domain=clearload.bid
-@@||maxonclick.com/script/suurl.php?$script,domain=clearload.bid
-@@||onclickprediction.com/script/suurl.php?$script,domain=clearload.bid
-@@||onclickpulse.com/script/chrome.js^$domain=clearload.bid
-@@||onclickpulse.com/script/identify.html$domain=clearload.bid
-@@||unrestern.info/popunder.gif$domain=clearload.bid
-@@||venturead.com/script/suurl.php?$script,domain=clearload.bid
-@@||www.google-analytics.com^$domain=clearload.bid
+@@||clearonclick.com/script/suurl.php?$script,domain=brightvar.bid|clearload.bid
+@@||liveadexchanger.com/a/display.php?$script,domain=brightvar.bid|clearload.bid
+@@||liveadexchanger.com/a/display.php?$subdocument,domain=brightvar.bid|clearload.bid
+@@||maxonclick.com/script/suurl.php?$script,domain=brightvar.bid|clearload.bid
+@@||onclickprediction.com/script/suurl.php?$script,domain=brightvar.bid|clearload.bid
+@@||onclickpulse.com/script/chrome.js^$domain=brightvar.bid|clearload.bid
+@@||onclickpulse.com/script/identify.html$domain=brightvar.bid|clearload.bid
+@@||unrestern.info/popunder.gif$domain=brightvar.bid|clearload.bid
+@@||venturead.com/script/suurl.php?$script,domain=brightvar.bid|clearload.bid
+@@||www.google-analytics.com^$domain=brightvar.bid|clearload.bid
 ! icarros.com.br
 @@||icarros.com.br^$genericblock,generichide,image
 ! uol.com.br
@@ -3386,43 +3390,43 @@ uol.com.br#@#[src*="data:image"]
 @@||*.cometa.*/RedeCanais/*/ondemand/*.mp4$popup
 @@||*redecanais*/*.html$popup
 ! adf.ly
-@@||0bin.net/$popup,domain=clearload.bid
-@@||2shared.com/$popup,domain=clearload.bid
-@@||4shared.com/$popup,domain=clearload.bid
-@@||adrive.com/$popup,domain=clearload.bid
-@@||anonfiles.com/$popup,domain=clearload.bid
-@@||bitcasa.com/$popup,domain=clearload.bid
-@@||box.com/$popup,domain=clearload.bid
-@@||chopapp.com/$popup,domain=clearload.bid
-@@||cld.pt/dl/download/*^$popup,domain=clearload.bid
-@@||codepad.org/$popup,domain=clearload.bid
-@@||copy.com/$popup,domain=clearload.bid
-@@||depositfiles.com/$popup,domain=clearload.bid
-@@||drive.google.com/$popup,domain=clearload.bid
-@@||dropbox.com/$popup,domain=clearload.bid
-@@||evernote.com/$popup,domain=clearload.bid
-@@||filefactory.com/$popup,domain=clearload.bid
-@@||fileserve.com/$popup,domain=clearload.bid
-@@||github.com/$popup,domain=clearload.bid
-@@||gitlab.com/$popup,domain=clearload.bid
-@@||hastebin.com/$popup,domain=clearload.bid
-@@||hightail.com/$popup,domain=clearload.bid
-@@||icloud.com/$popup,domain=clearload.bid
-@@||ideone.com/$popup,domain=clearload.bid
-@@||live.com/$popup,domain=clearload.bid
-@@||mediafire.com/$popup,domain=clearload.bid
+@@||0bin.net/$popup,domain=brightvar.bid|clearload.bid
+@@||2shared.com/$popup,domain=brightvar.bid|clearload.bid
+@@||4shared.com/$popup,domain=brightvar.bid|clearload.bid
+@@||adrive.com/$popup,domain=brightvar.bid|clearload.bid
+@@||anonfiles.com/$popup,domain=brightvar.bid|clearload.bid
+@@||bitcasa.com/$popup,domain=brightvar.bid|clearload.bid
+@@||box.com/$popup,domain=brightvar.bid|clearload.bid
+@@||chopapp.com/$popup,domain=brightvar.bid|clearload.bid
+@@||cld.pt/dl/download/*^$popup,domain=brightvar.bid|clearload.bid
+@@||codepad.org/$popup,domain=brightvar.bid|clearload.bid
+@@||copy.com/$popup,domain=brightvar.bid|clearload.bid
+@@||depositfiles.com/$popup,domain=brightvar.bid|clearload.bid
+@@||drive.google.com/$popup,domain=brightvar.bid|clearload.bid
+@@||dropbox.com/$popup,domain=brightvar.bid|clearload.bid
+@@||evernote.com/$popup,domain=brightvar.bid|clearload.bid
+@@||filefactory.com/$popup,domain=brightvar.bid|clearload.bid
+@@||fileserve.com/$popup,domain=brightvar.bid|clearload.bid
+@@||github.com/$popup,domain=brightvar.bid|clearload.bid
+@@||gitlab.com/$popup,domain=brightvar.bid|clearload.bid
+@@||hastebin.com/$popup,domain=brightvar.bid|clearload.bid
+@@||hightail.com/$popup,domain=brightvar.bid|clearload.bid
+@@||icloud.com/$popup,domain=brightvar.bid|clearload.bid
+@@||ideone.com/$popup,domain=brightvar.bid|clearload.bid
+@@||live.com/$popup,domain=brightvar.bid|clearload.bid
+@@||mediafire.com/$popup,domain=brightvar.bid|clearload.bid
 @@||mega.nz/#$popup
-@@||paste.ee/$popup,domain=clearload.bid
-@@||pastebin.com/$popup,domain=clearload.bid
-@@||pasted.co/$popup,domain=clearload.bid
-@@||raw.githubusercontent.com/$popup,domain=clearload.bid
-@@||snipt.org/$popup,domain=clearload.bid
-@@||spideroak.com/$popup,domain=clearload.bid
-@@||uploaded.net/$popup,domain=clearload.bid
-@@||userscloud.com/$popup,domain=clearload.bid
-@@||volafile.io/$popup,domain=clearload.bid
-@@||wetransfer.com/$popup,domain=clearload.bid
-@@||zippyshare.com/$popup,domain=clearload.bid
+@@||paste.ee/$popup,domain=brightvar.bid|clearload.bid
+@@||pastebin.com/$popup,domain=brightvar.bid|clearload.bid
+@@||pasted.co/$popup,domain=brightvar.bid|clearload.bid
+@@||raw.githubusercontent.com/$popup,domain=brightvar.bid|clearload.bid
+@@||snipt.org/$popup,domain=brightvar.bid|clearload.bid
+@@||spideroak.com/$popup,domain=brightvar.bid|clearload.bid
+@@||uploaded.net/$popup,domain=brightvar.bid|clearload.bid
+@@||userscloud.com/$popup,domain=brightvar.bid|clearload.bid
+@@||volafile.io/$popup,domain=brightvar.bid|clearload.bid
+@@||wetransfer.com/$popup,domain=brightvar.bid|clearload.bid
+@@||zippyshare.com/$popup,domain=brightvar.bid|clearload.bid
 ! torrentfilmes
 @@||legendei.com$popup,domain=thefilmestorrents.com|torrentfilmes.biz|torrentfilmes.net
 @@||link-download.in$popup,domain=torrentfilmes.biz|torrentfilmes.net
