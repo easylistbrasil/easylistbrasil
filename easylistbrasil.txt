@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VNZEFyJvudm1devlJEoRlA
-! Version: 201809160119
+! Checksum: 9l3UatQdFQdPecZFOZefyA
+! Version: 201809160123
 ! Title: EasyList Brasil
-! Last modified: 16 Sep 2018 01:19 UTC
+! Last modified: 16 Sep 2018 01:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1295,7 +1295,7 @@ $popup,domain=widestream.io
 ||assistir.thenightseries.net$popup
 ||rotumal.com^$popup,third-party
 ! adf.ly
-$popup,domain=clearload.bid
+$popup,domain=brightvar.bid|clearload.bid
 ! popups
 $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torrentfilmes.net|ydujmccmydwu.bid
 ! semi-generic popup block
