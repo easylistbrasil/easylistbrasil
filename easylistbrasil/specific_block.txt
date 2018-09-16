@@ -494,19 +494,21 @@ get.$domain=xilften.net
 ! aovivobrasil.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
-$csp=frame-src 'self',domain=clearload.bid
-/afu.php$domain=clearload.bid
-/popunder.gif$domain=clearload.bid
-/show.php$domain=clearload.bid
-||*.club$domain=clearload.bid
-||*.com^$domain=clearload.bid
-||*.info$domain=clearload.bid
-||*.net^$domain=clearload.bid
-||*.site^$domain=clearload.bid
-||*.xyz^$domain=clearload.bid
+$csp=frame-src 'self',domain=clearload.bid|brightvar.bid
+/afu.php$domain=brightvar.bid|clearload.bid
+/popunder.gif$domain=brightvar.bid|clearload.bid
+/show.php$domain=brightvar.bid|clearload.bid
+||*.club$domain=brightvar.bid|clearload.bid
+||*.com^$domain=brightvar.bid|clearload.bid
+||*.info$domain=brightvar.bid|clearload.bid
+||*.net^$domain=brightvar.bid|clearload.bid
+||*.site^$domain=brightvar.bid|clearload.bid
+||*.xyz^$domain=brightvar.bid|clearload.bid
+||brightvar.bid/js/display.js
+||brightvar.bid/puopen.php
 ||clearload.bid/js/display.js
 ||clearload.bid/puopen.php
-||go.onclasrv.com^$domain=clearload.bid
+||go.onclasrv.com^$domain=brightvar.bid|clearload.bid
 ! futeboltv.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=futeboltv.com|futeboltvgratis.com
 ||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
