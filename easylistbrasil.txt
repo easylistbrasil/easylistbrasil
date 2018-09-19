@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3o+H8Cv0miXxiCR+PazzGQ
-! Version: 201809161959
+! Checksum: Bn1OcWklx3rkar+R+m7/Pw
+! Version: 201809190114
 ! Title: EasyList Brasil
-! Last modified: 16 Sep 2018 19:59 UTC
+! Last modified: 19 Sep 2018 01:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2298,6 +2298,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*/honeybadger.min.js
 @@||*/hoverIntent.js
 @@||*/html5shiv.js
+@@||*/ie8/videojs-ie8.min.js
 @@||*/iframe.service.js
 @@||*/images-thumbnail-sliderv*/js/jc.js
 @@||*/jquery-*.min.js
@@ -2604,6 +2605,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*ie8/videojs-ie8.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/*/videojs-contrib-hls.min.js
 @@||code.jquery.com/j*.js
 @@||code.jquery.com/jq.js
 @@||code.jquery.com/jquery-*.*.*.js
