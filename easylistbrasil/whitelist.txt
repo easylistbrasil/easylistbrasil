@@ -104,6 +104,7 @@
 @@||*/honeybadger.min.js
 @@||*/hoverIntent.js
 @@||*/html5shiv.js
+@@||*/ie8/videojs-ie8.min.js
 @@||*/iframe.service.js
 @@||*/images-thumbnail-sliderv*/js/jc.js
 @@||*/jquery-*.min.js
@@ -410,6 +411,7 @@
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*ie8/videojs-ie8.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/*/videojs-contrib-hls.min.js
 @@||code.jquery.com/j*.js
 @@||code.jquery.com/jq.js
 @@||code.jquery.com/jquery-*.*.*.js
