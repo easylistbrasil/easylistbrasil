@@ -327,7 +327,13 @@
 @@||*/wp-content/cache/autoptimize/autoptimize_*.php$script
 @@||*/wp-content/cache/autoptimize/js/autoptimize_*.js
 @@||*/wp-content/plugins/*/js/tooltip.js
+@@||*/wp-content/plugins/buddypress/bp-core/js/confirm.min.js
+@@||*/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js
+@@||*/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.min.js
+@@||*/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js
+@@||*/wp-content/plugins/jetpack/modules/wpgroho.js
 @@||*/wp-content/plugins/report-content/static/js/scripts.js
+@@||*/wp-content/plugins/yuzo-related-post/assets/js/jquery.equalizer.js
 @@||*/wp-content/themes/*/assets/js/isotope.js
 @@||*/wp-content/themes/*/js/zepto.min.js
 @@||*/wp-content/themes/*/players/flowplayer.min.js^$script
@@ -336,8 +342,10 @@
 @@||*/wp-content/themes/*mega*filme*/js/SC_01APP.js
 @@||*/wp-content/themes/*mega*filme*/js/SC_JSAPP.js
 @@||*/wp-content/themes/*mega*filme*/js/script.js
+@@||*/wp-content/themes/DooPlay*/assets/js/scripts.js
 @@||*/wp-content/themes/dooplay-v*/assets/js/scripts.js
 @@||*/wp-emoji-release.min.js
+@@||*/wp-includes/js/admin-bar.min.js
 @@||*/wp-responsive-menu/js/jquery.sidr.js
 @@||*/wp-responsive-menu/js/wprmenu.js
 @@||*/wpctc.tagcanvas.min.js
@@ -665,6 +673,8 @@
 @@||rapidvideo.*/plugins/videojs-resolution-switcher.js
 ! yandex.ru
 @@||mc.yandex.ru/metrika/watch.js
+! clipwatching.com
+@@||clipwatching.com/js/adframe.js
 ! youwatch
 @@||*.bid/js/xfs.js
 @@||*.bid/play72/jwplayer-yw.js
@@ -910,7 +920,6 @@
 @@||*cine*.*^$generichide
 @@||*cinefilmes*.*^$generichide
 @@||*filme*/episodios/script.js
-@@||*filme*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yandex.com
 @@||*filmeshd*.*^$generichide
 @@||*filmesonline*.*^$generichide
 @@||*mega*filmes*.*^$generichide
@@ -920,7 +929,6 @@
 @@||*megafilmes*/wp-content/themes/*/js/SC_JSAPP.js
 @@||*nightfilmes*.*^$generichide
 @@||*qqfilmes*.*^$generichide
-@@||*serie*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yandex.com
 @@||*seriesonline*.*^$generichide
 @@||ultracine*.*^$generichide
 ! qqfilmes
@@ -1107,6 +1115,12 @@ uol.com.br#@#[src*="data:image"]
 @@||tvfree.me$generichide,~subdocument,~third-party
 ! download
 @@||www.download*.com.br^$generichide
+! filmeseserieshd.online
+@@||*.wp.com^$image,domain=filmeseserieshd.online
+! lapumiafilmes.com
+@@||lapumiafilmes.com$generichide
+! mastercuriosidadesbr.com
+@@||mastercuriosidadesbr.com/instagram/cache.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

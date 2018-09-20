@@ -105,6 +105,8 @@
 |http*://$popup,script,third-party,xmlhttprequest,domain=www.rapidvideo.com
 ! unitplay.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=unitplay.net
+! clipwatching.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=clipwatching.com
 ! mystream.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=mystream.to
 ! youwatch
@@ -579,6 +581,14 @@ $csp=frame-src 'self',domain=clearload.bid|brightvar.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=tvdesporto.info
 ! mediafire.com
 $csp=script-src 'self',domain=mediafire.com
+! redeflix.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=redeflix.net
+! skyonlinegratis.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=skyonlinegratis.com
+! mastercuriosidadesbr.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=mastercuriosidadesbr.com
+! lapumiafilmes.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=lapumiafilmes.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

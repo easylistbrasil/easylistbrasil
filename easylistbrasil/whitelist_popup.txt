@@ -1,18 +1,18 @@
 ! fix popup
-@@||*ani*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*anima*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*anime*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*aovivo*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*canais*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*filme*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*flix*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*fute*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*legend*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*online*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*serie*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*sky*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*torrent*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*tv*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*ani*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*anima*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*anime*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*aovivo*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*canais*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*filme*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*flix*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*fute*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*legend*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*online*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*serie*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*sky*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*torrent*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*tv*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 ! liberar rede social dos sites de streaming bloqueados
 @@||facebook.com^$popup
 @@||instagram.com^$popup
@@ -23,7 +23,7 @@
 ! outros
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
 @@||assistirseriados.net/p/video.php$popup
-@@||baixaki.com.br/download/*.htm$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||baixaki.com.br/download/$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||blogger.com/video-play.mp4*^$popup
 @@||bludv.me$popup,domain=filmestr.com
 @@||bludvfilmes.com$popup,domain=soparagamestorrents.com
@@ -38,23 +38,25 @@
 @@||googlevideo.com^$popup
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||i.imgur.com/xSIkNpm.png$image,popup
-@@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||letrasdemusicas.biz/video/campanha.php?*^$popup,domain=netcine.us
 @@||mangasbr.com.br$popup,domain=animeflix.biz|animesonehd.net|animesonlinebr.com.br|animesonlinehd.com.br|animesonlinez.com
-@@||masterads.info$popup,domain=comandotorrents.com
+@@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||megafilmesbluray.com$popup,domain=maxflixhd.com
+@@||netlegendas.com^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||openload.co/f/*/$popup
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||p.netcine.us/players/*.php?n=*&p=*^$popup,domain=netcine.us
 @@||rapidvideo.com/d/$popup
-@@||receitasdabela.com$popup,domain=comandotorrents.com
+@@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||seriesonlinehd.biz/player/$popup
-@@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=netcine.us
-@@||social.ulala.us/link.php$popup,domain=netcine.us
+@@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
+@@||social.ulala.us/link.php$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
 @@||torrentsbaixar.com$popup,domain=maxflixhd.com
 @@||tvgazeta.com.br/aovivo/$popup
+@@||tvmap.com.br^$popup,domain=skyonlinegratis.com
 @@||vertv.me/radios/cidades/radios-*.php$popup
 @@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
@@ -101,11 +103,11 @@
 @@||zippyshare.com/$popup,domain=brightvar.bid|clearload.bid
 ! torrentfilmes
 @@||legendei.com$popup,domain=thefilmestorrents.com|torrentfilmes.biz|torrentfilmes.net
-@@||link-download.in$popup,domain=torrentfilmes.biz|torrentfilmes.net
-@@||receitasdamaria.me$popup,domain=torrentfilmes.biz|torrentfilmes.net
-@@||significadosbrasil.com$popup,domain=torrentfilmes.biz|torrentfilmes.net
-@@||sites.google.com$popup,domain=torrentfilmes.biz|torrentfilmes.net
+@@||link-download.in$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us|torrentfilmes.biz|torrentfilmes.net
+@@||receitasdamaria.me$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us|torrentfilmes.biz|torrentfilmes.net
+@@||significadosbrasil.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us|torrentfilmes.biz|torrentfilmes.net
+@@||sites.google.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us|torrentfilmes.biz|torrentfilmes.net
 ! torrentmegafilmes.com
 @@||legendasonline.net$popup,domain=torrentmegafilmes.com
 @@||masterads.info$popup,domain=torrentmegafilmes.com
-@@||receitasmaster.net$popup,domain=torrentmegafilmes.com
+@@||receitasmaster.net$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us|torrentmegafilmes.com

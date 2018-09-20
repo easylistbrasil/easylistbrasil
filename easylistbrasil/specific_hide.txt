@@ -1,4 +1,4 @@
-openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com##.videologo
+openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -158,6 +158,9 @@ flashx.co,flashx.tv,flashx1.tv##div[class="vjs-watermark"]
 flashx.co,flashx.tv,flashx1.tv##img[class="jwlogo"]
 flashx.co,flashx.tv,flashx1.tv##img[src*="/logo/"]
 flashx.co,flashx.tv,flashx1.tv##noscript
+! clipwatching.com
+clipwatching.com##div[class^="jw-dock"][class$="jw-reset"]
+clipwatching.com##div[class^="video_ad"]
 ! watchers.to
 watchers.to##body > script
 watchers.to##video-content
@@ -852,3 +855,24 @@ tvdesporto.info##div[id^="popup-"]
 tvdesporto.info##iframe[src="ads.php"]
 ! mediafire.com
 mediafire.com##div[class="errorExtraContent"]
+! filmesonlinemax.com
+filmesonlinemax.com##div[class*="Modal"]
+filmesonlinemax.com##div[class="bloco2"] > div > a[href*="playerhd"]
+filmesonlinemax.com##div[id*="topbar"]
+filmesonlinemax.com##div[id^="floatLayer"]
+filmesonlinemax.com##div[style*="z-index"]
+! filmeseserieshd.online
+filmeseserieshd.online##[class*="modal"]
+filmeseserieshd.online##[id*="anuncio"]
+filmeseserieshd.online##[id*="floatLayer"]
+filmeseserieshd.online##[id="countDown"]
+filmeseserieshd.online##[id^="ads"][id*="banner"]
+filmeseserieshd.online##div > a[target="_top"]
+filmeseserieshd.online##div[id="featload"]
+filmeseserieshd.online##div[id="playerads"]
+filmeseserieshd.online##li[id="count"]
+! lapumiafilmes.com
+lapumiafilmes.com##div[id="post-10682"]
+! mastercuriosidadesbr.com
+mastercuriosidadesbr.com##div[id^="adx"]
+mastercuriosidadesbr.com##td[background*="/topo.jpg"]
