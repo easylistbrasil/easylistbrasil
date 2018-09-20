@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Bn1OcWklx3rkar+R+m7/Pw
-! Version: 201809190114
+! Checksum: FWo/JGSrAv/J/yttKKGTiQ
+! Version: 201809200112
 ! Title: EasyList Brasil
-! Last modified: 19 Sep 2018 01:14 UTC
+! Last modified: 20 Sep 2018 01:12 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -717,6 +717,8 @@ adblockplus.org#@#a[href*="adserver"]
 |http*://$popup,script,third-party,xmlhttprequest,domain=www.rapidvideo.com
 ! unitplay.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=unitplay.net
+! clipwatching.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=clipwatching.com
 ! mystream.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=mystream.to
 ! youwatch
@@ -1191,6 +1193,14 @@ $csp=frame-src 'self',domain=clearload.bid|brightvar.bid
 |http*://$popup,script,third-party,xmlhttprequest,domain=tvdesporto.info
 ! mediafire.com
 $csp=script-src 'self',domain=mediafire.com
+! redeflix.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=redeflix.net
+! skyonlinegratis.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=skyonlinegratis.com
+! mastercuriosidadesbr.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=mastercuriosidadesbr.com
+! lapumiafilmes.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=lapumiafilmes.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1318,7 +1328,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 !-----------------------Regras de ocultação de elemento específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com##.videologo
+openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -1478,6 +1488,9 @@ flashx.co,flashx.tv,flashx1.tv##div[class="vjs-watermark"]
 flashx.co,flashx.tv,flashx1.tv##img[class="jwlogo"]
 flashx.co,flashx.tv,flashx1.tv##img[src*="/logo/"]
 flashx.co,flashx.tv,flashx1.tv##noscript
+! clipwatching.com
+clipwatching.com##div[class^="jw-dock"][class$="jw-reset"]
+clipwatching.com##div[class^="video_ad"]
 ! watchers.to
 watchers.to##body > script
 watchers.to##video-content
@@ -2172,6 +2185,27 @@ tvdesporto.info##div[id^="popup-"]
 tvdesporto.info##iframe[src="ads.php"]
 ! mediafire.com
 mediafire.com##div[class="errorExtraContent"]
+! filmesonlinemax.com
+filmesonlinemax.com##div[class*="Modal"]
+filmesonlinemax.com##div[class="bloco2"] > div > a[href*="playerhd"]
+filmesonlinemax.com##div[id*="topbar"]
+filmesonlinemax.com##div[id^="floatLayer"]
+filmesonlinemax.com##div[style*="z-index"]
+! filmeseserieshd.online
+filmeseserieshd.online##[class*="modal"]
+filmeseserieshd.online##[id*="anuncio"]
+filmeseserieshd.online##[id*="floatLayer"]
+filmeseserieshd.online##[id="countDown"]
+filmeseserieshd.online##[id^="ads"][id*="banner"]
+filmeseserieshd.online##div > a[target="_top"]
+filmeseserieshd.online##div[id="featload"]
+filmeseserieshd.online##div[id="playerads"]
+filmeseserieshd.online##li[id="count"]
+! lapumiafilmes.com
+lapumiafilmes.com##div[id="post-10682"]
+! mastercuriosidadesbr.com
+mastercuriosidadesbr.com##div[id^="adx"]
+mastercuriosidadesbr.com##td[background*="/topo.jpg"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -2521,7 +2555,13 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*/wp-content/cache/autoptimize/autoptimize_*.php$script
 @@||*/wp-content/cache/autoptimize/js/autoptimize_*.js
 @@||*/wp-content/plugins/*/js/tooltip.js
+@@||*/wp-content/plugins/buddypress/bp-core/js/confirm.min.js
+@@||*/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js
+@@||*/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.min.js
+@@||*/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js
+@@||*/wp-content/plugins/jetpack/modules/wpgroho.js
 @@||*/wp-content/plugins/report-content/static/js/scripts.js
+@@||*/wp-content/plugins/yuzo-related-post/assets/js/jquery.equalizer.js
 @@||*/wp-content/themes/*/assets/js/isotope.js
 @@||*/wp-content/themes/*/js/zepto.min.js
 @@||*/wp-content/themes/*/players/flowplayer.min.js^$script
@@ -2530,8 +2570,10 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*/wp-content/themes/*mega*filme*/js/SC_01APP.js
 @@||*/wp-content/themes/*mega*filme*/js/SC_JSAPP.js
 @@||*/wp-content/themes/*mega*filme*/js/script.js
+@@||*/wp-content/themes/DooPlay*/assets/js/scripts.js
 @@||*/wp-content/themes/dooplay-v*/assets/js/scripts.js
 @@||*/wp-emoji-release.min.js
+@@||*/wp-includes/js/admin-bar.min.js
 @@||*/wp-responsive-menu/js/jquery.sidr.js
 @@||*/wp-responsive-menu/js/wprmenu.js
 @@||*/wpctc.tagcanvas.min.js
@@ -2859,6 +2901,8 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||rapidvideo.*/plugins/videojs-resolution-switcher.js
 ! yandex.ru
 @@||mc.yandex.ru/metrika/watch.js
+! clipwatching.com
+@@||clipwatching.com/js/adframe.js
 ! youwatch
 @@||*.bid/js/xfs.js
 @@||*.bid/play72/jwplayer-yw.js
@@ -3104,7 +3148,6 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*cine*.*^$generichide
 @@||*cinefilmes*.*^$generichide
 @@||*filme*/episodios/script.js
-@@||*filme*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yandex.com
 @@||*filmeshd*.*^$generichide
 @@||*filmesonline*.*^$generichide
 @@||*mega*filmes*.*^$generichide
@@ -3114,7 +3157,6 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*megafilmes*/wp-content/themes/*/js/SC_JSAPP.js
 @@||*nightfilmes*.*^$generichide
 @@||*qqfilmes*.*^$generichide
-@@||*serie*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yandex.com
 @@||*seriesonline*.*^$generichide
 @@||ultracine*.*^$generichide
 ! qqfilmes
@@ -3301,6 +3343,12 @@ uol.com.br#@#[src*="data:image"]
 @@||tvfree.me$generichide,~subdocument,~third-party
 ! download
 @@||www.download*.com.br^$generichide
+! filmeseserieshd.online
+@@||*.wp.com^$image,domain=filmeseserieshd.online
+! lapumiafilmes.com
+@@||lapumiafilmes.com$generichide
+! mastercuriosidadesbr.com
+@@||mastercuriosidadesbr.com/instagram/cache.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -3336,20 +3384,20 @@ uol.com.br#@#[src*="data:image"]
 !
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
 ! fix popup
-@@||*ani*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*anima*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*anime*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*aovivo*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*canais*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*filme*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*flix*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*fute*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*legend*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*online*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*serie*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*sky*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*torrent*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
-@@||*tv*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|youtube.com
+@@||*ani*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*anima*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*anime*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*aovivo*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*canais*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*filme*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*flix*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*fute*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*legend*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*online*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*serie*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*sky*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*torrent*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*tv*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 ! liberar rede social dos sites de streaming bloqueados
 @@||facebook.com^$popup
 @@||instagram.com^$popup
@@ -3360,7 +3408,7 @@ uol.com.br#@#[src*="data:image"]
 ! outros
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
 @@||assistirseriados.net/p/video.php$popup
-@@||baixaki.com.br/download/*.htm$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||baixaki.com.br/download/$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||blogger.com/video-play.mp4*^$popup
 @@||bludv.me$popup,domain=filmestr.com
 @@||bludvfilmes.com$popup,domain=soparagamestorrents.com
@@ -3375,23 +3423,25 @@ uol.com.br#@#[src*="data:image"]
 @@||googlevideo.com^$popup
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||i.imgur.com/xSIkNpm.png$image,popup
-@@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||letrasdemusicas.biz/video/campanha.php?*^$popup,domain=netcine.us
 @@||mangasbr.com.br$popup,domain=animeflix.biz|animesonehd.net|animesonlinebr.com.br|animesonlinehd.com.br|animesonlinez.com
-@@||masterads.info$popup,domain=comandotorrents.com
+@@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||megafilmesbluray.com$popup,domain=maxflixhd.com
+@@||netlegendas.com^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||openload.co/f/*/$popup
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||p.netcine.us/players/*.php?n=*&p=*^$popup,domain=netcine.us
 @@||rapidvideo.com/d/$popup
-@@||receitasdabela.com$popup,domain=comandotorrents.com
+@@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||seriesonlinehd.biz/player/$popup
-@@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=netcine.us
-@@||social.ulala.us/link.php$popup,domain=netcine.us
+@@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
+@@||social.ulala.us/link.php$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
 @@||torrentsbaixar.com$popup,domain=maxflixhd.com
 @@||tvgazeta.com.br/aovivo/$popup
+@@||tvmap.com.br^$popup,domain=skyonlinegratis.com
 @@||vertv.me/radios/cidades/radios-*.php$popup
 @@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
@@ -3438,14 +3488,14 @@ uol.com.br#@#[src*="data:image"]
 @@||zippyshare.com/$popup,domain=brightvar.bid|clearload.bid
 ! torrentfilmes
 @@||legendei.com$popup,domain=thefilmestorrents.com|torrentfilmes.biz|torrentfilmes.net
-@@||link-download.in$popup,domain=torrentfilmes.biz|torrentfilmes.net
-@@||receitasdamaria.me$popup,domain=torrentfilmes.biz|torrentfilmes.net
-@@||significadosbrasil.com$popup,domain=torrentfilmes.biz|torrentfilmes.net
-@@||sites.google.com$popup,domain=torrentfilmes.biz|torrentfilmes.net
+@@||link-download.in$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us|torrentfilmes.biz|torrentfilmes.net
+@@||receitasdamaria.me$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us|torrentfilmes.biz|torrentfilmes.net
+@@||significadosbrasil.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us|torrentfilmes.biz|torrentfilmes.net
+@@||sites.google.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us|torrentfilmes.biz|torrentfilmes.net
 ! torrentmegafilmes.com
 @@||legendasonline.net$popup,domain=torrentmegafilmes.com
 @@||masterads.info$popup,domain=torrentmegafilmes.com
-@@||receitasmaster.net$popup,domain=torrentmegafilmes.com
+@@||receitasmaster.net$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us|torrentmegafilmes.com
 ! *** easylistbrasil:easylistbrasil/adult_whitelist.txt ***
 ! redtube, pornhub, youporn, tube8
 @@||*.rdtcdn.com/www-static/cdn_files/redtube/js/*.js?*^$script,domain=pornhub.com|redtube.com|redtube.com.br|tube8.com|youporn.com
