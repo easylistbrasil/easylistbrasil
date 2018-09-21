@@ -1,5 +1,6 @@
 ://ads.$popup
 ! Used with many websites to generate multiple popups
+/clicou.php$popup
 /favicon.ico$popup
 |blob:$popup
 |data:text$popup
