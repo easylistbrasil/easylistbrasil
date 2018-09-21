@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: FWo/JGSrAv/J/yttKKGTiQ
-! Version: 201809200112
+! Checksum: KUv8EOMf79kiP2vM6DyLKg
+! Version: 201809202339
 ! Title: EasyList Brasil
-! Last modified: 20 Sep 2018 01:12 UTC
+! Last modified: 20 Sep 2018 23:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1201,6 +1201,16 @@ $csp=script-src 'self',domain=mediafire.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=mastercuriosidadesbr.com
 ! lapumiafilmes.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=lapumiafilmes.com
+! solegendas.com.br
+|http*://$popup,script,third-party,xmlhttprequest,domain=solegendas.com.br
+! animesonlinekai.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonlinekai.com
+! gagafilms.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=gagafilms.com
+! skidrowreloaded.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=skidrowreloaded.com
+! mirrorace.com
+$csp=script-src 'self',domain=mirrorace.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1301,6 +1311,7 @@ $popup,domain=widestream.io
 ! netu streaming
 ||hqq.*/out$popup
 ! outros
+$popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.me|katfile.com|sendit.cloud|uploadhaven.com|userscloud.com
 ||3*.*.*^$popup,domain=megahfilmeshd.net
 ||35.193.*.$popup
 ||acceder.gratis^
@@ -1328,7 +1339,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 !-----------------------Regras de ocultação de elemento específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download##.videologo
+openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -2206,6 +2217,9 @@ lapumiafilmes.com##div[id="post-10682"]
 ! mastercuriosidadesbr.com
 mastercuriosidadesbr.com##div[id^="adx"]
 mastercuriosidadesbr.com##td[background*="/topo.jpg"]
+! letras.mus.br
+letras.mus.br##.cnt-space-top
+letras.mus.br##div[id^="pub_"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3349,6 +3363,18 @@ uol.com.br#@#[src*="data:image"]
 @@||lapumiafilmes.com$generichide
 ! mastercuriosidadesbr.com
 @@||mastercuriosidadesbr.com/instagram/cache.js
+! popcornflix.com
+@@||popcornflix.com$generichide
+! suprafiles.me
+@@||suprafiles.me$generichide
+! filecloud.io
+@@||*/adsbygoogle.js$domain=filecloud.io
+@@||filecloud.io$generichide
+@@||filecloud.io/banner_ads.js
+! turbobit.net
+@@||turbobit.net$generichide
+! katfile.com
+@@||katfile.com$genericblock,generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -3448,6 +3474,34 @@ uol.com.br#@#[src*="data:image"]
 ! redecanais
 @@||*.cometa.*/RedeCanais/*/ondemand/*.mp4$popup
 @@||*redecanais*/*.html$popup
+! skidrowreloaded.com
+@@||1fichier.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||bdupload.info$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||clicknupload.link$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||clicknupload.net/cgi-bin/dl.cgi/*^$popup
+@@||clicknupload.org$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||dl.free$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||downace.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||filecloud.io$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||filerio.in$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||hitfile.net$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||jheberg.net$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||katfile.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||megaup.net$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||mirrorace.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||multiup.org$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||nitroflare.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||rapidgator.net$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||rarbg.to$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||sendit.cloud$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||sendspace.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||suprafiles$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||turbobit.net$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||upload.$popup,domain=skidrowreloaded.com
+@@||uploadhaven.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||uptobox.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||userscloud.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||zippyshare.com$popup,domain=skidrowreloaded.com
 ! adf.ly
 @@||0bin.net/$popup,domain=brightvar.bid|clearload.bid
 @@||2shared.com/$popup,domain=brightvar.bid|clearload.bid
