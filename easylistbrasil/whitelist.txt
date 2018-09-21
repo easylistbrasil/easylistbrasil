@@ -1121,6 +1121,18 @@ uol.com.br#@#[src*="data:image"]
 @@||lapumiafilmes.com$generichide
 ! mastercuriosidadesbr.com
 @@||mastercuriosidadesbr.com/instagram/cache.js
+! popcornflix.com
+@@||popcornflix.com$generichide
+! suprafiles.me
+@@||suprafiles.me$generichide
+! filecloud.io
+@@||*/adsbygoogle.js$domain=filecloud.io
+@@||filecloud.io$generichide
+@@||filecloud.io/banner_ads.js
+! turbobit.net
+@@||turbobit.net$generichide
+! katfile.com
+@@||katfile.com$genericblock,generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

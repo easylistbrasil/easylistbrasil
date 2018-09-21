@@ -63,6 +63,34 @@
 ! redecanais
 @@||*.cometa.*/RedeCanais/*/ondemand/*.mp4$popup
 @@||*redecanais*/*.html$popup
+! skidrowreloaded.com
+@@||1fichier.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||bdupload.info$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||clicknupload.link$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||clicknupload.net/cgi-bin/dl.cgi/*^$popup
+@@||clicknupload.org$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||dl.free$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||downace.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||filecloud.io$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||filerio.in$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||hitfile.net$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||jheberg.net$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||katfile.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||megaup.net$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||mirrorace.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||multiup.org$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||nitroflare.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||rapidgator.net$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||rarbg.to$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||sendit.cloud$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||sendspace.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||suprafiles$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||turbobit.net$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||upload.$popup,domain=skidrowreloaded.com
+@@||uploadhaven.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||uptobox.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||userscloud.com$popup,domain=brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||zippyshare.com$popup,domain=skidrowreloaded.com
 ! adf.ly
 @@||0bin.net/$popup,domain=brightvar.bid|clearload.bid
 @@||2shared.com/$popup,domain=brightvar.bid|clearload.bid

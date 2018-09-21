@@ -589,6 +589,16 @@ $csp=script-src 'self',domain=mediafire.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=mastercuriosidadesbr.com
 ! lapumiafilmes.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=lapumiafilmes.com
+! solegendas.com.br
+|http*://$popup,script,third-party,xmlhttprequest,domain=solegendas.com.br
+! animesonlinekai.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonlinekai.com
+! gagafilms.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=gagafilms.com
+! skidrowreloaded.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=skidrowreloaded.com
+! mirrorace.com
+$csp=script-src 'self',domain=mirrorace.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

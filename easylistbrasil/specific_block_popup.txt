@@ -19,6 +19,7 @@ $popup,domain=widestream.io
 ! netu streaming
 ||hqq.*/out$popup
 ! outros
+$popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.me|katfile.com|sendit.cloud|uploadhaven.com|userscloud.com
 ||3*.*.*^$popup,domain=megahfilmeshd.net
 ||35.193.*.$popup
 ||acceder.gratis^
