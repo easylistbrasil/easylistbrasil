@@ -266,6 +266,9 @@
 @@||*/player.service.js
 @@||*/player/dist/plyr.js
 @@||*/player/setup.js
+@@||*/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js
+@@||*/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min.js
+@@||*/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js
 @@||*/plugins_plugins.js
 @@||*/position.min.js
 @@||*/post-like.min.js
@@ -334,6 +337,8 @@
 @@||*/wp-content/plugins/jetpack/modules/wpgroho.js
 @@||*/wp-content/plugins/report-content/static/js/scripts.js
 @@||*/wp-content/plugins/yuzo-related-post/assets/js/jquery.equalizer.js
+@@||*/wp-content/themes/*/assets/javascript/functions.js
+@@||*/wp-content/themes/*/assets/javascript/vendor/fontawesome-all.min.js
 @@||*/wp-content/themes/*/assets/js/isotope.js
 @@||*/wp-content/themes/*/js/zepto.min.js
 @@||*/wp-content/themes/*/players/flowplayer.min.js^$script
