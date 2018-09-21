@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KUv8EOMf79kiP2vM6DyLKg
-! Version: 201809202339
+! Checksum: 61xXcPVNH3+kWpm1HtlBAg
+! Version: 201809210028
 ! Title: EasyList Brasil
-! Last modified: 20 Sep 2018 23:39 UTC
+! Last modified: 21 Sep 2018 00:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1211,6 +1211,20 @@ $csp=script-src 'self',domain=mediafire.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=skidrowreloaded.com
 ! mirrorace.com
 $csp=script-src 'self',domain=mirrorace.com
+! animep.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=animep.net
+! animesonlinev.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonlinev.com
+! animalog.online
+|http*://$popup,script,third-party,xmlhttprequest,domain=animalog.online
+! animeplus.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=animeplus.org
+! assistindoanimesonline.info
+|http*://$popup,script,third-party,xmlhttprequest,domain=assistindoanimesonline.info
+! seriesonlinehd.org
+$csp=script-src 'self',domain=seriesonlinehd.org
+! filmesonline.blog
+|http*://$popup,script,third-party,xmlhttprequest,domain=filmesonline.blog
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1339,7 +1353,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 !-----------------------Regras de ocultação de elemento específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info##.videologo
+openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -2220,6 +2234,10 @@ mastercuriosidadesbr.com##td[background*="/topo.jpg"]
 ! letras.mus.br
 letras.mus.br##.cnt-space-top
 letras.mus.br##div[id^="pub_"]
+! filmesonline.blog
+filmesonline.blog##center > a[href*="/assistir-online.php"]
+filmesonline.blog##center > a[href*="/dow.php"]
+filmesonline.blog##iframe[src^="data:text/html"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -2508,6 +2526,9 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*/player.service.js
 @@||*/player/dist/plyr.js
 @@||*/player/setup.js
+@@||*/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extend.js
+@@||*/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.extra.min.js
+@@||*/plugins/a3-lazy-load/assets/js/jquery.lazyloadxt.srcset.min.js
 @@||*/plugins_plugins.js
 @@||*/position.min.js
 @@||*/post-like.min.js
@@ -2576,6 +2597,8 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||*/wp-content/plugins/jetpack/modules/wpgroho.js
 @@||*/wp-content/plugins/report-content/static/js/scripts.js
 @@||*/wp-content/plugins/yuzo-related-post/assets/js/jquery.equalizer.js
+@@||*/wp-content/themes/*/assets/javascript/functions.js
+@@||*/wp-content/themes/*/assets/javascript/vendor/fontawesome-all.min.js
 @@||*/wp-content/themes/*/assets/js/isotope.js
 @@||*/wp-content/themes/*/js/zepto.min.js
 @@||*/wp-content/themes/*/players/flowplayer.min.js^$script
