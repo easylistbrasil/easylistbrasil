@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ydS++BCknu9rGACXGP+l7g
-! Version: 201809210046
+! Checksum: UK3j9kANSXJDQubd/1Ij2w
+! Version: 201809210059
 ! Title: EasyList Brasil
-! Last modified: 21 Sep 2018 00:46 UTC
+! Last modified: 21 Sep 2018 00:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -157,6 +157,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ! *** easylistbrasil:easylistbrasil/general_block_popup.txt ***
 ://ads.$popup
 ! Used with many websites to generate multiple popups
+/clicou.php$popup
 /favicon.ico$popup
 |blob:$popup
 |data:text$popup
