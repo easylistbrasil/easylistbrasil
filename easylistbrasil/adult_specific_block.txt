@@ -1,1 +1,5 @@
-!
+! xvideos.blog.br
+|http*://$popup,script,third-party,xmlhttprequest,domain=xvideos.blog.br|xvideos10.blog.br
+||static.loboclick.com$media,domain=xvideos.blog.br|xvideos10.blog.br
+! sambaporno.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=sambaporno.com

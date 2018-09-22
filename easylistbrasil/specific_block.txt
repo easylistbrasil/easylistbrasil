@@ -613,6 +613,10 @@ $csp=script-src 'self',domain=mirrorace.com
 $csp=script-src 'self',domain=seriesonlinehd.org
 ! filmesonline.blog
 |http*://$popup,script,third-party,xmlhttprequest,domain=filmesonline.blog
+! midiaflixhd.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=midiaflixhd.net
+! seuseriado.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=seuseriado.org
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

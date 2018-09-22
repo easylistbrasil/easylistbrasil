@@ -1,4 +1,4 @@
-openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io##.videologo
+openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -883,3 +883,46 @@ letras.mus.br##div[id^="pub_"]
 filmesonline.blog##center > a[href*="/assistir-online.php"]
 filmesonline.blog##center > a[href*="/dow.php"]
 filmesonline.blog##iframe[src^="data:text/html"]
+! bbc.com
+bbc.com###adunit
+bbc.com###bbccom_leaderboard
+bbc.com##.ad-1
+bbc.com##.adsbygoogle
+bbc.com##.adsense-ad
+bbc.com##.advertiser
+bbc.com##.feature-ad
+bbc.com##.img_ad
+bbc.com##a[href*="googleadservices"]
+bbc.com##div[class^="advert"]
+bbc.com##div[id^="bbccom_mpu_"]
+bbc.com##div[id^="google_ads_iframe_"]
+! midiaflixhd.net
+midiaflixhd.net##[class*="modal"]
+midiaflixhd.net##[id*="anuncio"]
+midiaflixhd.net##[id*="floatLayer"]
+midiaflixhd.net##[id="countDown"]
+midiaflixhd.net##[id^="ads"][id*="banner"]
+midiaflixhd.net##div > a[target="_top"]
+midiaflixhd.net##div[id="contenedor"] > center
+midiaflixhd.net##div[id="player-wrapper"]
+midiaflixhd.net##div[id="playerads"]
+midiaflixhd.net##iframe[src^="data:text/html"]
+midiaflixhd.net##li[id="count"]
+! seuseriado.org
+seuseriado.org##.vizerNewBox adsbyvizer open
+seuseriado.org##.vizerNewBox vizernoticia
+seuseriado.org##.vizerNoticia
+seuseriado.org##[class*="modal"]
+seuseriado.org##[id*="anuncio"]
+seuseriado.org##[id*="boxaml"]
+seuseriado.org##[id*="floatLayer"]
+seuseriado.org##[id*="modal"]
+seuseriado.org##[id="countDown"]
+seuseriado.org##[id^="ads"][id*="banner"]
+seuseriado.org##a[class="bt-download"]
+seuseriado.org##body > a[href^="javascript"]
+seuseriado.org##div[class="embeded"] > center
+seuseriado.org##div[class^="ban_"]
+seuseriado.org##div[id="darkBack"]
+seuseriado.org##div[id="plus"]
+seuseriado.org##div[id="popUp"]

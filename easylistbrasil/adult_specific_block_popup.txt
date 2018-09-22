@@ -1,1 +1,6 @@
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
+! xvideos.blog.br
+.info$popup,domain=xvideos10.blog.br
+.net$popup,domain=xvideos10.blog.br
+.php$popup,domain=xvideos10.blog.br
+/click$popup,domain=xvideos10.blog.br

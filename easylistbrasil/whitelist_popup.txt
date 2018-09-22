@@ -51,6 +51,8 @@
 @@||rapidvideo.com/d/$popup
 @@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||seriesonlinehd.biz/player/$popup
+@@||seriesonlinex.org$popup,domain=seuseriado.org
+@@||seriesonlinex.org/app/$popup
 @@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||social.ulala.us/link.php$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com

@@ -1,1 +1,2 @@
-!
+||hooligapps.com^$popup,third-party
+||hypoot.com^$popup,third-party

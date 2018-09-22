@@ -4,6 +4,15 @@
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
+! sambaporno.com
+@@||*/v/*/?$popup,domain=sambaporno.com
+@@||*/video*/$popup,domain=sambaporno.com
+@@||*/video-*^$popup,domain=sambaporno.com
+@@||bang.com/$popup,domain=sambaporno.com
+@@||pornhub.*/*?utm_$popup,domain=sambaporno.com
+@@||redtube.*/*?utm_$popup,domain=sambaporno.com
+@@||tube8.*/*?utm_$popup,domain=sambaporno.com
+@@||xnxx.*/$popup,domain=sambaporno.com
 ! aba sites pornhub nas buscas
 @@||pornhub.com^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
 @@||redtube.com.br^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br

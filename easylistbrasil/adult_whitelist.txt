@@ -44,3 +44,5 @@
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js^$domain=sexyhotplay.com.br
 @@||static-vod-client-html.sexyhotplay.com.br/scripts/vod/*/publicidade.min.js
 @@||static.sexyhotplay.com.br/libs/javascripts/js/jquery.cookie.js
+! xvideos.blog.br
+@@||xvideos10.blog.br/js/pop.js

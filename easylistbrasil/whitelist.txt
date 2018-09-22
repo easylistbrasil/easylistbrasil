@@ -394,6 +394,7 @@
 @@||c.disquscdn.com/next/embed/common.bundle.*.js
 @@||c.disquscdn.com/next/embed/lounge.bundle.*.js
 @@||c.disquscdn.com/next/embed/styles/lounge.*.css
+@@||cdn.jsdelivr.net/*/lazysizes(lazysizes.min.js)
 @@||cdn.jsdelivr.net/clappr.level-selector/latest/level-selector.min.js
 @@||cdn.jsdelivr.net/clappr.thumbnails-plugin/latest/clappr-thumbnails-plugin.js
 @@||cdn.jsdelivr.net/clappr/latest/clappr.min.js
@@ -425,6 +426,7 @@
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*ie8/videojs-ie8.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/*/videojs-contrib-hls.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/wow/*/wow.min.js
 @@||code.jquery.com/j*.js
 @@||code.jquery.com/jq.js
 @@||code.jquery.com/jquery-*.*.*.js
@@ -1138,6 +1140,12 @@ uol.com.br#@#[src*="data:image"]
 @@||turbobit.net$generichide
 ! katfile.com
 @@||katfile.com$genericblock,generichide
+! bbc.com
+@@||bbc.com$generichide
+! midiaflixhd.net
+@@||midiaflixhd.net$generichide
+! seuseriado.org
+@@||seuseriado.org$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
