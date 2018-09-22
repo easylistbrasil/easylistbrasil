@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6DNV5i/mK5bEdvKW7VpJHw
-! Version: 201809210107
+! Checksum: bcHJuHqpotrkJ/LL+uTTRw
+! Version: 201809220032
 ! Title: EasyList Brasil
-! Last modified: 21 Sep 2018 01:07 UTC
+! Last modified: 22 Sep 2018 00:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -609,7 +609,8 @@ adblockplus.org#@#a[href*="adserver"]
 ! *** easylistbrasil:easylistbrasil/adult_thirdparty.txt ***
 ||doublepimpssl.com^$third-party
 ! *** easylistbrasil:easylistbrasil/adult_thirdparty_popup.txt ***
-!
+||hooligapps.com^$popup,third-party
+||hypoot.com^$popup,third-party
 !-----------------------Filtros de bloqueio de anúncio específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_block.txt ***
 ! youtube.com
@@ -1227,6 +1228,10 @@ $csp=script-src 'self',domain=mirrorace.com
 $csp=script-src 'self',domain=seriesonlinehd.org
 ! filmesonline.blog
 |http*://$popup,script,third-party,xmlhttprequest,domain=filmesonline.blog
+! midiaflixhd.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=midiaflixhd.net
+! seuseriado.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=seuseriado.org
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1353,12 +1358,21 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 ! regex to pickup ip-address popups
 /^https?:\/\/([0-9]{1,3}\.){3}[0-9]{1,3}/$popup,domain=abcast.me|abcast.net|aovivonatv.com|apollocdn.cc|baixarfilmestorrent.me|buffstream.com|canais.gratis|canais.ink|cinepremiere.net|comandofilmes.tv|comandotorrents.com|darthfilmes.com.br|ekostreams.co|ekostreams.me|embeducaster.com|filmeseseriesonline.info|filmeshd-online.com|filmesonlinegratis.co|filmesonlineplay.com|filmesonlineseries.net|filmesonlineuhd.com|filmesonlinex.br|filmesonlinex.cc|filmesonlinex.co|filmesonlinex.com|filmesonlinex.com.br|filmesonlinex.gratis|filmesonlinex.info|filmesonlinex.me|filmesonlinex.net|filmesonlinex.online|filmesonlinex.org|filmesonlinex.ru|filmesonlinex.site|filmesonlinex.tk|filmesonlinex.top|filmesonlinex.tv|filmesonlinex.us|filmesonlinex.vip|flashx.co|flashx.tv|flashx1.tv|freelivestream.tv|fruitadblock.net|futebolaovivo.in|futebolaovivohd.net|g1futebolaovivo.com|geroubuzz.com|hipertela.net|hqq.tv|hqq.watch|iptv.gratis|janjuaplayer.com|kastream.biz|legendei.com|megafilmes.co|megafilmes.org|megafilmes.tv|megafilmesahd.com|megafilmeshd.org|megafilmeshd50.top|megafilmeshdplus.org|megafilmesonline-hd.com|megafilmesonlinegratis.org|megafilmess.com|megafilmesserieshd.com|megahfilmeshd.net|megaseriehd.com|micetop.co|micetop.com|micetop.net|micetop.org|micetop.tv|micetop.us|mipsplayer.com|netcine.tk|netcine.us|netesportiva.com|olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|onplay.tv|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|otampadabola2.com|p3g.tv|playflixhd.co|playtop.online|popfilmeshd.net|portalzuca.com|qqfilmes.com|qqfilmes.net|qqfilmes.online|qqfilmes.org|rapidvideo.com|redecanais.cz|redecanais.gratis|redecanais.ink|redecanais.me|seriesonlinehd.biz|seuseriado.com|sosfilmes.com|sportzonline.xyz|streamango.com|streamcherry.com|streamlive.to|streamplay.to|thevid.net|torcidatricolor.eu|tudotv.tv|tudotvonline.com|tugaflix.com|tugaflix.date|tv-aovivo.nl|tvonline.plus|tvonlineaovivo.net|verfilmes.biz|vertv.me|vidlox.me|vidlox.tv|vidnode.net|vidoza.net|vidto.co|vidto.com|vidto.io|vidto.me|vidto.net|vidto.se|vidto.to|vidto.top|vidto.tv|vidzi.nu|vidzi.online|vidzi.si|vidzi.tv|vlive.pw|vto.gratis|watchers.to|watchvideo.us|week-series.com|weekseries.net|whostreams.net|widestream.io|wstream.video|xilften.net
 ! *** easylistbrasil:easylistbrasil/adult_specific_block.txt ***
-!
+! xvideos.blog.br
+|http*://$popup,script,third-party,xmlhttprequest,domain=xvideos.blog.br|xvideos10.blog.br
+||static.loboclick.com$media,domain=xvideos.blog.br|xvideos10.blog.br
+! sambaporno.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=sambaporno.com
 ! *** easylistbrasil:easylistbrasil/adult_specific_block_popup.txt ***
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
+! xvideos.blog.br
+.info$popup,domain=xvideos10.blog.br
+.net$popup,domain=xvideos10.blog.br
+.php$popup,domain=xvideos10.blog.br
+/click$popup,domain=xvideos10.blog.br
 !-----------------------Regras de ocultação de elemento específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io##.videologo
+openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -2243,6 +2257,49 @@ letras.mus.br##div[id^="pub_"]
 filmesonline.blog##center > a[href*="/assistir-online.php"]
 filmesonline.blog##center > a[href*="/dow.php"]
 filmesonline.blog##iframe[src^="data:text/html"]
+! bbc.com
+bbc.com###adunit
+bbc.com###bbccom_leaderboard
+bbc.com##.ad-1
+bbc.com##.adsbygoogle
+bbc.com##.adsense-ad
+bbc.com##.advertiser
+bbc.com##.feature-ad
+bbc.com##.img_ad
+bbc.com##a[href*="googleadservices"]
+bbc.com##div[class^="advert"]
+bbc.com##div[id^="bbccom_mpu_"]
+bbc.com##div[id^="google_ads_iframe_"]
+! midiaflixhd.net
+midiaflixhd.net##[class*="modal"]
+midiaflixhd.net##[id*="anuncio"]
+midiaflixhd.net##[id*="floatLayer"]
+midiaflixhd.net##[id="countDown"]
+midiaflixhd.net##[id^="ads"][id*="banner"]
+midiaflixhd.net##div > a[target="_top"]
+midiaflixhd.net##div[id="contenedor"] > center
+midiaflixhd.net##div[id="player-wrapper"]
+midiaflixhd.net##div[id="playerads"]
+midiaflixhd.net##iframe[src^="data:text/html"]
+midiaflixhd.net##li[id="count"]
+! seuseriado.org
+seuseriado.org##.vizerNewBox adsbyvizer open
+seuseriado.org##.vizerNewBox vizernoticia
+seuseriado.org##.vizerNoticia
+seuseriado.org##[class*="modal"]
+seuseriado.org##[id*="anuncio"]
+seuseriado.org##[id*="boxaml"]
+seuseriado.org##[id*="floatLayer"]
+seuseriado.org##[id*="modal"]
+seuseriado.org##[id="countDown"]
+seuseriado.org##[id^="ads"][id*="banner"]
+seuseriado.org##a[class="bt-download"]
+seuseriado.org##body > a[href^="javascript"]
+seuseriado.org##div[class="embeded"] > center
+seuseriado.org##div[class^="ban_"]
+seuseriado.org##div[id="darkBack"]
+seuseriado.org##div[id="plus"]
+seuseriado.org##div[id="popUp"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -2261,6 +2318,12 @@ pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##p[class*="subtxt"]
 sexyhotplay.com.br##div[class="banner"]
 sexyhotplay.com.br##div[class="banner-full"]
 sexyhotplay.com.br##div[class="banner-retangulo"]
+! xvideos.blog.br
+xvideos.blog.br,xvideos10.blog.br##a[onclick^="openPop"]
+xvideos.blog.br,xvideos10.blog.br##div[class="pull-right"] > iframe[src*="admxxx"]
+xvideos.blog.br,xvideos10.blog.br##div[class="thumb-ad"]
+xvideos.blog.br,xvideos10.blog.br##div[id="meinrp"]
+xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 !-----------------------Lista de permissões para corrigir sites quebrados-----------------------!
 ! *** easylistbrasil:easylistbrasil/whitelist.txt ***
 ! youtube.com
@@ -2659,6 +2722,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||c.disquscdn.com/next/embed/common.bundle.*.js
 @@||c.disquscdn.com/next/embed/lounge.bundle.*.js
 @@||c.disquscdn.com/next/embed/styles/lounge.*.css
+@@||cdn.jsdelivr.net/*/lazysizes(lazysizes.min.js)
 @@||cdn.jsdelivr.net/clappr.level-selector/latest/level-selector.min.js
 @@||cdn.jsdelivr.net/clappr.thumbnails-plugin/latest/clappr-thumbnails-plugin.js
 @@||cdn.jsdelivr.net/clappr/latest/clappr.min.js
@@ -2690,6 +2754,7 @@ sexyhotplay.com.br##div[class="banner-retangulo"]
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*ie8/videojs-ie8.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/*/videojs-contrib-hls.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/wow/*/wow.min.js
 @@||code.jquery.com/j*.js
 @@||code.jquery.com/jq.js
 @@||code.jquery.com/jquery-*.*.*.js
@@ -3403,6 +3468,12 @@ uol.com.br#@#[src*="data:image"]
 @@||turbobit.net$generichide
 ! katfile.com
 @@||katfile.com$genericblock,generichide
+! bbc.com
+@@||bbc.com$generichide
+! midiaflixhd.net
+@@||midiaflixhd.net$generichide
+! seuseriado.org
+@@||seuseriado.org$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -3490,6 +3561,8 @@ uol.com.br#@#[src*="data:image"]
 @@||rapidvideo.com/d/$popup
 @@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||seriesonlinehd.biz/player/$popup
+@@||seriesonlinex.org$popup,domain=seuseriado.org
+@@||seriesonlinex.org/app/$popup
 @@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||social.ulala.us/link.php$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
@@ -3625,6 +3698,8 @@ uol.com.br#@#[src*="data:image"]
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js^$domain=sexyhotplay.com.br
 @@||static-vod-client-html.sexyhotplay.com.br/scripts/vod/*/publicidade.min.js
 @@||static.sexyhotplay.com.br/libs/javascripts/js/jquery.cookie.js
+! xvideos.blog.br
+@@||xvideos10.blog.br/js/pop.js
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! sexyhotplay.com.br
 @@||blog.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
@@ -3632,6 +3707,15 @@ uol.com.br#@#[src*="data:image"]
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
+! sambaporno.com
+@@||*/v/*/?$popup,domain=sambaporno.com
+@@||*/video*/$popup,domain=sambaporno.com
+@@||*/video-*^$popup,domain=sambaporno.com
+@@||bang.com/$popup,domain=sambaporno.com
+@@||pornhub.*/*?utm_$popup,domain=sambaporno.com
+@@||redtube.*/*?utm_$popup,domain=sambaporno.com
+@@||tube8.*/*?utm_$popup,domain=sambaporno.com
+@@||xnxx.*/$popup,domain=sambaporno.com
 ! aba sites pornhub nas buscas
 @@||pornhub.com^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
 @@||redtube.com.br^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br
