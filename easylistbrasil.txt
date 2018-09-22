@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bcHJuHqpotrkJ/LL+uTTRw
-! Version: 201809220032
+! Checksum: 2ikXczUVs6/1P9O5+PtmPw
+! Version: 201809220143
 ! Title: EasyList Brasil
-! Last modified: 22 Sep 2018 00:32 UTC
+! Last modified: 22 Sep 2018 01:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1372,7 +1372,7 @@ $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.co
 /click$popup,domain=xvideos10.blog.br
 !-----------------------Regras de ocultação de elemento específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me##.videologo
+openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -2300,6 +2300,20 @@ seuseriado.org##div[class^="ban_"]
 seuseriado.org##div[id="darkBack"]
 seuseriado.org##div[id="plus"]
 seuseriado.org##div[id="popUp"]
+! nytimes.com
+nytimes.com###dfp-ad-top
+nytimes.com##.ad
+nytimes.com##a[href*="marketing"]
+nytimes.com##div[class*="-storyBodyAd-"]
+nytimes.com##div[class^="ResponsiveAd-"]
+nytimes.com##div[id^="dfp-ad-"]
+nytimes.com##div[id^="google_ads_iframe_"]
+nytimes.com##div[id^="story-ad-"]
+nytimes.com##iframe[src*="about"]
+nytimes.com#?#article > div:-abp-has(> div:-abp-contains(disable))
+nytimes.com#?#div > div > div > div:-abp-has(div[class^="css-"]:-abp-contains(Advertisement))
+nytimes.com#?#div > div > div:-abp-has(div[class^="css-"]:-abp-contains(Advertisement))
+nytimes.com#?#div > div:-abp-has(div[class^="css-"]:-abp-contains(Advertisement))
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3474,6 +3488,9 @@ uol.com.br#@#[src*="data:image"]
 @@||midiaflixhd.net$generichide
 ! seuseriado.org
 @@||seuseriado.org$generichide
+! nytimes.com
+@@||*.nyt.com/analytics/show-ads.js
+@@||nytimes.com$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
