@@ -1,4 +1,4 @@
-openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me##.videologo
+openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -926,3 +926,17 @@ seuseriado.org##div[class^="ban_"]
 seuseriado.org##div[id="darkBack"]
 seuseriado.org##div[id="plus"]
 seuseriado.org##div[id="popUp"]
+! nytimes.com
+nytimes.com###dfp-ad-top
+nytimes.com##.ad
+nytimes.com##a[href*="marketing"]
+nytimes.com##div[class*="-storyBodyAd-"]
+nytimes.com##div[class^="ResponsiveAd-"]
+nytimes.com##div[id^="dfp-ad-"]
+nytimes.com##div[id^="google_ads_iframe_"]
+nytimes.com##div[id^="story-ad-"]
+nytimes.com##iframe[src*="about"]
+nytimes.com#?#article > div:-abp-has(> div:-abp-contains(disable))
+nytimes.com#?#div > div > div > div:-abp-has(div[class^="css-"]:-abp-contains(Advertisement))
+nytimes.com#?#div > div > div:-abp-has(div[class^="css-"]:-abp-contains(Advertisement))
+nytimes.com#?#div > div:-abp-has(div[class^="css-"]:-abp-contains(Advertisement))
