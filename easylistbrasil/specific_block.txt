@@ -618,7 +618,7 @@ $csp=script-src 'self',domain=seriesonlinehd.org
 ! seuseriado.org
 |http*://$popup,script,third-party,xmlhttprequest,domain=seuseriado.org
 ! nytimes.com
-||nytimes.com/vi-assets/static-assets/vendor-*.js
+! ||nytimes.com/vi-assets/static-assets/vendor-*.js
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
