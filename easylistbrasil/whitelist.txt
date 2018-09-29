@@ -1149,34 +1149,47 @@ uol.com.br#@#[src*="data:image"]
 ! nytimes.com
 @@||*.nyt.com/analytics/show-ads.js
 @@||nytimes.com$generichide
+! folha.uol.com.br
+@@||paywall.folha.uol.com.br/status.php$domain=f5.folha.uol.com.br
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||azuracast.com^$generichide
 @@||banco.bradesco^$genericblock,generichide,script,xmlhttprequest
 @@||bancobrasil.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||bancopan.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||banrisul.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||bb.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||blog.alvesbruno.com^$generichide
 @@||btgpactual.com^$genericblock,generichide,script,xmlhttprequest
 @@||btgpactualdigital.com^$genericblock,generichide,script,xmlhttprequest
 @@||carrefour.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||casasbahia.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||citibank.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||codenvy.io^$generichide
+@@||devwilliam.com.br^$generichide
 @@||eletroshopping.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||extra.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||girafa.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||go4expert.com^$generichide
 @@||hsbc.com^$genericblock,generichide,script,xmlhttprequest
 @@||hsbcnet.com^$genericblock,generichide,script,xmlhttprequest
 @@||hsbcprivatebank.com^$genericblock,generichide,script,xmlhttprequest
 @@||ibyte.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||instant.io^$generichide
 @@||itau.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||kabum.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||magazineluiza.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||novomundo.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||opensource-socialnetwork.org^$generichide
+@@||osdn.net^$generichide
 @@||ricardoeletro.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||safra.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||santander.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||santandernet.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||sicredi.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||snapchat.com^$generichide
+@@||streamiumtheme.com^$generichide
+@@||ubuntu.blog.*^$generichide
 @@||waz.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||whatsapp.com^$genericblock,generichide,script,xmlhttprequest
