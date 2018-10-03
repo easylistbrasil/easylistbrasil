@@ -1,4 +1,4 @@
-openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net,﻿openload.online,﻿openload.org,﻿openload.ru,﻿openload.site,﻿openload.to,﻿openload.top,﻿openload.tv##.videologo
+openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net,﻿openload.online,﻿openload.org,﻿openload.ru,﻿openload.site,﻿openload.to,﻿openload.top,﻿openload.tv,﻿openload.us##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -957,3 +957,7 @@ filmesonline.vip##div[id="playerads"]
 filmesonline.vip##div[style*="z-index"]
 filmesonline.vip##iframe[src^="data:text/html"]
 filmesonline.vip##li[id="count"]
+! ofilmesonlinegratis.net
+ofilmesonlinegratis.com,ofilmesonlinegratis.net##a[href="/assistir-hd"]
+ofilmesonlinegratis.com,ofilmesonlinegratis.net##a[href="/download-hd"]
+ofilmesonlinegratis.com,ofilmesonlinegratis.net##div[style*="z-index"]

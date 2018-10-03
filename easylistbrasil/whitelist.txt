@@ -337,10 +337,17 @@
 @@||*/wp-content/plugins/jetpack/_inc/build/facebook-embed.min.js
 @@||*/wp-content/plugins/jetpack/modules/wpgroho.js
 @@||*/wp-content/plugins/report-content/static/js/scripts.js
+@@||*/wp-content/plugins/wp-postviews/postviews-cache.js
 @@||*/wp-content/plugins/yuzo-related-post/assets/js/jquery.equalizer.js
 @@||*/wp-content/themes/*/assets/javascript/functions.js
 @@||*/wp-content/themes/*/assets/javascript/vendor/fontawesome-all.min.js
 @@||*/wp-content/themes/*/assets/js/isotope.js
+@@||*/wp-content/themes/*/js/detectmobilebrowser.js
+@@||*/wp-content/themes/*/js/jquery.cookie.js
+@@||*/wp-content/themes/*/js/jquery.lazyload.js
+@@||*/wp-content/themes/*/js/jquery.qtip.min.js
+@@||*/wp-content/themes/*/js/psbar.jquery.min.js
+@@||*/wp-content/themes/*/js/psyplay.custom.min.js
 @@||*/wp-content/themes/*/js/zepto.min.js
 @@||*/wp-content/themes/*/players/flowplayer.min.js^$script
 @@||*/wp-content/themes/*/players/video.js^$script
@@ -1163,6 +1170,9 @@ uol.com.br#@#[src*="data:image"]
 @@||filmesonline.vip/embed/functions.js
 @@||filmesonline.vip/embed/PhantomPromise.js
 @@||filmesonline.vip/embed/videoStream.js
+! ofilmesonlinegratis.net
+@@||*/play/css/codigo.js$domain=ofilmesonlinegratis.com|ofilmesonlinegratis.net
+@@||ofilmesonlinegratis.*/wp-admin/admin-ajax.php
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
