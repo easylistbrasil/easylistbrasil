@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: z0VrrDywn8hSWDkwDObupA
-! Version: 201810031847
+! Checksum: CiWbFY0BK9f9EuN5mIQVzw
+! Version: 201810031855
 ! Title: EasyList Brasil
-! Last modified: 03 Oct 2018 18:47 UTC
+! Last modified: 03 Oct 2018 18:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1113,7 +1113,7 @@ get.$domain=xilften.net
 ! aovivobrasil.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
-$csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net
+$csp=frame-src 'self',domain=clearload.bid|brightvar.bid
 /afu.php$domain=activetect.net|brightvar.bid|clearload.bid
 /popunder.gif$domain=activetect.net|brightvar.bid|clearload.bid
 /show.php$domain=activetect.net|brightvar.bid|clearload.bid
@@ -3445,6 +3445,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*./script/wait.php?^$domain=activetect.net|brightvar.bid|clearload.bid
 @@||*/a/display.php?r=$script,domain=activetect.net|brightvar.bid|clearload.bid
 @@||*/script/pub.js$script,domain=activetect.net|brightvar.bid|clearload.bid
+@@||activetect.net/static/css/omnigy.css
 @@||activetect.net^$generichide
 @@||adexchangetracker.com/script/suurl.php?$script,domain=activetect.net|brightvar.bid|clearload.bid
 @@||b.adexchangemachine.com/script/wait.php?$domain=activetect.net|brightvar.bid|clearload.bid
