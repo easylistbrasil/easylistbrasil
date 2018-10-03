@@ -23,6 +23,7 @@
 ||go.*.*^$third-party
 ||gsjhehtqvin.com^$third-party
 ||hcyqwhquqjosn.com^$third-party
+||hyphenion.com^$third-party
 ||ie8eamus.com^$third-party
 ||imagetopng.club^$popup,third-party
 ||ineity.pro^$third-party
