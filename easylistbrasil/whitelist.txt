@@ -1091,6 +1091,7 @@ uol.com.br#@#[src*="data:image"]
 ! soparagamestorrents.com
 @@||soparagamestorrents.com^$generichide
 ! flashfilmes.org
+@@||*.popads.net/pop.js$~popup,~script,domain=flashfilmes.org
 @@||flashfilmes.org^$generichide
 ! filmesonlinegratis.co
 @@||filmesonlinegratis.*/wp-admin/admin-ajax.php
