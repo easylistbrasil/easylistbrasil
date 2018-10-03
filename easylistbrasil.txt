@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: MwFc3LL5HE/ZsvI2HCNUKw
-! Version: 201810030045
+! Checksum: 7KrEC32xvTYABdU76LG+iA
+! Version: 201810030100
 ! Title: EasyList Brasil
-! Last modified: 03 Oct 2018 00:45 UTC
+! Last modified: 03 Oct 2018 01:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -3443,6 +3443,7 @@ uol.com.br#@#[src*="data:image"]
 ! soparagamestorrents.com
 @@||soparagamestorrents.com^$generichide
 ! flashfilmes.org
+@@||*.popads.net/pop.js$~popup,~script,domain=flashfilmes.org
 @@||flashfilmes.org^$generichide
 ! filmesonlinegratis.co
 @@||filmesonlinegratis.*/wp-admin/admin-ajax.php
