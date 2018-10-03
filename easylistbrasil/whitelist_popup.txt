@@ -9,6 +9,7 @@
 @@||*fute*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 @@||*legend*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 @@||*online*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||*seriado*/pedidos/$popup
 @@||*serie*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 @@||*sky*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 @@||*torrent*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
