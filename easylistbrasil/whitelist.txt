@@ -199,6 +199,7 @@
 @@||*/js/lazyload-*.min.js
 @@||*/js/libs.js
 @@||*/js/lity.js
+@@||*/js/lity.min.js
 @@||*/js/live.search.js
 @@||*/js/main.js
 @@||*/js/pkgd.min.js
@@ -1156,6 +1157,12 @@ uol.com.br#@#[src*="data:image"]
 @@||*/ad_status.js$domain=tecnologiatech.com
 @@||tecnologiatech.com^$generichide
 @@||xstronger.com/protectx/genBlogLP.php?nocache&lp=
+! filmesonline.vip
+@@||filmesonline.vip/embed/aesasm.js
+@@||filmesonline.vip/embed/decrypter.js
+@@||filmesonline.vip/embed/functions.js
+@@||filmesonline.vip/embed/PhantomPromise.js
+@@||filmesonline.vip/embed/videoStream.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
