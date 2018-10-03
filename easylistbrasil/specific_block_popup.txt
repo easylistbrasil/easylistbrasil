@@ -28,6 +28,7 @@ $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.m
 ! teste
 .ico$popup,domain=filmeseseriesonline.info|seuseriado.com
 .php$popup,domain=filmeseseriesonline.info|seuseriado.com
+Logo*.png$popup,domain=seuseriado.com
 ! adf.ly
 $popup,domain=brightvar.bid|clearload.bid
 ! popups
