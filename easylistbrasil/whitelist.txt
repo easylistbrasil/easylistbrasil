@@ -1058,6 +1058,7 @@
 @@||*./script/wait.php?^$domain=activetect.net|brightvar.bid|clearload.bid
 @@||*/a/display.php?r=$script,domain=activetect.net|brightvar.bid|clearload.bid
 @@||*/script/pub.js$script,domain=activetect.net|brightvar.bid|clearload.bid
+@@||activetect.net/1market.php
 @@||activetect.net/static/css/omnigy.css
 @@||activetect.net^$generichide
 @@||adexchangetracker.com/script/suurl.php?$script,domain=activetect.net|brightvar.bid|clearload.bid
@@ -1068,11 +1069,18 @@
 @@||boudja.com/popunder.gif$domain=activetect.net|brightvar.bid|clearload.bid
 @@||brightvar.bid^$generichide
 @@||cdn.activetect.net$image,stylesheet
+@@||cdn.activetect.net/static/js/b64.js
+@@||cdn.activetect.net/static/js/view105b.js
 @@||cdn.ay.gy/static/image/logo.png
 @@||cdn.brightvar.bid$image,stylesheet
+@@||cdn.brightvar.bid/static/js/b64.js
+@@||cdn.brightvar.bid/static/js/view105b.js
 @@||cdn.clearload.bid$image,stylesheet
+@@||cdn.clearload.bid/static/js/b64.js
+@@||cdn.clearload.bid/static/js/view105b.js
 @@||clearload.bid^$generichide
 @@||clearonclick.com/script/suurl.php?$script,domain=activetect.net|brightvar.bid|clearload.bid
+@@||facebook.com/plugins/like.php$domain=activetect.net|brightvar.bid|clearload.bid
 @@||liveadexchanger.com/a/display.php?$script,domain=activetect.net|brightvar.bid|clearload.bid
 @@||liveadexchanger.com/a/display.php?$subdocument,domain=activetect.net|brightvar.bid|clearload.bid
 @@||maxonclick.com/script/suurl.php?$script,domain=activetect.net|brightvar.bid|clearload.bid

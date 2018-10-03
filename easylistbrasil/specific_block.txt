@@ -496,7 +496,7 @@ get.$domain=xilften.net
 ! aovivobrasil.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
-$csp=frame-src 'self',domain=clearload.bid|brightvar.bid
+$csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net
 /afu.php$domain=activetect.net|brightvar.bid|clearload.bid
 /popunder.gif$domain=activetect.net|brightvar.bid|clearload.bid
 /show.php$domain=activetect.net|brightvar.bid|clearload.bid
