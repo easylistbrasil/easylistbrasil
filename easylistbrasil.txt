@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7KrEC32xvTYABdU76LG+iA
-! Version: 201810030100
+! Checksum: eCSGi06pq16APADV8dciYA
+! Version: 201810030116
 ! Title: EasyList Brasil
-! Last modified: 03 Oct 2018 01:00 UTC
+! Last modified: 03 Oct 2018 01:16 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1377,7 +1377,7 @@ $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.co
 /click$popup,domain=xvideos10.blog.br
 !-----------------------Regras de ocultação de elemento específico-----------------------!
 ! *** easylistbrasil:easylistbrasil/specific_hide.txt ***
-openload.tv,openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net,﻿openload.online,﻿openload.org,﻿openload.ru,﻿openload.site,﻿openload.to,﻿openload.top##.videologo
+openload.us,openload.vip,openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net,﻿openload.online,﻿openload.org,﻿openload.ru,﻿openload.site,﻿openload.to,﻿openload.top,﻿openload.tv##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -2324,6 +2324,18 @@ nytimes.com#?#div[class^="css-"]:-abp-has(> div[class^="ad"])
 tecnologiatech.com##div[id$="-ads"]
 tecnologiatech.com##div[id="blockDiv"]
 tecnologiatech.com##p[id*="Procedimento"]
+! filmesonline.vip
+filmesonline.vip##[class*="modal"]
+filmesonline.vip##[id*="anuncio"]
+filmesonline.vip##[id*="floatLayer"]
+filmesonline.vip##[id="countDown"]
+filmesonline.vip##[id^="ads"][id*="banner"]
+filmesonline.vip##div > a[target="_top"]
+filmesonline.vip##div[id="player-wrapper"]
+filmesonline.vip##div[id="playerads"]
+filmesonline.vip##div[style*="z-index"]
+filmesonline.vip##iframe[src^="data:text/html"]
+filmesonline.vip##li[id="count"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -2551,6 +2563,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/js/lazyload-*.min.js
 @@||*/js/libs.js
 @@||*/js/lity.js
+@@||*/js/lity.min.js
 @@||*/js/live.search.js
 @@||*/js/main.js
 @@||*/js/pkgd.min.js
@@ -3508,6 +3521,12 @@ uol.com.br#@#[src*="data:image"]
 @@||*/ad_status.js$domain=tecnologiatech.com
 @@||tecnologiatech.com^$generichide
 @@||xstronger.com/protectx/genBlogLP.php?nocache&lp=
+! filmesonline.vip
+@@||filmesonline.vip/embed/aesasm.js
+@@||filmesonline.vip/embed/decrypter.js
+@@||filmesonline.vip/embed/functions.js
+@@||filmesonline.vip/embed/PhantomPromise.js
+@@||filmesonline.vip/embed/videoStream.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
