@@ -1058,6 +1058,7 @@
 @@||*./script/wait.php?^$domain=activetect.net|brightvar.bid|clearload.bid
 @@||*/a/display.php?r=$script,domain=activetect.net|brightvar.bid|clearload.bid
 @@||*/script/pub.js$script,domain=activetect.net|brightvar.bid|clearload.bid
+@@||activetect.net/static/css/omnigy.css
 @@||activetect.net^$generichide
 @@||adexchangetracker.com/script/suurl.php?$script,domain=activetect.net|brightvar.bid|clearload.bid
 @@||b.adexchangemachine.com/script/wait.php?$domain=activetect.net|brightvar.bid|clearload.bid
