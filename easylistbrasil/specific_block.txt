@@ -359,7 +359,7 @@ $script,domain=tvgram.stream
 ! vertvhd.org
 |http*://$popup,script,third-party,xmlhttprequest,domain=vertvhd.org
 ! seuseriado.com
-|http://$popup,script,third-party,xmlhttprequest,domain=seuseriado.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=seuseriado.com
 ! playflixhd.co
 |http*://$popup,script,third-party,xmlhttprequest,domain=playflixhd.co
 ! netcine.tk
