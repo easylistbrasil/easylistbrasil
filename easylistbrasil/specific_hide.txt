@@ -1,4 +1,4 @@
-openload.win,﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net,﻿openload.online,﻿openload.org,﻿openload.ru,﻿openload.site,﻿openload.to,﻿openload.top,﻿openload.tv,﻿openload.us,﻿openload.vip##.videologo
+﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net,﻿openload.online,﻿openload.org,﻿openload.ru,﻿openload.site,﻿openload.to,﻿openload.top,﻿openload.tv,﻿openload.us,﻿openload.vip,﻿openload.win##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
@@ -751,6 +751,8 @@ abril.com.br,globo.com##div[id^="outbrain-"]
 istoe.com.br#?#div[id*="trc_wrapper_"]:-abp-has(div > span:-abp-contains(gostar))
 ! estadao.com.br
 estadao.com.br##div[class^="taboola-"]
+! gazetadopovo.com.br
+gazetadopovo.com.br##div[class^="c-publi"]
 ! megafilmestorrents.org
 megafilmestorrents.org##a[href*="//goo.gl"]
 megafilmestorrents.org##dmbar[id="dm_topbar"]
