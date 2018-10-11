@@ -1184,6 +1184,13 @@ uol.com.br#@#[src*="data:image"]
 ! ofilmesonlinegratis.net
 @@||*/play/css/codigo.js$domain=ofilmesonlinegratis.com|ofilmesonlinegratis.net
 @@||ofilmesonlinegratis.*/wp-admin/admin-ajax.php
+! encurta.net
+@@||encurta.net/js/ads.js
+! trendsmap.com
+@@||trendsmap.com$generichide
+! embed.ly
+@@||cdn.optimizely.com^$domain=embed.ly
+@@||embed.ly/static/scripts/tracking.js^$domain=embed.ly
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

@@ -976,3 +976,7 @@ netfilmeshd.online##div[id="playerads"]
 netfilmeshd.online##div[style*="z-index"]
 netfilmeshd.online##iframe[src^="data:text/html"]
 netfilmeshd.online##li[id="count"]
+! trendsmap.com
+trendsmap.com##div[class^="modal-"]
+trendsmap.com##div[id^="google_ads_iframe_"]
+trendsmap.com##iframe[id^="google_ads_iframe"]
