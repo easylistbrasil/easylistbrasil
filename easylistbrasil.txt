@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bRqEnESx0ezFsj2zneFbwg
-! Version: 201810040010
+! Checksum: lWmfqcSaqiPqFpFM0i5Pqg
+! Version: 201810102236
 ! Title: EasyList Brasil
-! Last modified: 04 Oct 2018 00:10 UTC
+! Last modified: 10 Oct 2018 22:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2361,6 +2361,10 @@ netfilmeshd.online##div[id="playerads"]
 netfilmeshd.online##div[style*="z-index"]
 netfilmeshd.online##iframe[src^="data:text/html"]
 netfilmeshd.online##li[id="count"]
+! trendsmap.com
+trendsmap.com##div[class^="modal-"]
+trendsmap.com##div[id^="google_ads_iframe_"]
+trendsmap.com##iframe[id^="google_ads_iframe"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3573,6 +3577,13 @@ uol.com.br#@#[src*="data:image"]
 ! ofilmesonlinegratis.net
 @@||*/play/css/codigo.js$domain=ofilmesonlinegratis.com|ofilmesonlinegratis.net
 @@||ofilmesonlinegratis.*/wp-admin/admin-ajax.php
+! encurta.net
+@@||encurta.net/js/ads.js
+! trendsmap.com
+@@||trendsmap.com$generichide
+! embed.ly
+@@||cdn.optimizely.com^$domain=embed.ly
+@@||embed.ly/static/scripts/tracking.js^$domain=embed.ly
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -3642,6 +3653,7 @@ uol.com.br#@#[src*="data:image"]
 @@||imdb.com/video/imdb/$popup
 @@||imdb.com/videoplayer/$popup
 ! outros
+@@||*php?data=*netcine.us/$popup,domain=netcine.us
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
 @@||assistirseriados.net/p/video.php$popup
 @@||baixaki.com.br/download/$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
