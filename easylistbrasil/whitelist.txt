@@ -1191,6 +1191,8 @@ uol.com.br#@#[src*="data:image"]
 ! embed.ly
 @@||cdn.optimizely.com^$domain=embed.ly
 @@||embed.ly/static/scripts/tracking.js^$domain=embed.ly
+! universozn.com.br
+@@||universozn.com.br$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
