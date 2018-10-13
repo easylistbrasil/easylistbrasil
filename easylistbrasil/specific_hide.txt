@@ -991,3 +991,12 @@ diarioonline.com.br##div[class^="box-banner"]
 diarioonline.com.br##div[class^="super-banner"]
 ! otvfoco.com.br
 otvfoco.com.br##div[id*="_adsense_"]
+! receitasdamae.com
+receitasdamae.com##div[class="dir"]
+receitasdamae.com##div[id$="_ad"]
+receitasdamae.com##div[id="aviso"]
+receitasdamae.com##div[id="divads"]
+receitasdamae.com##div[id^="ads"]
+! filmeseseriesonline.info
+filmeseseriesonline.info##div[class="afs_ads"]
+filmeseseriesonline.info##div[class^="jw-logo"]

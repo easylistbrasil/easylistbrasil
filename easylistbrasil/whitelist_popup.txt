@@ -34,6 +34,7 @@
 @@||desapegacaxias.com$popup,domain=ondeeubaixo.com.br
 @@||elitefilmesonline.com$popup,domain=maxflixhd.com
 @@||estantepublica.net/video/campanha.php?*^$popup,domain=netcine.us
+@@||filmeseseriesonline.info/campanha.php$popup
 @@||filmeseseriesonlinex.com/wp-login.php$popup
 @@||filmestr.com$popup,domain=sofilmestorrent.com
 @@||goo.gl/fAuSYT$popup,domain=comandofilmes.tv|comandotorrents.com
@@ -52,11 +53,13 @@
 @@||p.netcine.us/players/*.php?n=*&p=*^$popup,domain=netcine.us
 @@||rapidvideo.com/d/$popup
 @@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
+@@||receitasdamae.com$popup,domain=filmeseseriesonline.info
 @@||seriesonlinehd.biz/player/$popup
 @@||seriesonlinex.org$popup,domain=seuseriado.org
 @@||seriesonlinex.org/app/$popup
 @@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
 @@||social.ulala.us/link.php$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.us
+@@||socialise.ml$popup,domain=filmeseseriesonline.info
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
 @@||torrentsbaixar.com$popup,domain=maxflixhd.com
 @@||tvgazeta.com.br/aovivo/$popup

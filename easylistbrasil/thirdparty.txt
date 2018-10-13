@@ -15,6 +15,7 @@
 ||clevernt.com^$third-party
 ||defpush.com^$third-party
 ||drumuwimmzxqps.com^$third-party
+||f5v1x3kgv5.com^$third-party
 ||func*clam.co*^$third-party
 ||fwmrm.net^$~object-subrequest,third-party
 ||generaller.mobi^$third-party

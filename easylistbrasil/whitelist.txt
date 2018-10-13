@@ -30,6 +30,8 @@
 @@||*/angular-ui-router/angular-ui-router.min.js
 @@||*/angular/angular.min.js
 @@||*/application-*.js
+@@||*/assets/*/angular/angular.min.js
+@@||*/assets/JWPlayer/versions/jwplayer-*/related.js
 @@||*/autocomplete.min.js
 @@||*/blankshield.min.js
 @@||*/bootstrap-select.js
@@ -1193,6 +1195,10 @@ uol.com.br#@#[src*="data:image"]
 @@||embed.ly/static/scripts/tracking.js^$domain=embed.ly
 ! universozn.com.br
 @@||universozn.com.br$generichide
+! filmeseseriesonline.info
+@@||player.filmeseseriesonline.info/init-stream^$xmlhttprequest
+! receitasdamae.com
+@@||receitasdamae.com$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
