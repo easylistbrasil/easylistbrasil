@@ -496,23 +496,25 @@ get.$domain=xilften.net
 ! aovivobrasil.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
-$csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net
-/afu.php$domain=activetect.net|brightvar.bid|clearload.bid
-/popunder.gif$domain=activetect.net|brightvar.bid|clearload.bid
-/show.php$domain=activetect.net|brightvar.bid|clearload.bid
-||*.club$domain=activetect.net|brightvar.bid|clearload.bid
-||*.com^$domain=activetect.net|brightvar.bid|clearload.bid
-||*.info$domain=activetect.net|brightvar.bid|clearload.bid
-||*.net^$domain=activetect.net|brightvar.bid|clearload.bid
-||*.site^$domain=activetect.net|brightvar.bid|clearload.bid
-||*.xyz^$domain=activetect.net|brightvar.bid|clearload.bid
+$csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|ay.gy
+/afu.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid
+/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid
+/show.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid
+||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid
+||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid
+||*.info$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid
+||*.net^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid
+||*.site^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid
+||*.xyz^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid
 ||activetect.net/js/display.js
 ||activetect.net/puopen.php
+||ay.gy/js/display.js
+||ay.gy/puopen.php
 ||brightvar.bid/js/display.js
 ||brightvar.bid/puopen.php
 ||clearload.bid/js/display.js
 ||clearload.bid/puopen.php
-||go.onclasrv.com^$domain=activetect.net|brightvar.bid|clearload.bid
+||go.onclasrv.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid
 ! futeboltv.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=futeboltv.com|futeboltvgratis.com
 ||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
