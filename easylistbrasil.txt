@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CcQyGAkG7fSEDzzi7f6XbA
-! Version: 201810132245
+! Checksum: 0eqk3jztYorSgXXpVdTZ4A
+! Version: 201810162136
 ! Title: EasyList Brasil
-! Last modified: 13 Oct 2018 22:45 UTC
+! Last modified: 16 Oct 2018 21:36 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -3621,6 +3621,8 @@ uol.com.br#@#[src*="data:image"]
 @@||player.filmeseseriesonline.info/init-stream^$xmlhttprequest
 ! receitasdamae.com
 @@||receitasdamae.com$generichide
+! archive.is
+@@||archive.is$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
