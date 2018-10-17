@@ -1207,6 +1207,12 @@ uol.com.br#@#[src*="data:image"]
 @@||receitasdamae.com$generichide
 ! archive.is
 @@||archive.is$generichide
+! speedtest.net
+@@||*.cdnst.net/javascript/prebid.*.min.js$domain=speedtest.net
+@@||*.cdnst.net/javascript/speedtest-main.js
+@@||*.speedtest.net/jst/zdconsent.js
+@@||*evidon.com^$domain=speedtest.net
+@@||speedtest.net/javascript/ads.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

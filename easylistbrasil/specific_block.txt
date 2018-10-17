@@ -627,6 +627,8 @@ $csp=script-src 'self',domain=seriesonlinehd.org
 ! ||nytimes.com/vi-assets/static-assets/vendor-*.js
 ! netfilmeshd.online
 ||raw.githubusercontent.com/diegocsandrim/sharp-test/master/output1.png
+! speedtest.net
+$script,domain=speedtest.net
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

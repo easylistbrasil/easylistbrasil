@@ -4,6 +4,7 @@
 ||.website^$third-party
 ||5t59uw2iuh.com^$third-party
 ||9likesg.com^$third-party
+||aaxads.com^$third-party
 ||adap.tv^$~object-subrequest,third-party
 ||adsymptotic.com^$third-party
 ||afriflatry.co^$third-party
@@ -13,6 +14,7 @@
 ||baa2e174884c9c0460e.com^$third-party
 ||bnserving.com^$third-party
 ||clevernt.com^$third-party
+||criteo.com^$third-party
 ||defpush.com^$third-party
 ||drumuwimmzxqps.com^$third-party
 ||f5v1x3kgv5.com^$third-party
