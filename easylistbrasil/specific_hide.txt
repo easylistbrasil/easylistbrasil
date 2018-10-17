@@ -136,6 +136,7 @@ my.mail.ru##h2[class="mm_right_block_title"]
 ! vidoza.net
 vidoza.net##div[class$="verlay"]
 vidoza.net##div[class="btn-group btn-block"]
+vidoza.net##div[class^="floating_pane"]
 vidoza.net##div[class^="modal"]
 vidoza.net##div[class^="pub_"]
 vidoza.net##div[id="vplayer"] > div[id="player"] > aside[class*="vjs-topbar"]

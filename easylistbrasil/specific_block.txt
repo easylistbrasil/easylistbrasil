@@ -63,7 +63,9 @@
 ||vidzi.tv/300e.html
 ||vidzi.tv^$script,domain=assistirfilmeshd.org|assistirfilmesonline.club|estream.to|filmeseseriesonline.net|megafilmestop.org|openlink.biz|pirataplay.com|player.xplayer.top|putload.tv|watchvideo.us|www.ultracine.com.br
 ! vidoza.net
+miner_$domain=vidoza.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=vidoza.net
+||s*.web.vidoza.net/es/
 ! vid.ag
 |http*://$popup,script,third-party,xmlhttprequest,domain=vid.ag
 ||*.bid^$domain=vid.ag
