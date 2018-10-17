@@ -1205,6 +1205,8 @@ uol.com.br#@#[src*="data:image"]
 @@||player.filmeseseriesonline.info/init-stream^$xmlhttprequest
 ! receitasdamae.com
 @@||receitasdamae.com$generichide
+! archive.is
+@@||archive.is$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
