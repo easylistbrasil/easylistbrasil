@@ -15,8 +15,16 @@
 ##.adsBox
 ##.adsCategoryTitleLink
 ##.adsbygoogle
+##.advertising--desktop
+##.advertising--mobile
+##.advertising--tablet
 ##.afs_ads
 ##.banner_ads
+##.block--advertising
+##.block--advertising-header
+##.block__advertising
+##.block__advertising-content
+##.block__advertising-header
 ##.closeIframe
 ##.closeMyAd
 ##.fillme
@@ -25,6 +33,8 @@
 ##.jw-logo-image
 ##.medrec-ad
 ##.overlay-ads
+##.paywall-fx
+##.paywall-notice
 ##.pluginButtonContainer
 ##.pluginCountButton plugincountnum
 ##.pluginCountButtonNub

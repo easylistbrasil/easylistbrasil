@@ -947,7 +947,9 @@ nytimes.com#?#div[class^="css-"]:-abp-has(> div[class^="ad"])
 ! tecnologiatech.com
 tecnologiatech.com##div[id$="-ads"]
 tecnologiatech.com##div[id="blockDiv"]
+tecnologiatech.com##div[id^="cookie-law-info-bar"]
 tecnologiatech.com##p[id*="Procedimento"]
+tecnologiatech.com#?#div[id="divaction"] > div:-abp-contains(BLOQUEADO)
 ! filmesonline.vip
 filmesonline.vip##[class*="modal"]
 filmesonline.vip##[id*="anuncio"]

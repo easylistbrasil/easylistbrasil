@@ -10,6 +10,7 @@
 /ads/*x*.
 /adservice.$domain=~adservice.io
 /anuncio/
+/api/tinypass.
 /banner.gif?
 /blockadblock.js
 /frameads.
@@ -31,6 +32,7 @@
 /pop?
 /popout.js
 /publicidades/*
+/tinypass-gtp.
 /video_masthead
 /vmclickstoadvertisersite
 /vmvideowall
