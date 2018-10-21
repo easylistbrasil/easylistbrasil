@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: VlP/A3+8vt7brXkryg4+OQ
-! Version: 201810182156
+! Checksum: C7uPlENLf6U910+DedVciA
+! Version: 201810210255
 ! Title: EasyList Brasil
-! Last modified: 18 Oct 2018 21:56 UTC
+! Last modified: 21 Oct 2018 02:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1105,6 +1105,10 @@ get.$domain=xilften.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=comandotorrents.com
 ! legendei.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=legendei.com
+||legendei.com/wp-content/uploads/*/*/*.bmp$popup
+||legendei.com/wp-content/uploads/*/*/*.jpeg$popup
+||legendei.com/wp-content/uploads/*/*/*.jpg$popup
+||legendei.com/wp-content/uploads/*/*/*.png$popup
 ! weekseries.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=week-series.com|weekseries.net
 ! filmesonlineuhd.com
@@ -1190,6 +1194,10 @@ $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=flashfilmes.org
 ! miceret.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=miceret.com
+! eletricmice.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=eletricmice.com
+! ultratfm.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=ultratfm.com
 ||miceret.com/contador.php
 ! estantepublica.net, letrasdemusicas.biz
 |http*://$popup,script,third-party,xmlhttprequest,domain=estantepublica.net|letrasdemusicas.biz
@@ -2170,8 +2178,12 @@ megafilmestorrents.org##dmbar[id="dm_topbar"]
 ! megaboxfilmesonline.com
 megaboxfilmesonline.com##a[href*="/velocimetro"]
 ! miceret.com
-miceret.com##div[id="saudacao"]
-miceret.com##div[id^="ads"]
+eletricmice.com,miceret.com,ultratfm.com##center
+eletricmice.com,miceret.com,ultratfm.com##div[class="dnone"]
+eletricmice.com,miceret.com,ultratfm.com##div[id$="ads"]
+eletricmice.com,miceret.com,ultratfm.com##div[id="saudacao"]
+eletricmice.com,miceret.com,ultratfm.com##div[id^="ads"]
+eletricmice.com,miceret.com,ultratfm.com##iframe[src*="bluekai"]
 ! estantepublica.net, letrasdemusicas.biz
 estantepublica.net,letrasdemusicas.biz##div[id="divads"]
 estantepublica.net,letrasdemusicas.biz##div[id^="ads"]
@@ -3373,7 +3385,12 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! filmesonline
 @@||filmesonline*/wp-content/themes/*/js/script.js
 ! redecanais
+@@||*.mp4^$media,xmlhttprequest,subdocument,domainredecanais.gratis|redecanais.cz|canais.ink|canais.gratis|cometa.top|miceret.com|eletricmice.com|ultratfm.com
 @@||canais.ink/fluidplayer/fluidplayer.min.js
+@@||canais.ink/rc-player/player/dist/videojs-chromecast.js
+@@||canais.ink/rc-player/player/video.js
+@@||canais.ink/snew/js/js.js
+@@||canais.ink/snew/js/js2.js
 ! filmes
 @@||*cine*.*^$generichide
 @@||*cinefilmes*.*^$generichide
@@ -3654,6 +3671,15 @@ uol.com.br#@#[src*="data:image"]
 @@||*.speedtest.net/jst/zdconsent.js
 @@||*evidon.com^$domain=speedtest.net
 @@||speedtest.net/javascript/ads.js
+! miceret.com
+@@||miceret.com$generichide
+@@||miceret.com/contador.php
+! ultratfm.com
+@@||ultratfm.com$generichide
+@@||ultratfm.com/contador.php
+! eletricmice.com
+@@||eletricmice.com$generichide
+@@||eletricmice.com/contador.php
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -3770,7 +3796,12 @@ uol.com.br#@#[src*="data:image"]
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 ! redecanais
 @@||*.cometa.*/RedeCanais/*/ondemand/*.mp4$popup
+@@||*/instagram/campanha.php?data=*^$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
+@@||*/RedeCanais/*/ondemand/*.mp4$popup
 @@||*redecanais*/*.html$popup
+@@||*social$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
+@@||olimpicusads.com$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
+@@||www.ultratfm.com$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
 ! skidrowreloaded.com
 @@||1fichier.com$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|skidrowreloaded.com
 @@||bdupload.info$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|skidrowreloaded.com
