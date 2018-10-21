@@ -760,8 +760,12 @@ megafilmestorrents.org##dmbar[id="dm_topbar"]
 ! megaboxfilmesonline.com
 megaboxfilmesonline.com##a[href*="/velocimetro"]
 ! miceret.com
-miceret.com##div[id="saudacao"]
-miceret.com##div[id^="ads"]
+eletricmice.com,miceret.com,ultratfm.com##center
+eletricmice.com,miceret.com,ultratfm.com##div[class="dnone"]
+eletricmice.com,miceret.com,ultratfm.com##div[id$="ads"]
+eletricmice.com,miceret.com,ultratfm.com##div[id="saudacao"]
+eletricmice.com,miceret.com,ultratfm.com##div[id^="ads"]
+eletricmice.com,miceret.com,ultratfm.com##iframe[src*="bluekai"]
 ! estantepublica.net, letrasdemusicas.biz
 estantepublica.net,letrasdemusicas.biz##div[id="divads"]
 estantepublica.net,letrasdemusicas.biz##div[id^="ads"]

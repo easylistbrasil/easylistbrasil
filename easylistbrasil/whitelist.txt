@@ -932,7 +932,12 @@
 ! filmesonline
 @@||filmesonline*/wp-content/themes/*/js/script.js
 ! redecanais
+@@||*.mp4^$media,xmlhttprequest,subdocument,domainredecanais.gratis|redecanais.cz|canais.ink|canais.gratis|cometa.top|miceret.com|eletricmice.com|ultratfm.com
 @@||canais.ink/fluidplayer/fluidplayer.min.js
+@@||canais.ink/rc-player/player/dist/videojs-chromecast.js
+@@||canais.ink/rc-player/player/video.js
+@@||canais.ink/snew/js/js.js
+@@||canais.ink/snew/js/js2.js
 ! filmes
 @@||*cine*.*^$generichide
 @@||*cinefilmes*.*^$generichide
@@ -1213,6 +1218,15 @@ uol.com.br#@#[src*="data:image"]
 @@||*.speedtest.net/jst/zdconsent.js
 @@||*evidon.com^$domain=speedtest.net
 @@||speedtest.net/javascript/ads.js
+! miceret.com
+@@||miceret.com$generichide
+@@||miceret.com/contador.php
+! ultratfm.com
+@@||ultratfm.com$generichide
+@@||ultratfm.com/contador.php
+! eletricmice.com
+@@||eletricmice.com$generichide
+@@||eletricmice.com/contador.php
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

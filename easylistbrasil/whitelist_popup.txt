@@ -69,7 +69,12 @@
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 ! redecanais
 @@||*.cometa.*/RedeCanais/*/ondemand/*.mp4$popup
+@@||*/instagram/campanha.php?data=*^$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
+@@||*/RedeCanais/*/ondemand/*.mp4$popup
 @@||*redecanais*/*.html$popup
+@@||*social$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
+@@||olimpicusads.com$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
+@@||www.ultratfm.com$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
 ! skidrowreloaded.com
 @@||1fichier.com$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|skidrowreloaded.com
 @@||bdupload.info$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|skidrowreloaded.com

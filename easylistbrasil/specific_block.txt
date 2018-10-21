@@ -469,6 +469,10 @@ get.$domain=xilften.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=comandotorrents.com
 ! legendei.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=legendei.com
+||legendei.com/wp-content/uploads/*/*/*.bmp$popup
+||legendei.com/wp-content/uploads/*/*/*.jpeg$popup
+||legendei.com/wp-content/uploads/*/*/*.jpg$popup
+||legendei.com/wp-content/uploads/*/*/*.png$popup
 ! weekseries.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=week-series.com|weekseries.net
 ! filmesonlineuhd.com
@@ -554,6 +558,10 @@ $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=flashfilmes.org
 ! miceret.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=miceret.com
+! eletricmice.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=eletricmice.com
+! ultratfm.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=ultratfm.com
 ||miceret.com/contador.php
 ! estantepublica.net, letrasdemusicas.biz
 |http*://$popup,script,third-party,xmlhttprequest,domain=estantepublica.net|letrasdemusicas.biz
