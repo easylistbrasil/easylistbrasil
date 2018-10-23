@@ -352,12 +352,12 @@ seuseriado.com##div[id="itfbppl_overlay"]
 ! reviewsdecelular.ga
 reviewsdecelular.ga##div[class*="intro"]
 ! netcine.us
-netcine.us##a[href*="loja"]
-netcine.us##div[class*="jw-dock-button"]
-netcine.us##div[class="afs_ads"]
-netcine.us##div[class^="jw-logo"]
-netcine.us##div[style*="z-index"]
-netcine.us##script[src*="oclasrv"]
+netcine.tv,netcine.us##a[href*="loja"]
+netcine.tv,netcine.us##div[class*="jw-dock-button"]
+netcine.tv,netcine.us##div[class="afs_ads"]
+netcine.tv,netcine.us##div[class^="jw-logo"]
+netcine.tv,netcine.us##div[style*="z-index"]
+netcine.tv,netcine.us##script[src*="oclasrv"]
 ! filmes0800.com
 filmes0800.com##.afs_ads
 ! filmeseseriesonline.net
