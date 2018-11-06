@@ -416,6 +416,7 @@
 @@||cdn.jsdelivr.net/wp/*^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||cdnjs.cloudflare.com/ajax/libs/*/jquery.lazyloadxt.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/highlight.js/*/highlight.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/*/jquery.mousewheel.min.js^$script
 @@||cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/*/jquery.lazyload.js
@@ -927,6 +928,8 @@
 @@||abril.com.br^$generichide
 ! globo.com
 @@||globo.com^$generichide
+! r7.com
+@@||sc.r7.com/ads.js
 ! reviewsdecelular.ga
 @@||reviewsdecelular.ga^$generichide
 ! filmesonline
@@ -1227,6 +1230,10 @@ uol.com.br#@#[src*="data:image"]
 ! eletricmice.com
 @@||eletricmice.com$generichide
 @@||eletricmice.com/contador.php
+! valinor.com.br
+@@||valinor.com.br$generichide
+! mp3-youtube.download
+@@||clksite.com/static/advertisement.js$domain=mp3-youtube.download
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

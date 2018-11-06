@@ -639,6 +639,12 @@ $csp=script-src 'self',domain=seriesonlinehd.org
 ||raw.githubusercontent.com/diegocsandrim/sharp-test/master/output1.png
 ! speedtest.net
 $script,domain=speedtest.net
+! megafilmes.co
+|http*://$popup,script,third-party,websocket,xmlhttprequest,domain=megafilmes.co
+! mp3-youtube.download
+|http*://$popup,script,third-party,websocket,xmlhttprequest,domain=mp3-youtube.download
+! 123movie.cc
+|http*://$popup,script,third-party,websocket,xmlhttprequest,domain=123movie.cc
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

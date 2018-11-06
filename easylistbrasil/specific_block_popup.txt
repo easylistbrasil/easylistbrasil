@@ -25,6 +25,8 @@ $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.m
 ||acceder.gratis^
 ||assistir.thenightseries.net$popup
 ||rotumal.com^$popup,third-party
+! 123movie.cc
+||www3.123movie.cc/wp-content/uploads/*/*/*.jpg$popup
 ! teste
 .ico$popup,domain=filmeseseriesonline.info|seuseriado.com
 .php$popup,domain=filmeseseriesonline.info|seuseriado.com
