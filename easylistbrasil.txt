@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mX15OkYkEVh86xZzsso9iw
-! Version: 201811052255
+! Checksum: D1586ljqJyMKEqqzM2ubnQ
+! Version: 201811081937
 ! Title: EasyList Brasil
-! Last modified: 05 Nov 2018 22:55 UTC
+! Last modified: 08 Nov 2018 19:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -331,7 +331,9 @@ animesonline.co#@#[src*="data:image"]
 canais.ink#@#body > div:last-child
 megafilmes.co#@#div[class*="pop"]
 megafilmeshd50.top,megafilmesonline-hd.com#@#div[id^="ad"]
-concrete.com.br,diarioonline.com.br,fatosdesconhecidos.com.br,filmesonlineplay.com,ipfingerprints.com,player.theplatform.com,speedtest.net,tecmundo.com.br,tugaflix.com,tugaflix.date#@#div[style*="z-index"]
+concrete.com.br,diarioonline.com.br,fatosdesconhecidos.com.br,filmesonlineplay.com,ipfingerprints.com,player.theplatform.com,speedtest.net,tecmundo.com.br,tugaflix.com,tugaflix.date,youtube.com#@#div[style*="z-index"]
+youtube.com#@#iframe[src*="about"]
+youtube.com#@#iframe[src^="about"]
 ! fix adblockplus.org/en/subscriptions
 adblockplus.org#@#a[href*="ads."]
 adblockplus.org#@#a[href*="adserver"]
