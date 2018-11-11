@@ -51,6 +51,7 @@ thevid.net##table[id="tbl1"]
 ! rapidvideo.com
 www.rapidvideo.com###dimbg-premium
 www.rapidvideo.com##dimbg-premium
+rapidvideo.com##div[style*="z-index: 2000"]
 rapidvideo.com##div[style*="z-index:50"]
 rapidvideo.com##div[style*="z-index:9999"]
 www.rapidvideo.com##noscript
