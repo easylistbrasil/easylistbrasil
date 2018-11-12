@@ -24,6 +24,7 @@
 ! outros
 @@||*php?data=*netcine.*/$popup,domain=netcine.tv|netcine.us
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
+@@||adororeceitas.com$popup,domain=kkfilmesonline.com.br
 @@||assistirseriados.net/p/video.php$popup
 @@||baixaki.com.br/download/$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||blogger.com/video-play.mp4*^$popup
@@ -41,8 +42,10 @@
 @@||googlevideo.com^$popup
 @@||i.imgur.com/XFFTBtB.png$image,popup
 @@||i.imgur.com/xSIkNpm.png$image,popup
+@@||kkfilmesonline.com.br/campanha.php?$popup
 @@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||letrasdemusicas.biz/video/campanha.php?*^$popup,domain=netcine.tv|netcine.us
+@@||luigireceitas.com$popup,domain=kkfilmesonline.com.br
 @@||mangasbr.com.br$popup,domain=animeflix.biz|animesonehd.net|animesonlinebr.com.br|animesonlinehd.com.br|animesonlinez.com
 @@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com

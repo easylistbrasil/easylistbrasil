@@ -529,7 +529,6 @@ $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz
 ! rarbg.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=rarbg.to|rarbgproxied.org|rarbgprx.org
 ! torrentfilmes
-||receitasdamaria.*^$script,third-party,xmlhttprequest
 ||significadosbrasil.*^$script,third-party,xmlhttprequest
 ||torrentfilmes.*^$script,third-party,xmlhttprequest
 ! thefilmestorrents.com
@@ -538,8 +537,6 @@ $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz
 |http*://$popup,script,third-party,xmlhttprequest,domain=legendasonline.net
 ! torrentmegafilmes.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=torrentmegafilmes.com
-! receitasmaster.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=receitasmaster.net
 ! ondeeubaixo.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=ondeeubaixo.com.br
 ! filmestorrent.co
@@ -677,6 +674,9 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 ! vshare.eu
 |http*://$popup,script,third-party,xmlhttprequest,domain=vshare.eu
+! receita e meu ovo
+|http*://$popup,script,third-party,xmlhttprequest,domain=adororeceitas.com|luigireceitas.com|receitasmaster.net
+||receitasdamaria.*^$script,third-party,xmlhttprequest
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

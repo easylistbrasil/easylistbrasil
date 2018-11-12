@@ -1007,8 +1007,18 @@
 @@||megahfilmeshd.net/wp-content/themes/vizer_beta/assets/js/home.js
 @@||megahfilmeshd.net/wp-content/themes/vizer_beta/assets/js/single-movies.js
 ! kkfilmesonline
+@@||*.filmesonlineplay.com/init-stream$xmlhttprequest
+@@||*.youtube.com/*^$domain=kkfilmesonline.com.br
+@@||google.com/uds/api/search/*/default+*.js$domain=kkfilmesonline.com.br
 @@||kkfilmesonline*/categorias/*/*/index.html$popup
+@@||kkfilmesonline*/js/bootstrap.js
+@@||kkfilmesonline*/js/easing.js
+@@||kkfilmesonline*/js/easy-responsive-tabs.js
+@@||kkfilmesonline*/js/modernizr-*.min.js
+@@||kkfilmesonline*/js/move-top.js
 @@||kkfilmesonline*/js/responsiveslides.min.js
+@@||kkfilmesonline*/js/simplePlayer.js
+@@||s.ytimg.com$domain=kkfilmesonline.com.br
 ! cineaticos.com
 @@||cineaticos.com/video/js/js.js
 ! thenightseries.net

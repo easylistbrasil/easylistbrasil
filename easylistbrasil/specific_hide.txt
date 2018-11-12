@@ -717,15 +717,23 @@ uol.com.br##div[class*="-ofertas-"]
 uol.com.br##div[class*="moduloBanner"]
 uol.com.br##div[class*="shopping-produtos"]
 uol.com.br##div[class^="shopping"][class$="container"]
-! receitasdamaria.me
-receitasdamaria.me##ins[class="adsbygoogle"]
 ! torrentmegafilmes.com
 torrentmegafilmes.com##center
 legendasonline.net##div[class="Banner"]
 legendasonline.net##div[class="text-left"]
-receitasdabela.com,receitasmaster.net##div[id^="adx"]
 legendasonline.net##div[id^="pop"]
 legendasonline.net##ins[class="adsbygoogle"]
+! receita e meu ovo
+receitasdamae.com##div[class="dir"]
+receitasdamae.com##div[id$="_ad"]
+adororeceitas.com,luigireceitas.com##div[id$="ads"]
+adororeceitas.com,luigireceitas.com,receitasdamae.com##div[id="aviso"]
+adororeceitas.com,luigireceitas.com##div[id="banner"]
+receitasdamae.com##div[id="divads"]
+adororeceitas.com,luigireceitas.com##div[id="saudacao"]
+adororeceitas.com,luigireceitas.com,receitasdamae.com##div[id^="ads"]
+receitasdabela.com,receitasmaster.net##div[id^="adx"]
+receitasdamaria.me##ins[class="adsbygoogle"]
 receitasdabela.com,receitasmaster.net##td[background*="/topo.jpg"]
 ! caxiasdigital.com
 caxiasdigital.com##center
@@ -1000,12 +1008,6 @@ diarioonline.com.br##div[class^="box-banner"]
 diarioonline.com.br##div[class^="super-banner"]
 ! otvfoco.com.br
 otvfoco.com.br##div[id*="_adsense_"]
-! receitasdamae.com
-receitasdamae.com##div[class="dir"]
-receitasdamae.com##div[id$="_ad"]
-receitasdamae.com##div[id="aviso"]
-receitasdamae.com##div[id="divads"]
-receitasdamae.com##div[id^="ads"]
 ! filmeseseriesonline.info
 filmeseseriesonline.info##div[class="afs_ads"]
 filmeseseriesonline.info##div[class^="jw-logo"]
