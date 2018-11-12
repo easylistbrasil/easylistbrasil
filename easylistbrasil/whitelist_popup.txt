@@ -61,10 +61,16 @@
 @@||social.ulala.us/link.php$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||socialise.ml$popup,domain=filmeseseriesonline.info
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
+@@||streamango.com/embed/$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
+@@||streamplay.*/*.html$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
+@@||streamplay.me/$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 @@||torrentsbaixar.com$popup,domain=maxflixhd.com
 @@||tvgazeta.com.br/aovivo/$popup
 @@||tvmap.com.br^$popup,domain=skyonlinegratis.com
 @@||vertv.me/radios/cidades/radios-*.php$popup
+@@||vidcloud.co/embed/$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
+@@||vidoza.net/*.html$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
+@@||vshare.eu/*.html$popup
 @@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 ! redecanais

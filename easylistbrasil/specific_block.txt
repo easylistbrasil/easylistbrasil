@@ -645,6 +645,36 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,websocket,xmlhttprequest,domain=mp3-youtube.download
 ! 123movie.cc
 |http*://$popup,script,third-party,websocket,xmlhttprequest,domain=123movie.cc
+! futebollivre.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=futebollivre.net
+! telerium.tv
+|http*://$popup,script,third-party,xmlhttprequest,domain=telerium.tv
+! putlocker.vip
+|http*://$popup,script,third-party,xmlhttprequest,domain=putlocker.vip
+! loadvid.online
+|http*://$popup,script,third-party,xmlhttprequest,domain=loadvid.online
+! stream365.live
+|http*://$popup,script,third-party,xmlhttprequest,domain=stream365.live
+! fmovies.to
+|http*://$popup,script,third-party,xmlhttprequest,domain=fmovies.to
+! mcloud.to
+|http*://$popup,script,domain=mcloud.to
+! gomovies
+|http*://$popup,script,third-party,xmlhttprequest,domain=gomovies.cool|gomovies.mx|gomovieshd.cc
+! solarmovie.one
+|http*://$popup,script,third-party,xmlhttprequest,domain=solarmovie.one
+! watch5s.me
+|http*://$popup,script,third-party,xmlhttprequest,domain=watch5s.me
+! cloudcdnvideo.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=cloudcdnvideo.com
+! watchfree.ac
+|http*://$popup,script,third-party,xmlhttprequest,domain=watchfree.ac
+! watchmega.to
+|http*://$popup,script,third-party,xmlhttprequest,domain=watchmega.to
+! xmovies8
+|http*://$popup,script,third-party,xmlhttprequest,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
+! vshare.eu
+|http*://$popup,script,third-party,xmlhttprequest,domain=vshare.eu
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

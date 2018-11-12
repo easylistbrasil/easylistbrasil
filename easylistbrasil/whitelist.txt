@@ -412,11 +412,13 @@
 @@||cdn.jsdelivr.net/jquery.slick/*/slick.min.js
 @@||cdn.jsdelivr.net/jwplayer/*/jwplayer.js
 @@||cdn.jsdelivr.net/npm/clappr*latest/dist/clappr.min.js
+@@||cdn.jsdelivr.net/npm/hls.js@latest
 @@||cdn.jsdelivr.net/npm/jquery*^$script
 @@||cdn.jsdelivr.net/wp/*^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/*/jquery.lazyloadxt.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/clappr/*/clappr.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/highlight.js/*/highlight.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/*/jquery.mousewheel.min.js^$script
 @@||cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/*/jquery.lazyload.js
@@ -561,6 +563,10 @@
 @@||*.fruithosted.net/dash/m/*.ts
 @@||*/assets/js/license.adbl.js^$domain=streamango.com
 @@||content.fruithosted.net/splash/*/*.jpg
+@@||fruit*.net/assets/js/license.adbl.js
+@@||fruit*.net/assets/js/video-js/video.js.mango.js
+@@||fruit*.net/assets/js/video-js/video.js.mg3.js
+@@||fruit*.net/googlead.js
 @@||fruitadblock.net/assets/js/license.adbl.js
 @@||fruitadblock.net/assets/js/video-js/r/jquery.min.js
 @@||fruitadblock.net/assets/js/video-js/r/video.min.js
@@ -1234,6 +1240,21 @@ uol.com.br#@#[src*="data:image"]
 @@||valinor.com.br$generichide
 ! mp3-youtube.download
 @@||clksite.com/static/advertisement.js$domain=mp3-youtube.download
+! loadvid.online
+@@||loadvid.online$generichide
+@@||loadvid.online/embed/$subdocument
+! fmovies.to
+@@||fmovies.to$generichide
+! mcloud
+@@||mcloud.*/resources/js/player.js
+! watch5s.me
+@@||watch5s.me$generichide
+! watchfree.ac
+@@||facebook.net$domain=watchfree.ac
+@@||watchmega.to/hls/$subdocument,xmlhttprequest,domain=watchfree.ac
+! streamplay
+@@||*.streamplay.to/dash/*/fragment-*-*-*.m4s
+@@||*.streamplay.to/dash/*/manifest.mpd
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

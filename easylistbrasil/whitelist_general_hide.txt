@@ -2,11 +2,11 @@ megafilmes.org,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesserieshd.c
 reddit.com#@#[href*="anuncio"]
 megafilmes.org,megafilmesonline-hd.com#@#[id*="modal"]
 temanimes.net,temfilmes.net,temseries.net#@#[id*="tela"]
-animesonline.co#@#[src*="data:image"]
+animesonline.co,gomovies.cool,gomovies.mx,gomovieshd.cc,putlocker.vip,xmovies8.cloud#@#[src*="data:image"]
 canais.ink#@#body > div:last-child
 megafilmes.co#@#div[class*="pop"]
 megafilmeshd50.top,megafilmesonline-hd.com#@#div[id^="ad"]
-concrete.com.br,diarioonline.com.br,fatosdesconhecidos.com.br,filmesonlineplay.com,ipfingerprints.com,player.theplatform.com,speedtest.net,tecmundo.com.br,tugaflix.com,tugaflix.date,youtube.com#@#div[style*="z-index"]
+concrete.com.br,diarioonline.com.br,fatosdesconhecidos.com.br,filmesonlineplay.com,gomovies.cool,gomovies.mx,gomovieshd.cc,ipfingerprints.com,player.theplatform.com,putlocker.vip,speedtest.net,tecmundo.com.br,tugaflix.com,tugaflix.date,xmovies8.cloud,youtube.com#@#div[style*="z-index"]
 youtube.com#@#iframe[src*="about"]
 youtube.com#@#iframe[src^="about"]
 ! fix adblockplus.org/en/subscriptions

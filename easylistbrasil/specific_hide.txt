@@ -250,6 +250,7 @@ hqq.tv,hqq.watch##script > div
 ! streamplay.to
 streamplay.to##a[href*="/apu.php"]
 streamplay.to##a[href*="/apv.hh"]
+streamplay.me##div[data-watermark=""]
 streamplay.to##div[id="overlay"]
 streamplay.me,streamplay.to##iframe[src*="glorinlost"]
 ! playk7
@@ -473,7 +474,7 @@ megafilmesahd.com##video[src*="mp4"]
 filmesonline.online##div[class="full-poster"] > center
 filmesonline.online##div[class="full-story"] > center
 ! servico de straming
-ekostreams.co,estream.to,oload.tv,onplay.tv,openload.co,openload.tv,p3g.tv,pxstream.tv,streamango.com,streamguard.cc,thevid.net,uptostream.com,vidito.me,vidlox.tv,vidoza.net,vidzi.tv,whostreams.net,widestream.io##div[style*="z-index"]
+ekostreams.co,estream.to,fruithosts.net,oload.tv,onplay.tv,openload.co,openload.tv,p3g.tv,pxstream.tv,streamango.com,streamcherry.com,streamguard.cc,thevid.net,uptostream.com,vidito.me,vidlox.tv,vidoza.net,vidzi.tv,whostreams.net,widestream.io##div[style*="z-index"]
 ! filmesonlinegratis.com
 filmesonlinegratis.com##div[class^="ads-"]
 ! livrefilmeshd.net
@@ -1008,3 +1009,47 @@ receitasdamae.com##div[id^="ads"]
 ! filmeseseriesonline.info
 filmeseseriesonline.info##div[class="afs_ads"]
 filmeseseriesonline.info##div[class^="jw-logo"]
+! futebollivre.net
+futebollivre.net##div[class*="popup"]
+! telerium.tv
+telerium.tv##body > div:first-child
+telerium.tv##div > iframe[src*="usca.html"]
+telerium.tv##iframe[src="about:blank"]
+telerium.tv#?#div:-abp-contains(<!--)
+! putlocker.vip
+putlocker.vip##div[class^="main-content"] > div[class="content-kuss"]
+putlocker.vip##iframe[src*="banner"]
+! loadvid.online
+loadvid.online##iframe[src*="bit.ly"]
+! fmovies.to
+fmovies.to##div[class$="hd-buttons"]
+fmovies.to##div[class^="alert"]
+fmovies.to##div[data-notify="message"]
+fmovies.to##div[role="alert"]
+! gomovies
+gomovieshd.cc##div[class$="-btn"]
+gomovies.cool,gomovies.mx,gomovieshd.cc##div[class*="alert"]
+gomovieshd.cc##div[class="fake_player"]
+gomovies.cool,gomovies.mx,gomovieshd.cc##div[class^="main-content"] > div[class="content-kuss"]
+gomovies.cool,gomovies.mx,gomovieshd.cc##iframe[src*="banner"]
+! solarmovie.one
+solarmovie.one##a[class="fkplayer"]
+solarmovie.one##a[class="textb"][href*="/stream/"]
+solarmovie.one##p > a[href^="/download/"]
+solarmovie.one##p > a[href^="/stream/"]
+! cloudcdnvideo.com
+cloudcdnvideo.com##div[class="pop-skip"]
+cloudcdnvideo.com##div[class="pop-wrap"]
+cloudcdnvideo.com##div[id="preroll"]
+! watch5s.me
+watch5s.me##[id*="ScriptRoot"]
+watch5s.me##div[class$="remove-ad"]
+watch5s.me##div[class^="alert"]
+watch5s.me##div[data-notify="message"]
+watch5s.me##div[role="alert"]
+! watchfree.ac
+watchfree.ac##div[class="below_player"]
+! xmovies8.cloud
+xmovies8.cloud##div[class*="alert"]
+xmovies8.cloud##div[class^="main-content"] > div[class="content-kuss"]
+xmovies8.cloud##iframe[src*="banner"]

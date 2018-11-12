@@ -20,11 +20,15 @@ $popup,domain=widestream.io
 ||hqq.*/out$popup
 ! outros
 $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.me|katfile.com|sendit.cloud|uploadhaven.com|userscloud.com
+||*.jpg$popup,domain=gomovies.cool|gomovies.mx|gomovieshd.cc|putlocker.vip|watchfree.ac|xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
+||*.png$popup,domain=watchfree.ac|xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 ||3*.*.*^$popup,domain=megahfilmeshd.net
 ||35.193.*.$popup
 ||acceder.gratis^
 ||assistir.thenightseries.net$popup
 ||rotumal.com^$popup,third-party
+||solarmovie.one/stream/$popup
+||www4.fmovies.to/wp-content/uploads/*/*/*.jpg$popup
 ! 123movie.cc
 ||www3.123movie.cc/wp-content/uploads/*/*/*.jpg$popup
 ! teste
