@@ -1,8 +1,6 @@
 ﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net,﻿openload.online,﻿openload.org,﻿openload.ru,﻿openload.site,﻿openload.to,﻿openload.top,﻿openload.tv,﻿openload.us,﻿openload.vip,﻿openload.win##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
-olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
-olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="mediaspace_wrapper"] > script:last-child
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[style*="z-index"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##iframe[src="https://openload.co/corsframe.html"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##script
@@ -35,7 +33,6 @@ cinepremiere.net##.CloseDownload
 cinepremiere.net##.close closedownload
 cinepremiere.net##a[class="close"]
 cinepremiere.net##close closedownload
-cinepremiere.net##div[class="CloseButton"]
 cinepremiere.net##div[class="ads-fx"]
 cinepremiere.net##div[class="mobileoff"]
 cinepremiere.net##div[class="mobileon"]
@@ -43,7 +40,6 @@ cinepremiere.net##div[id="SvplayerID"] > div
 ! thevid.net
 thevid.net###Html1
 thevid.net##.banner
-thevid.net##div[id="Html1"]
 thevid.net##div[id="player_logo"]
 thevid.net##div[id="videotitle"]
 thevid.net##iframe[id="InlineFrame1"]
@@ -78,7 +74,6 @@ tv4embed.com###ads-wrap
 tv4embed.com##.adblock ad advertisement
 tv4embed.com##.mask adblock ad advertisement
 tv4embed.com##div[id="ads-close"]
-tv4embed.com##div[id="ads-wrap"]
 tv4embed.com##div[style="position: absolute; left: 435px; top: 5; width: 12px; height: 12px"]
 tv4embed.com##div[style="position: absolute; top:  370px; left: 90px; height: 70px; width: 445px"]
 tv4embed.com##iframe[src="http://tv4embed.com/AD300.html"]
@@ -98,7 +93,6 @@ maps.mail.ru###mm_share
 mail.ru##.article__item_share
 auto.mail.ru##.b-context.b-context__r3945514
 my.mail.ru##.b-leftmenu__li-item-app
-my.mail.ru##.b-leftmenu__li-item-app.e-promo-app.new-app
 tv.mail.ru##.b-tvshow__like
 auto.mail.ru##.box__block.box__block_main
 ##.icon-player-backscreen_video_fb_share_60x60
@@ -125,8 +119,6 @@ mail.ru##aside[class*="twitter"]:not([class*="teaser_incontent"])
 mail.ru##div[class*="toolbar"]
 my.mail.ru##div[class="groups-list__promo"]
 my.mail.ru##div[class="mf_smsTop mf_ohd"]
-my.mail.ru##div[class="mfv_smsTop"]
-##div[class="mfv_smsTop"][data-clns="d676455"]
 my.mail.ru##div[class="mm_right_block mm_right_block_reklama"]
 ##div[class="mm_right_block_content mm_right_block__sm"]
 my.mail.ru##div[class="mm_right_block_content.mm_right_block__sm"]
@@ -141,7 +133,6 @@ vidoza.net##div[class^="floating_pane"]
 vidoza.net##div[class^="modal"]
 vidoza.net##div[class^="pub_"]
 vidoza.net##div[id="vplayer"] > div[id="player"] > aside[class*="vjs-topbar"]
-vidoza.net##div[style*="z-index"]
 vidoza.net##iframe[src*="rekovers"]
 ! flashx
 flashx.co,flashx.tv,flashx1.tv###div_extra
@@ -155,7 +146,6 @@ flashx.co,flashx.tv,flashx1.tv##.rec_container_footer
 flashx.co,flashx.tv,flashx1.tv##.sec-title2
 ##a[href^="http://www.flashx.tv/downloadthis"]
 flashx.co,flashx.tv,flashx1.tv##div[class="jwdockbuttons"]
-flashx.co,flashx.tv,flashx1.tv##div[class="rec_container_footer"]
 flashx.co,flashx.tv,flashx1.tv##div[class="vjs-watermark"]
 flashx.co,flashx.tv,flashx1.tv##img[class="jwlogo"]
 flashx.co,flashx.tv,flashx1.tv##img[src*="/logo/"]
@@ -202,9 +192,7 @@ tudotv.tv##[id*="ScriptRoot"]
 tudotv.tv##a[href*="goo.gl"]
 tudotv.tv##div[class^="Pub"]
 tudotv.tv#?#div[class="Titulo"]:-abp-contains(Baixe)
-tudotv.tv#?#div[class="Titulo"]:-abp-contains(Baixe) + div[class="widgetpx"]
 tudotv.tv#?#div[class="Titulo"]:-abp-contains(Curiosidades)
-tudotv.tv#?#div[class="Titulo"]:-abp-contains(Curiosidades) + div[class="widgetpx"]
 tudotv.tv#?#div[class="Titulo"]:-abp-contains(Publicidade)
 ! widestream.io
 widestream.io##body > link + style + div[class]
@@ -236,13 +224,11 @@ futebolaovivo.in##div[class^="col"][class$="right"] > div
 futebolaovivo.in##li > a[href*="tvon.html"]
 ! netu
 hqq.tv,hqq.watch###ad
-hqq.tv,hqq.watch###for_ad
 hqq.tv,hqq.watch###imgcx2
 hqq.tv,hqq.watch##.ad
 hqq.tv,hqq.watch##.for_ad
 hqq.tv,hqq.watch,netu.tv##[id="for_ad"]
 hqq.tv,hqq.watch##ad
-hqq.tv,hqq.watch##ad > script
 hqq.tv,hqq.watch,netu.tv##div[id="ad"]
 hqq.tv,hqq.watch##for_ad
 hqq.tv,hqq.watch##imgcx2
@@ -266,7 +252,6 @@ abcast.net##body > span
 abcast.net,tv-aovivo.nl,tvaovivo.co,tvaovivobr.com##div[class="video_ads_overdiv"]
 abcast.net##div[class="widget-content"] > style
 abcast.net,tv-aovivo.nl,tvaovivo.co,tvaovivobr.com##div[id*="floatLayer"]
-abcast.net,tv-aovivo.nl,tvaovivo.co,tvaovivobr.com##div[id="floatLayer"]
 abcast.net,tv-aovivo.nl,tvaovivo.co,tvaovivobr.com##div[id="timerDiv"]
 abcast.net##jt1olm4Q
 abcast.net##protected
@@ -293,8 +278,6 @@ tvonline.plus##[class$="-ad"]
 tvonline.plus##[class$="_ad"]
 tvonline.plus##[class^="ad"]
 tvonline.plus##[class^="pub"]
-tvonline.plus##div[class="adv-watch"]
-tvonline.plus##div[class^="ad_"][class*="pub_"]
 ! geroubuzz.com
 geroubuzz.com##div[class="afs_ads"]
 geroubuzz.com##div[id*="video-ad"]
@@ -442,7 +425,6 @@ megafilmes.co,megafilmes.org,megafilmes.tv,megafilmesahd.com,megafilmeshd50.top,
 megafilmegafilmeshdplus.org,megafilmes.co,megafilmes.org,megafilmes.tv,megafilmesahd.com,megafilmeshd50.top,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesserieshd.com,mesonlinegratis.org##div[class="fake_player"]
 megahfilmeshd.net##div[class="row wrapi camquality wow fadeIn"]
 megahfilmeshd.net##div[class="vizerNewBox adsByVizer open"]
-megahfilmeshd.net##div[class="vizerNewBox vizerNoticia"]
 megafilmes.co,megafilmes.org,megafilmes.tv,megafilmesahd.com,megafilmeshd50.top,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesonlinegratis.org,megafilmesserieshd.com##div[class^="adnl"]
 megafilmes.co,megafilmes.org,megafilmes.tv,megafilmesahd.com,megafilmeshd50.top,megafilmeshdplus.org,megafilmesonlinegratis.org,megafilmesserieshd.com##div[class^="jw-logo"]
 megafilmes.co,megafilmes.tv,megafilmesahd.com,megafilmeshd50.top,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesonlinegratis.org,megafilmesserieshd.commegafilmes.org##div[id*="-ad-"]
@@ -838,7 +820,6 @@ tvfree.me##div[id="sp-content1"]
 tvfree.me##div[style*="z-index"]
 tvfree.me##iframe[src*="1xbetapostas"]
 ! tvdesporto.info
-tvdesporto.info##div[id="ad_overlay"]
 tvdesporto.info##div[id^="ad_"]
 tvdesporto.info##div[id^="popup-"]
 tvdesporto.info##iframe[src="ads.php"]
@@ -869,9 +850,6 @@ onlinenatv.com##style
 filmon.com##div[class="afs_ads"]
 filmon.com##div[class="subscribe-annotation"]
 ! tvdesporto.info
-tvdesporto.info##div[id="ad_overlay"]
-tvdesporto.info##div[id^="popup-"]
-tvdesporto.info##iframe[src="ads.php"]
 ! mediafire.com
 mediafire.com##div[class="errorExtraContent"]
 ! filmesonlinemax.com
