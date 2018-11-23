@@ -481,6 +481,7 @@ thenightfilmes.net##div[class="container"] > center
 thenightfilmes.net##div[class="publicidade-rodape"]
 thenightfilmes.net##div[style*="z-index"]
 ! filmesonlinehd7.cc
+filmesonlinehd7.cc##center
 filmesonlinehd7.cc##div[style*="z-index"]
 ! superflix.net
 superflix.net##div[class="afs_ads"]
