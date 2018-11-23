@@ -401,6 +401,7 @@
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/*/jquery.lazyloadxt.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/clappr/*/clappr.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/flowplayer/*/flowplayer.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/highlight.js/*/highlight.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/*/jquery.lazyload.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/core.js
