@@ -535,6 +535,8 @@
 @@||fruithosted.net^$generichide
 @@||passion-fruit.fruithosted.net/dash/m/*.vtt
 @@||streamango.com/assets/css/video.js/mgvideo.css
+@@||streamango.com/assets/js/license.js
+@@||streamango.com/assets/js/script.28*.js
 @@||streamango.com/assets/js/script.packed.js
 @@||streamango.com/assets/js/video-js/dashplayer.js
 @@||streamango.com/assets/js/video-js/r/jquery.min.js
@@ -548,6 +550,7 @@
 @@||streamango.com/assets/js/video-js/videojs.dash2.js
 @@||streamango.com/assets/js/video-js/videojs.hotkeys.min.js
 @@||streamango.com/embed/*/undefined^$script
+@@||streamango.com/googlead.js
 @@||streamango.com/undefined^$script
 @@||streamango.com/v/d/*^$media
 @@||streamango.com^$generichide
