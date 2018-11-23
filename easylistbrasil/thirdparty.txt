@@ -157,7 +157,6 @@
 ||flophous.cf^$third-party
 ||freshrefresher.com^$third-party
 ||g-content.bid^$third-party
-||go.megabanners.cf^$third-party
 ||go.megabanners.cf^$websocket
 ||gridiogrid.com^$third-party
 ||gustaver.ddns.net^$third-party
@@ -208,7 +207,6 @@
 ||monkeyminer.net^$third-party
 ||moonsade.com^$third-party
 ||mutuza.win^$third-party
-||mytestminer.xyz^$third-party
 ||nablabee.com^$third-party
 ||nathetsof.com^$third-party
 ||nebabrop.com^$third-party
@@ -241,7 +239,6 @@
 ||statistic.date^$third-party
 ||streambeam.io^$third-party
 ||terethat.ru^$third-party
-||tidafors.xyz^$third-party
 ||tokyodrift.ga^$third-party
 ||traviilo.com^$third-party
 ||tulip18.com^$third-party
@@ -259,5 +256,4 @@
 ||wsp.marketgid.com^$third-party
 ||xbasfbno.info^$third-party
 ||xmr.cool^$third-party
-||xvideosharing.site^$third-party
 ||zlx.com.br^$third-party

@@ -7,7 +7,6 @@ tube8.com##div[class="rightColBanner"]
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##div[id="ab_banner"]
 redtube.com,redtube.com.br##div[id="content_container"] > div:last-child
 ##div[id="pb_block"]
-##div[id="pb_block"] > div[id="pb_top_bar"]
 redtube.com,redtube.com.br##div[onclick*="cp.abbp"]
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##iframe[src*="phncdn"]
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##p[class*="subtxt"]

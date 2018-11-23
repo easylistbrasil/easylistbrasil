@@ -1,9 +1,7 @@
 ###AdsDiv
-###Advertisement1
 ###adsdiv
 ###advert + .link
 ###close_message
-###floatLayer2
 ###player_ads
 ###player_img
 ###video_ad_fadein
@@ -40,7 +38,6 @@
 ##.pluginCountButtonNub
 ##.pluginCountTextDisconnected
 ##.return
-##.return false
 ##.style4
 ##.tv10link
 ##.video_ad_fadein
@@ -120,7 +117,6 @@
 ##closeiframe
 ##closingtimer
 ##count
-##div.ad-div mastad
 ##div.adbl_userdata
 ##div.adbstatus
 ##div[class="cloudbanner"]
@@ -141,8 +137,6 @@
 ##iframe[src*=".doubleverify."]
 ##iframe[src*="about"]
 ##iframe[src*="adlyra.com"]
-##iframe[src^="about"]
-##img[class="jw-banner"]
 ##img[src*="/close_button.png"]
 ##img[src*="/images/button-download.png"]
 ##img[src*="/images/button-watch-now.jpg"]

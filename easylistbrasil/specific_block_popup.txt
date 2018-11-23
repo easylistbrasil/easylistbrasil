@@ -13,7 +13,6 @@ $popup,domain=depositfiles.org
 $popup,domain=flashx.co|flashx.tv|flashx1.tv
 ! widestream
 $popup,domain=widestream.io
-||rivalo.com^$popup,domain=widestream.io
 ! hibids10
 ||hibids10.com^$popup
 ! netu streaming

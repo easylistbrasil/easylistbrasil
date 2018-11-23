@@ -11,7 +11,6 @@
 ||*/*.php^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*/?a=*^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*/?l=*^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
-||*/afu.php^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*/hitwe/*^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*/imp?p=*^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*/o?c=*^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
@@ -34,9 +33,7 @@
 ||openload.co/logpopup/*^
 ||ssl.gstatic.com^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||stats.onload.*/log
-||stats.openload.co/log
 ||thumb.oloadcdn.net/logo/*.png
-||thumb.oloadcdn.net/logo/os_pXLWj_OY.png
 ||thumb.onload.*/logo/*.png
 ||thumb.openload.*/logo/*.png
 ||www.facebook.com^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip
@@ -48,7 +45,6 @@
 ||*/*.php^$domain=fruitadblock.net|streamango.com
 ||*/?a=*^$domain=fruitadblock.net|streamango.com
 ||*/?l=*^$domain=fruitadblock.net|streamango.com
-||*/afu.php^$domain=fruitadblock.net|streamango.com
 ||*/hitwe/*^$domain=fruitadblock.net|streamango.com
 ||*/imp?p=*^$domain=fruitadblock.net|streamango.com
 ||*/o?c=*^$domain=fruitadblock.net|streamango.com
@@ -95,13 +91,8 @@ miner_$domain=vidoza.net
 ||thevid.net/ad/*.html
 ||thevid.net/ad/300x250.php
 ||thevid.net/ad/ads1.php
-||thevid.net/ad/g2.html
-||thevid.net/ad/g3.html
-||thevid.net/ad/g4.html
-||thevid.net/ad/g5.html
 ||thevid.net/ad/pop/js.js?v=0.1
 ||thevid.net/ad/psd.js
-||thevid.net/ad/syn/g*.html
 ||thevid.net/imgs/thevid-logo3.png
 ! rapidvideo.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=www.rapidvideo.com
@@ -175,29 +166,17 @@ miner_$domain=vidoza.net
 ||*.xyz/pisto.html
 ||*.xyz/prope.html
 ||*/embed-*-_-*.html*^$script
-||*/embed-*-_-*.html^$script
 ||rienlol.info$script
-||rienlol.info/doda.html
-||rienlol.info/moda1.html
-||rienlol.info/pick.html
-||rienlol.info/pisto.html
-||rienlol.info/prope.html
 ||sidek.info$script
-||sidek.info/moda1.html
-||sidek.info/prope.html
 ||static.*.xyz/img/*.html
 ||voodaith*.c*m^$script
 ||youwatch.org$script
-||youwatch.org/*/sharing.js
 ||youwatch.org/9elawi.html
 ||youwatch.org/driba.html
 ||youwatch.org/iframe1.html
-||youwatch.org/js/jquery.cookie.js^$script
-||youwatch.org/make-money.html
 ||youwatch.org/vod-str.html
 ||z7ilika.info$script
 ||z7ilika.info/css/main.css
-||z7ilika.info/pick.html
 ! chishare
 $script,domain=chishare.cc|chishare.co|chishare.com|chishare.com.br|chishare.info|chishare.net|chishare.org
 ||*.club^$domain=chishare.cc|chishare.co|chishare.com|chishare.com.br|chishare.info|chishare.net|chishare.org
@@ -335,7 +314,6 @@ $script,domain=tvgram.stream
 ! geroubuzz.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=geroubuzz.com
 ! tvonlineaovivo.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=tvonlineaovivo.net
 ||tvonlineaovivo.net/master.mp4$media
 ||www.tv-msn.com/master.mp4$media
 ! tvonline.plus
@@ -377,7 +355,6 @@ $script,domain=tvgram.stream
 ||*filmesonline*.*^$popup,script,xmlhttprequest
 ||*mega*filmes*.*^$popup,script,xmlhttprequest
 ||*megacine*.*^$popup,script,xmlhttprequest
-||*megafilmes*.*^$popup,script,xmlhttprequest
 ||*nightfilmes*.*^$popup,script,xmlhttprequest
 ||*qqfilmes*.*^$popup,script,xmlhttprequest
 ||*seriesonline*.*^$popup,script,xmlhttprequest
@@ -429,11 +406,9 @@ $script,domain=amgload.net|piguiqproxy.com
 ! brasilsports.tv
 |http*://$popup,script,third-party,xmlhttprequest,domain=brasilsports.tv
 ! hipertela.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=hipertela.net
 ! viki.com
 |http*://$popup,script,third-party,domain=viki.com
 ! clipwatching.com
-|http*://$popup,script,third-party,xmlhttprequest,domain=clipwatching.com
 ! livrefilmeshd.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=livrefilmeshd.net
 ! mmfilmes.tv
@@ -520,7 +495,6 @@ $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz
 ||brightvar.bid/puopen.php
 ||clearload.bid/js/display.js
 ||clearload.bid/puopen.php
-||go.onclasrv.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 ||swiftviz.net/js/display.js
 ||swiftviz.net/puopen.php
 ! futeboltv.com
