@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TQ6AsSG8ZUmLCoVY4hOidw
-! Version: 201811120249
+! Checksum: vcQPDWF4J5P/2z9udltxcA
+! Version: 201811231923
 ! Title: EasyList Brasil
-! Last modified: 12 Nov 2018 02:49 UTC
+! Last modified: 23 Nov 2018 19:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -45,7 +45,6 @@
 /mspopup.js
 /OneAdblock.js
 /pagead2.
-/play72/popout.js
 /pop?
 /popout.js
 /publicidades/*
@@ -167,11 +166,9 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 !-----------------------Regras de ocultação de elementos em geral-----------------------!
 ! *** easylistbrasil:easylistbrasil/general_hide.txt ***
 ###AdsDiv
-###Advertisement1
 ###adsdiv
 ###advert + .link
 ###close_message
-###floatLayer2
 ###player_ads
 ###player_img
 ###video_ad_fadein
@@ -208,7 +205,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ##.pluginCountButtonNub
 ##.pluginCountTextDisconnected
 ##.return
-##.return false
 ##.style4
 ##.tv10link
 ##.video_ad_fadein
@@ -288,7 +284,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ##closeiframe
 ##closingtimer
 ##count
-##div.ad-div mastad
 ##div.adbl_userdata
 ##div.adbstatus
 ##div[class="cloudbanner"]
@@ -309,8 +304,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ##iframe[src*=".doubleverify."]
 ##iframe[src*="about"]
 ##iframe[src*="adlyra.com"]
-##iframe[src^="about"]
-##img[class="jw-banner"]
 ##img[src*="/close_button.png"]
 ##img[src*="/images/button-download.png"]
 ##img[src*="/images/button-watch-now.jpg"]
@@ -518,7 +511,6 @@ adblockplus.org#@#a[href*="adserver"]
 ||flophous.cf^$third-party
 ||freshrefresher.com^$third-party
 ||g-content.bid^$third-party
-||go.megabanners.cf^$third-party
 ||go.megabanners.cf^$websocket
 ||gridiogrid.com^$third-party
 ||gustaver.ddns.net^$third-party
@@ -569,7 +561,6 @@ adblockplus.org#@#a[href*="adserver"]
 ||monkeyminer.net^$third-party
 ||moonsade.com^$third-party
 ||mutuza.win^$third-party
-||mytestminer.xyz^$third-party
 ||nablabee.com^$third-party
 ||nathetsof.com^$third-party
 ||nebabrop.com^$third-party
@@ -602,7 +593,6 @@ adblockplus.org#@#a[href*="adserver"]
 ||statistic.date^$third-party
 ||streambeam.io^$third-party
 ||terethat.ru^$third-party
-||tidafors.xyz^$third-party
 ||tokyodrift.ga^$third-party
 ||traviilo.com^$third-party
 ||tulip18.com^$third-party
@@ -620,7 +610,6 @@ adblockplus.org#@#a[href*="adserver"]
 ||wsp.marketgid.com^$third-party
 ||xbasfbno.info^$third-party
 ||xmr.cool^$third-party
-||xvideosharing.site^$third-party
 ||zlx.com.br^$third-party
 ! *** easylistbrasil:easylistbrasil/thirdparty_popup.txt ***
 ||ad.lojapremio.net^
@@ -649,7 +638,6 @@ adblockplus.org#@#a[href*="adserver"]
 ||*/*.php^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*/?a=*^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*/?l=*^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
-||*/afu.php^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*/hitwe/*^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*/imp?p=*^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*/o?c=*^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
@@ -672,9 +660,7 @@ adblockplus.org#@#a[href*="adserver"]
 ||openload.co/logpopup/*^
 ||ssl.gstatic.com^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.io|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||stats.onload.*/log
-||stats.openload.co/log
 ||thumb.oloadcdn.net/logo/*.png
-||thumb.oloadcdn.net/logo/os_pXLWj_OY.png
 ||thumb.onload.*/logo/*.png
 ||thumb.openload.*/logo/*.png
 ||www.facebook.com^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.info|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip
@@ -686,7 +672,6 @@ adblockplus.org#@#a[href*="adserver"]
 ||*/*.php^$domain=fruitadblock.net|streamango.com
 ||*/?a=*^$domain=fruitadblock.net|streamango.com
 ||*/?l=*^$domain=fruitadblock.net|streamango.com
-||*/afu.php^$domain=fruitadblock.net|streamango.com
 ||*/hitwe/*^$domain=fruitadblock.net|streamango.com
 ||*/imp?p=*^$domain=fruitadblock.net|streamango.com
 ||*/o?c=*^$domain=fruitadblock.net|streamango.com
@@ -733,13 +718,8 @@ miner_$domain=vidoza.net
 ||thevid.net/ad/*.html
 ||thevid.net/ad/300x250.php
 ||thevid.net/ad/ads1.php
-||thevid.net/ad/g2.html
-||thevid.net/ad/g3.html
-||thevid.net/ad/g4.html
-||thevid.net/ad/g5.html
 ||thevid.net/ad/pop/js.js?v=0.1
 ||thevid.net/ad/psd.js
-||thevid.net/ad/syn/g*.html
 ||thevid.net/imgs/thevid-logo3.png
 ! rapidvideo.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=www.rapidvideo.com
@@ -813,29 +793,17 @@ miner_$domain=vidoza.net
 ||*.xyz/pisto.html
 ||*.xyz/prope.html
 ||*/embed-*-_-*.html*^$script
-||*/embed-*-_-*.html^$script
 ||rienlol.info$script
-||rienlol.info/doda.html
-||rienlol.info/moda1.html
-||rienlol.info/pick.html
-||rienlol.info/pisto.html
-||rienlol.info/prope.html
 ||sidek.info$script
-||sidek.info/moda1.html
-||sidek.info/prope.html
 ||static.*.xyz/img/*.html
 ||voodaith*.c*m^$script
 ||youwatch.org$script
-||youwatch.org/*/sharing.js
 ||youwatch.org/9elawi.html
 ||youwatch.org/driba.html
 ||youwatch.org/iframe1.html
-||youwatch.org/js/jquery.cookie.js^$script
-||youwatch.org/make-money.html
 ||youwatch.org/vod-str.html
 ||z7ilika.info$script
 ||z7ilika.info/css/main.css
-||z7ilika.info/pick.html
 ! chishare
 $script,domain=chishare.cc|chishare.co|chishare.com|chishare.com.br|chishare.info|chishare.net|chishare.org
 ||*.club^$domain=chishare.cc|chishare.co|chishare.com|chishare.com.br|chishare.info|chishare.net|chishare.org
@@ -973,7 +941,6 @@ $script,domain=tvgram.stream
 ! geroubuzz.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=geroubuzz.com
 ! tvonlineaovivo.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=tvonlineaovivo.net
 ||tvonlineaovivo.net/master.mp4$media
 ||www.tv-msn.com/master.mp4$media
 ! tvonline.plus
@@ -1015,7 +982,6 @@ $script,domain=tvgram.stream
 ||*filmesonline*.*^$popup,script,xmlhttprequest
 ||*mega*filmes*.*^$popup,script,xmlhttprequest
 ||*megacine*.*^$popup,script,xmlhttprequest
-||*megafilmes*.*^$popup,script,xmlhttprequest
 ||*nightfilmes*.*^$popup,script,xmlhttprequest
 ||*qqfilmes*.*^$popup,script,xmlhttprequest
 ||*seriesonline*.*^$popup,script,xmlhttprequest
@@ -1067,11 +1033,9 @@ $script,domain=amgload.net|piguiqproxy.com
 ! brasilsports.tv
 |http*://$popup,script,third-party,xmlhttprequest,domain=brasilsports.tv
 ! hipertela.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=hipertela.net
 ! viki.com
 |http*://$popup,script,third-party,domain=viki.com
 ! clipwatching.com
-|http*://$popup,script,third-party,xmlhttprequest,domain=clipwatching.com
 ! livrefilmeshd.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=livrefilmeshd.net
 ! mmfilmes.tv
@@ -1158,7 +1122,6 @@ $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz
 ||brightvar.bid/puopen.php
 ||clearload.bid/js/display.js
 ||clearload.bid/puopen.php
-||go.onclasrv.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 ||swiftviz.net/js/display.js
 ||swiftviz.net/puopen.php
 ! futeboltv.com
@@ -1409,7 +1372,6 @@ $popup,domain=depositfiles.org
 $popup,domain=flashx.co|flashx.tv|flashx1.tv
 ! widestream
 $popup,domain=widestream.io
-||rivalo.com^$popup,domain=widestream.io
 ! hibids10
 ||hibids10.com^$popup
 ! netu streaming
@@ -1465,8 +1427,6 @@ $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.co
 ﻿olaod.net,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net,﻿openload.online,﻿openload.org,﻿openload.ru,﻿openload.site,﻿openload.to,﻿openload.top,﻿openload.tv,﻿openload.us,﻿openload.vip,﻿openload.win##.videologo
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[class="BetterJsPopOverlay"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id*="ScriptRoot"]
-olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="adbdetect"] > script
-olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[id="mediaspace_wrapper"] > script:last-child
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##div[style*="z-index"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##iframe[src="https://openload.co/corsframe.html"]
 olaod.net,oload.biz,oload.co,oload.com,oload.download,oload.info,oload.io,oload.me,oload.online,oload.org,oload.ru,oload.site,oload.to,oload.top,oload.tv,oload.us,oload.vip,openload.biz,openload.co,openload.com,openload.download,openload.info,openload.io,openload.me,openload.net,openload.online,openload.org,openload.ru,openload.site,openload.to,openload.top,openload.tv,openload.us,openload.vip,openload.win##script
@@ -1499,7 +1459,6 @@ cinepremiere.net##.CloseDownload
 cinepremiere.net##.close closedownload
 cinepremiere.net##a[class="close"]
 cinepremiere.net##close closedownload
-cinepremiere.net##div[class="CloseButton"]
 cinepremiere.net##div[class="ads-fx"]
 cinepremiere.net##div[class="mobileoff"]
 cinepremiere.net##div[class="mobileon"]
@@ -1507,7 +1466,6 @@ cinepremiere.net##div[id="SvplayerID"] > div
 ! thevid.net
 thevid.net###Html1
 thevid.net##.banner
-thevid.net##div[id="Html1"]
 thevid.net##div[id="player_logo"]
 thevid.net##div[id="videotitle"]
 thevid.net##iframe[id="InlineFrame1"]
@@ -1542,7 +1500,6 @@ tv4embed.com###ads-wrap
 tv4embed.com##.adblock ad advertisement
 tv4embed.com##.mask adblock ad advertisement
 tv4embed.com##div[id="ads-close"]
-tv4embed.com##div[id="ads-wrap"]
 tv4embed.com##div[style="position: absolute; left: 435px; top: 5; width: 12px; height: 12px"]
 tv4embed.com##div[style="position: absolute; top:  370px; left: 90px; height: 70px; width: 445px"]
 tv4embed.com##iframe[src="http://tv4embed.com/AD300.html"]
@@ -1562,7 +1519,6 @@ maps.mail.ru###mm_share
 mail.ru##.article__item_share
 auto.mail.ru##.b-context.b-context__r3945514
 my.mail.ru##.b-leftmenu__li-item-app
-my.mail.ru##.b-leftmenu__li-item-app.e-promo-app.new-app
 tv.mail.ru##.b-tvshow__like
 auto.mail.ru##.box__block.box__block_main
 ##.icon-player-backscreen_video_fb_share_60x60
@@ -1589,8 +1545,6 @@ mail.ru##aside[class*="twitter"]:not([class*="teaser_incontent"])
 mail.ru##div[class*="toolbar"]
 my.mail.ru##div[class="groups-list__promo"]
 my.mail.ru##div[class="mf_smsTop mf_ohd"]
-my.mail.ru##div[class="mfv_smsTop"]
-##div[class="mfv_smsTop"][data-clns="d676455"]
 my.mail.ru##div[class="mm_right_block mm_right_block_reklama"]
 ##div[class="mm_right_block_content mm_right_block__sm"]
 my.mail.ru##div[class="mm_right_block_content.mm_right_block__sm"]
@@ -1605,7 +1559,6 @@ vidoza.net##div[class^="floating_pane"]
 vidoza.net##div[class^="modal"]
 vidoza.net##div[class^="pub_"]
 vidoza.net##div[id="vplayer"] > div[id="player"] > aside[class*="vjs-topbar"]
-vidoza.net##div[style*="z-index"]
 vidoza.net##iframe[src*="rekovers"]
 ! flashx
 flashx.co,flashx.tv,flashx1.tv###div_extra
@@ -1619,7 +1572,6 @@ flashx.co,flashx.tv,flashx1.tv##.rec_container_footer
 flashx.co,flashx.tv,flashx1.tv##.sec-title2
 ##a[href^="http://www.flashx.tv/downloadthis"]
 flashx.co,flashx.tv,flashx1.tv##div[class="jwdockbuttons"]
-flashx.co,flashx.tv,flashx1.tv##div[class="rec_container_footer"]
 flashx.co,flashx.tv,flashx1.tv##div[class="vjs-watermark"]
 flashx.co,flashx.tv,flashx1.tv##img[class="jwlogo"]
 flashx.co,flashx.tv,flashx1.tv##img[src*="/logo/"]
@@ -1666,9 +1618,7 @@ tudotv.tv##[id*="ScriptRoot"]
 tudotv.tv##a[href*="goo.gl"]
 tudotv.tv##div[class^="Pub"]
 tudotv.tv#?#div[class="Titulo"]:-abp-contains(Baixe)
-tudotv.tv#?#div[class="Titulo"]:-abp-contains(Baixe) + div[class="widgetpx"]
 tudotv.tv#?#div[class="Titulo"]:-abp-contains(Curiosidades)
-tudotv.tv#?#div[class="Titulo"]:-abp-contains(Curiosidades) + div[class="widgetpx"]
 tudotv.tv#?#div[class="Titulo"]:-abp-contains(Publicidade)
 ! widestream.io
 widestream.io##body > link + style + div[class]
@@ -1700,13 +1650,11 @@ futebolaovivo.in##div[class^="col"][class$="right"] > div
 futebolaovivo.in##li > a[href*="tvon.html"]
 ! netu
 hqq.tv,hqq.watch###ad
-hqq.tv,hqq.watch###for_ad
 hqq.tv,hqq.watch###imgcx2
 hqq.tv,hqq.watch##.ad
 hqq.tv,hqq.watch##.for_ad
 hqq.tv,hqq.watch,netu.tv##[id="for_ad"]
 hqq.tv,hqq.watch##ad
-hqq.tv,hqq.watch##ad > script
 hqq.tv,hqq.watch,netu.tv##div[id="ad"]
 hqq.tv,hqq.watch##for_ad
 hqq.tv,hqq.watch##imgcx2
@@ -1730,7 +1678,6 @@ abcast.net##body > span
 abcast.net,tv-aovivo.nl,tvaovivo.co,tvaovivobr.com##div[class="video_ads_overdiv"]
 abcast.net##div[class="widget-content"] > style
 abcast.net,tv-aovivo.nl,tvaovivo.co,tvaovivobr.com##div[id*="floatLayer"]
-abcast.net,tv-aovivo.nl,tvaovivo.co,tvaovivobr.com##div[id="floatLayer"]
 abcast.net,tv-aovivo.nl,tvaovivo.co,tvaovivobr.com##div[id="timerDiv"]
 abcast.net##jt1olm4Q
 abcast.net##protected
@@ -1757,8 +1704,6 @@ tvonline.plus##[class$="-ad"]
 tvonline.plus##[class$="_ad"]
 tvonline.plus##[class^="ad"]
 tvonline.plus##[class^="pub"]
-tvonline.plus##div[class="adv-watch"]
-tvonline.plus##div[class^="ad_"][class*="pub_"]
 ! geroubuzz.com
 geroubuzz.com##div[class="afs_ads"]
 geroubuzz.com##div[id*="video-ad"]
@@ -1906,7 +1851,6 @@ megafilmes.co,megafilmes.org,megafilmes.tv,megafilmesahd.com,megafilmeshd50.top,
 megafilmegafilmeshdplus.org,megafilmes.co,megafilmes.org,megafilmes.tv,megafilmesahd.com,megafilmeshd50.top,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesserieshd.com,mesonlinegratis.org##div[class="fake_player"]
 megahfilmeshd.net##div[class="row wrapi camquality wow fadeIn"]
 megahfilmeshd.net##div[class="vizerNewBox adsByVizer open"]
-megahfilmeshd.net##div[class="vizerNewBox vizerNoticia"]
 megafilmes.co,megafilmes.org,megafilmes.tv,megafilmesahd.com,megafilmeshd50.top,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesonlinegratis.org,megafilmesserieshd.com##div[class^="adnl"]
 megafilmes.co,megafilmes.org,megafilmes.tv,megafilmesahd.com,megafilmeshd50.top,megafilmeshdplus.org,megafilmesonlinegratis.org,megafilmesserieshd.com##div[class^="jw-logo"]
 megafilmes.co,megafilmes.tv,megafilmesahd.com,megafilmeshd50.top,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesonlinegratis.org,megafilmesserieshd.commegafilmes.org##div[id*="-ad-"]
@@ -2302,7 +2246,6 @@ tvfree.me##div[id="sp-content1"]
 tvfree.me##div[style*="z-index"]
 tvfree.me##iframe[src*="1xbetapostas"]
 ! tvdesporto.info
-tvdesporto.info##div[id="ad_overlay"]
 tvdesporto.info##div[id^="ad_"]
 tvdesporto.info##div[id^="popup-"]
 tvdesporto.info##iframe[src="ads.php"]
@@ -2333,9 +2276,6 @@ onlinenatv.com##style
 filmon.com##div[class="afs_ads"]
 filmon.com##div[class="subscribe-annotation"]
 ! tvdesporto.info
-tvdesporto.info##div[id="ad_overlay"]
-tvdesporto.info##div[id^="popup-"]
-tvdesporto.info##iframe[src="ads.php"]
 ! mediafire.com
 mediafire.com##div[class="errorExtraContent"]
 ! filmesonlinemax.com
@@ -2529,7 +2469,6 @@ tube8.com##div[class="rightColBanner"]
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##div[id="ab_banner"]
 redtube.com,redtube.com.br##div[id="content_container"] > div:last-child
 ##div[id="pb_block"]
-##div[id="pb_block"] > div[id="pb_top_bar"]
 redtube.com,redtube.com.br##div[onclick*="cp.abbp"]
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##iframe[src*="phncdn"]
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##p[class*="subtxt"]
@@ -2563,7 +2502,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/*.jplayer.skin.min.js^$script
 @@||*/*.ttf
 @@||*/*.woff
-@@||*/*.woff2
 @@||*/angular-animate/angular-animate.min.js
 @@||*/angular-aria/angular-aria.min.js
 @@||*/angular-base64-master/angular-base64.min.js
@@ -2577,7 +2515,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/angular-ui-router/angular-ui-router.min.js
 @@||*/angular/angular.min.js
 @@||*/application-*.js
-@@||*/assets/*/angular/angular.min.js
 @@||*/assets/JWPlayer/versions/jwplayer-*/related.js
 @@||*/autocomplete.min.js
 @@||*/blankshield.min.js
@@ -2597,7 +2534,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/colors.dark.css
 @@||*/comment-reply.min.js
 @@||*/commenting.js
-@@||*/contact-form-*/includes/js/jquery.form.min.js
 @@||*/contact-form-*/includes/js/scripts.js
 @@||*/content_window_app-*.js
 @@||*/content_window_app_video-*.js
@@ -2658,7 +2594,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/images-thumbnail-sliderv*/js/jc.js
 @@||*/jquery-*.min.js
 @@||*/jquery-functions.js
-@@||*/jquery-migrate.min.js
 @@||*/jquery-scrolltofixed-min.js
 @@||*/jquery.avs-*.js
 @@||*/jquery.ba-dotimeout.min.js
@@ -2691,7 +2626,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/jquery.infinitescroll.js
 @@||*/jquery.jetpack-resize.min.js
 @@||*/jquery.jplayer.min.js
-@@||*/jquery.jplayer.min.js^$script
 @@||*/jquery.js$domain=~xstream.click
 @@||*/jquery.maskedinput-1.3.min.js
 @@||*/jquery.maskedinput.min.js
@@ -2728,7 +2662,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/js/ajax.js
 @@||*/js/block-tabnapping.js
 @@||*/js/blueimp-gallery.js
-@@||*/js/bootstrap.min.js
 @@||*/js/check-flash.js
 @@||*/js/customscript.js
 @@||*/js/formValidation.min.js
@@ -2740,9 +2673,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/js/ion.rangeSlider.js
 @@||*/js/isotope.pkgd.min.js
 @@||*/js/jplayer.easydeploy.min.js^$script
-@@||*/js/jquery-ui.min.js
 @@||*/js/jquery.cookee.js
-@@||*/js/jquery.jplayer.min.js^$script
 @@||*/js/jquery.repeater.js
 @@||*/js/lazy-images.min.js
 @@||*/js/lazyload-*.min.js
@@ -2753,7 +2684,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/js/main.js
 @@||*/js/pkgd.min.js
 @@||*/js/pluginscripts.js
-@@||*/js/rating.js
 @@||*/js/relatarErro.js
 @@||*/js/scripts2.js
 @@||*/js/single-tvshows.js
@@ -2879,7 +2809,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/wp-content/*/js/frontend.js
 @@||*/wp-content/cache/autoptimize/autoptimize_*.php$script
 @@||*/wp-content/cache/autoptimize/js/autoptimize_*.js
-@@||*/wp-content/plugins/*/js/tooltip.js
 @@||*/wp-content/plugins/buddypress/bp-core/js/confirm.min.js
 @@||*/wp-content/plugins/buddypress/bp-core/js/widget-members.min.js
 @@||*/wp-content/plugins/buddypress/bp-templates/bp-legacy/js/buddypress.min.js
@@ -2905,7 +2834,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/wp-content/themes/*mega*filme*/js/SC_JSAPP.js
 @@||*/wp-content/themes/*mega*filme*/js/script.js
 @@||*/wp-content/themes/DooPlay*/assets/js/scripts.js
-@@||*/wp-content/themes/dooplay-v*/assets/js/scripts.js
 @@||*/wp-emoji-release.min.js
 @@||*/wp-includes/js/admin-bar.min.js
 @@||*/wp-responsive-menu/js/jquery.sidr.js
@@ -2917,11 +2845,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*jquery.fancybox-thumbs.js
 @@||/wp-content/themes/*/assets/js/simple-requests-public.js
 @@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.js
-@@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.min.js
 @@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.min.map
-@@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.slim.js
-@@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.slim.min.js
-@@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.slim.min.map
 @@||ajax.googleapis.com/ajax/libs/$script,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||ajax.googleapis.com/ajax/libs/angular_material/*/angular-material.min.js
 @@||ajax.googleapis.com/ajax/libs/angularjs/*/angular.min.js
@@ -2931,11 +2855,9 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||ajax.googleapis.com/ajax/libs/indefinite-observable/*/indefinite-observable.js
 @@||ajax.googleapis.com/ajax/libs/jquery/*/jquery.min.js
 @@||ajax.googleapis.com/ajax/libs/jquerymobile/*/jquery.mobile.min.js
-@@||ajax.googleapis.com/ajax/libs/jqueryui/*/jquery-ui.min.js
 @@||ajax.googleapis.com/ajax/libs/jqueryui/*/themes/*/jquery-ui.css
 @@||ajax.googleapis.com/ajax/libs/mootools/*/mootools.min.js
 @@||ajax.googleapis.com/ajax/libs/prototype/*/prototype.js
-@@||ajax.googleapis.com/ajax/libs/swfobject/*/swfobject.js
 @@||ajax.googleapis.com/ajax/libs/webfont/*/webfont.js
 @@||api.peer5.com/jwplayer*.js
 @@||api.peer5.com/peer5.clappr.plugin.js
@@ -2956,7 +2878,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdn.jsdelivr.net/clappr.thumbnails-plugin/latest/clappr-thumbnails-plugin.js
 @@||cdn.jsdelivr.net/clappr/latest/clappr.min.js
 @@||cdn.jsdelivr.net/gh/jquery*^$script
-@@||cdn.jsdelivr.net/jquery.slick/*/slick.min.js
 @@||cdn.jsdelivr.net/jwplayer/*/jwplayer.js
 @@||cdn.jsdelivr.net/npm/clappr*latest/dist/clappr.min.js
 @@||cdn.jsdelivr.net/npm/hls.js@latest
@@ -2967,10 +2888,8 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdnjs.cloudflare.com/ajax/libs/*/jquery.lazyloadxt.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/clappr/*/clappr.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/highlight.js/*/highlight.min.js
-@@||cdnjs.cloudflare.com/ajax/libs/jquery-mousewheel/*/jquery.mousewheel.min.js^$script
 @@||cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/*/jquery.lazyload.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/core.js
-@@||cdnjs.cloudflare.com/ajax/libs/jquery/*/jquery.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/jquery.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/jquery.min.map
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/jquery.slim.js
@@ -2988,11 +2907,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/*/videojs-contrib-hls.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/wow/*/wow.min.js
 @@||code.jquery.com/j*.js
-@@||code.jquery.com/jq.js
-@@||code.jquery.com/jquery-*.*.*.js
-@@||code.jquery.com/jquery-*.min.js
-@@||code.jquery.com/jquery-migrate-*.min.js
-@@||code.jquery.com/jquery.js
 @@||code.jquery.com/jquery.min.map
 @@||code.jquery.com/query.js
 @@||code.jquery.com/ui/*/jquery-ui.js
@@ -3013,23 +2927,18 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||gstatic.com/recaptcha/api*/*/recaptcha*.js^$script
 @@||jwpltx.com^$script
 @@||jwpsrv.com/library/*.js
-@@||jwpsrv.com/library/5V3tOP97EeK2SxIxOUCPzg.js$script
 @@||p.jwpcdn.com/*/*/skins/five.xml
 @@||p.jwpcdn.com^$font,media,object,script
-@@||p.jwpcdn.com^$script,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||platform.twitter.com/js/button.*.js
 @@||platform.twitter.com/widgets.js
 @@||plugins.longtailvideo.com/*/ova/ova-jw.js
 @@||plugins.longtailvideo.com/*/timeslidertooltipplugin/timeslidertooltipplugin-*.js
 @@||releases.flowplayer.org/*/flowplayer.min.js
 @@||releases.flowplayer.org/*/skin/minimalist.css
-@@||releases.flowplayer.org/hlsjs/flowplayer.hlsjs.light.min.js
-@@||releases.flowplayer.org/hlsjs/flowplayer.hlsjs.min.js
 @@||releases.flowplayer.org/quality-selector/flowplayer.quality-selector.min.js
 @@||ssl.p.jwpcdn.com/player/v/*/jwplayer.flash.swf
 @@||ssl.p.jwpcdn.com/player/v/*/polyfills.vttrenderer.js
 @@||ssl.p.jwpcdn.com/player/v/*/provider.flash.js
-@@||video.ntcdn.us/jwplayercast.js
 @@||vjs.zencdn.net/*/video.js$script
 @@||vjs.zencdn.net/*/video.min.js
 @@||youtube.com/iframe_api^$media,script
@@ -3071,10 +2980,8 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||oload.*/assets/js/jquery.min.js^$script
 @@||oload.*/assets/js/license.44*.js
 @@||oload.*/assets/js/script.2*.js
-@@||oload.*/assets/js/script.2512.js.f.js
 @@||oload.*/assets/js/video-js/vast/videojs_5.vast.vpaid.min3.js
 @@||oload.*/assets/js/video-js/video.js.ol*.js
-@@||oload.*/assets/js/video-js/video.js.ol.js
 @@||oload.*/assets/js/video-js/video.js.openload.js
 @@||oload.*/assets/js/video.min.*.js^$script
 @@||oload.*/assets/js/video.min.js^$script
@@ -3087,10 +2994,8 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||openload.*/assets/js/jquery.min.js^$script
 @@||openload.*/assets/js/license.1*.js
 @@||openload.*/assets/js/script.2*.js
-@@||openload.*/assets/js/script.2512.js.f.js
 @@||openload.*/assets/js/video-js/vast/videojs_5.vast.vpaid.min3.js
 @@||openload.*/assets/js/video-js/video.js.ol*.js
-@@||openload.*/assets/js/video-js/video.js.ol.js
 @@||openload.*/assets/js/video-js/video.js.openload.js
 @@||openload.*/assets/js/video.min.*.js^$script
 @@||openload.*/assets/js/video.min.js^$script
@@ -3104,30 +3009,17 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||thumb.oloadcdn.net/subtitle/*/*.vtt
 ! streamango.com
 @@||*.fruithosted.net/dash/m/*.m
-@@||*.fruithosted.net/dash/m/*.m4s
-@@||*.fruithosted.net/dash/m/*.mp4
-@@||*.fruithosted.net/dash/m/*.mpd
-@@||*.fruithosted.net/dash/m/*.ts
 @@||*/assets/js/license.adbl.js^$domain=streamango.com
 @@||content.fruithosted.net/splash/*/*.jpg
 @@||fruit*.net/assets/js/license.adbl.js
 @@||fruit*.net/assets/js/video-js/video.js.mango.js
 @@||fruit*.net/assets/js/video-js/video.js.mg3.js
 @@||fruit*.net/googlead.js
-@@||fruitadblock.net/assets/js/license.adbl.js
 @@||fruitadblock.net/assets/js/video-js/r/jquery.min.js
 @@||fruitadblock.net/assets/js/video-js/r/video.min.js
 @@||fruitadblock.net/assets/js/video-js/r/videojs-ie8.min.js
-@@||fruitadblock.net/assets/js/video-js/video.js.mango.js
-@@||fruitadblock.net/assets/js/video-js/video.js.mg3.js
 @@||fruithosted.net^$generichide
-@@||passion-fruit.fruithosted.net/dash/m/*.m3u8
-@@||passion-fruit.fruithosted.net/dash/m/*.m4s
-@@||passion-fruit.fruithosted.net/dash/m/*.mp4
-@@||passion-fruit.fruithosted.net/dash/m/*.mpd
-@@||passion-fruit.fruithosted.net/dash/m/*.ts
 @@||passion-fruit.fruithosted.net/dash/m/*.vtt
-@@||sheepberry.fruithosted.net/dash/m/*/*.m*d
 @@||streamango.com/assets/css/video.js/mgvideo.css
 @@||streamango.com/assets/js/script.packed.js
 @@||streamango.com/assets/js/video-js/dashplayer.js
@@ -3164,9 +3056,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||static.vidzi.*/jwplayer-*/vast.js
 @@||static.vidzi.*/nplayer/jwplayer.js
 ! vidoza.net
-@@||play.js.vidoza.net/bootstrap.min.js?v1
 @@||rekovers.ru/st/*/watch.html^$domain=vidoza.net
-@@||vidoza.net/js/bootstrap/bootstrap.min.js
 @@||vidoza.net/js/embed.bundle.js
 @@||vidoza.net/js/embed.min.js
 @@||vidoza.net/js/jquery.min.js
@@ -3187,10 +3077,8 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||static.vidto.*/player*/provider.flash.js
 @@||static.vidto.*/player/jwplayer-*/related.js
 @@||static.vidto.*/static/js/ads.js
-@@||static.vidto.*/static/js/jquery.jplayer.min.js
 ! vidlox.tv
 @@blob:*//vidlox.tv/*^$script
-@@||blob:https://vidlox.tv/*^$script
 @@||vidlox.me/bootstrap.js
 @@||vidlox.tv/js/hrpr.js
 @@||vidlox.tv/js/jquery.min.js
@@ -3201,19 +3089,15 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@blob:*//estream.*/*^$script
 @@|wss://*.playe.estream.*/$websocket
 @@||*.playe.estream.*^$xmlhttprequest
-@@||blob:*//estream.*/*^$script
 @@||estream.*/ads/ads.js
 @@||estream.*/dl?*^$media,xmlhttprequest
 @@||play.playe.estream.*/app.js
 @@||static.escdn.co/js/jquery.min.js
-@@||static.escdn.co/player*/*/flowplayer.hlsjs.min.js
 @@||static.escdn.co/player*/*/flowplayer.min.js
 @@||static.escdn.co/player*/*/skin/skin*.css
 ! cinepremiere.net
 @@||cinepremiere.net/*/gkpluginsAPI.js
 @@||cinepremiere.net/*/jwplayer*.js
-@@||cinepremiere.net/*/jwplayer.html5.js
-@@||cinepremiere.net/*/jwplayer.js
 ! thevid.net
 @@||onclickmega.com^$domain=thevid.net
 @@||onclicksuper.com^$domain=thevid.net
@@ -3223,21 +3107,16 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||thevid.net/js/jrange/jquery.range-min.js
 @@||thevid.net/player/videojs/plugins/videojs.airplay.js
 @@||thevid.net/player/videojs/store.min.js
-@@||thevid.net/player/videojs/video.min.js
-@@||thevid.net/player/videojs/videojs-ie8.min.js
 @@||thevid.net/player/videojs/videojs-resume.min.js^$script
 @@||thevid.net/player/videojs/videojs-thumbnails.min.js
 @@||thevid.net/player/videojs/videojs.errors.js
 @@||thevid.net^$media
 @@||velocecdn.com/script/compatibility.js^$domain=thevid.net
 ! rapidvideo.com
-@@||rapidvideo.*/*/ie8/videojs-ie8.min.js
 @@||rapidvideo.*/embed/undefined^
-@@||rapidvideo.*/js/jquery-ui.min.js
 @@||rapidvideo.*/js/jquery.limit-*.source.js
 @@||rapidvideo.*/js/jquery.min.js
 @@||rapidvideo.*/js/jquery.tipsy.js
-@@||rapidvideo.*/js/jquery.validate.min.js
 @@||rapidvideo.*/js/videojs.logobrand.js
 @@||rapidvideo.*/jwplayer-*/jwplayer.js
 @@||rapidvideo.*/plugins/video.min.js
@@ -3266,8 +3145,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/js/xfs.js$domain=smed79.info
 @@||178.16*.*.*^$image,media
 @@||plugins.longtailvideo.com^$script,domain=youwatch.org
-@@||rienlol.info/js/xfs.js
-@@||z7ilika.info/play72/jwplayer-yw.js
 ! chishare
 @@||chishare.*/FunctionsJS/?nocache
 @@||chishare.*/theme/gkplugins/gkpluginsAPI.js?nocache
@@ -3279,9 +3156,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||neutralen.nl/html5/moon/startplayer.min.js^$script
 ! apollocdn.cc
 @@blob:*://apollocdn.cc/
-@@||*blob:*://apollocdn.cc/*^$script
-@@||18*.*.*.*/sec/*/hls/*/*.m3u8
-@@||18*.*.*.*/sec/*/hls/*/*.ts
 @@||18*.*.*.*/static/html5/moon/*/jquery.min.js
 @@||18*.*.*.*/static/html5/moon/*/player.min.js
 @@||18*.*.*.*/static/html5/moon/*/skins/moonplayer/template.min.js
@@ -3311,7 +3185,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! short.am
 @@||short.am$genericblock
 ! 2ndrun
-@@/crossdomain.xml$domain=2ndrun.tv|tv4embed.com
 @@||2ndrun.tv^$media,object,xmlhttprequest
 @@||ads.adaptv.advertising.com^$third-party,domain=2ndrun.tv
 @@||pubads.g.doubleclick.net^$third-party,domain=2ndrun.tv
@@ -3330,19 +3203,15 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||flashx*/js/showad_.js$script
 @@||flashx*^$image,media
 @@||static.flash*/js/flashx.js$script
-@@||static.flash*/js/flashx.js^$script
 @@||static.flash*/js/xfs.js$script
 @@||static.flashx*/css/main.css?v
 @@||static.flashx*/js/jquery.cookie.js
-@@||static.flashx*/js/jquery.cookie.js$script
 @@||static.flashx*/js/jquery.min.js^$script
-@@||static.flashx*/js/xfs.js^$script
 @@||static.flashx*/player*/jwplayer.html5.js^$script
 @@||static.flashx*/player*/jwplayer.js^$script
 @@||static.flashx.cc/videojs/*/video.js
 @@||static.flashx.cc/videojs/es5-shim.js
 @@||static.flashx.cc/videojs/ie8fix.js
-@@||static.flashx.cc/videojs/videojs-ie8.min.js
 @@||static.flashx.cc/videojs/videojs-resolution-switcher.js
 @@||stc.fx.fastcontentdelivery.com/js/showad_.js$script,domain=flashx.co|flashx.tv|flashx1.tv
 @@||www.flashx*/js/code.js$script
@@ -3358,7 +3227,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! widestream
 @@blob:*://widestream.io/
 @@||widestream.io/img/close.png
-@@||widestream.io/js/general.js
 ! pxstream.tv
 @@||pxstream.tv^$generichide
 ! ekostreams.co
@@ -3387,21 +3255,17 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||onplay.tv/player/js/peer5.jwplayer*.plugin.js
 ! janjua
 @@||janjuaplayer.com/resources/scripts/generateAds.js
-@@||janjuaplayer.com/resources/scripts/swfobject.js
 ! p3g.tv
-@@||94.*.*.*:*/live/hbohd/hls.key?$xmlhttprequest
 @@||p3g.tv/resources/scripts/canvas.js
 @@||p3g.tv/resources/scripts/generateAds.js
 @@||p3g.tv/resources/scripts/hls.js
 @@||p3g.tv/resources/scripts/hls.min.js
 @@||p3g.tv/resources/scripts/jsonpack.js
 @@||p3g.tv/resources/scripts/newAdsScript.js
-@@||p3g.tv/resources/scripts/swfobject.js
 @@||p3gpublish.com:1935/loadbalancer?$xmlhttprequest
 ! vidnode.net
 @@/videoplayback^$domain=vidnode.net
 @@||vidnode.net/player/js/jquery.min.js
-@@||vidnode.net/player/js/main.js
 @@||vidnode.net/player/js/videojs-chromecast.js
 @@||vidnode.net/player/video-js/resolution-switcher.js
 @@||vidnode.net/player/video-js/videojs-vjsdownload.js
@@ -3430,10 +3294,8 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*.hqq.*/js/embed.js
 @@||*.hqq.*/js/embed_st.js
 @@||*.hqq.*/js/jquery.js
-@@||*.hqq.*/js/jquery_plugs/jquery-latest.min.js
 @@||*.hqq.*/js/peer5.videojs5.plugin.js
 @@||*.hqq.*/js/video.embed_day_counter.js
-@@||*.hqq.*/js/video.jquery_plugs/modernizr.js
 @@||*.hqq.*/js/video.js-ie8.min.3.js
 @@||*.hqq.*/js/video.js.netu.js
 @@||*.hqq.*/js/video.js.netutv.js
@@ -3464,16 +3326,12 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||9*.*.*.*:*/live/*/hls.key?*^$xmlhttprequest
 @@||tvonlineaovivo.net/jwplayer/provider.hlsjs.js
 ! aovivoagora
-@@||aovivoagora.*/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox.min.css
 @@||aovivoagora.*/wp-content/plugins/ml-slider/assets/metaslider/public.css
 @@||aovivoagora.*/wp-content/plugins/ml-slider/assets/sliders/flexslider/bg_direction_nav.png
-@@||aovivoagora.*/wp-content/plugins/ml-slider/assets/sliders/flexslider/flexslider.css
 @@||aovivoagora.*/wp-content/themes/*/images/bg.png
 @@||aovivoagora.*/wp-content/themes/*/images/sprites.png
 @@||aovivoagora.*/wp-content/themes/*/style.css
 @@||aovivoagora.*/wp-includes/css/dashicons.min.css
-@@||aovivoagora.*/wp-includes/js/thickbox/thickbox.css
-@@||aovivoagora.*/wp-includes/js/thickbox/thickbox.js
 ! seuseriado.com
 @@||facebook.com^$elemhide,domain=seuseriado.com
 @@||seuseriado.com^$generichide
@@ -3486,7 +3344,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! reviewsdecelular.ga
 @@||reviewsdecelular.ga^$generichide
 ! filmesonline
-@@||filmesonline*/wp-content/themes/*/js/script.js
 ! redecanais
 @@||*.mp4^$media,xmlhttprequest,subdocument,domainredecanais.gratis|redecanais.cz|canais.ink|canais.gratis|cometa.top|miceret.com|eletricmice.com|ultratfm.com
 @@||canais.ink/fluidplayer/fluidplayer.min.js
@@ -3519,22 +3376,8 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! viki.com
 @@blob:*www.viki.com/*^$script
 @@||*.viki.io/*/ima3.js
-@@||*.viki.io/a/application-*.js
-@@||*.viki.io/a/cur-igitur-tu-*.js
-@@||*.viki.io/a/flash_detect-*.js
-@@||*.viki.io/a/font_loader-*.js
 @@||*.viki.io/a/i*n/pt-*.js
-@@||*.viki.io/a/picturefill_lazysizes-*.js
-@@||*.viki.io/a/react_apps/collections_app-*.js
-@@||*.viki.io/a/react_apps/content_window_app-*.js
-@@||*.viki.io/a/react_apps/content_window_app_video-*.js
-@@||*.viki.io/a/react_apps/homepage_app-*.js
-@@||*.viki.io/a/react_apps/recommendations_app-*.js
-@@||*.viki.io/a/react_apps/review_app-*.js
-@@||*.viki.io/a/react_apps/video_list_app-*.js
-@@||*.viki.io/a/utility-*.js
 @@||0.viki.io/a/*.js
-@@||js.honeybadger.io/*/honeybadger.min.js
 @@||viki.com^$generichide
 ! hardware.com.br
 @@||hardware.com.br^$generichide
@@ -3543,10 +3386,8 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/wp-content/*/js/favorites.js
 @@||*/wp-content/*/js/favorites.min.js
 @@||*/wp-content/themes/*mega*filme*/js/main.min.js
-@@||*/wp-content/themes/*mega*filme*/js/script.js
 @@||megafilmesonlinegratis.*/wp-content/cache/min/*.js
 ! clipwatching.com
-@@||clipwatching.com/js/adframe.js
 @@||clipwatching.com^$generichide
 ! megahfilmeshd.net
 @@||megahfilmeshd.net/min/*.js
@@ -3575,8 +3416,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! superflix.net
 @@||superflix.net/*/assets/js/jquery.min.js
 @@||superflix.net/*/assets/jwplayer/jwplayer.js
-@@||superflix.net/wp-content/uploads/fvm/out/footer-*-*.min.js
-@@||superflix.net/wp-content/uploads/fvm/out/header-*-*.min.js
 ! assistirfilmesonline
 @@||assistirfilmesonline*/wp-content/themes/*/app.js
 @@||assistirfilmesonline*/wp-content/themes/*/js/SC_01APP.js
@@ -3594,7 +3433,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! legendei.com
 @@||legendei.com^$generichide
 ! filmesonlineplay.com
-@@||demo.filmesonlineplay.com/init-stream$xmlhttprequest
 @@||demo.filmesonlineplay.com/report-stream$xmlhttprequest
 ! popfilmeshd.net
 @@||api.popfilmeshd.net/init-stream$xmlhttprequest
@@ -3628,7 +3466,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! adf.ly
 @@/nr-*.min.js$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@/script/wait.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
-@@||*./script/wait.php?^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@||*/a/display.php?r=$script,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@||*/script/pub.js$script,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@||activetect.net/1market.php
@@ -3638,7 +3475,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||ay.gy/1market.php
 @@||ay.gy/static/css/omnigy.css
 @@||ay.gy^$generichide
-@@||b.adexchangemachine.com/script/wait.php?$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@||bam.nr-data.net$script,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@||bitonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@||boudja.com/$subdocument,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
@@ -3865,8 +3701,6 @@ uol.com.br#@#[src*="data:image"]
 ! *** easylistbrasil:easylistbrasil/whitelist_popup.txt ***
 ! fix popup
 @@||*ani*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
-@@||*anima*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
-@@||*anime*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 @@||*aovivo*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 @@||*canais*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 @@||*filme*^$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
@@ -3942,7 +3776,6 @@ uol.com.br#@#[src*="data:image"]
 @@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 ! redecanais
-@@||*.cometa.*/RedeCanais/*/ondemand/*.mp4$popup
 @@||*/instagram/campanha.php?data=*^$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
 @@||*/RedeCanais/*/ondemand/*.mp4$popup
 @@||*redecanais*/*.html$popup
@@ -4011,7 +3844,6 @@ uol.com.br#@#[src*="data:image"]
 @@||snipt.org/$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@||spideroak.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@||uploaded.net/$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
-@@||userscloud.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@||volafile.io/$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@||wetransfer.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
 @@||zippyshare.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
@@ -4079,7 +3911,6 @@ uol.com.br#@#[src*="data:image"]
 @@||blog.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||canalsexyhot.com.br^$popup,domain=sexyhotplay.com.br
 @@||premio.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
-@@||soparamaiores.tumblr.com^$popup,domain=sexyhotplay.com.br
 @@||tumblr.com^$popup,domain=sexyhotplay.com.br
 ! sambaporno.com
 @@||*/v/*/?$popup,domain=sambaporno.com
