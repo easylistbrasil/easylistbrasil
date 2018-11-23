@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: l75C5A6++4ZsooXPYyxYZw
-! Version: 201811232022
+! Checksum: rMIGPJdFzmmB+RIyfvS9Vg
+! Version: 201811232042
 ! Title: EasyList Brasil
-! Last modified: 23 Nov 2018 20:22 UTC
+! Last modified: 23 Nov 2018 20:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -3658,6 +3658,8 @@ uol.com.br#@#[src*="data:image"]
 ! streamplay
 @@||*.streamplay.to/dash/*/fragment-*-*-*.m4s
 @@||*.streamplay.to/dash/*/manifest.mpd
+! tugarflix.com
+@@||tugaflix.com/tema/blockadblock.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
