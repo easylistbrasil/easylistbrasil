@@ -1171,6 +1171,8 @@ uol.com.br#@#[src*="data:image"]
 ! streamplay
 @@||*.streamplay.to/dash/*/fragment-*-*-*.m4s
 @@||*.streamplay.to/dash/*/manifest.mpd
+! tugarflix.com
+@@||tugaflix.com/tema/blockadblock.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
