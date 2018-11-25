@@ -28,6 +28,10 @@ $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.m
 ||rotumal.com^$popup,third-party
 ||solarmovie.one/stream/$popup
 ||www4.fmovies.to/wp-content/uploads/*/*/*.jpg$popup
+! xdrive.cc
+|http*://$popup,domain=xdrive.cc
+! byter.tv
+|http*://$popup,domain=byter.tv
 ! 123movie.cc
 ||www3.123movie.cc/wp-content/uploads/*/*/*.jpg$popup
 ! teste
