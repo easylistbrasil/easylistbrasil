@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kUZ75RRII9yODTck19QgCA
-! Version: 201811251627
+! Checksum: 7anv0X19z3x5rgS3TfPQaQ
+! Version: 201811251643
 ! Title: EasyList Brasil
-! Last modified: 25 Nov 2018 16:27 UTC
+! Last modified: 25 Nov 2018 16:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -918,6 +918,10 @@ $script,domain=tvgram.stream
 ||streamplay.to/favicon-48x48.png
 ||streamplay.to/images/videoplayer.png
 ||streamplay.to/js/pu*/
+! fastplay.to
+|http*://$popup,script,third-party,xmlhttprequest,domain=fastplay.to
+! yourupload.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=yourupload.com
 ! ucasterplayer.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=ucasterplayer.com
 ! ucaster.me
@@ -2466,6 +2470,12 @@ xmovies8.cloud##div[class^="main-content"] > div[class="content-kuss"]
 xmovies8.cloud##iframe[src*="banner"]
 ! nerdprofessor.com.br
 nerdprofessor.com.br##a[href$="/oferta"]
+! fastplay.to
+fastplay.to##div[class="afs_ads"]
+fastplay.to#div[style*="z-index"]
+! yourupload.com
+yourupload.com##div[class="afs_ads"]
+yourupload.com#div[style*="z-index"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
