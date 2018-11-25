@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: BFqEzPWMa1g+ZhzEAZFHVA
-! Version: 201811242337
+! Checksum: kUZ75RRII9yODTck19QgCA
+! Version: 201811251627
 ! Title: EasyList Brasil
-! Last modified: 24 Nov 2018 23:37 UTC
+! Last modified: 25 Nov 2018 16:27 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1387,6 +1387,10 @@ $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.m
 ||rotumal.com^$popup,third-party
 ||solarmovie.one/stream/$popup
 ||www4.fmovies.to/wp-content/uploads/*/*/*.jpg$popup
+! xdrive.cc
+|http*://$popup,domain=xdrive.cc
+! byter.tv
+|http*://$popup,domain=byter.tv
 ! 123movie.cc
 ||www3.123movie.cc/wp-content/uploads/*/*/*.jpg$popup
 ! teste
