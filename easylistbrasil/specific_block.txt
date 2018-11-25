@@ -291,6 +291,10 @@ $script,domain=tvgram.stream
 ||streamplay.to/favicon-48x48.png
 ||streamplay.to/images/videoplayer.png
 ||streamplay.to/js/pu*/
+! fastplay.to
+|http*://$popup,script,third-party,xmlhttprequest,domain=fastplay.to
+! yourupload.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=yourupload.com
 ! ucasterplayer.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=ucasterplayer.com
 ! ucaster.me

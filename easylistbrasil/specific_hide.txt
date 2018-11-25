@@ -1036,3 +1036,9 @@ xmovies8.cloud##div[class^="main-content"] > div[class="content-kuss"]
 xmovies8.cloud##iframe[src*="banner"]
 ! nerdprofessor.com.br
 nerdprofessor.com.br##a[href$="/oferta"]
+! fastplay.to
+fastplay.to##div[class="afs_ads"]
+fastplay.to#div[style*="z-index"]
+! yourupload.com
+yourupload.com##div[class="afs_ads"]
+yourupload.com#div[style*="z-index"]
