@@ -1034,3 +1034,5 @@ watchfree.ac##div[class="below_player"]
 xmovies8.cloud##div[class*="alert"]
 xmovies8.cloud##div[class^="main-content"] > div[class="content-kuss"]
 xmovies8.cloud##iframe[src*="banner"]
+! nerdprofessor.com.br
+nerdprofessor.com.br##a[href$="/oferta"]
