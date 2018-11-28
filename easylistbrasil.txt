@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7anv0X19z3x5rgS3TfPQaQ
-! Version: 201811251643
+! Checksum: LwH9YOKJMQLZGMX83C3hNQ
+! Version: 201811281907
 ! Title: EasyList Brasil
-! Last modified: 25 Nov 2018 16:43 UTC
+! Last modified: 28 Nov 2018 19:07 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2508,6 +2508,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||www.gstatic.com/inputtools/images/tia.png^$domain=www.google.com|www.youtube.com
 @@||www.gstatic.com/youtube/doodle/yt-doodle-*-*.png
 @@||www.youtube-creatorcommunity.com^$popup,domain=youtube.com
+@@||youtube.com/get_video_info$xmlhttprequest,domain=youtube.com
 @@||youtubecreatorde.blogspot.com^$popup,domain=youtube.com
 @@||youtubecreatormonthly.blogspot.com^$popup,domain=youtube.com
 ! Api
@@ -3053,6 +3054,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||streamango.com/assets/js/video-js/videojs.dash.js
 @@||streamango.com/assets/js/video-js/videojs.dash2.js
 @@||streamango.com/assets/js/video-js/videojs.hotkeys.min.js
+@@||streamango.com/embed/$csp,domain=mirrorace.com
 @@||streamango.com/embed/*/undefined^$script
 @@||streamango.com/googlead.js
 @@||streamango.com/undefined^$script
@@ -3078,6 +3080,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||static.vidzi.*/nplayer/jwplayer.js
 ! vidoza.net
 @@||rekovers.ru/st/*/watch.html^$domain=vidoza.net
+@@||vidoza.net/embed-*.html$csp,domain=mirrorace.com
 @@||vidoza.net/js/embed.bundle.js
 @@||vidoza.net/js/embed.min.js
 @@||vidoza.net/js/jquery.min.js
@@ -3677,6 +3680,8 @@ uol.com.br#@#[src*="data:image"]
 @@||*.streamplay.to/dash/*/manifest.mpd
 ! tugarflix.com
 @@||tugaflix.com/tema/blockadblock.js
+! thepiratefilmesonline.org
+@@||thepiratefilmesonline.org/players/tpf-am-*/assets/js/scripts.min.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
