@@ -5,6 +5,7 @@
 @@||www.gstatic.com/inputtools/images/tia.png^$domain=www.google.com|www.youtube.com
 @@||www.gstatic.com/youtube/doodle/yt-doodle-*-*.png
 @@||www.youtube-creatorcommunity.com^$popup,domain=youtube.com
+@@||youtube.com/get_video_info$xmlhttprequest,domain=youtube.com
 @@||youtubecreatorde.blogspot.com^$popup,domain=youtube.com
 @@||youtubecreatormonthly.blogspot.com^$popup,domain=youtube.com
 ! Api
@@ -550,6 +551,7 @@
 @@||streamango.com/assets/js/video-js/videojs.dash.js
 @@||streamango.com/assets/js/video-js/videojs.dash2.js
 @@||streamango.com/assets/js/video-js/videojs.hotkeys.min.js
+@@||streamango.com/embed/$csp,domain=mirrorace.com
 @@||streamango.com/embed/*/undefined^$script
 @@||streamango.com/googlead.js
 @@||streamango.com/undefined^$script
@@ -575,6 +577,7 @@
 @@||static.vidzi.*/nplayer/jwplayer.js
 ! vidoza.net
 @@||rekovers.ru/st/*/watch.html^$domain=vidoza.net
+@@||vidoza.net/embed-*.html$csp,domain=mirrorace.com
 @@||vidoza.net/js/embed.bundle.js
 @@||vidoza.net/js/embed.min.js
 @@||vidoza.net/js/jquery.min.js
@@ -1174,6 +1177,8 @@ uol.com.br#@#[src*="data:image"]
 @@||*.streamplay.to/dash/*/manifest.mpd
 ! tugarflix.com
 @@||tugaflix.com/tema/blockadblock.js
+! thepiratefilmesonline.org
+@@||thepiratefilmesonline.org/players/tpf-am-*/assets/js/scripts.min.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
