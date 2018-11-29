@@ -70,8 +70,10 @@ miner_$domain=vidoza.net
 ||vidto.*^$script,domain=assistirfilmeshd.org|assistirfilmesonline.club|estream.to|filmeseseriesonline.net|megafilmestop.org|openlink.biz|pirataplay.com|player.xplayer.top|putload.tv|watchvideo.us
 ! vidlox.tv
 |http*://$popup,script,third-party,xmlhttprequest,domain=vidlox.me|vidlox.tv
+! streamapi.xyz
+|http*://$popup,script,third-party,xmlhttprequest,domain=streamapi.xyz
 ! vidcloud
-|http*://$popup,script,third-party,xmlhttprequest,domain=vcstream.to
+|http*://$popup,script,third-party,xmlhttprequest,domain=vcstream.to|vidcloud.icu
 ! estream
 |http*://$popup,script,third-party,xmlhttprequest,domain=estream.cc|estream.co|estream.info|estream.io|estream.me|estream.net|estream.nu|estream.online|estream.ru|estream.site|estream.to|estream.top|estream.tv|estream.win|estream.xyz
 ||*.xyz^$domain=estream.cc|estream.co|estream.info|estream.io|estream.me|estream.net|estream.nu|estream.online|estream.ru|estream.site|estream.to|estream.top|estream.tv|estream.win|estream.xyz
@@ -620,8 +622,8 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,websocket,xmlhttprequest,domain=megafilmes.co
 ! mp3-youtube.download
 |http*://$popup,script,third-party,websocket,xmlhttprequest,domain=mp3-youtube.download
-! 123movie.cc
-|http*://$popup,script,third-party,websocket,xmlhttprequest,domain=123movie.cc
+! 123movie
+|http*://$popup,script,third-party,xmlhttprequest,domain=123movie.cc|123movies.la|123moviesfreenow.com|123moviesfull.me|all123movies.com|all123movies.se|all123movies.to|get123movies.com|l23movies.com
 ! futebollivre.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=futebollivre.net
 ! telerium.tv
@@ -655,6 +657,12 @@ $script,domain=speedtest.net
 ! receita e meu ovo
 |http*://$popup,script,third-party,xmlhttprequest,domain=adororeceitas.com|luigireceitas.com|receitasmaster.net
 ||receitasdamaria.*^$script,third-party,xmlhttprequest
+! gomostream.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=gomostream.com
+! gostreams
+|http*://$popup,script,third-party,xmlhttprequest,domain=gostream.site|gostreams.net
+! harpy.tv
+|http*://$popup,script,third-party,xmlhttprequest,domain=harpy.tv
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

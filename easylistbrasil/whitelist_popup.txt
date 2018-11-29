@@ -21,8 +21,12 @@
 @@||imdb.com/videoplayer/$popup
 ! outros
 @@||*php?data=*netcine.*/$popup,domain=netcine.tv|netcine.us
+@@||123moviesfull.me$popup,domain=get123movies.com
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
 @@||adororeceitas.com$popup,domain=kkfilmesonline.com.br
+@@||all123movies.com$popup,domain=all123movies.se|all123movies.to
+@@||all123movies.se$popup,domain=all123movies.com|all123movies.to
+@@||all123movies.to$popup,domain=all123movies.com|all123movies.se
 @@||assistirseriados.net/p/video.php$popup
 @@||baixaki.com.br/download/$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||blogger.com/video-play.mp4*^$popup
@@ -31,11 +35,14 @@
 @@||canais.gratis/*.html$popup
 @@||caxiasdigital.com$popup,domain=ondeeubaixo.com.br
 @@||desapegacaxias.com$popup,domain=ondeeubaixo.com.br
+@@||driveproxy.net$popup,domain=all123movies.com|all123movies.se|all123movies.to
 @@||elitefilmesonline.com$popup,domain=maxflixhd.com
 @@||estantepublica.net/video/campanha.php?*^$popup,domain=netcine.tv|netcine.us
+@@||file.seriesonline.io/download$popup
 @@||filmeseseriesonline.info/campanha.php$popup
 @@||filmeseseriesonlinex.com/wp-login.php$popup
 @@||filmestr.com$popup,domain=sofilmestorrent.com
+@@||get123movies.com$popup,domain=123moviesfull.me
 @@||goo.gl/fAuSYT$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||googlevideo.com^$popup
 @@||i.imgur.com/XFFTBtB.png$image,popup
@@ -49,6 +56,7 @@
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||megafilmesbluray.com$popup,domain=maxflixhd.com
 @@||netlegendas.com^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
+@@||o12zs3u2n.com$popup,domain=seriesonline.io
 @@||openload.co/f/*/$popup
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||p.netcine.*/players/*.php?n=*&p=*^$popup,domain=netcine.tv|netcine.us

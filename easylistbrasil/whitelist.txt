@@ -414,6 +414,7 @@
 @@||cdnjs.cloudflare.com/ajax/libs/lity/*/lity.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/materialize/*/js/materialize.js
 @@||cdnjs.cloudflare.com/ajax/libs/mobile-detect/*/mobile-detect.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/qtip*/*/jquery.qtip.js
 @@||cdnjs.cloudflare.com/ajax/libs/semantic-ui/*/semantic.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/lang/*.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video-js.min.css
@@ -1179,6 +1180,11 @@ uol.com.br#@#[src*="data:image"]
 @@||tugaflix.com/tema/blockadblock.js
 ! thepiratefilmesonline.org
 @@||thepiratefilmesonline.org/players/tpf-am-*/assets/js/scripts.min.js
+! 123movies
+@@||facebook.*^$domain=123movies.la
+@@||streamapi.xyz^$subdocument,domain=123movies.la
+! mload.stream
+@@||cache.mload.stream/files/js/jwplayer/jwplayer*.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

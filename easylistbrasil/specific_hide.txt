@@ -175,10 +175,15 @@ mipsplayer.com##img[src*="skipad.png"]
 ! unitplay.net
 unitplay.net##div[class="afs_ads"]
 unitplay.net##div[style*="z-index"]
-! 123moviesfreez.com
-123moviesfreez.com##div[class="content-ads"]
-123moviesfreez.com##img[src*="i.imgur.com/K7WmqLY.png"]
-123moviesfreez.com##img[src*="i.imgur.com/dHrcGOC.png"]
+! 123movies
+123movie.cc,123movies.la,123moviesfreenow.com,123moviesfull.me,all123movies.com,all123movies.se,all123movies.to,get123movies.com,l23movies.com##div[class$="-btn"]
+all123movies.com,all123movies.se,all123movies.to##div[class*="alert"]
+123movie.cc,123movies.la,123moviesfreenow.com,123moviesfull.me,all123movies.com,all123movies.se,all123movies.to,get123movies.com,l23movies.com##div[class="alert alert-warning"]
+123movie.cc,123movies.la,123moviesfreenow.com,123moviesfreez.com,123moviesfull.me,all123movies.com,all123movies.se,all123movies.to,get123movies.com,l23movies.com##div[class="content-ads"]
+123movie.cc,123movies.la,123moviesfreenow.com,123moviesfull.me,all123movies.com,all123movies.se,all123movies.to,get123movies.com,l23movies.com##div[class="content-kusss"]
+123movie.cc,123movies.la,123moviesfreenow.com,123moviesfull.me,all123movies.com,all123movies.se,all123movies.to,get123movies.com,l23movies.com##div[class="play-notice"]
+123movie.cc,123movies.la,123moviesfreenow.com,123moviesfreez.com,123moviesfull.me,all123movies.com,all123movies.se,all123movies.to,get123movies.com,l23movies.com##img[src*="i.imgur.com/K7WmqLY.png"]
+123movie.cc,123movies.la,123moviesfreenow.com,123moviesfreez.com,123moviesfull.me,all123movies.com,all123movies.se,all123movies.to,get123movies.com,l23movies.com##img[src*="i.imgur.com/dHrcGOC.png"]
 ! vidcloud
 vcstream.to##div[style*="z-index"]
 ! estream
@@ -1042,3 +1047,7 @@ fastplay.to#div[style*="z-index"]
 ! yourupload.com
 yourupload.com##div[class="afs_ads"]
 yourupload.com#div[style*="z-index"]
+! gomostream.com
+gomostream.com##div[class="adtimes"]
+! gostream.site
+gostream.site,gostreams.net##div[class*="alert"]
