@@ -1051,3 +1051,8 @@ yourupload.com#div[style*="z-index"]
 gomostream.com##div[class="adtimes"]
 ! gostream.site
 gostream.site,gostreams.net##div[class*="alert"]
+! tvonlinegratis1.com
+tvonlinegratis1.com##div[class="iframe"] > center > div[id*="Composite"]
+tvonlinegratis1.com##div[class="opcao hd"]
+tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Chat)
+tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Curiosidades)

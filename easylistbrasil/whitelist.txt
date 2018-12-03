@@ -868,9 +868,10 @@
 ! filmesonline
 ! redecanais
 @@||*.mp4^$media,xmlhttprequest,subdocument,domainredecanais.gratis|redecanais.cz|canais.ink|canais.gratis|cometa.top|miceret.com|eletricmice.com|ultratfm.com
-@@||canais.ink/fluidplayer/fluidplayer.min.js
-@@||canais.ink/rc-player/player/dist/videojs-chromecast.js
-@@||canais.ink/rc-player/player/video.js
+@@||canais.*/fluidplayer/fluidplayer.min.js
+@@||canais.*/rc-player/player/dist/videojs-chromecast.js
+@@||canais.*/rc-player/player/video-live.js
+@@||canais.*/rc-player/player/video.js
 @@||canais.ink/snew/js/js.js
 @@||canais.ink/snew/js/js2.js
 ! filmes

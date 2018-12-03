@@ -29,6 +29,7 @@ $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.m
 ||assistir.thenightseries.net$popup
 ||rotumal.com^$popup,third-party
 ||solarmovie.one/stream/$popup
+||tudotv.tv/tema/imagens/logo-ro.png$popup
 ||www4.fmovies.to/wp-content/uploads/*/*/*.jpg$popup
 ! xdrive.cc
 |http*://$popup,domain=xdrive.cc
