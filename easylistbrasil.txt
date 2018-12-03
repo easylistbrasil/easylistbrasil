@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LQvtlOz+gUoSk2UZjLq5bA
-! Version: 201811292002
+! Checksum: tHcV3WQVnBhpangEYj+WLA
+! Version: 201812032010
 ! Title: EasyList Brasil
-! Last modified: 29 Nov 2018 20:02 UTC
+! Last modified: 03 Dec 2018 20:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1290,6 +1290,8 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=gostream.site|gostreams.net
 ! harpy.tv
 |http*://$popup,script,third-party,xmlhttprequest,domain=harpy.tv
+! tvonlinegratis1.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=tvonlinegratis1.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1400,6 +1402,7 @@ $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.m
 ||assistir.thenightseries.net$popup
 ||rotumal.com^$popup,third-party
 ||solarmovie.one/stream/$popup
+||tudotv.tv/tema/imagens/logo-ro.png$popup
 ||www4.fmovies.to/wp-content/uploads/*/*/*.jpg$popup
 ! xdrive.cc
 |http*://$popup,domain=xdrive.cc
@@ -2495,6 +2498,11 @@ yourupload.com#div[style*="z-index"]
 gomostream.com##div[class="adtimes"]
 ! gostream.site
 gostream.site,gostreams.net##div[class*="alert"]
+! tvonlinegratis1.com
+tvonlinegratis1.com##div[class="iframe"] > center > div[id*="Composite"]
+tvonlinegratis1.com##div[class="opcao hd"]
+tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Chat)
+tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Curiosidades)
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3390,9 +3398,10 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! filmesonline
 ! redecanais
 @@||*.mp4^$media,xmlhttprequest,subdocument,domainredecanais.gratis|redecanais.cz|canais.ink|canais.gratis|cometa.top|miceret.com|eletricmice.com|ultratfm.com
-@@||canais.ink/fluidplayer/fluidplayer.min.js
-@@||canais.ink/rc-player/player/dist/videojs-chromecast.js
-@@||canais.ink/rc-player/player/video.js
+@@||canais.*/fluidplayer/fluidplayer.min.js
+@@||canais.*/rc-player/player/dist/videojs-chromecast.js
+@@||canais.*/rc-player/player/video-live.js
+@@||canais.*/rc-player/player/video.js
 @@||canais.ink/snew/js/js.js
 @@||canais.ink/snew/js/js2.js
 ! filmes
