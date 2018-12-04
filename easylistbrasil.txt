@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: OxtsLtQIqEw8pyz2HsAw2g
-! Version: 201812032227
+! Checksum: pVuwJWdME1RWKU8G3vSqfQ
+! Version: 201812032247
 ! Title: EasyList Brasil
-! Last modified: 03 Dec 2018 22:27 UTC
+! Last modified: 03 Dec 2018 22:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -3359,8 +3359,12 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*.hqq.*/player/cbplayer/uppod_api_2.js
 @@||*.hqq.*/player/cbplayer/video*.js
 @@||*.hqq.*/player/ip.php
+@@||hqq.tv$generichide
+@@||hqq.watch$generichide
+@@||storage.googleapis.com/vkcdnservice.appspot.com/script-*.js$domain=hqq.tv|hqq.watch
 @@||vkcache.com^$xmlhttprequest,domain=hqq.tv|hqq.watch
 @@||ws.peer5.com^$websocket,domain=hqq.tv|hqq.watch
+@@||www.google.com/recaptcha/$csp,domain=hqq.tv|hqq.watch
 ! abcast.net
 @@||abcast.*^$generichide
 ! vlive.pw
