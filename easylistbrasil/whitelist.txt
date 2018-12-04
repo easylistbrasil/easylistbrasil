@@ -829,8 +829,12 @@
 @@||*.hqq.*/player/cbplayer/uppod_api_2.js
 @@||*.hqq.*/player/cbplayer/video*.js
 @@||*.hqq.*/player/ip.php
+@@||hqq.tv$generichide
+@@||hqq.watch$generichide
+@@||storage.googleapis.com/vkcdnservice.appspot.com/script-*.js$domain=hqq.tv|hqq.watch
 @@||vkcache.com^$xmlhttprequest,domain=hqq.tv|hqq.watch
 @@||ws.peer5.com^$websocket,domain=hqq.tv|hqq.watch
+@@||www.google.com/recaptcha/$csp,domain=hqq.tv|hqq.watch
 ! abcast.net
 @@||abcast.*^$generichide
 ! vlive.pw
