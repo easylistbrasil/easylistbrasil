@@ -2,7 +2,7 @@ megafilmes.org,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesserieshd.c
 reddit.com#@#[href*="anuncio"]
 megafilmes.org,megafilmesonline-hd.com#@#[id*="modal"]
 temanimes.net,temfilmes.net,temseries.net#@#[id*="tela"]
-all123movies.com,all123movies.se,all123movies.to,animesonline.co,gomovies.cool,gomovies.mx,gomovieshd.cc,gostream.site,putlocker.vip,xmovies8.cloud#@#[src*="data:image"]
+all123movies.com,all123movies.se,all123movies.to,animesonline.co,gomovies.cool,gomovies.mx,gomovieshd.cc,gostream.site,my123movies.org,putlocker.vip,xmovies8.cloud#@#[src*="data:image"]
 canais.ink#@#body > div:last-child
 megafilmes.co#@#div[class*="pop"]
 megafilmeshd50.top,megafilmesonline-hd.com#@#div[id^="ad"]
