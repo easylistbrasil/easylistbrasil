@@ -114,7 +114,7 @@
 @@||turbobit.net$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net
 @@||upload.$popup,domain=skidrowreloaded.com
 @@||uploadhaven.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net
-@@||uptobox.com$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|skidrowreloaded.com
+@@||uptobox.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com
 @@||userscloud.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net
 @@||zippyshare.com$popup,domain=skidrowreloaded.com
 ! adf.ly
