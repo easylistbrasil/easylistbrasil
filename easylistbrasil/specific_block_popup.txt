@@ -42,7 +42,7 @@ $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.m
 .php$popup,domain=filmeseseriesonline.info|seuseriado.com
 Logo*.png$popup,domain=seuseriado.com
 ! adf.ly
-$popup,domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
+$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net
 ! popups
 $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torrentfilmes.net|ydujmccmydwu.bid
 ! semi-generic popup block

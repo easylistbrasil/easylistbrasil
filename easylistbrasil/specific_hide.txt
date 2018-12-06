@@ -683,10 +683,10 @@ bobfilmes.com##div[class="afs_ads"]
 bobfilmes.com##div[id*="floatLayer"]
 bobfilmes.com##div[style*="z-index"]
 ! adf.ly
-activetect.net,ay.gy,brightvar.bid,clearload.bid,swiftviz.net##iframe[src*="redirect"]
-swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid#?#div[id="_bd"] > p:-abp-contains(advert)
-swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid#?#div[id="_bd"] > p:-abp-contains(Atenção)
-swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid#?#div[id="_bd"] > p:-abp-contains(Warning)
+activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,swiftviz.net##iframe[src*="redirect"]
+swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(advert)
+swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Atenção)
+swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Warning)
 ! futeboltvgratis.com
 futeboltvgratis.com##[id*="anuncio"]
 futeboltvgratis.com##a[id="linkantes"]
