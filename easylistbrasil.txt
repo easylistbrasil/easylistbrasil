@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: j/hjhRRZ1rm4lL7jk1aQUA
-! Version: 201812062040
+! Checksum: vNNL1aHtoZF4VDKdytreGw
+! Version: 201812161756
 ! Title: EasyList Brasil
-! Last modified: 06 Dec 2018 20:40 UTC
+! Last modified: 16 Dec 2018 17:56 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! License: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1806,13 +1806,14 @@ filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeser
 cometa.top##div[id="video-id_logo"]
 canais.gratis,redecanais.biz,redecanais.cc,redecanais.co,redecanais.com,redecanais.cz,redecanais.gratis,redecanais.info,redecanais.io,redecanais.me,redecanais.online,redecanais.org,redecanais.ru,redecanais.site,redecanais.to,redecanais.tv##div[style*="z-index"]
 ! filmesonlinex
-filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[class*="Modal"]
-filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[class="bloco2"] > div > a[href*="melhores"]
-filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[id*="topbar"]
-filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[id^="floatLayer"]
-filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[style*="height: 804px; width: 1440px;"]
-filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[style*="z-index"]
-filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##dmbar[id*="topbar"]
+filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##a[href*="/advertising/"]
+filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[class*="Modal"]
+filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[class="bloco2"] > div > a[href*="melhores"]
+filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[id*="topbar"]
+filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[id^="floatLayer"]
+filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[style*="height: 804px; width: 1440px;"]
+filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[style*="z-index"]
+filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##dmbar[id*="topbar"]
 ! glorinlost.rocks
 glorinlost.rocks##div[style="height: 99999px; width: 99999px;"]
 ! megadictos.org
@@ -2865,6 +2866,9 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/wp-content/themes/*/assets/javascript/functions.js
 @@||*/wp-content/themes/*/assets/javascript/vendor/fontawesome-all.min.js
 @@||*/wp-content/themes/*/assets/js/isotope.js
+@@||*/wp-content/themes/*/assets/js/jquery.funcoes.v*.js
+@@||*/wp-content/themes/*/assets/js/jquery.menu.js
+@@||*/wp-content/themes/*/assets/js/jquery.tooltip.js
 @@||*/wp-content/themes/*/js/detectmobilebrowser.js
 @@||*/wp-content/themes/*/js/jquery.cookie.js
 @@||*/wp-content/themes/*/js/jquery.lazyload.js
@@ -3400,6 +3404,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! reviewsdecelular.ga
 @@||reviewsdecelular.ga^$generichide
 ! filmesonline
+@@||filmesonlinex.*/wp-admin/admin-ajax.php?postviews_id=*&action=postviews&_=
 ! redecanais
 @@||*.mp4^$media,xmlhttprequest,subdocument,domainredecanais.gratis|redecanais.cz|canais.ink|canais.gratis|cometa.top|miceret.com|eletricmice.com|ultratfm.com
 @@||canais.*/fluidplayer/fluidplayer.min.js
