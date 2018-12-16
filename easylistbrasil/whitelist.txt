@@ -335,6 +335,9 @@
 @@||*/wp-content/themes/*/assets/javascript/functions.js
 @@||*/wp-content/themes/*/assets/javascript/vendor/fontawesome-all.min.js
 @@||*/wp-content/themes/*/assets/js/isotope.js
+@@||*/wp-content/themes/*/assets/js/jquery.funcoes.v*.js
+@@||*/wp-content/themes/*/assets/js/jquery.menu.js
+@@||*/wp-content/themes/*/assets/js/jquery.tooltip.js
 @@||*/wp-content/themes/*/js/detectmobilebrowser.js
 @@||*/wp-content/themes/*/js/jquery.cookie.js
 @@||*/wp-content/themes/*/js/jquery.lazyload.js
@@ -870,6 +873,7 @@
 ! reviewsdecelular.ga
 @@||reviewsdecelular.ga^$generichide
 ! filmesonline
+@@||filmesonlinex.*/wp-admin/admin-ajax.php?postviews_id=*&action=postviews&_=
 ! redecanais
 @@||*.mp4^$media,xmlhttprequest,subdocument,domainredecanais.gratis|redecanais.cz|canais.ink|canais.gratis|cometa.top|miceret.com|eletricmice.com|ultratfm.com
 @@||canais.*/fluidplayer/fluidplayer.min.js
