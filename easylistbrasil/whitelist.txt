@@ -1221,6 +1221,7 @@ uol.com.br#@#[src*="data:image"]
 @@||devwilliam.com.br^$generichide
 @@||eletroshopping.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||extra.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||gearbest.com^$genericblock,generichide,script,xmlhttprequest
 @@||girafa.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||go4expert.com^$generichide
 @@||hsbc.com^$genericblock,generichide,script,xmlhttprequest
@@ -1231,6 +1232,8 @@ uol.com.br#@#[src*="data:image"]
 @@||itau.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||kabum.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||magazineluiza.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||mercadolivre.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||musictribe.com^$genericblock,generichide,script,xmlhttprequest
 @@||novomundo.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||opensource-socialnetwork.org^$generichide
 @@||osdn.net^$generichide
@@ -1238,6 +1241,7 @@ uol.com.br#@#[src*="data:image"]
 @@||safra.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||santander.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||santandernet.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||shure.com^$genericblock,generichide,script,xmlhttprequest
 @@||sicredi.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||snapchat.com^$generichide
 @@||streamiumtheme.com^$generichide
