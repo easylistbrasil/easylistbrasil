@@ -2,7 +2,7 @@
 ||cdn.advnet.xyz^$third-party
 ||disqusads.com^$third-party
 ||doubleclick.*^$third-party
-||googlesyndication.com^$third-party
+! ||googlesyndication.com^$third-party
 ||mgid.com^$third-party
 ||moatads.com^$third-party
 ||pagead*.googlesyndication.com^$third-party

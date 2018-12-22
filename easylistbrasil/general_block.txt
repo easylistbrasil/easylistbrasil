@@ -36,7 +36,6 @@
 /vmclickstoadvertisersite
 /vmvideowall
 /youwatch.mp4
-=adunit&
 onplayspotid*.html
 paywall
 pub*/ads.js

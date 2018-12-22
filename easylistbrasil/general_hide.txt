@@ -67,7 +67,6 @@
 ##.ysp-dynamic-ad
 ##.ysponsor
 ##.yt-adsfull-widget
-##.ytp-ad-progress-list
 ##.yui3-ad
 ##.yw-ad
 ##[class*="Pub"]
