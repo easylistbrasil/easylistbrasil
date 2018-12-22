@@ -6,7 +6,7 @@
 @@||www.gstatic.com/inputtools/images/tia.png^$domain=www.google.com|www.youtube.com
 @@||www.gstatic.com/youtube/doodle/yt-doodle-*-*.png
 @@||www.youtube-creatorcommunity.com^$popup,domain=youtube.com
-@@||youtube.com/get_video_info$xmlhttprequest,domain=youtube.com
+! @@||youtube.com/get_video_info$xmlhttprequest,domain=youtube.com
 @@||youtubecreatorde.blogspot.com^$popup,domain=youtube.com
 @@||youtubecreatormonthly.blogspot.com^$popup,domain=youtube.com
 ! Api
