@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ND/QR78Q5K/2corF6hgB1g
-! Version: 201812252331
+! Checksum: w2RJcXNVfdabMdP0shxk+w
+! Version: 201812272332
 ! Title: EasyList Brasil
-! Last modified: 25 Dec 2018 23:31 UTC
+! Last modified: 27 Dec 2018 23:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2503,6 +2503,9 @@ tvonlinegratis1.com##div[class="iframe"] > center > div[id*="Composite"]
 tvonlinegratis1.com##div[class="opcao hd"]
 tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Chat)
 tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Curiosidades)
+! hunter.fm
+hunter.fm##div[class="ads"]
+hunter.fm##div[id="videoads"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3732,6 +3735,8 @@ uol.com.br#@#[src*="data:image"]
 @@||streamapi.xyz^$subdocument,domain=123movies.la
 ! mload.stream
 @@||cache.mload.stream/files/js/jwplayer/jwplayer*.js
+! hunter.fm
+@@||hunter.fm$genericblock,generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
