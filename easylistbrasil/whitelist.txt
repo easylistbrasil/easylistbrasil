@@ -1202,6 +1202,8 @@ uol.com.br#@#[src*="data:image"]
 @@||streamapi.xyz^$subdocument,domain=123movies.la
 ! mload.stream
 @@||cache.mload.stream/files/js/jwplayer/jwplayer*.js
+! hunter.fm
+@@||hunter.fm$genericblock,generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

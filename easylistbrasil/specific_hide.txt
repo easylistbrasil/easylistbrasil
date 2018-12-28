@@ -1057,3 +1057,6 @@ tvonlinegratis1.com##div[class="iframe"] > center > div[id*="Composite"]
 tvonlinegratis1.com##div[class="opcao hd"]
 tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Chat)
 tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Curiosidades)
+! hunter.fm
+hunter.fm##div[class="ads"]
+hunter.fm##div[id="videoads"]
