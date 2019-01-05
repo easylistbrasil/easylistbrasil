@@ -18,6 +18,8 @@ Compatível com: ![AdBlock](https://i.imgur.com/3KbyifF.png) [Adblock][], ![AdBl
 
 [Changelog](https://github.com/easylistbrasil/easylistbrasil/commits/filtro/easylistbrasil.txt)
 
+[Reddit](https://www.reddit.com/r/Adblock_Brasil/)
+
 
 ### Sobre
 
