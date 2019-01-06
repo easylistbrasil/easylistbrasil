@@ -625,19 +625,19 @@
 @@||cinepremiere.net/*/gkpluginsAPI.js
 @@||cinepremiere.net/*/jwplayer*.js
 ! thevid.net
-@@||onclickmega.com^$domain=thevid.net
-@@||onclicksuper.com^$domain=thevid.net
-@@||s0*.thevid.net/videos/screenshots/*.jpg
-@@||superfastcdn.com/script/compatibility.js^$domain=thevid.net
-@@||thevid.net/js/jquery.js
-@@||thevid.net/js/jrange/jquery.range-min.js
-@@||thevid.net/player/videojs/plugins/videojs.airplay.js
-@@||thevid.net/player/videojs/store.min.js
-@@||thevid.net/player/videojs/videojs-resume.min.js^$script
-@@||thevid.net/player/videojs/videojs-thumbnails.min.js
-@@||thevid.net/player/videojs/videojs.errors.js
-@@||thevid.net^$media
-@@||velocecdn.com/script/compatibility.js^$domain=thevid.net
+@@||onclickmega.com^$domain=thevid.net|thevid.tv
+@@||onclicksuper.com^$domain=thevid.net|thevid.tv
+@@||s0*.thevid.*/videos/screenshots/*.jpg
+@@||superfastcdn.com/script/compatibility.js^$domain=thevid.net|thevid.tv
+@@||thevid.*/js/jquery.js
+@@||thevid.*/js/jrange/jquery.range-min.js
+@@||thevid.*/player/videojs/plugins/videojs.airplay.js
+@@||thevid.*/player/videojs/store.min.js
+@@||thevid.*/player/videojs/videojs-resume.min.js^$script
+@@||thevid.*/player/videojs/videojs-thumbnails.min.js
+@@||thevid.*/player/videojs/videojs.errors.js
+@@||thevid.*^$media
+@@||velocecdn.com/script/compatibility.js^$domain=thevid.net|thevid.tv
 ! rapidvideo.com
 @@||rapidvideo.*/embed/undefined^
 @@||rapidvideo.*/js/jquery.limit-*.source.js

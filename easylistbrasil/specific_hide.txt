@@ -38,12 +38,12 @@ cinepremiere.net##div[class="mobileoff"]
 cinepremiere.net##div[class="mobileon"]
 cinepremiere.net##div[id="SvplayerID"] > div
 ! thevid.net
-thevid.net###Html1
-thevid.net##.banner
-thevid.net##div[id="player_logo"]
-thevid.net##div[id="videotitle"]
-thevid.net##iframe[id="InlineFrame1"]
-thevid.net##table[id="tbl1"]
+thevid.net,thevid.tv###Html1
+thevid.net,thevid.tv##.banner
+thevid.net,thevid.tv##div[id="player_logo"]
+thevid.net,thevid.tv##div[id="videotitle"]
+thevid.net,thevid.tv##iframe[id="InlineFrame1"]
+thevid.net,thevid.tv##table[id="tbl1"]
 ! rapidvideo.com
 www.rapidvideo.com###dimbg-premium
 www.rapidvideo.com##dimbg-premium
@@ -462,7 +462,7 @@ megafilmesahd.com##video[src*="mp4"]
 filmesonline.online##div[class="full-poster"] > center
 filmesonline.online##div[class="full-story"] > center
 ! servico de straming
-ekostreams.co,estream.to,fruithosts.net,oload.tv,onplay.tv,openload.co,openload.tv,p3g.tv,pxstream.tv,streamango.com,streamcherry.com,streamguard.cc,thevid.net,uptostream.com,vidito.me,vidlox.tv,vidoza.net,vidzi.tv,whostreams.net,widestream.io##div[style*="z-index"]
+ekostreams.co,estream.to,fruithosts.net,oload.tv,onplay.tv,openload.co,openload.tv,p3g.tv,pxstream.tv,streamango.com,streamcherry.com,streamguard.cc,thevid.net,thevid.tv,uptostream.com,vidito.me,vidlox.tv,vidoza.net,vidzi.tv,whostreams.net,widestream.io##div[style*="z-index"]
 ! filmesonlinegratis.com
 filmesonlinegratis.com##div[class^="ads-"]
 ! livrefilmeshd.net

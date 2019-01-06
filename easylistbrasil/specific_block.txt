@@ -85,17 +85,17 @@ miner_$domain=vidoza.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=cinepremiere.net
 ||i.imgur.com/4Io0o1p.png^$domain=cinepremiere.net
 ! thevid
-/ad/300x250.php$domain=thevid.net
-/ad/ads1.php$domain=thevid.net
-/ad/ads3.php$domain=thevid.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=thevid.net
-||*.xyz$script,domain=thevid.net|thevideo.me
-||thevid.net/ad/*.html
-||thevid.net/ad/300x250.php
-||thevid.net/ad/ads1.php
-||thevid.net/ad/pop/js.js?v=0.1
-||thevid.net/ad/psd.js
-||thevid.net/imgs/thevid-logo3.png
+/ad/300x250.php$domain=thevid.net|thevid.tv
+/ad/ads1.php$domain=thevid.net|thevid.tv
+/ad/ads3.php$domain=thevid.net|thevid.tv
+|http*://$popup,script,third-party,xmlhttprequest,domain=thevid.net|thevid.tv
+||*.xyz$script,domain=thevid.net|thevid.tv|thevideo.me
+||thevid.*/ad/*.html
+||thevid.*/ad/300x250.php
+||thevid.*/ad/ads1.php
+||thevid.*/ad/pop/js.js?v=0.1
+||thevid.*/ad/psd.js
+||thevid.*/imgs/thevid-logo3.png
 ! rapidvideo.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=www.rapidvideo.com
 ! unitplay.net
