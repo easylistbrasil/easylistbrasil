@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ijJoQvPFkuunNJthUsUFdA
-! Version: 201901062159
+! Checksum: X1ssMhum8ph97mU782ORfA
+! Version: 201901090123
 ! Title: EasyList Brasil
-! Last modified: 06 Jan 2019 21:59 UTC
+! Last modified: 09 Jan 2019 01:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1094,7 +1094,7 @@ get.$domain=xilften.net
 ! assistirseriados.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=assistirseriados.net
 ! megaseriehd.com
-|http*://$popup,script,third-party,xmlhttprequest,domain=megaseriehd.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=megaseriehd.com|ratatuireceitas.com
 ! suatela.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=suatela.com
 ! seriesflixapp.net
@@ -3808,6 +3808,7 @@ uol.com.br#@#[src*="data:image"]
 @@||imdb.com/video/imdb/$popup
 @@||imdb.com/videoplayer/$popup
 ! outros
+@@||*/videos/*^$popup,domain=playtop.online
 @@||*php?data=*netcine.*/$popup,domain=netcine.tv|netcine.us
 @@||123moviesfull.me$popup,domain=get123movies.com
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
@@ -3843,12 +3844,14 @@ uol.com.br#@#[src*="data:image"]
 @@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||megafilmesbluray.com$popup,domain=maxflixhd.com
+@@||megaseriehd.com/campanha.php$popup
 @@||netlegendas.com^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||o12zs3u2n.com$popup,domain=seriesonline.io
 @@||openload.co/f/*/$popup
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||p.netcine.*/players/*.php?n=*&p=*^$popup,domain=netcine.tv|netcine.us
 @@||rapidvideo.com/d/$popup
+@@||ratatuireceitas.com^$popup,domain=megaseriehd.com
 @@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||receitasdamae.com$popup,domain=filmeseseriesonline.info
 @@||seriesonlinehd.biz/player/$popup
