@@ -1198,6 +1198,7 @@ uol.com.br#@#[src*="data:image"]
 ! thepiratefilmesonline.org
 @@||thepiratefilmesonline.org/players/tpf-am-*/assets/js/scripts.min.js
 ! 123movies
+@@||123movies.actor$generichide
 @@||facebook.*^$domain=123movies.la
 @@||streamapi.xyz^$subdocument,domain=123movies.la
 ! mload.stream
