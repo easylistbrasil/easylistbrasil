@@ -20,6 +20,7 @@
 @@||imdb.com/video/imdb/$popup
 @@||imdb.com/videoplayer/$popup
 ! outros
+@@||*/videos/*^$popup,domain=playtop.online
 @@||*php?data=*netcine.*/$popup,domain=netcine.tv|netcine.us
 @@||123moviesfull.me$popup,domain=get123movies.com
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
@@ -55,12 +56,14 @@
 @@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||megafilmesbluray.com$popup,domain=maxflixhd.com
+@@||megaseriehd.com/campanha.php$popup
 @@||netlegendas.com^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||o12zs3u2n.com$popup,domain=seriesonline.io
 @@||openload.co/f/*/$popup
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||p.netcine.*/players/*.php?n=*&p=*^$popup,domain=netcine.tv|netcine.us
 @@||rapidvideo.com/d/$popup
+@@||ratatuireceitas.com^$popup,domain=megaseriehd.com
 @@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||receitasdamae.com$popup,domain=filmeseseriesonline.info
 @@||seriesonlinehd.biz/player/$popup

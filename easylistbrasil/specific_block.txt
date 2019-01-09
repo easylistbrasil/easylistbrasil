@@ -469,7 +469,7 @@ get.$domain=xilften.net
 ! assistirseriados.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=assistirseriados.net
 ! megaseriehd.com
-|http*://$popup,script,third-party,xmlhttprequest,domain=megaseriehd.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=megaseriehd.com|ratatuireceitas.com
 ! suatela.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=suatela.com
 ! seriesflixapp.net
