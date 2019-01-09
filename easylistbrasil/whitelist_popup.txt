@@ -72,6 +72,7 @@
 @@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||social.ulala.us/link.php$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||socialise.ml$popup,domain=filmeseseriesonline.info
+@@||socializando.info$popup,domain=playtop.online
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
 @@||streamango.com/embed/$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 @@||streamplay.*/*.html$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
