@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: IU53cbGpmIBt3YzYJLvyGA
-! Version: 201901092214
+! Checksum: 99D4bDouE9ZjM7zoa7IuOw
+! Version: 201901100046
 ! Title: EasyList Brasil
-! Last modified: 09 Jan 2019 22:14 UTC
+! Last modified: 10 Jan 2019 00:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -3091,6 +3091,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||streamango.com/assets/js/video-js/videojs.dash.js
 @@||streamango.com/assets/js/video-js/videojs.dash2.js
 @@||streamango.com/assets/js/video-js/videojs.hotkeys.min.js
+@@||streamango.com/cdn-cgi/scripts/cf.challenge.js
 @@||streamango.com/embed/$csp,domain=mirrorace.com
 @@||streamango.com/embed/*/undefined^$script
 @@||streamango.com/googlead.js
@@ -3098,6 +3099,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||streamango.com/v/d/*^$media
 @@||streamango.com^$generichide
 @@||streamango.com^$subdocument,domain=fsplayer.org|pirataplay.com
+@@||www.google.com/recaptcha/$csp,generichide,subdocument,domain=streamango.com
 ! streamcherry.com
 @@||streamcherry.com/assets/js/license.adbl.js
 @@||streamcherry.com/assets/js/video-js/r/jquery.min.js
