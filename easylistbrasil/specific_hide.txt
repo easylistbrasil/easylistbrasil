@@ -176,6 +176,8 @@ mipsplayer.com##img[src*="skipad.png"]
 unitplay.net##div[class="afs_ads"]
 unitplay.net##div[style*="z-index"]
 ! 123movies
+123movies.la##a[rel="nofollow noopener"]
+123movies.la##a[rel="nofollow"]
 123movie.cc,123movies.actor,123movies.la,123moviesfreenow.com,123moviesfull.me,all123movies.com,all123movies.se,all123movies.to,get123movies.com,l23movies.com,my123movies.org##div[class$="-btn"]
 all123movies.com,all123movies.se,all123movies.to,my123movies.org##div[class*="alert"]
 123movie.cc,123movies.actor,123movies.la,123moviesfreenow.com,123moviesfull.me,all123movies.com,all123movies.se,all123movies.to,get123movies.com,l23movies.com,my123movies.org##div[class="alert alert-warning"]
