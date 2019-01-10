@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: USo3st3pP0elVLi0kbfr6A
-! Version: 201901092154
+! Checksum: TSw9bInT56F8Iu5F1KVFIA
+! Version: 201901092200
 ! Title: EasyList Brasil
-! Last modified: 09 Jan 2019 21:54 UTC
+! Last modified: 09 Jan 2019 22:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -318,7 +318,7 @@ megafilmes.org,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesserieshd.c
 reddit.com#@#[href*="anuncio"]
 megafilmes.org,megafilmesonline-hd.com#@#[id*="modal"]
 temanimes.net,temfilmes.net,temseries.net#@#[id*="tela"]
-123movies.actor,all123movies.com,all123movies.se,all123movies.to,animesonline.co,gomovies.cool,gomovies.mx,gomovieshd.cc,gostream.site,my123movies.org,putlocker.vip,xmovies8.cloud#@#[src*="data:image"]
+all123movies.com,all123movies.se,all123movies.to,animesonline.co,gomovies.cool,gomovies.mx,gomovieshd.cc,gostream.site,my123movies.org,putlocker.vip,xmovies8.cloud#@#[src*="data:image"]
 canais.ink#@#body > div:last-child
 megafilmes.co#@#div[class*="pop"]
 megafilmeshd50.top,megafilmesonline-hd.com#@#div[id^="ad"]
@@ -3731,6 +3731,7 @@ uol.com.br#@#[src*="data:image"]
 ! thepiratefilmesonline.org
 @@||thepiratefilmesonline.org/players/tpf-am-*/assets/js/scripts.min.js
 ! 123movies
+@@||123movies.actor$generichide
 @@||facebook.*^$domain=123movies.la
 @@||streamapi.xyz^$subdocument,domain=123movies.la
 ! mload.stream
