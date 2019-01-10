@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: TSw9bInT56F8Iu5F1KVFIA
-! Version: 201901092200
+! Checksum: IU53cbGpmIBt3YzYJLvyGA
+! Version: 201901092214
 ! Title: EasyList Brasil
-! Last modified: 09 Jan 2019 22:00 UTC
+! Last modified: 09 Jan 2019 22:14 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1622,6 +1622,8 @@ mipsplayer.com##img[src*="skipad.png"]
 unitplay.net##div[class="afs_ads"]
 unitplay.net##div[style*="z-index"]
 ! 123movies
+123movies.la##a[rel="nofollow noopener"]
+123movies.la##a[rel="nofollow"]
 123movie.cc,123movies.actor,123movies.la,123moviesfreenow.com,123moviesfull.me,all123movies.com,all123movies.se,all123movies.to,get123movies.com,l23movies.com,my123movies.org##div[class$="-btn"]
 all123movies.com,all123movies.se,all123movies.to,my123movies.org##div[class*="alert"]
 123movie.cc,123movies.actor,123movies.la,123moviesfreenow.com,123moviesfull.me,all123movies.com,all123movies.se,all123movies.to,get123movies.com,l23movies.com,my123movies.org##div[class="alert alert-warning"]
