@@ -556,6 +556,7 @@
 @@||streamango.com/assets/js/video-js/videojs.dash.js
 @@||streamango.com/assets/js/video-js/videojs.dash2.js
 @@||streamango.com/assets/js/video-js/videojs.hotkeys.min.js
+@@||streamango.com/cdn-cgi/scripts/cf.challenge.js
 @@||streamango.com/embed/$csp,domain=mirrorace.com
 @@||streamango.com/embed/*/undefined^$script
 @@||streamango.com/googlead.js
@@ -563,6 +564,7 @@
 @@||streamango.com/v/d/*^$media
 @@||streamango.com^$generichide
 @@||streamango.com^$subdocument,domain=fsplayer.org|pirataplay.com
+@@||www.google.com/recaptcha/$csp,generichide,subdocument,domain=streamango.com
 ! streamcherry.com
 @@||streamcherry.com/assets/js/license.adbl.js
 @@||streamcherry.com/assets/js/video-js/r/jquery.min.js
