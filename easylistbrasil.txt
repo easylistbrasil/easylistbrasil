@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HpcrlxNb97JJwuTJXOsCIw
-! Version: 201901111933
+! Checksum: xn1X7hy/Ns/sv9Ktt4G/mQ
+! Version: 201901111943
 ! Title: EasyList Brasil
-! Last modified: 11 Jan 2019 19:33 UTC
+! Last modified: 11 Jan 2019 19:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2900,7 +2900,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||/wp-content/themes/*/assets/js/simple-requests-public.js
 @@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.js
 @@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.min.map
-@@||ajax.googleapis.com/ajax/libs/$script,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||ajax.googleapis.com/ajax/libs/angular_material/*/angular-material.min.js
 @@||ajax.googleapis.com/ajax/libs/angularjs/*/angular.min.js
 @@||ajax.googleapis.com/ajax/libs/dojo/*/dojo/dojo.js
@@ -2938,7 +2938,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdn.jsdelivr.net/npm/jquery*^$script
 @@||cdn.jsdelivr.net/wp/*^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/*/jquery.lazyloadxt.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/clappr/*/clappr.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/flowplayer/*/flowplayer.min.js
@@ -2966,7 +2966,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||code.jquery.com/jquery.min.map
 @@||code.jquery.com/query.js
 @@||code.jquery.com/ui/*/jquery-ui.js
-@@||code.jquery.com^$script,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||code.jquery.com^$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||connect.facebook.net/*/all.js^$script
 @@||connect.facebook.net/en_US/fbevents.js
 @@||connect.facebook.net/pt_BR/sdk.js
@@ -2999,7 +2999,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||vjs.zencdn.net/*/video.min.js
 @@||youtube.com/iframe_api^$media,script
 @@||youtube.com/player_api^$media,script
-@@||zencdn.net^$script,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||zencdn.net^$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
 ! github
 @@||github.com^$genericblock,generichide,popup,xmlhttprequest
 ! media
@@ -3068,12 +3068,12 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/assets/js/license.adbl.js^$domain=streamango.com
 @@||content.fruithosted.net/splash/*/*.jpg
 @@||fruit*.net/assets/js/license.adbl.js
+@@||fruit*.net/assets/js/video-js/r/jquery.min.js
+@@||fruit*.net/assets/js/video-js/r/video.min.js
+@@||fruit*.net/assets/js/video-js/r/videojs-ie8.min.js
 @@||fruit*.net/assets/js/video-js/video.js.mango.js
 @@||fruit*.net/assets/js/video-js/video.js.mg3.js
 @@||fruit*.net/googlead.js
-@@||fruitadblock.net/assets/js/video-js/r/jquery.min.js
-@@||fruitadblock.net/assets/js/video-js/r/video.min.js
-@@||fruitadblock.net/assets/js/video-js/r/videojs-ie8.min.js
 @@||fruithosted.net^$generichide
 @@||passion-fruit.fruithosted.net/dash/m/*.vtt
 @@||streamango.com/assets/css/video.js/mgvideo.css
