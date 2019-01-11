@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: eubSM8/GoNnPhtPoZHxehQ
-! Version: 201901112124
+! Checksum: 7FTNnZyBNR6hdvS+qHR9Dw
+! Version: 201901112143
 ! Title: EasyList Brasil
-! Last modified: 11 Jan 2019 21:24 UTC
+! Last modified: 11 Jan 2019 21:43 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2958,6 +2958,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdn.jsdelivr.net/npm/jquery*^$script
 @@||cdn.jsdelivr.net/wp/*^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
+@@||cdn.viblast.com/vb/*/viblast.remuxer.js
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/*/jquery.lazyloadxt.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/clappr/*/clappr.min.js
@@ -3546,7 +3547,9 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*filmezando*.*/wp-content/themes/*/dwflix/home-slide.php
 @@||*filmezando*.*/wp-content/themes/*/dwflix/scripts.js
 ! futeboltvgratis.com
+@@||futeboltv.com/p2/p2-01.js
 @@||futeboltv.com^$generichide
+@@||futeboltvgratis.com/p2/p2-01.js
 @@||futeboltvgratis.com^$generichide
 ! aovivobrasil.com.br
 @@||aovivobrasil.com.br/assets/js/fuckadblock.js
