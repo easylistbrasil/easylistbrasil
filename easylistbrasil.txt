@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: xn1X7hy/Ns/sv9Ktt4G/mQ
-! Version: 201901111943
+! Checksum: 9LwGVSYhs9eG4aszKhQlPQ
+! Version: 201901112030
 ! Title: EasyList Brasil
-! Last modified: 11 Jan 2019 19:43 UTC
+! Last modified: 11 Jan 2019 20:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1280,6 +1280,7 @@ $script,domain=speedtest.net
 ! vshare.eu
 |http*://$popup,script,third-party,xmlhttprequest,domain=vshare.eu
 ! receita e meu ovo
+/adbclk.js$domain=receitadamaria.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=adororeceitas.com|luigireceitas.com|receitasmaster.net
 ||receitasdamaria.*^$script,third-party,xmlhttprequest
 ! gomostream.com
@@ -1941,9 +1942,12 @@ filmesonlinehd7.cc##div[style*="z-index"]
 superflix.net##div[class="afs_ads"]
 superflix.net##div[style*="z-index"]
 ! filmesonlinegratis.co
+filmesonlinegratis.co##[class*="modal"]
 filmesonlinegratis.co##[id*="anuncio"]
 filmesonlinegratis.co##[id*="floatLayer"]
 filmesonlinegratis.co##[id="countDown"]
+filmesonlinegratis.co##[id^="ads"][id*="banner"]
+filmesonlinegratis.co##div > a[target="_top"]
 filmesonlinegratis.co##div[class="afs_ads"]
 filmesonlinegratis.co##div[class^="ads-"]
 filmesonlinegratis.co##div[id="playerads"]
@@ -2856,6 +2860,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/vimeo.min.js
 @@||*/widget.min.js
 @@||*/wp-a11y.min.js
+@@||*/wp-admin/admin-ajax.php
 @@||*/wp-category-tag-cloud.min.js
 @@||*/wp-content/*/js/frontend.js
 @@||*/wp-content/cache/autoptimize/autoptimize_*.php$script
@@ -2880,6 +2885,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/wp-content/themes/*/js/jquery.qtip.min.js
 @@||*/wp-content/themes/*/js/psbar.jquery.min.js
 @@||*/wp-content/themes/*/js/psyplay.custom.min.js
+@@||*/wp-content/themes/*/js/script.js
 @@||*/wp-content/themes/*/js/zepto.min.js
 @@||*/wp-content/themes/*/players/flowplayer.min.js^$script
 @@||*/wp-content/themes/*/players/video.js^$script
@@ -2888,6 +2894,13 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/wp-content/themes/*mega*filme*/js/SC_JSAPP.js
 @@||*/wp-content/themes/*mega*filme*/js/script.js
 @@||*/wp-content/themes/DooPlay*/assets/js/scripts.js
+@@||*/wp-content/themes/dooplay/assets/js/lib/idtabs.js
+@@||*/wp-content/themes/dooplay/assets/js/lib/isrepeater.js
+@@||*/wp-content/themes/dooplay/assets/js/lib/mcsbscrollbar.js
+@@||*/wp-content/themes/dooplay/assets/js/lib/owlcarousel.js
+@@||*/wp-content/themes/dooplay/assets/js/min/front.ajax.*.js
+@@||*/wp-content/themes/dooplay/assets/js/min/front.livesearch.*.js
+@@||*/wp-content/themes/dooplay/assets/js/min/front.scripts.*.js
 @@||*/wp-emoji-release.min.js
 @@||*/wp-includes/js/admin-bar.min.js
 @@||*/wp-responsive-menu/js/jquery.sidr.js
