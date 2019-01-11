@@ -38,16 +38,16 @@
 ||thumb.openload.*/logo/*.png
 ||www.facebook.com^$domain=olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.fun|oload.info|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip
 ! streamango.com
-|http*://$popup,script,third-party,xmlhttprequest,domain=fruitadblock.net|streamango.com
-||*.bid^$third-party,domain=fruitadblock.net|streamango.com
-||*.com^$third-party,domain=fruitadblock.net|streamango.com
-||*.js^$script,domain=fruitadblock.net|streamango.com
-||*/*.php^$domain=fruitadblock.net|streamango.com
-||*/?a=*^$domain=fruitadblock.net|streamango.com
-||*/?l=*^$domain=fruitadblock.net|streamango.com
-||*/hitwe/*^$domain=fruitadblock.net|streamango.com
-||*/imp?p=*^$domain=fruitadblock.net|streamango.com
-||*/o?c=*^$domain=fruitadblock.net|streamango.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=fruitadblock.net|fruithosts.net|streamango.com
+||*.bid^$third-party,domain=fruitadblock.net|fruithosts.net|streamango.com
+||*.com^$third-party,domain=fruitadblock.net|fruithosts.net|streamango.com
+||*.js^$script,domain=fruitadblock.net|fruithosts.net|streamango.com
+||*/*.php^$domain=fruitadblock.net|fruithosts.net|streamango.com
+||*/?a=*^$domain=fruitadblock.net|fruithosts.net|streamango.com
+||*/?l=*^$domain=fruitadblock.net|fruithosts.net|streamango.com
+||*/hitwe/*^$domain=fruitadblock.net|fruithosts.net|streamango.com
+||*/imp?p=*^$domain=fruitadblock.net|fruithosts.net|streamango.com
+||*/o?c=*^$domain=fruitadblock.net|fruithosts.net|streamango.com
 ||cpm10.com^$domain=streamango.com
 ||predictivadnetwork.com^$domain=streamango.com
 ||spotscenered.info^$domain=streamango.com
