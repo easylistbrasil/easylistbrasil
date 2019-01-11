@@ -21,6 +21,7 @@
 @@||imdb.com/videoplayer/$popup
 ! outros
 @@||*/videos/*^$popup,domain=playtop.online
+@@||*/videos/campanha.php$popup,domain=megafilmes.co
 @@||*php?data=*netcine.*/$popup,domain=netcine.tv|netcine.us
 @@||123moviesfull.me$popup,domain=get123movies.com
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
@@ -55,6 +56,7 @@
 @@||mangasbr.com.br$popup,domain=animeflix.biz|animesonehd.net|animesonlinebr.com.br|animesonlinehd.com.br|animesonlinez.com
 @@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
+@@||megafilmes.co/player.php$popup,domain=megafilmes.co
 @@||megafilmesbluray.com$popup,domain=maxflixhd.com
 @@||megaseriehd.com/campanha.php$popup
 @@||netlegendas.com^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
