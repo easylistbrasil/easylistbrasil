@@ -666,6 +666,8 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=harpy.tv
 ! tvonlinegratis1.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=tvonlinegratis1.com
+! megafilme.co
+|http*://$popup,script,third-party,xmlhttprequest,domain=megafilme.co
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

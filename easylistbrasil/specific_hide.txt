@@ -1065,3 +1065,5 @@ tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Curiosidades)
 ! hunter.fm
 hunter.fm##div[class="ads"]
 hunter.fm##div[id="videoads"]
+! megafilme.co
+megafilme.co##div[style*="z-index"]
