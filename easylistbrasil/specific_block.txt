@@ -655,6 +655,7 @@ $script,domain=speedtest.net
 ! vshare.eu
 |http*://$popup,script,third-party,xmlhttprequest,domain=vshare.eu
 ! receita e meu ovo
+/adbclk.js$domain=receitadamaria.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=adororeceitas.com|luigireceitas.com|receitasmaster.net
 ||receitasdamaria.*^$script,third-party,xmlhttprequest
 ! gomostream.com

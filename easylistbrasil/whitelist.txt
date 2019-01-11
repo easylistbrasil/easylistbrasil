@@ -321,6 +321,7 @@
 @@||*/vimeo.min.js
 @@||*/widget.min.js
 @@||*/wp-a11y.min.js
+@@||*/wp-admin/admin-ajax.php
 @@||*/wp-category-tag-cloud.min.js
 @@||*/wp-content/*/js/frontend.js
 @@||*/wp-content/cache/autoptimize/autoptimize_*.php$script
@@ -345,6 +346,7 @@
 @@||*/wp-content/themes/*/js/jquery.qtip.min.js
 @@||*/wp-content/themes/*/js/psbar.jquery.min.js
 @@||*/wp-content/themes/*/js/psyplay.custom.min.js
+@@||*/wp-content/themes/*/js/script.js
 @@||*/wp-content/themes/*/js/zepto.min.js
 @@||*/wp-content/themes/*/players/flowplayer.min.js^$script
 @@||*/wp-content/themes/*/players/video.js^$script
@@ -353,6 +355,13 @@
 @@||*/wp-content/themes/*mega*filme*/js/SC_JSAPP.js
 @@||*/wp-content/themes/*mega*filme*/js/script.js
 @@||*/wp-content/themes/DooPlay*/assets/js/scripts.js
+@@||*/wp-content/themes/dooplay/assets/js/lib/idtabs.js
+@@||*/wp-content/themes/dooplay/assets/js/lib/isrepeater.js
+@@||*/wp-content/themes/dooplay/assets/js/lib/mcsbscrollbar.js
+@@||*/wp-content/themes/dooplay/assets/js/lib/owlcarousel.js
+@@||*/wp-content/themes/dooplay/assets/js/min/front.ajax.*.js
+@@||*/wp-content/themes/dooplay/assets/js/min/front.livesearch.*.js
+@@||*/wp-content/themes/dooplay/assets/js/min/front.scripts.*.js
 @@||*/wp-emoji-release.min.js
 @@||*/wp-includes/js/admin-bar.min.js
 @@||*/wp-responsive-menu/js/jquery.sidr.js
