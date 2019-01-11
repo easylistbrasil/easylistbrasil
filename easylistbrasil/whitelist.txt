@@ -1216,6 +1216,8 @@ uol.com.br#@#[src*="data:image"]
 @@||cache.mload.stream/files/js/jwplayer/jwplayer*.js
 ! hunter.fm
 @@||hunter.fm$genericblock,generichide
+! megafilme.co
+@@||j8inn1zektoe.com^$domain=megafilme.co
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
