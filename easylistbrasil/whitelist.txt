@@ -412,6 +412,7 @@
 @@||cdn.jsdelivr.net/npm/jquery*^$script
 @@||cdn.jsdelivr.net/wp/*^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
+@@||cdn.viblast.com/vb/*/viblast.remuxer.js
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/*/jquery.lazyloadxt.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/clappr/*/clappr.min.js
@@ -1000,7 +1001,9 @@
 @@||*filmezando*.*/wp-content/themes/*/dwflix/home-slide.php
 @@||*filmezando*.*/wp-content/themes/*/dwflix/scripts.js
 ! futeboltvgratis.com
+@@||futeboltv.com/p2/p2-01.js
 @@||futeboltv.com^$generichide
+@@||futeboltvgratis.com/p2/p2-01.js
 @@||futeboltvgratis.com^$generichide
 ! aovivobrasil.com.br
 @@||aovivobrasil.com.br/assets/js/fuckadblock.js
