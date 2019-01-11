@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: I84ETsQ+AS+xAxDeIZpZ3g
-! Version: 201901112101
+! Checksum: eubSM8/GoNnPhtPoZHxehQ
+! Version: 201901112124
 ! Title: EasyList Brasil
-! Last modified: 11 Jan 2019 21:01 UTC
+! Last modified: 11 Jan 2019 21:24 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2516,6 +2516,9 @@ hunter.fm##div[class="ads"]
 hunter.fm##div[id="videoads"]
 ! megafilme.co
 megafilme.co##div[style*="z-index"]
+! megafilmesonlinehd.org
+megafilmesonlinehd.org##div[style^="margin"][style$="auto;"] > div[style="float: left;"]
+megafilmesonlinehd.org##div[style^="margin"][style$="auto;"] > div[style="float: right;"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
