@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: kDKLu9cXAzoeAjRzQRFOXw
-! Version: 201901112044
+! Checksum: I84ETsQ+AS+xAxDeIZpZ3g
+! Version: 201901112101
 ! Title: EasyList Brasil
-! Last modified: 11 Jan 2019 20:44 UTC
+! Last modified: 11 Jan 2019 21:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -3759,6 +3759,8 @@ uol.com.br#@#[src*="data:image"]
 @@||cache.mload.stream/files/js/jwplayer/jwplayer*.js
 ! hunter.fm
 @@||hunter.fm$genericblock,generichide
+! megafilme.co
+@@||j8inn1zektoe.com^$domain=megafilme.co
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
