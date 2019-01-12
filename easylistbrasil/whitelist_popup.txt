@@ -21,7 +21,7 @@
 @@||imdb.com/videoplayer/$popup
 ! outros
 @@||*/videos/*^$popup,domain=playtop.online
-@@||*/videos/campanha.php$popup,domain=megafilmes.co
+@@||*/videos/campanha.php$popup,domain=filmeseseriesonline.info|megafilmes.co
 @@||*php?data=*netcine.*/$popup,domain=netcine.tv|netcine.us
 @@||123moviesfull.me$popup,domain=get123movies.com
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org

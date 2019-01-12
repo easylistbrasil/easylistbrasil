@@ -1000,6 +1000,7 @@ diarioonline.com.br##div[class^="super-banner"]
 otvfoco.com.br##div[id*="_adsense_"]
 ! filmeseseriesonline.info
 filmeseseriesonline.info##div[class="afs_ads"]
+filmeseseriesonline.info##div[class="content"] > center
 filmeseseriesonline.info##div[class^="jw-logo"]
 ! futebollivre.net
 futebollivre.net##div[class*="popup"]
