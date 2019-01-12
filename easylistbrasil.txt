@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: owfqWxaoMX8RIaCjsWcG5Q
-! Version: 201901112205
+! Checksum: svdrLq/o4IYqjFif78WISw
+! Version: 201901112232
 ! Title: EasyList Brasil
-! Last modified: 11 Jan 2019 22:05 UTC
+! Last modified: 11 Jan 2019 22:32 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1923,6 +1923,8 @@ livrefilmeshd.net##div[class="afs_ads"]
 mmfilmes.tv##div[class="afs_ads"]
 ! kkfilmesonline.com.br
 kkfilmesonline.com.br##a[href*="zip"]
+kkfilmesonline.com.br##div[class*="mtsnb-top"][class$="mtsnb-fixed"]
+kkfilmesonline.com.br##div[class="mtsnb-container-outer"]
 ! cineaticos.com
 cineaticos.com##div[id="ads2"]
 cineaticos.com##div[id="divads"]
@@ -2520,6 +2522,8 @@ megafilme.co##div[style*="z-index"]
 ! megafilmesonlinehd.org
 megafilmesonlinehd.org##div[style^="margin"][style$="auto;"] > div[style="float: left;"]
 megafilmesonlinehd.org##div[style^="margin"][style$="auto;"] > div[style="float: right;"]
+! assistirfilmeshd.me
+assistirfilmeshd.me##a[href*="bit.ly"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -2899,6 +2903,15 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/wp-content/themes/*/assets/js/jquery.funcoes.v*.js
 @@||*/wp-content/themes/*/assets/js/jquery.menu.js
 @@||*/wp-content/themes/*/assets/js/jquery.tooltip.js
+@@||*/wp-content/themes/*/assets/js/lib/blueimp.js
+@@||*/wp-content/themes/*/assets/js/lib/idtabs.js
+@@||*/wp-content/themes/*/assets/js/lib/isrepeater.js
+@@||*/wp-content/themes/*/assets/js/lib/mcsbscrollbar.js
+@@||*/wp-content/themes/*/assets/js/lib/owlcarousel.js
+@@||*/wp-content/themes/*/assets/js/lib/starstruck.js
+@@||*/wp-content/themes/*/assets/js/lib/starstruck.raty.js
+@@||*/wp-content/themes/*/assets/js/min/front.ajax.*.js
+@@||*/wp-content/themes/*/assets/js/min/front.livesearch.*.js
 @@||*/wp-content/themes/*/js/detectmobilebrowser.js
 @@||*/wp-content/themes/*/js/jquery.cookie.js
 @@||*/wp-content/themes/*/js/jquery.lazyload.js
@@ -3511,6 +3524,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||kkfilmesonline*/js/move-top.js
 @@||kkfilmesonline*/js/responsiveslides.min.js
 @@||kkfilmesonline*/js/simplePlayer.js
+@@||kkfilmesonline.com.br/wp-content/themes/*/assets/js/min/front.scripts.*.js
 @@||s.ytimg.com$domain=kkfilmesonline.com.br
 ! cineaticos.com
 @@||cineaticos.com/video/js/js.js
