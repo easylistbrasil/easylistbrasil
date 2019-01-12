@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 7FTNnZyBNR6hdvS+qHR9Dw
-! Version: 201901112143
+! Checksum: owfqWxaoMX8RIaCjsWcG5Q
+! Version: 201901112205
 ! Title: EasyList Brasil
-! Last modified: 11 Jan 2019 21:43 UTC
+! Last modified: 11 Jan 2019 22:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2449,6 +2449,7 @@ diarioonline.com.br##div[class^="super-banner"]
 otvfoco.com.br##div[id*="_adsense_"]
 ! filmeseseriesonline.info
 filmeseseriesonline.info##div[class="afs_ads"]
+filmeseseriesonline.info##div[class="content"] > center
 filmeseseriesonline.info##div[class^="jw-logo"]
 ! futebollivre.net
 futebollivre.net##div[class*="popup"]
@@ -2842,6 +2843,18 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/swfobject.js
 @@||*/swiper/dist/js/swiper.jquery.min.js
 @@||*/swiper/dist/js/swiper.min.js
+@@||*/themes/*/assets/bootstrap3/js/bootstrap.js
+@@||*/themes/*/assets/clappr/clappr.min.js
+@@||*/themes/*/assets/js/cast_sender.js
+@@||*/themes/*/assets/js/chosen.jquery.min.js
+@@||*/themes/*/assets/js/clappr-chromecast-plugin.js
+@@||*/themes/*/assets/js/ct-paper-checkbox.js
+@@||*/themes/*/assets/js/ct-paper-radio.js
+@@||*/themes/*/assets/js/icomoon.js
+@@||*/themes/*/assets/js/jquery-*.js
+@@||*/themes/*/assets/js/jquery.mCustomScrollbar.concat.min.js
+@@||*/themes/*/assets/js/nprogress.js
+@@||*/themes/*/assets/tel-input/js/intlTelInput.min.js
 @@||*/themes/*/js/single-js.js
 @@||*/thickbox/loadingAnimation.gif
 @@||*/thickbox/thickbox.css
@@ -2948,6 +2961,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||c.disquscdn.com/next/embed/lounge.bundle.*.js
 @@||c.disquscdn.com/next/embed/styles/lounge.*.css
 @@||cdn.jsdelivr.net/*/lazysizes(lazysizes.min.js)
+@@||cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.js
 @@||cdn.jsdelivr.net/clappr.level-selector/latest/level-selector.min.js
 @@||cdn.jsdelivr.net/clappr.thumbnails-plugin/latest/clappr-thumbnails-plugin.js
 @@||cdn.jsdelivr.net/clappr/latest/clappr.min.js
@@ -2962,6 +2976,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/*/jquery.lazyloadxt.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/clappr/*/clappr.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/*/cookieconsent.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/flowplayer/*/flowplayer.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/highlight.js/*/highlight.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/*/jquery.lazyload.js
@@ -3767,6 +3782,10 @@ uol.com.br#@#[src*="data:image"]
 @@||hunter.fm$genericblock,generichide
 ! megafilme.co
 @@||j8inn1zektoe.com^$domain=megafilme.co
+! netfilmeshd.com.br
+@@||netfilmeshd.com.br/js/index.js
+@@||netfilmeshd.com.br/themes/MTI/ajax/get_rating.php
+@@||netfilmeshd.com.br/themes/MTI/assets/js/app.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -3839,7 +3858,7 @@ uol.com.br#@#[src*="data:image"]
 @@||imdb.com/videoplayer/$popup
 ! outros
 @@||*/videos/*^$popup,domain=playtop.online
-@@||*/videos/campanha.php$popup,domain=megafilmes.co
+@@||*/videos/campanha.php$popup,domain=filmeseseriesonline.info|megafilmes.co
 @@||*php?data=*netcine.*/$popup,domain=netcine.tv|netcine.us
 @@||123moviesfull.me$popup,domain=get123movies.com
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
