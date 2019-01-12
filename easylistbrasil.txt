@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: svdrLq/o4IYqjFif78WISw
-! Version: 201901112232
+! Checksum: yN1S27g9UuKa8u/tYdLOMA
+! Version: 201901121821
 ! Title: EasyList Brasil
-! Last modified: 11 Jan 2019 22:32 UTC
+! Last modified: 12 Jan 2019 18:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1293,6 +1293,12 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=tvonlinegratis1.com
 ! megafilme.co
 |http*://$popup,script,third-party,xmlhttprequest,domain=megafilme.co
+! videok7.online
+|http*://$popup,script,third-party,xmlhttprequest,domain=videok7.online
+! assistirtrailers.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=assistirtrailers.com
+! animesvision.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesvision.org
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1401,6 +1407,7 @@ $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.m
 ||35.193.*.$popup
 ||acceder.gratis^
 ||assistir.thenightseries.net$popup
+||assistirtrailers.com/assets/images/logosite.png$popup
 ||rotumal.com^$popup,third-party
 ||solarmovie.one/stream/$popup
 ||tudotv.tv/tema/imagens/logo-ro.png$popup
@@ -2524,6 +2531,19 @@ megafilmesonlinehd.org##div[style^="margin"][style$="auto;"] > div[style="float:
 megafilmesonlinehd.org##div[style^="margin"][style$="auto;"] > div[style="float: right;"]
 ! assistirfilmeshd.me
 assistirfilmeshd.me##a[href*="bit.ly"]
+! seriesonlinehd.org
+seriesonlinehd.org##div[class="bplayer"] > center
+seriesonlinehd.org##div[class^="pub-"]
+seriesonlinehd.org##div[id="ico-tv"]
+seriesonlinehd.org##div[id^="ads"][id$="fx"]
+seriesonlinehd.org##div[id^="fecharads"][id$="fx"]
+! assistindoanimesonline.org
+assistindoanimesonline.org##div[class="topBar"]
+! meuseriado.net
+meuseriado.net##div[style*="z-index"]
+! animeplus.org
+animeplus.org##div[class="adstopo"]
+animeplus.org#?#div[class="tituloBox"]:-abp-contains(Publicidade)
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -2899,6 +2919,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*/wp-content/plugins/yuzo-related-post/assets/js/jquery.equalizer.js
 @@||*/wp-content/themes/*/assets/javascript/functions.js
 @@||*/wp-content/themes/*/assets/javascript/vendor/fontawesome-all.min.js
+@@||*/wp-content/themes/*/assets/javascript/vendor/jquery.lightbox.js
 @@||*/wp-content/themes/*/assets/js/isotope.js
 @@||*/wp-content/themes/*/assets/js/jquery.funcoes.v*.js
 @@||*/wp-content/themes/*/assets/js/jquery.menu.js
@@ -3010,6 +3031,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*ie8/videojs-ie8.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/*/videojs-contrib-hls.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/videojs-ima/*/videojs.ima.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/wow/*/wow.min.js
 @@||code.jquery.com/j*.js
 @@||code.jquery.com/jquery.min.map
@@ -3800,6 +3822,28 @@ uol.com.br#@#[src*="data:image"]
 @@||netfilmeshd.com.br/js/index.js
 @@||netfilmeshd.com.br/themes/MTI/ajax/get_rating.php
 @@||netfilmeshd.com.br/themes/MTI/assets/js/app.js
+! seriesonlinehd.org
+@@||google.com/calendar/$csp,domain=seriesonlinehd.org
+@@||mega.nz/embed$csp,domain=seriesonlinehd.org
+@@||ok.ru$csp,domain=seriesonlinehd.org
+@@||oload.fun$csp,domain=seriesonlinehd.org
+@@||openload.co$csp,domain=seriesonlinehd.org
+@@||rapidvideo.com$csp,domain=seriesonlinehd.org
+@@||seriesonlinehd.org/player_series/$csp
+@@||thevid.tv$csp,domain=seriesonlinehd.org
+@@||youtube.com/embed/$csp,domain=seriesonlinehd.org
+! assistindoanimesonline.org
+@@||videok7.online/$subdocument,domain=assistindoanimesonline.org
+! animeplus.org
+@@||*/ima3.js$domain=animeplus.org
+@@||animeplus.org$image
+! avantisvideo.com
+@@||cdn.avantisvideo.com/avm/js/video-loader.js
+! visioncloud
+@@||visioncloud.*/js/adsbygoogle.js
+@@||visioncloud.*^$generichide
+! meuseriado.net
+@@||meuseriado.net$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -3872,7 +3916,7 @@ uol.com.br#@#[src*="data:image"]
 @@||imdb.com/videoplayer/$popup
 ! outros
 @@||*/videos/*^$popup,domain=playtop.online
-@@||*/videos/campanha.php$popup,domain=filmeseseriesonline.info|megafilmes.co
+@@||*/videos/campanha.php$popup,domain=filmeseseriesonline.info|megafilmes.co|midiaflixhd.net
 @@||*php?data=*netcine.*/$popup,domain=netcine.tv|netcine.us
 @@||123moviesfull.me$popup,domain=get123movies.com
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
@@ -3920,6 +3964,7 @@ uol.com.br#@#[src*="data:image"]
 @@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||receitasdamae.com$popup,domain=filmeseseriesonline.info
 @@||seriesonlinehd.biz/player/$popup
+@@||seriesonlinehd.org/player_series/download.php$popup
 @@||seriesonlinex.org$popup,domain=seuseriado.org
 @@||seriesonlinex.org/app/$popup
 @@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
