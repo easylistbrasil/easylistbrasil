@@ -668,6 +668,12 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=tvonlinegratis1.com
 ! megafilme.co
 |http*://$popup,script,third-party,xmlhttprequest,domain=megafilme.co
+! videok7.online
+|http*://$popup,script,third-party,xmlhttprequest,domain=videok7.online
+! assistirtrailers.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=assistirtrailers.com
+! animesvision.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesvision.org
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

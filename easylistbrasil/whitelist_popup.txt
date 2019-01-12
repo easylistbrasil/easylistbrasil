@@ -21,7 +21,7 @@
 @@||imdb.com/videoplayer/$popup
 ! outros
 @@||*/videos/*^$popup,domain=playtop.online
-@@||*/videos/campanha.php$popup,domain=filmeseseriesonline.info|megafilmes.co
+@@||*/videos/campanha.php$popup,domain=filmeseseriesonline.info|megafilmes.co|midiaflixhd.net
 @@||*php?data=*netcine.*/$popup,domain=netcine.tv|netcine.us
 @@||123moviesfull.me$popup,domain=get123movies.com
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
@@ -69,6 +69,7 @@
 @@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||receitasdamae.com$popup,domain=filmeseseriesonline.info
 @@||seriesonlinehd.biz/player/$popup
+@@||seriesonlinehd.org/player_series/download.php$popup
 @@||seriesonlinex.org$popup,domain=seuseriado.org
 @@||seriesonlinex.org/app/$popup
 @@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us

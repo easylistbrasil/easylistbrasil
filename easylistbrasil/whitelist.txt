@@ -348,6 +348,7 @@
 @@||*/wp-content/plugins/yuzo-related-post/assets/js/jquery.equalizer.js
 @@||*/wp-content/themes/*/assets/javascript/functions.js
 @@||*/wp-content/themes/*/assets/javascript/vendor/fontawesome-all.min.js
+@@||*/wp-content/themes/*/assets/javascript/vendor/jquery.lightbox.js
 @@||*/wp-content/themes/*/assets/js/isotope.js
 @@||*/wp-content/themes/*/assets/js/jquery.funcoes.v*.js
 @@||*/wp-content/themes/*/assets/js/jquery.menu.js
@@ -459,6 +460,7 @@
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*ie8/videojs-ie8.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/*/videojs-contrib-hls.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/videojs-ima/*/videojs.ima.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/wow/*/wow.min.js
 @@||code.jquery.com/j*.js
 @@||code.jquery.com/jquery.min.map
@@ -1249,6 +1251,28 @@ uol.com.br#@#[src*="data:image"]
 @@||netfilmeshd.com.br/js/index.js
 @@||netfilmeshd.com.br/themes/MTI/ajax/get_rating.php
 @@||netfilmeshd.com.br/themes/MTI/assets/js/app.js
+! seriesonlinehd.org
+@@||google.com/calendar/$csp,domain=seriesonlinehd.org
+@@||mega.nz/embed$csp,domain=seriesonlinehd.org
+@@||ok.ru$csp,domain=seriesonlinehd.org
+@@||oload.fun$csp,domain=seriesonlinehd.org
+@@||openload.co$csp,domain=seriesonlinehd.org
+@@||rapidvideo.com$csp,domain=seriesonlinehd.org
+@@||seriesonlinehd.org/player_series/$csp
+@@||thevid.tv$csp,domain=seriesonlinehd.org
+@@||youtube.com/embed/$csp,domain=seriesonlinehd.org
+! assistindoanimesonline.org
+@@||videok7.online/$subdocument,domain=assistindoanimesonline.org
+! animeplus.org
+@@||*/ima3.js$domain=animeplus.org
+@@||animeplus.org$image
+! avantisvideo.com
+@@||cdn.avantisvideo.com/avm/js/video-loader.js
+! visioncloud
+@@||visioncloud.*/js/adsbygoogle.js
+@@||visioncloud.*^$generichide
+! meuseriado.net
+@@||meuseriado.net$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest

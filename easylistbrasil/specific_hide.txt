@@ -1075,3 +1075,16 @@ megafilmesonlinehd.org##div[style^="margin"][style$="auto;"] > div[style="float:
 megafilmesonlinehd.org##div[style^="margin"][style$="auto;"] > div[style="float: right;"]
 ! assistirfilmeshd.me
 assistirfilmeshd.me##a[href*="bit.ly"]
+! seriesonlinehd.org
+seriesonlinehd.org##div[class="bplayer"] > center
+seriesonlinehd.org##div[class^="pub-"]
+seriesonlinehd.org##div[id="ico-tv"]
+seriesonlinehd.org##div[id^="ads"][id$="fx"]
+seriesonlinehd.org##div[id^="fecharads"][id$="fx"]
+! assistindoanimesonline.org
+assistindoanimesonline.org##div[class="topBar"]
+! meuseriado.net
+meuseriado.net##div[style*="z-index"]
+! animeplus.org
+animeplus.org##div[class="adstopo"]
+animeplus.org#?#div[class="tituloBox"]:-abp-contains(Publicidade)

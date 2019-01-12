@@ -27,6 +27,7 @@ $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.m
 ||35.193.*.$popup
 ||acceder.gratis^
 ||assistir.thenightseries.net$popup
+||assistirtrailers.com/assets/images/logosite.png$popup
 ||rotumal.com^$popup,third-party
 ||solarmovie.one/stream/$popup
 ||tudotv.tv/tema/imagens/logo-ro.png$popup
