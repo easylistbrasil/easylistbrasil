@@ -474,6 +474,8 @@ livrefilmeshd.net##div[class="afs_ads"]
 mmfilmes.tv##div[class="afs_ads"]
 ! kkfilmesonline.com.br
 kkfilmesonline.com.br##a[href*="zip"]
+kkfilmesonline.com.br##div[class*="mtsnb-top"][class$="mtsnb-fixed"]
+kkfilmesonline.com.br##div[class="mtsnb-container-outer"]
 ! cineaticos.com
 cineaticos.com##div[id="ads2"]
 cineaticos.com##div[id="divads"]
@@ -1071,3 +1073,5 @@ megafilme.co##div[style*="z-index"]
 ! megafilmesonlinehd.org
 megafilmesonlinehd.org##div[style^="margin"][style$="auto;"] > div[style="float: left;"]
 megafilmesonlinehd.org##div[style^="margin"][style$="auto;"] > div[style="float: right;"]
+! assistirfilmeshd.me
+assistirfilmeshd.me##a[href*="bit.ly"]

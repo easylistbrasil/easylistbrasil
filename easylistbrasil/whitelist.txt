@@ -352,6 +352,15 @@
 @@||*/wp-content/themes/*/assets/js/jquery.funcoes.v*.js
 @@||*/wp-content/themes/*/assets/js/jquery.menu.js
 @@||*/wp-content/themes/*/assets/js/jquery.tooltip.js
+@@||*/wp-content/themes/*/assets/js/lib/blueimp.js
+@@||*/wp-content/themes/*/assets/js/lib/idtabs.js
+@@||*/wp-content/themes/*/assets/js/lib/isrepeater.js
+@@||*/wp-content/themes/*/assets/js/lib/mcsbscrollbar.js
+@@||*/wp-content/themes/*/assets/js/lib/owlcarousel.js
+@@||*/wp-content/themes/*/assets/js/lib/starstruck.js
+@@||*/wp-content/themes/*/assets/js/lib/starstruck.raty.js
+@@||*/wp-content/themes/*/assets/js/min/front.ajax.*.js
+@@||*/wp-content/themes/*/assets/js/min/front.livesearch.*.js
 @@||*/wp-content/themes/*/js/detectmobilebrowser.js
 @@||*/wp-content/themes/*/js/jquery.cookie.js
 @@||*/wp-content/themes/*/js/jquery.lazyload.js
@@ -964,6 +973,7 @@
 @@||kkfilmesonline*/js/move-top.js
 @@||kkfilmesonline*/js/responsiveslides.min.js
 @@||kkfilmesonline*/js/simplePlayer.js
+@@||kkfilmesonline.com.br/wp-content/themes/*/assets/js/min/front.scripts.*.js
 @@||s.ytimg.com$domain=kkfilmesonline.com.br
 ! cineaticos.com
 @@||cineaticos.com/video/js/js.js
