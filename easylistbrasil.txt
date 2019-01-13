@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yN1S27g9UuKa8u/tYdLOMA
-! Version: 201901121821
+! Checksum: XRdboo5gPv0Ruswx95rA5A
+! Version: 201901122217
 ! Title: EasyList Brasil
-! Last modified: 12 Jan 2019 18:21 UTC
+! Last modified: 12 Jan 2019 22:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -3079,6 +3079,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||*.mp4$domain=~tv-msn.com|~tvonlineaovivo.net
 @@||*.srt
 @@||*/crossdomain.xml$domain=vidto.me
+@@||*/live/master*/hls.key$xmlhttprequest
 @@||163.172.*.*/crossdomain.xml
 @@||163.172.*.*/i/*/*.jpg
 @@||177.2*.*.*^$media,xmlhttprequest
