@@ -508,6 +508,7 @@
 @@||*.mp4$domain=~tv-msn.com|~tvonlineaovivo.net
 @@||*.srt
 @@||*/crossdomain.xml$domain=vidto.me
+@@||*/live/master*/hls.key$xmlhttprequest
 @@||163.172.*.*/crossdomain.xml
 @@||163.172.*.*/i/*/*.jpg
 @@||177.2*.*.*^$media,xmlhttprequest
