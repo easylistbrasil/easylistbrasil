@@ -1097,3 +1097,5 @@ ggfilmes.club##[id^="ads"][id*="banner"]
 ggfilmes.club##div > a[target="_top"]
 ggfilmes.club##div[id="playerads"]
 ggfilmes.club##li[id="count"]
+! redeflix.net
+redeflix.net##div[class="fake_player"]
