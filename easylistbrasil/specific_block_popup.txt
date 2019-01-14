@@ -38,6 +38,10 @@ $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.m
 |http*://$popup,domain=byter.tv
 ! 123movie.cc
 ||www3.123movie.cc/wp-content/uploads/*/*/*.jpg$popup
+! ggfilmes.club
+||*.ico$popup,domain=ggfilmes.club
+||*.jpeg$popup,domain=ggfilmes.club
+||*.png$popup,domain=ggfilmes.club
 ! teste
 .ico$popup,domain=filmeseseriesonline.info|seuseriado.com
 .php$popup,domain=filmeseseriesonline.info|seuseriado.com

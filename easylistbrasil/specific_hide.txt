@@ -1088,3 +1088,12 @@ meuseriado.net##div[style*="z-index"]
 ! animeplus.org
 animeplus.org##div[class="adstopo"]
 animeplus.org#?#div[class="tituloBox"]:-abp-contains(Publicidade)
+! ggfilmes.club
+ggfilmes.club##[class*="modal"]
+ggfilmes.club##[id*="anuncio"]
+ggfilmes.club##[id*="floatLayer"]
+ggfilmes.club##[id="countDown"]
+ggfilmes.club##[id^="ads"][id*="banner"]
+ggfilmes.club##div > a[target="_top"]
+ggfilmes.club##div[id="playerads"]
+ggfilmes.club##li[id="count"]

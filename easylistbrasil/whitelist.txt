@@ -454,6 +454,7 @@
 @@||cdnjs.cloudflare.com/ajax/libs/mobile-detect/*/mobile-detect.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/qtip*/*/jquery.qtip.js
 @@||cdnjs.cloudflare.com/ajax/libs/semantic-ui/*/semantic.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/lang/*.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video-js.min.css
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.js
@@ -1274,6 +1275,14 @@ uol.com.br#@#[src*="data:image"]
 @@||visioncloud.*^$generichide
 ! meuseriado.net
 @@||meuseriado.net$generichide
+! vertvonline.org
+@@||vertvonline.org$generichide
+! ggfilmes.club
+@@||*/assets/Sortable/*/Sortable.min.css$domain=ggfilmes.club
+@@||*/assets/wow/*/wow.min.js$domain=ggfilmes.club
+@@||ggfilmes.club$generichide
+! ganhandodinheiroemcasa.info
+@@||ganhandodinheiroemcasa.info$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
