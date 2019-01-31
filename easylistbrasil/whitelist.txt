@@ -482,6 +482,7 @@
 @@||fonts.googleapis.com^$stylesheet
 @@||fonts.gstatic.com^$font
 @@||gstatic.com/recaptcha/api*/*/recaptcha*.js^$script
+@@||google.com/recaptcha/api.js
 @@||jwpltx.com^$script
 @@||jwpsrv.com/library/*.js
 @@||p.jwpcdn.com/*/*/skins/five.xml
@@ -601,7 +602,7 @@
 @@||streamango.com/v/d/*^$media
 @@||streamango.com^$generichide
 @@||streamango.com^$subdocument,domain=fsplayer.org|pirataplay.com
-@@||www.google.com/recaptcha/$csp,generichide,subdocument,domain=streamango.com
+@@||www.google.com/recaptcha/$csp,generichide,subdocument
 ! streamcherry.com
 @@||streamcherry.com/assets/js/license.adbl.js
 @@||streamcherry.com/assets/js/video-js/r/jquery.min.js
