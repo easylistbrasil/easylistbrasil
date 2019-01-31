@@ -1284,6 +1284,8 @@ uol.com.br#@#[src*="data:image"]
 @@||ggfilmes.club$generichide
 ! ganhandodinheiroemcasa.info
 @@||ganhandodinheiroemcasa.info$generichide
+! anime.geeksnipper.com
+@@||anime.geeksnipper.com$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
