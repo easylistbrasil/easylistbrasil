@@ -481,8 +481,8 @@
 @@||fonts.googleapis.com^$font
 @@||fonts.googleapis.com^$stylesheet
 @@||fonts.gstatic.com^$font
-@@||gstatic.com/recaptcha/api*/*/recaptcha*.js^$script
 @@||google.com/recaptcha/api.js
+@@||gstatic.com/recaptcha/api*/*/recaptcha*.js^$script
 @@||jwpltx.com^$script
 @@||jwpsrv.com/library/*.js
 @@||p.jwpcdn.com/*/*/skins/five.xml
@@ -1317,6 +1317,7 @@ uol.com.br#@#[src*="data:image"]
 @@||kabum.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||magazineluiza.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||mercadolivre.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||mercadopago.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||musictribe.com^$genericblock,generichide,script,xmlhttprequest
 @@||novomundo.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||opensource-socialnetwork.org^$generichide

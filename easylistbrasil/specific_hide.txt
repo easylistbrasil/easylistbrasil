@@ -1067,8 +1067,8 @@ tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Chat)
 tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Curiosidades)
 ! hunter.fm
 hunter.fm##div[class="ads"]
-hunter.fm##div[id="videoads"]
 hunter.fm##div[id="big-app"]
+hunter.fm##div[id="videoads"]
 ! megafilme.co
 megafilme.co##div[style*="z-index"]
 ! megafilmesonlinehd.org
