@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: p/1vkWgscpsxOm5vZ+vQzA
-! Version: 201902092117
+! Checksum: 96FRpWcMtJbIkA8xCBAQCA
+! Version: 201902232122
 ! Title: EasyList Brasil
-! Last modified: 09 Feb 2019 21:17 UTC
+! Last modified: 23 Feb 2019 21:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2529,8 +2529,8 @@ tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Chat)
 tvonlinegratis1.com#?#div[class="titulo"]:-abp-contains(Curiosidades)
 ! hunter.fm
 hunter.fm##div[class="ads"]
-hunter.fm##div[id="videoads"]
 hunter.fm##div[id="big-app"]
+hunter.fm##div[id="videoads"]
 ! megafilme.co
 megafilme.co##div[style*="z-index"]
 ! megafilmesonlinehd.org
@@ -3070,8 +3070,8 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||fonts.googleapis.com^$font
 @@||fonts.googleapis.com^$stylesheet
 @@||fonts.gstatic.com^$font
-@@||gstatic.com/recaptcha/api*/*/recaptcha*.js^$script
 @@||google.com/recaptcha/api.js
+@@||gstatic.com/recaptcha/api*/*/recaptcha*.js^$script
 @@||jwpltx.com^$script
 @@||jwpsrv.com/library/*.js
 @@||p.jwpcdn.com/*/*/skins/five.xml
@@ -3906,6 +3906,7 @@ uol.com.br#@#[src*="data:image"]
 @@||kabum.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||magazineluiza.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||mercadolivre.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||mercadopago.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||musictribe.com^$genericblock,generichide,script,xmlhttprequest
 @@||novomundo.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||opensource-socialnetwork.org^$generichide
