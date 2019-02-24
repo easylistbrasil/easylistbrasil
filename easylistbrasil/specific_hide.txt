@@ -1100,3 +1100,5 @@ ggfilmes.club##div[id="playerads"]
 ggfilmes.club##li[id="count"]
 ! redeflix.net
 redeflix.net##div[class="fake_player"]
+! techcentral.com.br
+techcentral.com.br##ins[class="adsbygoogle"]

@@ -1286,6 +1286,8 @@ uol.com.br#@#[src*="data:image"]
 @@||ganhandodinheiroemcasa.info$generichide
 ! anime.geeksnipper.com
 @@||anime.geeksnipper.com$generichide
+! techcentral.com.br
+@@||techcentral.com.br$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
