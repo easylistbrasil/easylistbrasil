@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 96FRpWcMtJbIkA8xCBAQCA
-! Version: 201902232122
+! Checksum: jh9JRPOrsckaNC7PFcGkvw
+! Version: 201902242053
 ! Title: EasyList Brasil
-! Last modified: 23 Feb 2019 21:22 UTC
+! Last modified: 24 Feb 2019 20:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2562,6 +2562,8 @@ ggfilmes.club##div[id="playerads"]
 ggfilmes.club##li[id="count"]
 ! redeflix.net
 redeflix.net##div[class="fake_player"]
+! techcentral.com.br
+techcentral.com.br##ins[class="adsbygoogle"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3875,6 +3877,8 @@ uol.com.br#@#[src*="data:image"]
 @@||ganhandodinheiroemcasa.info$generichide
 ! anime.geeksnipper.com
 @@||anime.geeksnipper.com$generichide
+! techcentral.com.br
+@@||techcentral.com.br$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
