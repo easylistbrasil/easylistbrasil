@@ -483,16 +483,16 @@ get.$domain=xilften.net
 ! aovivobrasil.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
-$csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz.net|briskgram.net
-/afu.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
-/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
-/show.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
-||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
-||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
-||*.info$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
-||*.net^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
-||*.site^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
-||*.xyz^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net
+$csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz.net|briskgram.net|uclaut.net
+/afu.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+/show.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+||*.info$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+||*.net^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+||*.site^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+||*.xyz^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
 ||activetect.net/js/display.js
 ||activetect.net/puopen.php
 ||ay.gy/js/display.js
@@ -503,6 +503,8 @@ $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz
 ||clearload.bid/puopen.php
 ||swiftviz.net/js/display.js
 ||swiftviz.net/puopen.php
+||uclaut.net/js/display.js
+||uclaut.net/puopen.php
 ! futeboltv.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=futeboltv.com|futeboltvgratis.com
 ||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
