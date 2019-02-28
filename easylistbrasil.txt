@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jh9JRPOrsckaNC7PFcGkvw
-! Version: 201902242053
+! Checksum: WQyq9/eU4fxPi/H7Q8+5oA
+! Version: 201902280003
 ! Title: EasyList Brasil
-! Last modified: 24 Feb 2019 20:53 UTC
+! Last modified: 28 Feb 2019 00:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1301,6 +1301,8 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=animesvision.org
 ! ggfilmes.club
 |http*://$popup,script,third-party,xmlhttprequest,domain=ggfilmes.club
+! anitube.site
+|http*://$popup,script,third-party,xmlhttprequest,domain=anitube.site
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -2564,6 +2566,9 @@ ggfilmes.club##li[id="count"]
 redeflix.net##div[class="fake_player"]
 ! techcentral.com.br
 techcentral.com.br##ins[class="adsbygoogle"]
+! anitube.site
+anitube.site##div[class^="adsIndex"]
+anitube.site##section[class="adsEpi"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -2602,6 +2607,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||youtubecreatormonthly.blogspot.com^$popup,domain=youtube.com
 ! Api
 @@||*.disk.ly/assets/*/spritesheet.json$xmlhttprequest
+@@||*.disqus.com/count.js
 @@||*.disqus.com/embed.js
 @@||*.fontawesome.com/releases/*/js/all.js
 @@||*.p.jwpcdn.com/player/$script
@@ -3088,6 +3094,8 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||ssl.p.jwpcdn.com/player/v/*/jwplayer.flash.swf
 @@||ssl.p.jwpcdn.com/player/v/*/polyfills.vttrenderer.js
 @@||ssl.p.jwpcdn.com/player/v/*/provider.flash.js
+@@||translate.google.com/translate*/element.js
+@@||translate.googleapis.com/translate_static/js/element/main_*.js
 @@||vjs.zencdn.net/*/video.js$script
 @@||vjs.zencdn.net/*/video.min.js
 @@||youtube.com/iframe_api^$media,script
