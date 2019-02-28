@@ -11,6 +11,7 @@
 @@||youtubecreatormonthly.blogspot.com^$popup,domain=youtube.com
 ! Api
 @@||*.disk.ly/assets/*/spritesheet.json$xmlhttprequest
+@@||*.disqus.com/count.js
 @@||*.disqus.com/embed.js
 @@||*.fontawesome.com/releases/*/js/all.js
 @@||*.p.jwpcdn.com/player/$script
@@ -497,6 +498,8 @@
 @@||ssl.p.jwpcdn.com/player/v/*/jwplayer.flash.swf
 @@||ssl.p.jwpcdn.com/player/v/*/polyfills.vttrenderer.js
 @@||ssl.p.jwpcdn.com/player/v/*/provider.flash.js
+@@||translate.google.com/translate*/element.js
+@@||translate.googleapis.com/translate_static/js/element/main_*.js
 @@||vjs.zencdn.net/*/video.js$script
 @@||vjs.zencdn.net/*/video.min.js
 @@||youtube.com/iframe_api^$media,script

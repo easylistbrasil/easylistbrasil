@@ -676,6 +676,8 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=animesvision.org
 ! ggfilmes.club
 |http*://$popup,script,third-party,xmlhttprequest,domain=ggfilmes.club
+! anitube.site
+|http*://$popup,script,third-party,xmlhttprequest,domain=anitube.site
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
