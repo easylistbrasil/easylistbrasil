@@ -80,6 +80,11 @@
 @@||streamango.com/embed/$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 @@||streamplay.*/*.html$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 @@||streamplay.me/$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
+@@||suasaudeonline.xyz$popup,domain=zseriesonline.com
+@@||technogenerals.com/videos/campanha.php$popup,domain=zseriesonline.com
+@@||thenightanimes.net$popup,domain=thenightfilmes.net|thenightseries.net
+@@||thenightfilmes.net$popup,domain=thenightanimes.net|thenightseries.net
+@@||thenightseries.net$popup,domain=thenightanimes.net|thenightfilmes.net
 @@||torrentsbaixar.com$popup,domain=maxflixhd.com
 @@||tvgazeta.com.br/aovivo/$popup
 @@||tvmap.com.br^$popup,domain=skyonlinegratis.com
@@ -90,6 +95,7 @@
 @@||www.google.com.br/search?q=*&q=$popup,domain=filmesonlinex.co
 @@||www.miceret.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
 @@||www.olimpicusads.com^$popup,domain=canais.gratis|cometa.top|netfly.net.br
+@@||zseriesonline.com/player/campanha.php$popup
 ! redecanais
 @@||*/instagram/campanha.php?data=*^$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
 @@||*/RedeCanais/*/ondemand/*.mp4$popup

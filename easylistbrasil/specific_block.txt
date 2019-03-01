@@ -427,6 +427,8 @@ $script,domain=amgload.net|piguiqproxy.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=thenightfilmes.net
 ! thenightseries.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=thenightseries.net
+! thenightanimes.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=thenightanimes.net
 ! cineaticos.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=cineaticos.com
 ||ulala.us$popup,script,third-party,websocket,xmlhttprequest
@@ -680,6 +682,8 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=ggfilmes.club
 ! anitube.site
 |http*://$popup,script,third-party,xmlhttprequest,domain=anitube.site
+! zseriesonline.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=suasaudeonline.xyz|technogenerals.com|zseriesonline.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

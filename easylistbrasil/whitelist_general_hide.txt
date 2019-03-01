@@ -5,6 +5,7 @@ temanimes.net,temfilmes.net,temseries.net#@#[id*="tela"]
 all123movies.com,all123movies.se,all123movies.to,animesonline.co,gomovies.cool,gomovies.mx,gomovieshd.cc,gostream.site,my123movies.org,putlocker.vip,xmovies8.cloud#@#[src*="data:image"]
 canais.ink#@#body > div:last-child
 megafilmes.co#@#div[class*="pop"]
+thenightseries.net#@#div[class="itens"] > a:first-child
 megafilmeshd50.top,megafilmesonline-hd.com#@#div[id^="ad"]
 concrete.com.br,diarioonline.com.br,fatosdesconhecidos.com.br,filmesonlineplay.com,gomovies.cool,gomovies.mx,gomovieshd.cc,ipfingerprints.com,player.theplatform.com,putlocker.vip,speedtest.net,tecmundo.com.br,tugaflix.com,tugaflix.date,xmovies8.cloud,youtube.com#@#div[style*="z-index"]
 youtube.com#@#iframe[src*="about"]

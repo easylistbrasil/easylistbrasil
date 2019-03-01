@@ -1105,3 +1105,5 @@ techcentral.com.br##ins[class="adsbygoogle"]
 ! anitube.site
 anitube.site##div[class^="adsIndex"]
 anitube.site##section[class="adsEpi"]
+! zseriesonline.com
+zseriesonline.com##div[class="ad-pop"]
