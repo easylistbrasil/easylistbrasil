@@ -51,6 +51,7 @@
 ||tns-counter.ru^$third-party
 ||turn.com^$third-party
 ||unrestern.info^$popup,third-party
+||v1d.nucleo.ml^
 ||velocecdn.com^$third-party
 ||yjijmpezje.com^$third-party
 ||ysm.yahoo.com^$third-party
