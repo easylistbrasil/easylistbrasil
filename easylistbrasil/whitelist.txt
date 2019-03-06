@@ -1297,6 +1297,8 @@ uol.com.br#@#[src*="data:image"]
 @@||anime.geeksnipper.com$generichide
 ! techcentral.com.br
 @@||techcentral.com.br$generichide
+! assistirtvonlinegratis.com.br
+@@||assistirtvonlinegratis.com.br$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -1314,11 +1316,13 @@ uol.com.br#@#[src*="data:image"]
 @@||citibank.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||codenvy.io^$generichide
 @@||devwilliam.com.br^$generichide
+@@||discordapp.com^$genericblock,generichide,script,xmlhttprequest
 @@||eletroshopping.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||extra.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||gearbest.com^$genericblock,generichide,script,xmlhttprequest
 @@||girafa.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||go4expert.com^$generichide
+@@||gshow.globo.com/realities/bbb/$generichide
 @@||hsbc.com^$genericblock,generichide,script,xmlhttprequest
 @@||hsbcnet.com^$genericblock,generichide,script,xmlhttprequest
 @@||hsbcprivatebank.com^$genericblock,generichide,script,xmlhttprequest
