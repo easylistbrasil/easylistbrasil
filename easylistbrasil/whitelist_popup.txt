@@ -68,6 +68,7 @@
 @@||ratatuireceitas.com^$popup,domain=megaseriehd.com
 @@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||receitasdamae.com$popup,domain=filmeseseriesonline.info
+@@||revendaderoupas.com$generichide,popup
 @@||seriesonlinehd.biz/player/$popup
 @@||seriesonlinehd.org/player_series/download.php$popup
 @@||seriesonlinex.org$popup,domain=seuseriado.org
@@ -81,6 +82,7 @@
 @@||streamplay.*/*.html$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 @@||streamplay.me/$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 @@||suasaudeonline.xyz$popup,domain=zseriesonline.com
+@@||t.co/$popup,domain=kkfilmesonline.com.br
 @@||technogenerals.com/videos/campanha.php$popup,domain=zseriesonline.com
 @@||thenightanimes.net$popup,domain=thenightfilmes.net|thenightseries.net
 @@||thenightfilmes.net$popup,domain=thenightanimes.net|thenightseries.net
