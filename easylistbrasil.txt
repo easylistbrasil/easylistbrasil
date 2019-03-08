@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: H6lTHMQ+Qxx0Jr2G3YQG6Q
-! Version: 201903052233
+! Checksum: /XLbEU2tDt01hk/XTBUe2A
+! Version: 201903081647
 ! Title: EasyList Brasil
-! Last modified: 05 Mar 2019 22:33 UTC
+! Last modified: 08 Mar 2019 16:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -3904,6 +3904,9 @@ uol.com.br#@#[src*="data:image"]
 @@||techcentral.com.br$generichide
 ! assistirtvonlinegratis.com.br
 @@||assistirtvonlinegratis.com.br$generichide
+! filmesonlinetv.online
+@@||player.filmesonlinetv.online//assets/vendor/fop/fOP.js
+@@||player.filmesonlinetv.online^$generichide,subdocument,xmlhttprequest
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -3918,6 +3921,7 @@ uol.com.br#@#[src*="data:image"]
 @@||btgpactualdigital.com^$genericblock,generichide,script,xmlhttprequest
 @@||carrefour.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||casasbahia.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||centerplex.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||citibank.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||codenvy.io^$generichide
 @@||devwilliam.com.br^$generichide
@@ -3951,6 +3955,7 @@ uol.com.br#@#[src*="data:image"]
 @@||snapchat.com^$generichide
 @@||streamiumtheme.com^$generichide
 @@||ubuntu.blog.*^$generichide
+@@||veloxtickets.com/Parceiro/Scripts/parceiroLoader.js
 @@||waz.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||whatsapp.com^$genericblock,generichide,script,xmlhttprequest
 ! *** easylistbrasil:easylistbrasil/whitelist_dimensions.txt ***
@@ -4026,6 +4031,7 @@ uol.com.br#@#[src*="data:image"]
 @@||ratatuireceitas.com^$popup,domain=megaseriehd.com
 @@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
 @@||receitasdamae.com$popup,domain=filmeseseriesonline.info
+@@||revendaderoupas.com$generichide,popup
 @@||seriesonlinehd.biz/player/$popup
 @@||seriesonlinehd.org/player_series/download.php$popup
 @@||seriesonlinex.org$popup,domain=seuseriado.org
@@ -4039,6 +4045,7 @@ uol.com.br#@#[src*="data:image"]
 @@||streamplay.*/*.html$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 @@||streamplay.me/$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 @@||suasaudeonline.xyz$popup,domain=zseriesonline.com
+@@||t.co/$popup,domain=kkfilmesonline.com.br
 @@||technogenerals.com/videos/campanha.php$popup,domain=zseriesonline.com
 @@||thenightanimes.net$popup,domain=thenightfilmes.net|thenightseries.net
 @@||thenightfilmes.net$popup,domain=thenightanimes.net|thenightseries.net
