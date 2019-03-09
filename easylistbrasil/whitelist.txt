@@ -1302,6 +1302,12 @@ uol.com.br#@#[src*="data:image"]
 ! filmesonlinetv.online
 @@||player.filmesonlinetv.online//assets/vendor/fop/fOP.js
 @@||player.filmesonlinetv.online^$generichide,subdocument,xmlhttprequest
+! dota2.com.br
+@@||dota2.com.br$generichide
+! seriesflixhd.com
+@@||seriesflixhd.com/players/advertisement.js
+! popcorntime.sh
+@@||popcorntime.sh$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -1317,21 +1323,25 @@ uol.com.br#@#[src*="data:image"]
 @@||carrefour.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||casasbahia.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||centerplex.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||chanel.com^$genericblock,generichide,script,xmlhttprequest
 @@||citibank.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||codenvy.io^$generichide
 @@||devwilliam.com.br^$generichide
 @@||discordapp.com^$genericblock,generichide,script,xmlhttprequest
+@@||downdetector.com^$genericblock,generichide,script,xmlhttprequest
 @@||eletroshopping.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||extra.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||gearbest.com^$genericblock,generichide,script,xmlhttprequest
 @@||girafa.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||go4expert.com^$generichide
 @@||gshow.globo.com/realities/bbb/$generichide
+@@||hirezstudios.com^$genericblock,generichide,script,xmlhttprequest
 @@||hsbc.com^$genericblock,generichide,script,xmlhttprequest
 @@||hsbcnet.com^$genericblock,generichide,script,xmlhttprequest
 @@||hsbcprivatebank.com^$genericblock,generichide,script,xmlhttprequest
 @@||ibyte.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||instant.io^$generichide
+@@||iplocation.com^$genericblock,generichide,script,xmlhttprequest
 @@||itau.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||kabum.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||magazineluiza.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -1341,15 +1351,20 @@ uol.com.br#@#[src*="data:image"]
 @@||novomundo.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||opensource-socialnetwork.org^$generichide
 @@||osdn.net^$generichide
+@@||reclameaqui.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||ricardoeletro.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||safra.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||santander.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||santandernet.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||sejahost.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||shure.com^$genericblock,generichide,script,xmlhttprequest
 @@||sicredi.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||simet.nic.br^$genericblock,generichide,script,xmlhttprequest
 @@||snapchat.com^$generichide
+@@||steamcommunity.com^$genericblock,generichide,script,xmlhttprequest
 @@||streamiumtheme.com^$generichide
 @@||ubuntu.blog.*^$generichide
 @@||veloxtickets.com/Parceiro/Scripts/parceiroLoader.js
+@@||warpportalbr.com^$genericblock,generichide,script,xmlhttprequest
 @@||waz.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||whatsapp.com^$genericblock,generichide,script,xmlhttprequest
