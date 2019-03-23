@@ -1368,3 +1368,4 @@ uol.com.br#@#[src*="data:image"]
 @@||warpportalbr.com^$genericblock,generichide,script,xmlhttprequest
 @@||waz.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||whatsapp.com^$genericblock,generichide,script,xmlhttprequest
+@@||tudocelular.com^$genericblock,generichide,script,xmlhttprequest
