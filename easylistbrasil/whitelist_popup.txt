@@ -39,6 +39,7 @@
 @@||desapegacaxias.com$popup,domain=ondeeubaixo.com.br
 @@||driveproxy.net$popup,domain=all123movies.com|all123movies.se|all123movies.to
 @@||elitefilmesonline.com$popup,domain=maxflixhd.com
+@@||empregandoab.xyz$popup,domain=verfilmeseseriesonline.com
 @@||estantepublica.net/video/campanha.php?*^$popup,domain=netcine.tv|netcine.us
 @@||file.seriesonline.io/download$popup
 @@||filmeseseriesonline.info/campanha.php$popup
@@ -61,6 +62,7 @@
 @@||megaseriehd.com/campanha.php$popup
 @@||netlegendas.com^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
 @@||o12zs3u2n.com$popup,domain=seriesonline.io
+@@||oload.download/f/$popup
 @@||openload.co/f/*/$popup
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||p.netcine.*/players/*.php?n=*&p=*^$popup,domain=netcine.tv|netcine.us

@@ -684,6 +684,10 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=anitube.site
 ! zseriesonline.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=suasaudeonline.xyz|technogenerals.com|zseriesonline.com
+! verfilmeseseriesonline.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=verfilmeseseriesonline.com
+! ultracinefilmes.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=ultracinefilmes.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

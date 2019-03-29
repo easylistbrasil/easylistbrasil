@@ -1107,3 +1107,10 @@ anitube.site##div[class^="adsIndex"]
 anitube.site##section[class="adsEpi"]
 ! zseriesonline.com
 zseriesonline.com##div[class="ad-pop"]
+! empregandoab.xyz
+empregandoab.xyz##div[class="adb"]
+empregandoab.xyz##div[id="ads2"]
+empregandoab.xyz##div[id="banner"]
+empregandoab.xyz##div[id="divads"]
+empregandoab.xyz##div[id="myModal2"]
+empregandoab.xyz##img[id="h1bg"]

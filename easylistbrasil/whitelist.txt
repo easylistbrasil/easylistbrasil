@@ -434,6 +434,7 @@
 @@||cdn.jsdelivr.net/npm/clappr*latest/dist/clappr.min.js
 @@||cdn.jsdelivr.net/npm/hls.js@latest
 @@||cdn.jsdelivr.net/npm/jquery*^$script
+@@||cdn.jsdelivr.net/npm/lazyload@*/lazyload.min.js
 @@||cdn.jsdelivr.net/wp/*^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
 @@||cdn.viblast.com/vb/*/viblast.remuxer.js
@@ -1308,6 +1309,16 @@ uol.com.br#@#[src*="data:image"]
 @@||seriesflixhd.com/players/advertisement.js
 ! popcorntime.sh
 @@||popcorntime.sh$generichide
+! filmesonline.vip
+@@||filmesonline.vip/js/jw.js
+! verfilmeseseriesonline.com
+@@||empregandoab.xyz$generichide
+@@||verfilmeseseriesonline.com/applications/core/interface/howler/howler.core.min.js
+@@||verfilmeseseriesonline.com/applications/videobox/interface/sliders/nivoslider.js
+@@||verfilmeseseriesonline.com/uploads/javascript_videobox/front_front_video.js.0f2a5b296fe733859a205e680414ed89.js
+@@||verfilmeseseriesonline.com/uploads/set_resources_3/84c1e40ea0e759e3f1505eb1788ddf3c_79lnvfcdty.js
+! ultracinefilmes.com
+@@||ultracinefilmes.com/assets/ui/js/scripts.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -1363,9 +1374,9 @@ uol.com.br#@#[src*="data:image"]
 @@||snapchat.com^$generichide
 @@||steamcommunity.com^$genericblock,generichide,script,xmlhttprequest
 @@||streamiumtheme.com^$generichide
+@@||tudocelular.com^$genericblock,generichide,script,xmlhttprequest
 @@||ubuntu.blog.*^$generichide
 @@||veloxtickets.com/Parceiro/Scripts/parceiroLoader.js
 @@||warpportalbr.com^$genericblock,generichide,script,xmlhttprequest
 @@||waz.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||whatsapp.com^$genericblock,generichide,script,xmlhttprequest
-@@||tudocelular.com^$genericblock,generichide,script,xmlhttprequest
