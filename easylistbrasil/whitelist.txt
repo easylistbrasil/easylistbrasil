@@ -1319,6 +1319,9 @@ uol.com.br#@#[src*="data:image"]
 @@||verfilmeseseriesonline.com/uploads/set_resources_3/84c1e40ea0e759e3f1505eb1788ddf3c_79lnvfcdty.js
 ! ultracinefilmes.com
 @@||ultracinefilmes.com/assets/ui/js/scripts.js
+! thepiratefilmesonline.org
+@@||thepiratefilmesonline.org/players/*/assets/js/ajwplayer.js
+@@||thepiratefilmesonline.org/players/*/assets/js/scripts.min.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
