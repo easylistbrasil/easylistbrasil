@@ -55,7 +55,7 @@
 @@||letrasdemusicas.biz/video/campanha.php?*^$popup,domain=netcine.tv|netcine.us
 @@||luigireceitas.com$popup,domain=kkfilmesonline.com.br
 @@||mangasbr.com.br$popup,domain=animeflix.biz|animesonehd.net|animesonlinebr.com.br|animesonlinehd.com.br|animesonlinez.com
-@@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
+@@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us|thepiratefilmesonline.org
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||megafilmes.co/player.php$popup,domain=megafilmes.co
 @@||megafilmesbluray.com$popup,domain=maxflixhd.com
