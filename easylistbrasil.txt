@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: LRm/7MMMgpx6PRlBh4R0mg
-! Version: 201903300128
+! Checksum: NmU70x/4i2lxmcDDEBXNjQ
+! Version: 201904051928
 ! Title: EasyList Brasil
-! Last modified: 30 Mar 2019 01:28 UTC
+! Last modified: 05 Apr 2019 19:28 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1315,6 +1315,8 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=verfilmeseseriesonline.com
 ! ultracinefilmes.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=ultracinefilmes.com
+! thepiratefilmesonline.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=thepiratefilmesonline.org
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -3938,6 +3940,8 @@ uol.com.br#@#[src*="data:image"]
 ! thepiratefilmesonline.org
 @@||thepiratefilmesonline.org/players/*/assets/js/ajwplayer.js
 @@||thepiratefilmesonline.org/players/*/assets/js/scripts.min.js
+! receitasmaster.me
+@@||receitasmaster.me$elemhide,generichide,popup
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
@@ -4059,7 +4063,7 @@ uol.com.br#@#[src*="data:image"]
 @@||letrasdemusicas.biz/video/campanha.php?*^$popup,domain=netcine.tv|netcine.us
 @@||luigireceitas.com$popup,domain=kkfilmesonline.com.br
 @@||mangasbr.com.br$popup,domain=animeflix.biz|animesonehd.net|animesonlinebr.com.br|animesonlinehd.com.br|animesonlinez.com
-@@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
+@@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us|thepiratefilmesonline.org
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||megafilmes.co/player.php$popup,domain=megafilmes.co
 @@||megafilmesbluray.com$popup,domain=maxflixhd.com
