@@ -12,7 +12,7 @@ Compatível com: ![AdBlock](https://i.imgur.com/3KbyifF.png) [Adblock][], ![AdBl
 [uBlock Origin]: https://github.com/gorhill/uBlock
 [AdGuard]: https://adguard.com/en/adguard-browser-extension/overview.html
 
-[Adicionar](https://easylistbrasil.github.io)
+[Adicionar](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt&title=EasyList%20Brasil)
 
 [Android](https://easylistbrasil.github.io/main/2018/08/22/android.html)
 
