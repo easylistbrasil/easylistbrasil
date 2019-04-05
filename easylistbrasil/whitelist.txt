@@ -1324,6 +1324,8 @@ uol.com.br#@#[src*="data:image"]
 @@||thepiratefilmesonline.org/players/*/assets/js/scripts.min.js
 ! receitasmaster.me
 @@||receitasmaster.me$elemhide,generichide,popup
+! adguard.com
+@@||adguard.com$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
