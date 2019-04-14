@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: jJ3qsK+vhoFnXtbS6HIkyA
-! Version: 201904141557
+! Checksum: R4/XKrsU812w5xB6Fog0nQ
+! Version: 201904141603
 ! Title: EasyList Brasil
-! Last modified: 14 Apr 2019 15:57 UTC
+! Last modified: 14 Apr 2019 16:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -3724,6 +3724,9 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||unrestern.info/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
 @@||venturead.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
 @@||www.google-analytics.com^$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
+! adf.ly new
+@@||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+@@||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
 ! icarros.com.br
 @@||icarros.com.br^$genericblock,generichide,image
 ! uol.com.br
