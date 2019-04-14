@@ -1330,8 +1330,13 @@ uol.com.br#@#[src*="data:image"]
 @@||receitasmaster.me$elemhide,generichide,popup
 ! adguard.com
 @@||adguard.com$generichide
+! tmearn.com
+@@||tmearn.com/js/ads2.js
+! downloadmpb.blogspot.com
+@@||downloadmpb.blogspot.com^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
+@@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||azuracast.com^$generichide
 @@||banco.bradesco^$genericblock,generichide,script,xmlhttprequest
@@ -1366,6 +1371,7 @@ uol.com.br#@#[src*="data:image"]
 @@||iplocation.com^$genericblock,generichide,script,xmlhttprequest
 @@||itau.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||kabum.com.br^$genericblock,generichide,script,xmlhttprequest
+@@||listen2myradio.com^$genericblock,generichide,script,xmlhttprequest
 @@||magazineluiza.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||mercadolivre.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||mercadopago.com.br^$genericblock,generichide,script,xmlhttprequest
