@@ -1083,6 +1083,7 @@
 @@||cdn.swiftviz.net/static/js/b64.js
 @@||cdn.swiftviz.net/static/js/view105b.js
 @@||cdn.uclaut.net$image,stylesheet
+@@||cdn.uclaut.net/static/image/ad_top_bg2.png
 @@||cdn.uclaut.net/static/js/b64.js
 @@||cdn.uclaut.net/static/js/view105b.js
 @@||clearload.bid^$generichide
