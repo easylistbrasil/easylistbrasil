@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 56VbQUl1xKafnUk4osD7Fw
-! Version: 201904141620
+! Checksum: fYiqYVGMWasPPtOBQ0NqBw
+! Version: 201904212326
 ! Title: EasyList Brasil
-! Last modified: 14 Apr 2019 16:20 UTC
+! Last modified: 21 Apr 2019 23:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -159,6 +159,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ! Used with many websites to generate multiple popups
 /clicou.php$popup
 /favicon.ico$popup
+/iuqasfg3$popup
 |blob:$popup
 |data:text$popup
 |dddata:text$popup
@@ -614,7 +615,9 @@ adblockplus.org#@#a[href*="adserver"]
 ! *** easylistbrasil:easylistbrasil/thirdparty_popup.txt ***
 ||ad.lojapremio.net^
 ||afriflatry.co^$popup
+||allornamenti.com^$popup,third-party
 ||hqq.*/out$popup
+||myornamenti.com^$popup,third-party
 ||popads.net^$third-party
 ||rotumal.com^$popup,third-party
 ||zukxd6fkxqn.com^$popup,third-party
