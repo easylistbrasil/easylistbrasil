@@ -2,6 +2,7 @@
 ! Used with many websites to generate multiple popups
 /clicou.php$popup
 /favicon.ico$popup
+/iuqasfg3$popup
 |blob:$popup
 |data:text$popup
 |dddata:text$popup
