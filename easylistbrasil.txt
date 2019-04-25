@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: fYiqYVGMWasPPtOBQ0NqBw
-! Version: 201904212326
+! Checksum: 6pE8laLBY4qfN4U1ReHoJQ
+! Version: 201904251525
 ! Title: EasyList Brasil
-! Last modified: 21 Apr 2019 23:26 UTC
+! Last modified: 25 Apr 2019 15:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1115,17 +1115,17 @@ get.$domain=xilften.net
 ! aovivobrasil.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
-! $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz.net|briskgram.net|uclaut.net
-/afu.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-/show.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=uclaut.net
-! ||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-! ||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-||*.info$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-||*.net^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-||*.site^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-||*.xyz^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+! $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz.net|briskgram.net|uclaut.net|gloyah.net
+/afu.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+/show.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=gloyah.net|uclaut.net
+! ||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net
+! ||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net
+||*.info$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+||*.net^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+||*.site^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+||*.xyz^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 ||activetect.net/js/display.js
 ||activetect.net/puopen.php
 ||ay.gy/js/display.js
@@ -1134,6 +1134,8 @@ get.$domain=xilften.net
 ||brightvar.bid/puopen.php
 ||clearload.bid/js/display.js
 ||clearload.bid/puopen.php
+||gloyah.net/js/display.js
+||gloyah.net/puopen.php
 ||swiftviz.net/js/display.js
 ||swiftviz.net/puopen.php
 ||uclaut.net/js/display.js
@@ -2176,7 +2178,7 @@ bobfilmes.com##div[style*="z-index"]
 ! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(advert)
 ! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Atenção)
 ! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Warning)
-uclaut.net##body[id="home"] > div[style="margin:auto; width:50%;"]
+gloyah.net,uclaut.net##body[id="home"] > div[style="margin:auto; width:50%;"]
 ! futeboltvgratis.com
 futeboltvgratis.com##[id*="anuncio"]
 futeboltvgratis.com##a[id="linkantes"]
@@ -3666,21 +3668,21 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||aovivobrasil.com.br^$generichide
 @@||maps.googleapis.com^$domain=aovivobrasil.com.br
 ! adf.ly
-@@/nr-*.min.js$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@/script/wait.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||*/a/display.php?r=$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||*/script/pub.js$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
+@@/nr-*.min.js$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@/script/wait.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||*/a/display.php?r=$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||*/script/pub.js$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||activetect.net/1market.php
 @@||activetect.net/static/css/omnigy.css
 @@||activetect.net^$generichide
-@@||adexchangetracker.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
+@@||adexchangetracker.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||ay.gy/1market.php
 @@||ay.gy/static/css/omnigy.css
 @@||ay.gy^$generichide
-@@||bam.nr-data.net$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||bitonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||boudja.com/$subdocument,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||boudja.com/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
+@@||bam.nr-data.net$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||bitonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||boudja.com/$subdocument,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||boudja.com/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||brightvar.bid^$generichide
 @@||briskgram.net/1market.php
 @@||briskgram.net/static/css/omnigy.css
@@ -3702,6 +3704,11 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdn.clearload.bid$image,stylesheet
 @@||cdn.clearload.bid/static/js/b64.js
 @@||cdn.clearload.bid/static/js/view105b.js
+@@||cdn.gloyah.net$image,stylesheet
+@@||cdn.gloyah.net/static/image/ad_top_bg2.png
+@@||cdn.gloyah.net/static/image/logo.png
+@@||cdn.gloyah.net/static/js/b64.js
+@@||cdn.gloyah.net/static/js/view105b.js
 @@||cdn.swiftviz.net$image,stylesheet
 @@||cdn.swiftviz.net/static/js/b64.js
 @@||cdn.swiftviz.net/static/js/view105b.js
@@ -3710,26 +3717,29 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdn.uclaut.net/static/js/b64.js
 @@||cdn.uclaut.net/static/js/view105b.js
 @@||clearload.bid^$generichide
-@@||clearonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||facebook.com/plugins/like.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||liveadexchanger.com/a/display.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||liveadexchanger.com/a/display.php?$subdocument,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||maxonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||onclickprediction.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||onclickpulse.com/script/chrome.js^$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||onclickpulse.com/script/identify.html$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
+@@||clearonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||facebook.com/plugins/like.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||gloyah.net/1market.php
+@@||gloyah.net/static/css/omnigy.css
+@@||gloyah.net^$generichide
+@@||liveadexchanger.com/a/display.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||liveadexchanger.com/a/display.php?$subdocument,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||maxonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||onclickprediction.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||onclickpulse.com/script/chrome.js^$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||onclickpulse.com/script/identify.html$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||swiftviz.net/1market.php
 @@||swiftviz.net/static/css/omnigy.css
 @@||swiftviz.net^$generichide
 @@||uclaut.net/1market.php
 @@||uclaut.net/static/css/omnigy.css
 @@||uclaut.net^$generichide
-@@||unrestern.info/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||venturead.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||www.google-analytics.com^$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
+@@||unrestern.info/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||venturead.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||www.google-analytics.com^$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 ! adf.ly new
-@@||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-@@||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+@@||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 ! icarros.com.br
 @@||icarros.com.br^$genericblock,generichide,image
 ! uol.com.br
@@ -4133,70 +4143,70 @@ uol.com.br#@#[src*="data:image"]
 @@||olimpicusads.com$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
 @@||www.ultratfm.com$popup,domain=canais.gratis|canais.ink|cometa.top|redecanais.cz|redecanais.gratis
 ! skidrowreloaded.com
-@@||1fichier.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||bdupload.info$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||clicknupload.link$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||1fichier.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||bdupload.info$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||clicknupload.link$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
 @@||clicknupload.net/cgi-bin/dl.cgi/*^$popup
-@@||clicknupload.org$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||dl.free$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||downace.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||filecloud.io$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||filerio.in$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||hitfile.net$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||jheberg.net$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||katfile.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||megaup.net$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||mirrorace.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||multiup.org$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||nitroflare.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||rapidgator.net$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||rarbg.to$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||sendit.cloud$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||sendspace.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||suprafiles$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||turbobit.net$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||clicknupload.org$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||dl.free$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||downace.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||filecloud.io$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||filerio.in$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||hitfile.net$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||jheberg.net$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||katfile.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||megaup.net$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||mirrorace.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||multiup.org$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||nitroflare.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||rapidgator.net$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||rarbg.to$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||sendit.cloud$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||sendspace.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||suprafiles$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||turbobit.net$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
 @@||upload.$popup,domain=skidrowreloaded.com
-@@||uploadhaven.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
-@@||uptobox.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|uclaut.net
-@@||userscloud.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||uploadhaven.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
+@@||uptobox.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|uclaut.net
+@@||userscloud.com$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|skidrowreloaded.com|swiftviz.net|uclaut.net
 @@||zippyshare.com$popup,domain=skidrowreloaded.com
 ! adf.ly
-@@||0bin.net/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||2shared.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||4shared.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||adrive.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||anonfiles.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||bitcasa.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||box.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||chopapp.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||cld.pt/dl/download/*^$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||codepad.org/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||copy.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||depositfiles.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||drive.google.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||dropbox.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||evernote.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||filefactory.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||fileserve.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||github.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||gitlab.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||hastebin.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||hightail.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||icloud.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||ideone.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||live.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||mediafire.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
+@@||0bin.net/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||2shared.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||4shared.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||adrive.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||anonfiles.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||bitcasa.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||box.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||chopapp.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||cld.pt/dl/download/*^$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||codepad.org/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||copy.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||depositfiles.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||drive.google.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||dropbox.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||evernote.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||filefactory.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||fileserve.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||github.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||gitlab.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||hastebin.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||hightail.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||icloud.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||ideone.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||live.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||mediafire.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||mega.nz/#$popup
-@@||paste.ee/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||pastebin.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||pasted.co/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||raw.githubusercontent.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||snipt.org/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||spideroak.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||uploaded.net/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||volafile.io/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||wetransfer.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
-@@||zippyshare.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
+@@||paste.ee/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||pastebin.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||pasted.co/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||raw.githubusercontent.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||snipt.org/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||spideroak.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||uploaded.net/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||volafile.io/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||wetransfer.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||zippyshare.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 ! torrentfilmes
 @@||legendei.com$popup,domain=thefilmestorrents.com|torrentfilmes.biz|torrentfilmes.net
 @@||link-download.in$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us|torrentfilmes.biz|torrentfilmes.net
