@@ -485,17 +485,17 @@ get.$domain=xilften.net
 ! aovivobrasil.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
-! $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz.net|briskgram.net|uclaut.net
-/afu.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-/show.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=uclaut.net
-! ||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-! ||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-||*.info$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-||*.net^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-||*.site^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
-||*.xyz^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net
+! $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz.net|briskgram.net|uclaut.net|gloyah.net
+/afu.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+/show.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=gloyah.net|uclaut.net
+! ||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net
+! ||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net
+||*.info$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+||*.net^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+||*.site^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+||*.xyz^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 ||activetect.net/js/display.js
 ||activetect.net/puopen.php
 ||ay.gy/js/display.js
@@ -504,6 +504,8 @@ get.$domain=xilften.net
 ||brightvar.bid/puopen.php
 ||clearload.bid/js/display.js
 ||clearload.bid/puopen.php
+||gloyah.net/js/display.js
+||gloyah.net/puopen.php
 ||swiftviz.net/js/display.js
 ||swiftviz.net/puopen.php
 ||uclaut.net/js/display.js

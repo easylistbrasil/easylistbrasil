@@ -695,7 +695,7 @@ bobfilmes.com##div[style*="z-index"]
 ! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(advert)
 ! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Atenção)
 ! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Warning)
-uclaut.net##body[id="home"] > div[style="margin:auto; width:50%;"]
+gloyah.net,uclaut.net##body[id="home"] > div[style="margin:auto; width:50%;"]
 ! futeboltvgratis.com
 futeboltvgratis.com##[id*="anuncio"]
 futeboltvgratis.com##a[id="linkantes"]
