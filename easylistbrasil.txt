@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 6pE8laLBY4qfN4U1ReHoJQ
-! Version: 201904251525
+! Checksum: ECytZHnDLQ9jPCSA3VeEfQ
+! Version: 201905042119
 ! Title: EasyList Brasil
-! Last modified: 25 Apr 2019 15:25 UTC
+! Last modified: 04 May 2019 21:19 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -333,17 +333,27 @@ adblockplus.org#@#a[href*="adserver"]
 !-----------------------Anunciantes de terceiros-----------------------!
 ! *** easylistbrasil:easylistbrasil/adservers.txt ***
 ||ads.vev.io^$third-party
+||adsco.re^$third-party
+||btovopyov.com^$third-party
 ||cdn.advnet.xyz^$third-party
 ||disqusads.com^$third-party
+||dolohen.com^$third-party
 ||doubleclick.*^$third-party
+||dynamicadx.com^$third-party
 ||googlesyndication.com^$third-party
+||ig0nr8hhhb.com^$third-party
+||liuduuct.com^$third-party
 ||mgid.com^$third-party
 ||moatads.com^$third-party
 ||pagead*.googlesyndication.com^$third-party
+||pdn-1.com^$third-party
+||pushanert.com^$third-party
 ||pushnews.eu^$third-party
 ||spider.ad^$third-party
 ||tgdaudience.com^$third-party
 ||tinypass.com^$third-party
+||uswgkadyika.com^$third-party
+||yibacurd.com^$third-party
 ! *** easylistbrasil:easylistbrasil/adservers_popup.txt ***
 ||ads.vev.io^$popup
 ! *** easylistbrasil:easylistbrasil/adult_adservers.txt ***
@@ -1323,6 +1333,8 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=ultracinefilmes.com
 ! thepiratefilmesonline.org
 |http*://$popup,script,third-party,xmlhttprequest,domain=thepiratefilmesonline.org
+! sportzonline.co
+|http*://$popup,script,third-party,xmlhttprequest,domain=sportzonline.co
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -3967,6 +3979,9 @@ uol.com.br#@#[src*="data:image"]
 @@||tmearn.com/js/ads2.js
 ! downloadmpb.blogspot.com
 @@||downloadmpb.blogspot.com^$generichide
+! iptvtools.net
+@@||www.iptvtools.net$generichide
+@@||www.iptvtools.net/files/js/adsbygoogle.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
