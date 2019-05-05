@@ -693,6 +693,8 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=ultracinefilmes.com
 ! thepiratefilmesonline.org
 |http*://$popup,script,third-party,xmlhttprequest,domain=thepiratefilmesonline.org
+! sportzonline.co
+|http*://$popup,script,third-party,xmlhttprequest,domain=sportzonline.co
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

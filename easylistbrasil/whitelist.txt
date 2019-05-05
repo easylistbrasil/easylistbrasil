@@ -1342,6 +1342,9 @@ uol.com.br#@#[src*="data:image"]
 @@||tmearn.com/js/ads2.js
 ! downloadmpb.blogspot.com
 @@||downloadmpb.blogspot.com^$generichide
+! iptvtools.net
+@@||www.iptvtools.net$generichide
+@@||www.iptvtools.net/files/js/adsbygoogle.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
