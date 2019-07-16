@@ -511,7 +511,7 @@
 ! media
 @@/*.m3u8
 @@/*.ts
-@@||*.mp4$domain=~tv-msn.com|~tvonlineaovivo.net
+@@||*.mp4$domain=~alfastream.cc|~tv-msn.com|~tvonlineaovivo.net
 @@||*.srt
 @@||*/crossdomain.xml$domain=vidto.me
 @@||*/live/master*/hls.key$xmlhttprequest
