@@ -1,3 +1,4 @@
+||5edeb195868e2195.com^$third-party
 ||ads.vev.io^$third-party
 ||adsco.re^$third-party
 ||btovopyov.com^$third-party
@@ -13,6 +14,7 @@
 ||moatads.com^$third-party
 ||pagead*.googlesyndication.com^$third-party
 ||pdn-1.com^$third-party
+||phengung.net^$third-party
 ||pushanert.com^$third-party
 ||pushnews.eu^$third-party
 ||spider.ad^$third-party

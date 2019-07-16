@@ -695,6 +695,15 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=thepiratefilmesonline.org
 ! sportzonline.co
 |http*://$popup,script,third-party,xmlhttprequest,domain=sportzonline.co
+! alfastream.cc|actelecup.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=actelecup.com|alfastream.cc
+||*.mp4$domain=actelecup.com|alfastream.cc
+! filmesonlinehdx.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=filmesonlinehdx.org
+! hdfilmes.pro
+|http*://$popup,script,third-party,xmlhttprequest,domain=hdfilmes.pro
+! megafilmesshd.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=megafilmesshd.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

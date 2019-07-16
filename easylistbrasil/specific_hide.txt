@@ -151,6 +151,7 @@ flashx.co,flashx.tv,flashx1.tv##img[class="jwlogo"]
 flashx.co,flashx.tv,flashx1.tv##img[src*="/logo/"]
 flashx.co,flashx.tv,flashx1.tv##noscript
 ! clipwatching.com
+clipwatching.com##body > div:last-child
 clipwatching.com##div[class^="jw-dock"][class$="jw-reset"]
 clipwatching.com##div[class^="video_ad"]
 ! watchers.to
@@ -1115,3 +1116,12 @@ empregandoab.xyz##div[id="banner"]
 empregandoab.xyz##div[id="divads"]
 empregandoab.xyz##div[id="myModal2"]
 empregandoab.xyz##img[id="h1bg"]
+! alfastream.cc
+alfastream.cc##a[class="adv_clickable"]
+! actelecup.com
+actelecup.com##a[class="adv_clickable"]
+! hdfilmes.pro
+hdfilmes.pro##center > a[class="imgadv"]
+hdfilmes.pro##center > a[class="imgadvup"]
+! megafilmesshd.com
+megafilmesshd.com##div[id="div1"] > div[class="movieplay"] > iframe

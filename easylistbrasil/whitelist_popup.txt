@@ -40,6 +40,8 @@
 @@||driveproxy.net$popup,domain=all123movies.com|all123movies.se|all123movies.to
 @@||elitefilmesonline.com$popup,domain=maxflixhd.com
 @@||empregandoab.xyz$popup,domain=verfilmeseseriesonline.com
+@@||empregosdomomento.club$popup,domain=verfilmeseseriesonline.com
+@@||empregototal.club$popup,domain=verfilmeseseriesonline.com
 @@||estantepublica.net/video/campanha.php?*^$popup,domain=netcine.tv|netcine.us
 @@||file.seriesonline.io/download$popup
 @@||filmeseseriesonline.info/campanha.php$popup
@@ -92,6 +94,8 @@
 @@||torrentsbaixar.com$popup,domain=maxflixhd.com
 @@||tvgazeta.com.br/aovivo/$popup
 @@||tvmap.com.br^$popup,domain=skyonlinegratis.com
+@@||verfilmeseseriesonline.com/social.php$popup
+@@||verfilmeseseriesonline.com/token.php$popup
 @@||vertv.me/radios/cidades/radios-*.php$popup
 @@||vidcloud.co/embed/$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 @@||vidoza.net/*.html$popup,domain=xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is

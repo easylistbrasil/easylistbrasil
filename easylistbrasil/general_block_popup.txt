@@ -1,5 +1,6 @@
 ://ads.$popup
 ! Used with many websites to generate multiple popups
+/cancel.png$popup
 /clicou.php$popup
 /favicon.ico$popup
 /iuqasfg3$popup

@@ -185,6 +185,7 @@
 @@/js/jquery.repeater.js
 @@/js/lazy-images.min.js
 @@/js/lazyload-*.min.js
+@@/js/lazyload.js
 @@/js/libs.js
 @@/js/lity.js
 @@/js/lity.min.js
@@ -284,6 +285,8 @@
 @@/social_login/general.js
 @@/sortable.min.js
 @@/static/js/jwplayer.js
+@@/static/player/*/builds/moonplayer/player.min.js
+@@/static/player/*/builds/moonwalk/player.min.js
 @@/superfish.js
 @@/swfobject.js
 @@/swiper/dist/js/swiper.jquery.min.js
@@ -445,6 +448,7 @@
 @@||cdnjs.cloudflare.com/ajax/libs/flowplayer/*/flowplayer.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/highlight.js/*/highlight.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/*/jquery.lazyload.js
+@@||cdnjs.cloudflare.com/ajax/libs/jquery.lazyload/*/jquery.lazyload.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/core.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/jquery.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/jquery/*/jquery.min.map
@@ -1347,6 +1351,22 @@ uol.com.br#@#[src*="data:image"]
 @@||www.iptvtools.net/files/js/adsbygoogle.js
 ! netcine.us
 @@/wp-content/themes/wpmovies4/js/js.min.js$domain=netcine.us
+! empregosdomomento.club
+@@||empregosdomomento.club$generichide
+! empregototal.club
+@@||empregototal.club$generichide
+! empregosdomomento.club|empregototal.club
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=empregosdomomento.club|empregototal.club
+! topflix.tv
+@@||bit.ly^$domain=topflix.tv
+@@||simpla.site^$domain=topflix.tv
+@@||sistentech.online^$domain=topflix.tv
+@@||topflix.tv$generichide
+! filmesonlinehdx.org
+@@||filmesonlinehdx.org/wp-content/cache/wpfc-minified/*/wgbg.js
+@@||filmesonlinehdx.org/wp-content/themes/vizeratt/assets/js/scripts.js
+@@||filmesonlinehdx.org/wp-content/themes/vizeratt/inc/parts/single/listas/se_post.php
+@@||filmesonlinehdx.org/wp-content/themes/vizeratt/inc/parts/single/player_post.php
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
