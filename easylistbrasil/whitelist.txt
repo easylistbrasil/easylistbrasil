@@ -956,6 +956,7 @@
 ! viki.com
 @@blob:*www.viki.com/*^$script
 @@||*.viki.io/*/ima3.js
+@@||*.viki.io/a/application_header_sync-*.js
 @@||*.viki.io/a/i*n/pt-*.js
 @@||0.viki.io/a/*.js
 @@||viki.com^$generichide
@@ -1367,6 +1368,9 @@ uol.com.br#@#[src*="data:image"]
 @@||filmesonlinehdx.org/wp-content/themes/vizeratt/assets/js/scripts.js
 @@||filmesonlinehdx.org/wp-content/themes/vizeratt/inc/parts/single/listas/se_post.php
 @@||filmesonlinehdx.org/wp-content/themes/vizeratt/inc/parts/single/player_post.php
+! ohmymag.com.br
+@@/ima3.js$domain=ohmymag.com.br
+@@||ohmymag.com.br$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest

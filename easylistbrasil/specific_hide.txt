@@ -1051,6 +1051,8 @@ xmovies8.cloud##div[class*="alert"]
 xmovies8.cloud##div[class^="main-content"] > div[class="content-kuss"]
 xmovies8.cloud##iframe[src*="banner"]
 ! nerdprofessor.com.br
+nerdprofessor.com.br###cboxOverlay
+nerdprofessor.com.br###cboxWrapper
 nerdprofessor.com.br##a[href$="/oferta"]
 ! fastplay.to
 fastplay.to##div[class="afs_ads"]
@@ -1125,3 +1127,11 @@ hdfilmes.pro##center > a[class="imgadv"]
 hdfilmes.pro##center > a[class="imgadvup"]
 ! megafilmesshd.com
 megafilmesshd.com##div[id="div1"] > div[class="movieplay"] > iframe
+! lctutors.com.br
+lctutors.com.br##.e3lan
+lctutors.com.br##.e3lan-top
+lctutors.com.br##a[href*="/aff_c?offer_id="] > img
+lctutors.com.br#$#abort-on-property-read eval
+lctutors.com.br#?#div[id="text-html-widget-8"]:-abp-contains(PUBLICIDADE)
+! ohmymag.com.br
+ohmymag.com.br##div[class="post-aside__popup"]

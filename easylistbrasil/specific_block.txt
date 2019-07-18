@@ -704,6 +704,12 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=hdfilmes.pro
 ! megafilmesshd.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=megafilmesshd.com
+! nerdprofessor.com.br
+||nerdprofessor.com.br/wp-content/uploads/smp_plain_popup.html
+! ohmymag.com.br
+|http*://$popup,script,third-party,xmlhttprequest,domain=ohmymag.com.br
+! descomplica.com.br
+||*.cloudfront.net^*/banner$domain=descomplica.com.br
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

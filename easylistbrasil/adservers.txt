@@ -9,6 +9,7 @@
 ||dynamicadx.com^$third-party
 ||googlesyndication.com^$third-party
 ||ig0nr8hhhb.com^$third-party
+||leiki.com^$third-party
 ||liuduuct.com^$third-party
 ||mgid.com^$third-party
 ||moatads.com^$third-party
