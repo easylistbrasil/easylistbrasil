@@ -14,6 +14,8 @@ Compatível com: ![AdBlock](https://i.imgur.com/3KbyifF.png) [Adblock][], ![AdBl
 
 [Adicionar](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt&title=EasyList%20Brasil)
 
+[Visualizar](https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt)
+
 [Android](https://easylistbrasil.github.io/main/2018/08/22/android.html)
 
 [Changelog](https://github.com/easylistbrasil/easylistbrasil/commits/filtro/easylistbrasil.txt)
