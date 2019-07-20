@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: V+zj87JKL05/jyjffgNvDg
-! Version: 201907182034
+! Checksum: eM2D46+w6X9wQ3uXBulZ/w
+! Version: 201907192139
 ! Title: EasyList Brasil
-! Last modified: 18 Jul 2019 20:34 UTC
+! Last modified: 19 Jul 2019 21:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1354,6 +1354,8 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=ohmymag.com.br
 ! descomplica.com.br
 ||*.cloudfront.net^*/banner$domain=descomplica.com.br
+! enrt.eu
+|http*://$popup,script,third-party,xmlhttprequest,domain=enrt.eu
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -2651,6 +2653,9 @@ lctutors.com.br#$#abort-on-property-read eval
 lctutors.com.br#?#div[id="text-html-widget-8"]:-abp-contains(PUBLICIDADE)
 ! ohmymag.com.br
 ohmymag.com.br##div[class="post-aside__popup"]
+! enrt.eu
+enrt.eu##a[href*="/rediorecionador/"]
+enrt.eu##div[class^="banner"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3767,6 +3772,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdn.gloyah.net/static/image/logo.png
 @@||cdn.gloyah.net/static/js/b64.js
 @@||cdn.gloyah.net/static/js/view105b.js
+@@||cdn.gloyah.net/static/js/view105c2.js
 @@||cdn.swiftviz.net$image,stylesheet
 @@||cdn.swiftviz.net/static/js/b64.js
 @@||cdn.swiftviz.net/static/js/view105b.js
@@ -3778,6 +3784,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||clearonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||facebook.com/plugins/like.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||gloyah.net/1market.php
+@@||gloyah.net/2market.php
 @@||gloyah.net/static/css/omnigy.css
 @@||gloyah.net^$generichide
 @@||liveadexchanger.com/a/display.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
@@ -4049,6 +4056,8 @@ uol.com.br#@#[src*="data:image"]
 ! ohmymag.com.br
 @@/ima3.js$domain=ohmymag.com.br
 @@||ohmymag.com.br$generichide
+! enrt.eu
+@@||enrt.eu/js/ads.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
