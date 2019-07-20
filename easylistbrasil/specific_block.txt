@@ -630,7 +630,7 @@ $script,domain=speedtest.net
 ! mp3-youtube.download
 |http*://$popup,script,third-party,websocket,xmlhttprequest,domain=mp3-youtube.download
 ! 123movie
-|http*://$popup,script,third-party,xmlhttprequest,domain=123movie.cc|123movies.actor|123movies.la|123moviesfreenow.com|123moviesfull.me|all123movies.com|all123movies.se|all123movies.to|get123movies.com|l23movies.com|my123movies.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=123movie.cc|123movies.actor|123movies.la|123moviesfreenow.com|123moviesfull.me|123moviespedia.com|all123movies.com|all123movies.se|all123movies.to|get123movies.com|l23movies.com|my123movies.org
 ! futebollivre.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=futebollivre.net
 ! telerium.tv
