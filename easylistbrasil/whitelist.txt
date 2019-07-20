@@ -186,6 +186,7 @@
 @@/js/lazy-images.min.js
 @@/js/lazyload-*.min.js
 @@/js/lazyload.js
+@@/js/lazyLoad.min.js
 @@/js/libs.js
 @@/js/lity.js
 @@/js/lity.min.js
@@ -1298,6 +1299,10 @@ uol.com.br#@#[src*="data:image"]
 ! animeplus.org
 @@||*/ima3.js$domain=animeplus.org
 @@||animeplus.org$image
+@@||animeplus.org/js/zepto.min.js
+@@||animeplus.org/main-v2.js
+@@||animeplus.org/manifest.json
+@@||animeplus.org/pager.php
 ! avantisvideo.com
 @@||cdn.avantisvideo.com/avm/js/video-loader.js
 ! visioncloud
