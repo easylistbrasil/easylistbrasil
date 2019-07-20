@@ -1135,3 +1135,6 @@ lctutors.com.br#$#abort-on-property-read eval
 lctutors.com.br#?#div[id="text-html-widget-8"]:-abp-contains(PUBLICIDADE)
 ! ohmymag.com.br
 ohmymag.com.br##div[class="post-aside__popup"]
+! enrt.eu
+enrt.eu##a[href*="/rediorecionador/"]
+enrt.eu##div[class^="banner"]

@@ -1089,6 +1089,7 @@
 @@||cdn.gloyah.net/static/image/logo.png
 @@||cdn.gloyah.net/static/js/b64.js
 @@||cdn.gloyah.net/static/js/view105b.js
+@@||cdn.gloyah.net/static/js/view105c2.js
 @@||cdn.swiftviz.net$image,stylesheet
 @@||cdn.swiftviz.net/static/js/b64.js
 @@||cdn.swiftviz.net/static/js/view105b.js
@@ -1100,6 +1101,7 @@
 @@||clearonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||facebook.com/plugins/like.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||gloyah.net/1market.php
+@@||gloyah.net/2market.php
 @@||gloyah.net/static/css/omnigy.css
 @@||gloyah.net^$generichide
 @@||liveadexchanger.com/a/display.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
@@ -1371,6 +1373,8 @@ uol.com.br#@#[src*="data:image"]
 ! ohmymag.com.br
 @@/ima3.js$domain=ohmymag.com.br
 @@||ohmymag.com.br$generichide
+! enrt.eu
+@@||enrt.eu/js/ads.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
