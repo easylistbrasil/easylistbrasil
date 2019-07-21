@@ -437,6 +437,7 @@
 @@||cdn.jsdelivr.net/jwplayer/*/jwplayer.js
 @@||cdn.jsdelivr.net/npm/@hola.org/jwplayer-hlsjs@latest/dist/jwplayer.hlsjs.min.js
 @@||cdn.jsdelivr.net/npm/clappr*latest/dist/clappr.min.js
+@@||cdn.jsdelivr.net/npm/clappr@latest
 @@||cdn.jsdelivr.net/npm/hls.js@latest
 @@||cdn.jsdelivr.net/npm/jquery*^$script
 @@||cdn.jsdelivr.net/npm/lazyload@*/lazyload.min.js

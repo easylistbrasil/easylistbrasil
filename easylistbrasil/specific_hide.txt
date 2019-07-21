@@ -280,6 +280,8 @@ streamlive.to##div[id="ad_overlay_content"]
 streamlive.to##img[src*="/close.gif"]
 streamlive.to##img[src*="/close_button.png"]
 ! assistirtvaovivo.tv
+assistirtvaovivo.tv##a[class="waves-effect waves-light btn-floating light-blue lighten-2"]
+assistirtvaovivo.tv##a[href*="/ads/direct.php"]
 assistirtvaovivo.tv##div[id="ads"]
 ! tvonline.plus
 tvonline.plus##[class$="-ad"]
@@ -360,7 +362,7 @@ filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeser
 filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeseriesonline.info,filmeeseriesonline.net,filmeeseriesonline.online,filmeeseriesonline.org,filmeseserieonline.co,filmeseserieonline.com,filmeseserieonline.gratis,filmeseserieonline.info,filmeseserieonline.net,filmeseserieonline.online,filmeseserieonline.org,filmeseseriesonline.co,filmeseseriesonline.com,filmeseseriesonline.gratis,filmeseseriesonline.info,filmeseseriesonline.net,filmeseseriesonline.online,filmeseseriesonline.org,filmesonlineseries.co,filmesonlineseries.com,filmesonlineseries.gratis,filmesonlineseries.info,filmesonlineseries.net,filmesonlineseries.online,filmesonlineseries.org##div[style*="z-index"]
 ! redecanais
 cometa.top##div[id="video-id_logo"]
-canais.gratis,redecanais.biz,redecanais.cc,redecanais.co,redecanais.com,redecanais.cz,redecanais.gratis,redecanais.info,redecanais.io,redecanais.me,redecanais.online,redecanais.org,redecanais.ru,redecanais.site,redecanais.to,redecanais.tv##div[style*="z-index"]
+canais.gratis,cometa.top,redecanais.biz,redecanais.cc,redecanais.co,redecanais.com,redecanais.cz,redecanais.gratis,redecanais.info,redecanais.io,redecanais.me,redecanais.online,redecanais.org,redecanais.ru,redecanais.site,redecanais.to,redecanais.tv##div[style*="z-index"]
 ! filmesonlinex
 filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##a[href*="/advertising/"]
 filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[class*="Modal"]
@@ -1146,3 +1148,6 @@ ceesty.com##iframe[src*="//ads."]
 ceesty.com##iframe[src*="//shortest"]
 ! wstream.to
 wstream.to##iframe[class="padPreload"]
+! multicanais.com
+multicanais.com##div[class="player-logo"]
+multicanais.com##div[class^="vlog-featured-3"][class$="vlog-featured-custom"]

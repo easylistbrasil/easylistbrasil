@@ -724,6 +724,12 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=futemax.tv
 ! futebolaovivovitao.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=futebolaovivovitao.com
+! multicanais.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=multicanais.com
+! sportzonline.to
+|http*://$popup,script,third-party,xmlhttprequest,domain=sportzonline.to
+! tvonlinegratis.ru
+|http*://$popup,script,third-party,xmlhttprequest,domain==tvonlinegratis.ru
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
