@@ -53,6 +53,8 @@
 ||spotscenered.info^$domain=streamango.com
 ! streamcherry.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=streamcherry.com
+! wstream.to
+|http*://$popup,script,third-party,xmlhttprequest,domain=wstream.to
 ! vidzi
 |http*://$popup,script,third-party,xmlhttprequest,domain=vidzi.nu|vidzi.online|vidzi.si|vidzi.tv
 ||*/path/ads/ads.js$domain=vidzi.tv
@@ -233,8 +235,10 @@ $script,domain=tvgram.stream
 ! otampadabola2.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=otampadabola2.com
 ! janjua
-|http*://$popup,script,third-party,xmlhttprequest,domain=janjuaplayer.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=janjua.tv|janjuaplayer.com
 ||janjuaplayer.com/resources/ads/*.htm
+! daddylive.live
+|http*://$popup,script,third-party,xmlhttprequest,domain=daddylive.live
 ! p3g.tv
 |http*://$popup,script,third-party,xmlhttprequest,domain=p3g.tv
 ||p3g.tv/resources/ads/*.htm
@@ -277,6 +281,9 @@ $script,domain=tvgram.stream
 ! vto.gratis
 |http*://$popup,script,third-party,xmlhttprequest,domain=vto.gratis
 ! futebolaovivo.in
+/pagead/$domain=futebolaovivo.in|futebolaovivovitao.com|futemax.tv|sportzonline.co|wstream.to
+/redirect$domain=futebolaovivo.in|futebolaovivovitao.com|futemax.tv|sportzonline.co|wstream.to
+/safeframe/$domain=futebolaovivo.in|futebolaovivovitao.com|futemax.tv|sportzonline.co|wstream.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=futebolaovivo.in
 ! netu
 |http*://$popup,script,third-party,xmlhttprequest,domain=hqq.tv|hqq.watch
@@ -492,6 +499,7 @@ get.$domain=xilften.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=gloyah.net|uclaut.net
 ! ||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net
 ! ||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=ecleneue.com
 ||*.info$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 ||*.net^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 ||*.site^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
@@ -712,6 +720,10 @@ $script,domain=speedtest.net
 ||*.cloudfront.net^*/banner$domain=descomplica.com.br
 ! enrt.eu
 |http*://$popup,script,third-party,xmlhttprequest,domain=enrt.eu
+! futemax.tv
+|http*://$popup,script,third-party,xmlhttprequest,domain=futemax.tv
+! futebolaovivovitao.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=futebolaovivovitao.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

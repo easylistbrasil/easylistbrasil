@@ -697,6 +697,8 @@ bobfilmes.com##div[style*="z-index"]
 ! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Atenção)
 ! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Warning)
 gloyah.net,uclaut.net##body[id="home"] > div[style="margin:auto; width:50%;"]
+ecleneue.com##div[class="arrow"]
+ecleneue.com##div[class="logo-wrapper"]
 ! futeboltvgratis.com
 futeboltvgratis.com##[id*="anuncio"]
 futeboltvgratis.com##a[id="linkantes"]
@@ -1138,3 +1140,9 @@ ohmymag.com.br##div[class="post-aside__popup"]
 ! enrt.eu
 enrt.eu##a[href*="/rediorecionador/"]
 enrt.eu##div[class^="banner"]
+! ceesty.com
+ceesty.com##div[class="skip-advert"]
+ceesty.com##iframe[src*="//ads."]
+ceesty.com##iframe[src*="//shortest"]
+! wstream.to
+wstream.to##iframe[class="padPreload"]

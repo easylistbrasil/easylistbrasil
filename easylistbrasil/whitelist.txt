@@ -435,10 +435,13 @@
 @@||cdn.jsdelivr.net/clappr/latest/clappr.min.js
 @@||cdn.jsdelivr.net/gh/jquery*^$script
 @@||cdn.jsdelivr.net/jwplayer/*/jwplayer.js
+@@||cdn.jsdelivr.net/npm/@hola.org/jwplayer-hlsjs@latest/dist/jwplayer.hlsjs.min.js
 @@||cdn.jsdelivr.net/npm/clappr*latest/dist/clappr.min.js
 @@||cdn.jsdelivr.net/npm/hls.js@latest
 @@||cdn.jsdelivr.net/npm/jquery*^$script
 @@||cdn.jsdelivr.net/npm/lazyload@*/lazyload.min.js
+@@||cdn.jsdelivr.net/npm/p2p-media-loader-core@*/build/p2p-media-loader-core.min.js
+@@||cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@*/build/p2p-media-loader-hlsjs.min.js
 @@||cdn.jsdelivr.net/wp/*^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
 @@||cdn.viblast.com/vb/*/viblast.remuxer.js
@@ -829,6 +832,13 @@
 @@||onplay.tv/player/js/peer5.flowplayer.plugin.js
 @@||onplay.tv/player/js/peer5.jwplayer*.plugin.js
 ! janjua
+@@||janjua.pw/resources/scripts/customPlayer/media-player-online.js
+@@||janjua.pw/resources/scripts/newjanjua.js
+@@||janjua.pw/resources/scripts/vp/hlsjs.*.js
+@@||janjua.pw/resources/scripts/vp/lz-string.min.js
+@@||janjua.pw/resources/scripts/vp/simplepeer.min.js
+@@||janjua.pw/resources/scripts/vp/socket.io.js
+@@||janjua.tv/resources/scripts/hjanjua.js
 @@||janjuaplayer.com/resources/scripts/generateAds.js
 ! p3g.tv
 @@||p3g.tv/resources/scripts/canvas.js
@@ -1050,6 +1060,7 @@
 @@||maps.googleapis.com^$domain=aovivobrasil.com.br
 ! adf.ly
 @@/nr-*.min.js$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@/ntfc.php$domain=ecleneue.com
 @@/script/wait.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||*/a/display.php?r=$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||*/script/pub.js$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
@@ -1100,6 +1111,7 @@
 @@||cdn.uclaut.net/static/js/view105b.js
 @@||clearload.bid^$generichide
 @@||clearonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||ecleneue.com$generichide
 @@||facebook.com/plugins/like.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||gloyah.net/1market.php
 @@||gloyah.net/2market.php
@@ -1379,7 +1391,12 @@ uol.com.br#@#[src*="data:image"]
 @@/ima3.js$domain=ohmymag.com.br
 @@||ohmymag.com.br$generichide
 ! enrt.eu
+@@||enrt.eu$generichide
 @@||enrt.eu/js/ads.js
+! ceesty.com
+@@||ceesty.com$generichide
+! futebolaovivovitao.com
+@@/jquery.tablesorter/*/jquery.tablesorter.min.js$domain=futebolaovivovitao.com
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
