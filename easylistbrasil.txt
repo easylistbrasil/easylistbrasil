@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: yg91OvQEC4RcCuTsNSb4Ng
-! Version: 201907211824
+! Checksum: Wc1UBVbkX9LcDFu+b9oU6g
+! Version: 201907211947
 ! Title: EasyList Brasil
-! Last modified: 21 Jul 2019 18:24 UTC
+! Last modified: 21 Jul 2019 19:47 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -317,15 +317,16 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ##video_ad_fadein
 ! *** easylistbrasil:easylistbrasil/whitelist_general_hide.txt ***
 megafilmes.org,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesserieshd.com#@#[class*="modal"]
+assistirtvaovivo.tv#@#[class="modalDialog"]
 reddit.com#@#[href*="anuncio"]
 megafilmes.org,megafilmesonline-hd.com#@#[id*="modal"]
 temanimes.net,temfilmes.net,temseries.net#@#[id*="tela"]
-all123movies.com,all123movies.se,all123movies.to,animeplus.org,animesonline.co,gomovies.cool,gomovies.mx,gomovieshd.cc,gostream.site,my123movies.org,putlocker.vip,xmovies8.cloud#@#[src*="data:image"]
+all123movies.com,all123movies.se,all123movies.to,animeplus.org,animesonline.co,assistirtvaovivo.tv,gomovies.cool,gomovies.mx,gomovieshd.cc,gostream.site,multicanais.com,my123movies.org,putlocker.vip,xmovies8.cloud#@#[src*="data:image"]
 canais.ink#@#body > div:last-child
 megafilmes.co#@#div[class*="pop"]
 thenightseries.net#@#div[class="itens"] > a:first-child
 megafilmeshd50.top,megafilmesonline-hd.com#@#div[id^="ad"]
-concrete.com.br,diarioonline.com.br,encurta.net,fatosdesconhecidos.com.br,filmesonlineplay.com,gomovies.cool,gomovies.mx,gomovieshd.cc,ipfingerprints.com,liveleak.com,player.theplatform.com,putlocker.vip,speedtest.net,tecmundo.com.br,tugaflix.com,tugaflix.date,xmovies8.cloud,youtube.com#@#div[style*="z-index"]
+assistirtvaovivo.tv,concrete.com.br,diarioonline.com.br,encurta.net,fatosdesconhecidos.com.br,filmesonlineplay.com,gomovies.cool,gomovies.mx,gomovieshd.cc,ipfingerprints.com,liveleak.com,multicanais.com,player.theplatform.com,putlocker.vip,speedtest.net,tecmundo.com.br,tugaflix.com,tugaflix.date,tvonlinegratis.ru,xmovies8.cloud,youtube.com#@#div[style*="z-index"]
 youtube.com#@#iframe[src*="about"]
 youtube.com#@#iframe[src^="about"]
 ! fix adblockplus.org/en/subscriptions
@@ -1377,6 +1378,12 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=futemax.tv
 ! futebolaovivovitao.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=futebolaovivovitao.com
+! multicanais.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=multicanais.com
+! sportzonline.to
+|http*://$popup,script,third-party,xmlhttprequest,domain=sportzonline.to
+! tvonlinegratis.ru
+|http*://$popup,script,third-party,xmlhttprequest,domain==tvonlinegratis.ru
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1819,6 +1826,8 @@ streamlive.to##div[id="ad_overlay_content"]
 streamlive.to##img[src*="/close.gif"]
 streamlive.to##img[src*="/close_button.png"]
 ! assistirtvaovivo.tv
+assistirtvaovivo.tv##a[class="waves-effect waves-light btn-floating light-blue lighten-2"]
+assistirtvaovivo.tv##a[href*="/ads/direct.php"]
 assistirtvaovivo.tv##div[id="ads"]
 ! tvonline.plus
 tvonline.plus##[class$="-ad"]
@@ -1899,7 +1908,7 @@ filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeser
 filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeseriesonline.info,filmeeseriesonline.net,filmeeseriesonline.online,filmeeseriesonline.org,filmeseserieonline.co,filmeseserieonline.com,filmeseserieonline.gratis,filmeseserieonline.info,filmeseserieonline.net,filmeseserieonline.online,filmeseserieonline.org,filmeseseriesonline.co,filmeseseriesonline.com,filmeseseriesonline.gratis,filmeseseriesonline.info,filmeseseriesonline.net,filmeseseriesonline.online,filmeseseriesonline.org,filmesonlineseries.co,filmesonlineseries.com,filmesonlineseries.gratis,filmesonlineseries.info,filmesonlineseries.net,filmesonlineseries.online,filmesonlineseries.org##div[style*="z-index"]
 ! redecanais
 cometa.top##div[id="video-id_logo"]
-canais.gratis,redecanais.biz,redecanais.cc,redecanais.co,redecanais.com,redecanais.cz,redecanais.gratis,redecanais.info,redecanais.io,redecanais.me,redecanais.online,redecanais.org,redecanais.ru,redecanais.site,redecanais.to,redecanais.tv##div[style*="z-index"]
+canais.gratis,cometa.top,redecanais.biz,redecanais.cc,redecanais.co,redecanais.com,redecanais.cz,redecanais.gratis,redecanais.info,redecanais.io,redecanais.me,redecanais.online,redecanais.org,redecanais.ru,redecanais.site,redecanais.to,redecanais.tv##div[style*="z-index"]
 ! filmesonlinex
 filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##a[href*="/advertising/"]
 filmesonlinex.br,filmesonlinex.cc,filmesonlinex.co,filmesonlinex.com,filmesonlinex.com.br,filmesonlinex.gratis,filmesonlinex.info,filmesonlinex.me,filmesonlinex.net,filmesonlinex.online,filmesonlinex.org,filmesonlinex.ru,filmesonlinex.site,filmesonlinex.tk,filmesonlinex.to,filmesonlinex.top,filmesonlinex.tv,filmesonlinex.us,filmesonlinex.vip##div[class*="Modal"]
@@ -2685,6 +2694,9 @@ ceesty.com##iframe[src*="//ads."]
 ceesty.com##iframe[src*="//shortest"]
 ! wstream.to
 wstream.to##iframe[class="padPreload"]
+! multicanais.com
+multicanais.com##div[class="player-logo"]
+multicanais.com##div[class^="vlog-featured-3"][class$="vlog-featured-custom"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3149,6 +3161,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdn.jsdelivr.net/jwplayer/*/jwplayer.js
 @@||cdn.jsdelivr.net/npm/@hola.org/jwplayer-hlsjs@latest/dist/jwplayer.hlsjs.min.js
 @@||cdn.jsdelivr.net/npm/clappr*latest/dist/clappr.min.js
+@@||cdn.jsdelivr.net/npm/clappr@latest
 @@||cdn.jsdelivr.net/npm/hls.js@latest
 @@||cdn.jsdelivr.net/npm/jquery*^$script
 @@||cdn.jsdelivr.net/npm/lazyload@*/lazyload.min.js
