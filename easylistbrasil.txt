@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CrtKTUFVG5Uy5kaAQXWQ1g
-! Version: 201907201806
+! Checksum: I6HUKMa+K7wqYzrYurPRYw
+! Version: 201907202215
 ! Title: EasyList Brasil
-! Last modified: 20 Jul 2019 18:06 UTC
+! Last modified: 20 Jul 2019 22:15 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -325,7 +325,7 @@ canais.ink#@#body > div:last-child
 megafilmes.co#@#div[class*="pop"]
 thenightseries.net#@#div[class="itens"] > a:first-child
 megafilmeshd50.top,megafilmesonline-hd.com#@#div[id^="ad"]
-concrete.com.br,diarioonline.com.br,fatosdesconhecidos.com.br,filmesonlineplay.com,gomovies.cool,gomovies.mx,gomovieshd.cc,ipfingerprints.com,liveleak.com,player.theplatform.com,putlocker.vip,speedtest.net,tecmundo.com.br,tugaflix.com,tugaflix.date,xmovies8.cloud,youtube.com#@#div[style*="z-index"]
+concrete.com.br,diarioonline.com.br,encurta.net,fatosdesconhecidos.com.br,filmesonlineplay.com,gomovies.cool,gomovies.mx,gomovieshd.cc,ipfingerprints.com,liveleak.com,player.theplatform.com,putlocker.vip,speedtest.net,tecmundo.com.br,tugaflix.com,tugaflix.date,xmovies8.cloud,youtube.com#@#div[style*="z-index"]
 youtube.com#@#iframe[src*="about"]
 youtube.com#@#iframe[src^="about"]
 ! fix adblockplus.org/en/subscriptions
@@ -342,18 +342,27 @@ adblockplus.org#@#a[href*="adserver"]
 ||dolohen.com^$third-party
 ||doubleclick.*^$third-party
 ||dynamicadx.com^$third-party
+||gleaminist.info^$third-party
 ||googlesyndication.com^$third-party
+||greatdexchange.com^$third-party
 ||ig0nr8hhhb.com^$third-party
+||iqjajyjbnaqieu.com^$third-party
+||ivastoor.com^$third-party
 ||leiki.com^$third-party
 ||liuduuct.com^$third-party
+||logsss.com^$third-party
 ||mgid.com^$third-party
 ||moatads.com^$third-party
 ||pagead*.googlesyndication.com^$third-party
 ||pdn-1.com^$third-party
 ||phengung.net^$third-party
+||popmonetizer.net^$third-party
 ||pushanert.com^$third-party
 ||pushnews.eu^$third-party
+||revrtb.net^$third-party
+||rtaofgamnnfh.com^$third-party
 ||spider.ad^$third-party
+||storygize.net^$third-party
 ||tgdaudience.com^$third-party
 ||tinypass.com^$third-party
 ||uswgkadyika.com^$third-party
@@ -697,6 +706,8 @@ adblockplus.org#@#a[href*="adserver"]
 ||spotscenered.info^$domain=streamango.com
 ! streamcherry.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=streamcherry.com
+! wstream.to
+|http*://$popup,script,third-party,xmlhttprequest,domain=wstream.to
 ! vidzi
 |http*://$popup,script,third-party,xmlhttprequest,domain=vidzi.nu|vidzi.online|vidzi.si|vidzi.tv
 ||*/path/ads/ads.js$domain=vidzi.tv
@@ -877,8 +888,10 @@ $script,domain=tvgram.stream
 ! otampadabola2.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=otampadabola2.com
 ! janjua
-|http*://$popup,script,third-party,xmlhttprequest,domain=janjuaplayer.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=janjua.tv|janjuaplayer.com
 ||janjuaplayer.com/resources/ads/*.htm
+! daddylive.live
+|http*://$popup,script,third-party,xmlhttprequest,domain=daddylive.live
 ! p3g.tv
 |http*://$popup,script,third-party,xmlhttprequest,domain=p3g.tv
 ||p3g.tv/resources/ads/*.htm
@@ -921,6 +934,9 @@ $script,domain=tvgram.stream
 ! vto.gratis
 |http*://$popup,script,third-party,xmlhttprequest,domain=vto.gratis
 ! futebolaovivo.in
+/pagead/$domain=futebolaovivo.in|futebolaovivovitao.com|futemax.tv|sportzonline.co|wstream.to
+/redirect$domain=futebolaovivo.in|futebolaovivovitao.com|futemax.tv|sportzonline.co|wstream.to
+/safeframe/$domain=futebolaovivo.in|futebolaovivovitao.com|futemax.tv|sportzonline.co|wstream.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=futebolaovivo.in
 ! netu
 |http*://$popup,script,third-party,xmlhttprequest,domain=hqq.tv|hqq.watch
@@ -1136,6 +1152,7 @@ get.$domain=xilften.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=gloyah.net|uclaut.net
 ! ||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net
 ! ||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net
+|http*://$popup,script,third-party,xmlhttprequest,domain=ecleneue.com
 ||*.info$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 ||*.net^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 ||*.site^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
@@ -1356,6 +1373,10 @@ $script,domain=speedtest.net
 ||*.cloudfront.net^*/banner$domain=descomplica.com.br
 ! enrt.eu
 |http*://$popup,script,third-party,xmlhttprequest,domain=enrt.eu
+! futemax.tv
+|http*://$popup,script,third-party,xmlhttprequest,domain=futemax.tv
+! futebolaovivovitao.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=futebolaovivovitao.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -2215,6 +2236,8 @@ bobfilmes.com##div[style*="z-index"]
 ! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Atenção)
 ! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Warning)
 gloyah.net,uclaut.net##body[id="home"] > div[style="margin:auto; width:50%;"]
+ecleneue.com##div[class="arrow"]
+ecleneue.com##div[class="logo-wrapper"]
 ! futeboltvgratis.com
 futeboltvgratis.com##[id*="anuncio"]
 futeboltvgratis.com##a[id="linkantes"]
@@ -2656,6 +2679,12 @@ ohmymag.com.br##div[class="post-aside__popup"]
 ! enrt.eu
 enrt.eu##a[href*="/rediorecionador/"]
 enrt.eu##div[class^="banner"]
+! ceesty.com
+ceesty.com##div[class="skip-advert"]
+ceesty.com##iframe[src*="//ads."]
+ceesty.com##iframe[src*="//shortest"]
+! wstream.to
+wstream.to##iframe[class="padPreload"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
@@ -3118,10 +3147,13 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdn.jsdelivr.net/clappr/latest/clappr.min.js
 @@||cdn.jsdelivr.net/gh/jquery*^$script
 @@||cdn.jsdelivr.net/jwplayer/*/jwplayer.js
+@@||cdn.jsdelivr.net/npm/@hola.org/jwplayer-hlsjs@latest/dist/jwplayer.hlsjs.min.js
 @@||cdn.jsdelivr.net/npm/clappr*latest/dist/clappr.min.js
 @@||cdn.jsdelivr.net/npm/hls.js@latest
 @@||cdn.jsdelivr.net/npm/jquery*^$script
 @@||cdn.jsdelivr.net/npm/lazyload@*/lazyload.min.js
+@@||cdn.jsdelivr.net/npm/p2p-media-loader-core@*/build/p2p-media-loader-core.min.js
+@@||cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@*/build/p2p-media-loader-hlsjs.min.js
 @@||cdn.jsdelivr.net/wp/*^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
 @@||cdn.viblast.com/vb/*/viblast.remuxer.js
@@ -3512,6 +3544,13 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||onplay.tv/player/js/peer5.flowplayer.plugin.js
 @@||onplay.tv/player/js/peer5.jwplayer*.plugin.js
 ! janjua
+@@||janjua.pw/resources/scripts/customPlayer/media-player-online.js
+@@||janjua.pw/resources/scripts/newjanjua.js
+@@||janjua.pw/resources/scripts/vp/hlsjs.*.js
+@@||janjua.pw/resources/scripts/vp/lz-string.min.js
+@@||janjua.pw/resources/scripts/vp/simplepeer.min.js
+@@||janjua.pw/resources/scripts/vp/socket.io.js
+@@||janjua.tv/resources/scripts/hjanjua.js
 @@||janjuaplayer.com/resources/scripts/generateAds.js
 ! p3g.tv
 @@||p3g.tv/resources/scripts/canvas.js
@@ -3733,6 +3772,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||maps.googleapis.com^$domain=aovivobrasil.com.br
 ! adf.ly
 @@/nr-*.min.js$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@/ntfc.php$domain=ecleneue.com
 @@/script/wait.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||*/a/display.php?r=$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||*/script/pub.js$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
@@ -3783,6 +3823,7 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 @@||cdn.uclaut.net/static/js/view105b.js
 @@||clearload.bid^$generichide
 @@||clearonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
+@@||ecleneue.com$generichide
 @@||facebook.com/plugins/like.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||gloyah.net/1market.php
 @@||gloyah.net/2market.php
@@ -4062,7 +4103,12 @@ uol.com.br#@#[src*="data:image"]
 @@/ima3.js$domain=ohmymag.com.br
 @@||ohmymag.com.br$generichide
 ! enrt.eu
+@@||enrt.eu$generichide
 @@||enrt.eu/js/ads.js
+! ceesty.com
+@@||ceesty.com$generichide
+! futebolaovivovitao.com
+@@/jquery.tablesorter/*/jquery.tablesorter.min.js$domain=futebolaovivovitao.com
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
