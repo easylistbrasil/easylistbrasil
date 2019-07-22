@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: SapNw5fU7J4qTISX3Ci0iw
-! Version: 201907222010
+! Checksum: AYa81p5QUBKiFAnoMiFVzw
+! Version: 201907222045
 ! Title: EasyList Brasil
-! Last modified: 22 Jul 2019 20:10 UTC
+! Last modified: 22 Jul 2019 20:45 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -332,6 +332,8 @@ youtube.com#@#iframe[src^="about"]
 ! fix adblockplus.org/en/subscriptions
 adblockplus.org#@#a[href*="ads."]
 adblockplus.org#@#a[href*="adserver"]
+! kissjav.com
+kissjav.com#@#div[style*="z-index"]
 !-----------------------Anunciantes de terceiros-----------------------!
 ! *** easylistbrasil:easylistbrasil/adservers.txt ***
 ||5edeb195868e2195.com^$third-party
@@ -1535,6 +1537,9 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 ||static.loboclick.com$media,domain=xvideos.blog.br|xvideos10.blog.br
 ! sambaporno.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=sambaporno.com
+! kissjav.com
+||kissjav.com/sw.js
+||kissjav.com^$csp=script-src 'self' 'unsafe-inline'
 ! *** easylistbrasil:easylistbrasil/adult_specific_block_popup.txt ***
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 ! xvideos.blog.br
@@ -2722,6 +2727,9 @@ xvideos.blog.br,xvideos10.blog.br##div[class="pull-right"] > iframe[src*="admxxx
 xvideos.blog.br,xvideos10.blog.br##div[class="thumb-ad"]
 xvideos.blog.br,xvideos10.blog.br##div[id="meinrp"]
 xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
+! kissjav.com
+kissjav.com###player-advertising
+kissjav.com#$#abort-on-property-read open
 !-----------------------Lista de permissões para corrigir sites quebrados-----------------------!
 ! *** easylistbrasil:easylistbrasil/whitelist.txt ***
 ! youtube.com
@@ -4431,6 +4439,8 @@ uol.com.br#@#[src*="data:image"]
 @@||static.sexyhotplay.com.br/libs/javascripts/js/jquery.cookie.js
 ! xvideos.blog.br
 @@||xvideos10.blog.br/js/pop.js
+! kissjav.com
+@@||kissjav.com^$generichide
 ! *** easylistbrasil:easylistbrasil/adult_whitelist_popup.txt ***
 ! sexyhotplay.com.br
 @@||blog.sexyhot.com.br^$popup,domain=sexyhotplay.com.br
