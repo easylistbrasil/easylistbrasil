@@ -1400,6 +1400,8 @@ uol.com.br#@#[src*="data:image"]
 @@/jquery.tablesorter/*/jquery.tablesorter.min.js$domain=futebolaovivovitao.com
 ! thechive.com
 @@||adnxs.com/video/mediation/apn_overlay_integration.js$domain=thechive.com
+! meupatrocinio.com
+@@||meupatrocinio.com$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
