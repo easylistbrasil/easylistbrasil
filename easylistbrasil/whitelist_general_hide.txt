@@ -14,3 +14,5 @@ youtube.com#@#iframe[src^="about"]
 ! fix adblockplus.org/en/subscriptions
 adblockplus.org#@#a[href*="ads."]
 adblockplus.org#@#a[href*="adserver"]
+! kissjav.com
+kissjav.com#@#div[style*="z-index"]

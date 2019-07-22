@@ -20,3 +20,6 @@ xvideos.blog.br,xvideos10.blog.br##div[class="pull-right"] > iframe[src*="admxxx
 xvideos.blog.br,xvideos10.blog.br##div[class="thumb-ad"]
 xvideos.blog.br,xvideos10.blog.br##div[id="meinrp"]
 xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
+! kissjav.com
+kissjav.com###player-advertising
+kissjav.com#$#abort-on-property-read open

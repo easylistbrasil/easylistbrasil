@@ -3,3 +3,6 @@
 ||static.loboclick.com$media,domain=xvideos.blog.br|xvideos10.blog.br
 ! sambaporno.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=sambaporno.com
+! kissjav.com
+||kissjav.com/sw.js
+||kissjav.com^$csp=script-src 'self' 'unsafe-inline'

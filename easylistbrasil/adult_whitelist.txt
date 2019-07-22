@@ -46,3 +46,5 @@
 @@||static.sexyhotplay.com.br/libs/javascripts/js/jquery.cookie.js
 ! xvideos.blog.br
 @@||xvideos10.blog.br/js/pop.js
+! kissjav.com
+@@||kissjav.com^$generichide
