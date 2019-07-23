@@ -1402,6 +1402,9 @@ uol.com.br#@#[src*="data:image"]
 @@||adnxs.com/video/mediation/apn_overlay_integration.js$domain=thechive.com
 ! meupatrocinio.com
 @@||meupatrocinio.com$generichide
+! multicanais.com
+@@/bootstrap-table.min.js$domain=multicanais.com
+@@||api.ipify.org^$domain=multicanais.com
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
