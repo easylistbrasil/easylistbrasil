@@ -371,7 +371,6 @@ $script,domain=tvgram.stream
 ||*nightfilmes*.*^$popup,script,xmlhttprequest
 ||*qqfilmes*.*^$popup,script,xmlhttprequest
 ||*seriesonline*.*^$popup,script,xmlhttprequest
-||*teste*^$popup,script,xmlhttprequest
 ||blogspot.com^$image,domain=filmesonlinex.co
 ||ultracine*.*^$popup,script,xmlhttprequest
 ! ultracine.com.br redirect abp 3.2
