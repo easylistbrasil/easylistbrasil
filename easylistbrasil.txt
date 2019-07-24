@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: HKjV7y0AQw5eK+HZCdwk7A
-! Version: 201907232147
+! Checksum: zPjEZupz5hRmCyibCvuaoA
+! Version: 201907232150
 ! Title: EasyList Brasil
-! Last modified: 23 Jul 2019 21:47 UTC
+! Last modified: 23 Jul 2019 21:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -4148,9 +4148,7 @@ uol.com.br#@#[src*="data:image"]
 @@||meupatrocinio.com$generichide
 ! multicanais.com
 @@/bootstrap-table.min.js$domain=multicanais.com
-! querofilmeshd.online
 @@||api.ipify.org^$domain=multicanais.com
-@@||querofilmeshd.online/campanha.php$popup
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
@@ -4290,6 +4288,7 @@ uol.com.br#@#[src*="data:image"]
 @@||openloadmovies.bz$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 @@||openloadmovies.review$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 @@||p.netcine.*/players/*.php?n=*&p=*^$popup,domain=netcine.tv|netcine.us
+@@||querofilmeshd.online/campanha.php$popup
 @@||rapidvideo.com/d/$popup
 @@||ratatuireceitas.com^$popup,domain=megaseriehd.com
 @@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
