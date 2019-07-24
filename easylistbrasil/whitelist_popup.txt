@@ -67,6 +67,8 @@
 @@||oload.download/f/$popup
 @@||openload.co/f/*/$popup
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
+@@||openloadmovies.bz$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
+@@||openloadmovies.review$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 @@||p.netcine.*/players/*.php?n=*&p=*^$popup,domain=netcine.tv|netcine.us
 @@||rapidvideo.com/d/$popup
 @@||ratatuireceitas.com^$popup,domain=megaseriehd.com

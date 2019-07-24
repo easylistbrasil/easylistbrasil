@@ -1404,7 +1404,9 @@ uol.com.br#@#[src*="data:image"]
 @@||meupatrocinio.com$generichide
 ! multicanais.com
 @@/bootstrap-table.min.js$domain=multicanais.com
+! querofilmeshd.online
 @@||api.ipify.org^$domain=multicanais.com
+@@||querofilmeshd.online/campanha.php$popup
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest

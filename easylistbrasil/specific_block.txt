@@ -730,6 +730,12 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=sportzonline.to
 ! tvonlinegratis.ru
 |http*://$popup,script,third-party,xmlhttprequest,domain==tvonlinegratis.ru
+! openloadmovies.bz
+|http*://$popup,script,third-party,xmlhttprequest,domain=openloadmovies.bz
+! openloadmovies.review
+|http*://$popup,script,third-party,xmlhttprequest,domain=openloadmovies.review
+! openloadtvseries.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=openloadtvseries.com
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com

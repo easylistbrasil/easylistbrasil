@@ -1153,3 +1153,7 @@ multicanais.com##div[class="player-logo"]
 multicanais.com##div[class^="vlog-featured-3"][class$="vlog-featured-custom"]
 ! theintercept.com
 theintercept.com##iframe[id^="offer-"]
+! openloadtvseries.com
+openloadtvseries.com##a[href*="refer"]
+openloadtvseries.com##div[id*="ScriptRoot"]
+openloadtvseries.com##div[style*="z-index"]
