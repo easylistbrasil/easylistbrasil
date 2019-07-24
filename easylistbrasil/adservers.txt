@@ -22,10 +22,13 @@
 ||pdn-1.com^$third-party
 ||phengung.net^$third-party
 ||popmonetizer.net^$third-party
+||psoonsod.com^$third-party
+||ptanguth.com^$third-party
 ||pushanert.com^$third-party
 ||pushnews.eu^$third-party
 ||revrtb.net^$third-party
 ||rtaofgamnnfh.com^$third-party
+||rtmark.net^$third-party
 ||spider.ad^$third-party
 ||storygize.net^$third-party
 ||tgdaudience.com^$third-party

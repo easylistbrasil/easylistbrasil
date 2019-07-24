@@ -1157,3 +1157,5 @@ theintercept.com##iframe[id^="offer-"]
 openloadtvseries.com##a[href*="refer"]
 openloadtvseries.com##div[id*="ScriptRoot"]
 openloadtvseries.com##div[style*="z-index"]
+! topflix.tv
+topflix.tv##div[id^="p_root_"]

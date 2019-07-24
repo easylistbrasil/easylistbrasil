@@ -735,6 +735,9 @@ $script,domain=speedtest.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=openloadmovies.review
 ! openloadtvseries.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=openloadtvseries.com
+! topflix.tv
+|http*://$popup,script,third-party,xmlhttprequest,domain=topflix.tv
+||topflix.tv/js/prot2.js
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
