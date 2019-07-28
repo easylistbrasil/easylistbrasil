@@ -4,6 +4,8 @@
 /clicou.php$popup
 /favicon.ico$popup
 /iuqasfg3$popup
+/Multicanais-Assistir-TV-online-1.png$popup
+/ufc.jpg$popup
 |blob:$popup
 |data:text$popup
 |dddata:text$popup
