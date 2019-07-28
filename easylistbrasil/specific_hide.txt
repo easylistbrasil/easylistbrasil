@@ -553,7 +553,7 @@ week-series.com,weekseries.net##[id*="ScriptRoot"]
 week-series.com,weekseries.net##div[class="afs_ads"]
 week-series.com,weekseries.net##div[id*="floatLayer"]
 week-series.com,weekseries.net##div[style*="z-index"]
-weekseries.net,week-series.com#?#div[class^="col-"] > p:-abp-contains(Assistir)
+week-series.com,weekseries.net#?#div[class^="col-"] > p:-abp-contains(Assistir)
 ! filmesonlineuhd.com
 filmesonlineuhd.com##[id*="ScriptRoot"]
 filmesonlineuhd.com##[id*="anuncio"]
@@ -953,9 +953,9 @@ nytimes.com##div[id^="dfp-ad-"]
 nytimes.com##div[id^="google_ads_iframe_"]
 nytimes.com##div[id^="story-ad-"]
 nytimes.com##iframe[src*="about"]
-nytimes.com#?#article > div:-abp-has(> div:-abp-contains(disable))
-nytimes.com#?#div > div:-abp-has(> div > div[class^="css-"]:-abp-contains(Advertisement))
-nytimes.com#?#div[class^="css-"]:-abp-has(> div[class^="ad"])
+nytimes.com#?#article > div:-abp-has( > div:-abp-contains(disable))
+nytimes.com#?#div > div:-abp-has( > div > div[class^="css-"]:-abp-contains(Advertisement))
+nytimes.com#?#div[class^="css-"]:-abp-has( > div[class^="ad"])
 ! tecnologiatech.com
 tecnologiatech.com##div[id$="-ads"]
 tecnologiatech.com##div[id="blockDiv"]
@@ -1095,8 +1095,8 @@ assistindoanimesonline.org##div[class="topBar"]
 ! meuseriado.net
 meuseriado.net##div[style*="z-index"]
 ! animeplus.org
-animeplus.org##div[class="adstopo"]
 animeplus.org#?#div[class="tituloBox"]:-abp-contains(Publicidade)
+animeplus.org##div[class="adstopo"]
 ! ggfilmes.club
 ggfilmes.club##[class*="modal"]
 ggfilmes.club##[id*="anuncio"]
