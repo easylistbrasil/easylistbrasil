@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GJoYhiagbegqBe6e2qkaCQ
-! Version: 201907281805
+! Checksum: QStDR9Gmj5w4w5Wh+25c5A
+! Version: 201907281839
 ! Title: EasyList Brasil
-! Last modified: 28 Jul 2019 18:05 UTC
+! Last modified: 28 Jul 2019 18:39 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2117,7 +2117,7 @@ week-series.com,weekseries.net##[id*="ScriptRoot"]
 week-series.com,weekseries.net##div[class="afs_ads"]
 week-series.com,weekseries.net##div[id*="floatLayer"]
 week-series.com,weekseries.net##div[style*="z-index"]
-weekseries.net,week-series.com#?#div[class^="col-"] > p:-abp-contains(Assistir)
+week-series.com,weekseries.net#?#div[class^="col-"] > p:-abp-contains(Assistir)
 ! filmesonlineuhd.com
 filmesonlineuhd.com##[id*="ScriptRoot"]
 filmesonlineuhd.com##[id*="anuncio"]
@@ -2517,9 +2517,9 @@ nytimes.com##div[id^="dfp-ad-"]
 nytimes.com##div[id^="google_ads_iframe_"]
 nytimes.com##div[id^="story-ad-"]
 nytimes.com##iframe[src*="about"]
-nytimes.com#?#article > div:-abp-has(> div:-abp-contains(disable))
-nytimes.com#?#div > div:-abp-has(> div > div[class^="css-"]:-abp-contains(Advertisement))
-nytimes.com#?#div[class^="css-"]:-abp-has(> div[class^="ad"])
+nytimes.com#?#article > div:-abp-has( > div:-abp-contains(disable))
+nytimes.com#?#div > div:-abp-has( > div > div[class^="css-"]:-abp-contains(Advertisement))
+nytimes.com#?#div[class^="css-"]:-abp-has( > div[class^="ad"])
 ! tecnologiatech.com
 tecnologiatech.com##div[id$="-ads"]
 tecnologiatech.com##div[id="blockDiv"]
@@ -2659,8 +2659,8 @@ assistindoanimesonline.org##div[class="topBar"]
 ! meuseriado.net
 meuseriado.net##div[style*="z-index"]
 ! animeplus.org
-animeplus.org##div[class="adstopo"]
 animeplus.org#?#div[class="tituloBox"]:-abp-contains(Publicidade)
+animeplus.org##div[class="adstopo"]
 ! ggfilmes.club
 ggfilmes.club##[class*="modal"]
 ggfilmes.club##[id*="anuncio"]
@@ -3646,8 +3646,8 @@ kissjav.com#$#abort-on-property-read open
 @@||*.hqq.*/player/cbplayer/uppod_api_2.js
 @@||*.hqq.*/player/cbplayer/video*.js
 @@||*.hqq.*/player/ip.php
-@@||hqq.tv$generichide
-@@||hqq.watch$generichide
+@@||hqq.tv^$generichide
+@@||hqq.watch^$generichide
 @@||storage.googleapis.com/vkcdnservice.appspot.com/script-*.js$domain=hqq.tv|hqq.watch
 @@||vkcache.com^$xmlhttprequest,domain=hqq.tv|hqq.watch
 @@||ws.peer5.com^$websocket,domain=hqq.tv|hqq.watch
@@ -3865,7 +3865,7 @@ kissjav.com#$#abort-on-property-read open
 @@||cdn.uclaut.net/static/js/view105b.js
 @@||clearload.bid^$generichide
 @@||clearonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
-@@||ecleneue.com$generichide
+@@||ecleneue.com^$generichide
 @@||facebook.com/plugins/like.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net
 @@||gloyah.net/1market.php
 @@||gloyah.net/2market.php
@@ -3938,36 +3938,36 @@ uol.com.br#@#[src*="data:image"]
 ! netstumbler.com
 @@||netstumbler.com^$generichide
 ! tvfree.me - tv acores
-@@||tvfree.me$generichide,~subdocument,~third-party
+@@||tvfree.me^$generichide,~subdocument,~third-party
 ! download
 @@||www.download*.com.br^$generichide
 ! filmeseserieshd.online
 @@||*.wp.com^$image,domain=filmeseserieshd.online
 ! lapumiafilmes.com
-@@||lapumiafilmes.com$generichide
+@@||lapumiafilmes.com^$generichide
 ! mastercuriosidadesbr.com
 @@||mastercuriosidadesbr.com/instagram/cache.js
 ! popcornflix.com
-@@||popcornflix.com$generichide
+@@||popcornflix.com^$generichide
 ! suprafiles.me
-@@||suprafiles.me$generichide
+@@||suprafiles.me^$generichide
 ! filecloud.io
 @@||*/adsbygoogle.js$domain=filecloud.io
-@@||filecloud.io$generichide
 @@||filecloud.io/banner_ads.js
+@@||filecloud.io^$generichide
 ! turbobit.net
-@@||turbobit.net$generichide
+@@||turbobit.net^$generichide
 ! katfile.com
 @@||katfile.com$genericblock,generichide
 ! bbc.com
-@@||bbc.com$generichide
+@@||bbc.com^$generichide
 ! midiaflixhd.net
-@@||midiaflixhd.net$generichide
+@@||midiaflixhd.net^$generichide
 ! seuseriado.org
-@@||seuseriado.org$generichide
+@@||seuseriado.org^$generichide
 ! nytimes.com
 @@||*.nyt.com/analytics/show-ads.js
-@@||nytimes.com$generichide
+@@||nytimes.com^$generichide
 ! folha.uol.com.br
 @@||paywall.folha.uol.com.br/status.php$domain=f5.folha.uol.com.br
 ! tecnologiatech.com
@@ -3986,18 +3986,18 @@ uol.com.br#@#[src*="data:image"]
 ! encurta.net
 @@||encurta.net/js/ads.js
 ! trendsmap.com
-@@||trendsmap.com$generichide
+@@||trendsmap.com^$generichide
 ! embed.ly
 @@||cdn.optimizely.com^$domain=embed.ly
 @@||embed.ly/static/scripts/tracking.js^$domain=embed.ly
 ! universozn.com.br
-@@||universozn.com.br$generichide
+@@||universozn.com.br^$generichide
 ! filmeseseriesonline.info
 @@||player.filmeseseriesonline.info/init-stream^$xmlhttprequest
 ! receitasdamae.com
-@@||receitasdamae.com$generichide
+@@||receitasdamae.com^$generichide
 ! archive.is
-@@||archive.is$generichide
+@@||archive.is^$generichide
 ! speedtest.net
 @@||*.cdnst.net/javascript/prebid.*.min.js$domain=speedtest.net
 @@||*.cdnst.net/javascript/speedtest-main.js
@@ -4005,27 +4005,27 @@ uol.com.br#@#[src*="data:image"]
 @@||*evidon.com^$domain=speedtest.net
 @@||speedtest.net/javascript/ads.js
 ! miceret.com
-@@||miceret.com$generichide
 @@||miceret.com/contador.php
+@@||miceret.com^$generichide
 ! ultratfm.com
-@@||ultratfm.com$generichide
 @@||ultratfm.com/contador.php
+@@||ultratfm.com^$generichide
 ! eletricmice.com
-@@||eletricmice.com$generichide
 @@||eletricmice.com/contador.php
+@@||eletricmice.com^$generichide
 ! valinor.com.br
-@@||valinor.com.br$generichide
+@@||valinor.com.br^$generichide
 ! mp3-youtube.download
 @@||clksite.com/static/advertisement.js$domain=mp3-youtube.download
 ! loadvid.online
-@@||loadvid.online$generichide
 @@||loadvid.online/embed/$subdocument
+@@||loadvid.online^$generichide
 ! fmovies.to
-@@||fmovies.to$generichide
+@@||fmovies.to^$generichide
 ! mcloud
 @@||mcloud.*/resources/js/player.js
 ! watch5s.me
-@@||watch5s.me$generichide
+@@||watch5s.me^$generichide
 ! watchfree.ac
 @@||facebook.net$domain=watchfree.ac
 @@||watchmega.to/hls/$subdocument,xmlhttprequest,domain=watchfree.ac
@@ -4037,7 +4037,7 @@ uol.com.br#@#[src*="data:image"]
 ! thepiratefilmesonline.org
 @@||thepiratefilmesonline.org/players/tpf-am-*/assets/js/scripts.min.js
 ! 123movies
-@@||123movies.actor$generichide
+@@||123movies.actor^$generichide
 @@||facebook.*^$domain=123movies.la
 @@||streamapi.xyz^$subdocument,domain=123movies.la
 ! mload.stream
@@ -4075,34 +4075,34 @@ uol.com.br#@#[src*="data:image"]
 @@||visioncloud.*/js/adsbygoogle.js
 @@||visioncloud.*^$generichide
 ! meuseriado.net
-@@||meuseriado.net$generichide
+@@||meuseriado.net^$generichide
 ! vertvonline.org
-@@||vertvonline.org$generichide
+@@||vertvonline.org^$generichide
 ! ggfilmes.club
 @@||*/assets/Sortable/*/Sortable.min.css$domain=ggfilmes.club
 @@||*/assets/wow/*/wow.min.js$domain=ggfilmes.club
-@@||ggfilmes.club$generichide
+@@||ggfilmes.club^$generichide
 ! ganhandodinheiroemcasa.info
-@@||ganhandodinheiroemcasa.info$generichide
+@@||ganhandodinheiroemcasa.info^$generichide
 ! anime.geeksnipper.com
-@@||anime.geeksnipper.com$generichide
+@@||anime.geeksnipper.com^$generichide
 ! techcentral.com.br
-@@||techcentral.com.br$generichide
+@@||techcentral.com.br^$generichide
 ! assistirtvonlinegratis.com.br
-@@||assistirtvonlinegratis.com.br$generichide
+@@||assistirtvonlinegratis.com.br^$generichide
 ! filmesonlinetv.online
 @@||player.filmesonlinetv.online//assets/vendor/fop/fOP.js
 @@||player.filmesonlinetv.online^$generichide,subdocument,xmlhttprequest
 ! dota2.com.br
-@@||dota2.com.br$generichide
+@@||dota2.com.br^$generichide
 ! seriesflixhd.com
 @@||seriesflixhd.com/players/advertisement.js
 ! popcorntime.sh
-@@||popcorntime.sh$generichide
+@@||popcorntime.sh^$generichide
 ! filmesonline.vip
 @@||filmesonline.vip/js/jw.js
 ! verfilmeseseriesonline.com
-@@||empregandoab.xyz$generichide
+@@||empregandoab.xyz^$generichide
 @@||verfilmeseseriesonline.com/applications/core/interface/howler/howler.core.min.js
 @@||verfilmeseseriesonline.com/applications/videobox/interface/sliders/nivoslider.js
 @@||verfilmeseseriesonline.com/uploads/javascript_videobox/front_front_video.js.0f2a5b296fe733859a205e680414ed89.js
@@ -4115,27 +4115,27 @@ uol.com.br#@#[src*="data:image"]
 ! receitasmaster.me
 @@||receitasmaster.me$elemhide,generichide,popup
 ! adguard.com
-@@||adguard.com$generichide
+@@||adguard.com^$generichide
 ! tmearn.com
 @@||tmearn.com/js/ads2.js
 ! downloadmpb.blogspot.com
 @@||downloadmpb.blogspot.com^$generichide
 ! iptvtools.net
-@@||www.iptvtools.net$generichide
 @@||www.iptvtools.net/files/js/adsbygoogle.js
+@@||www.iptvtools.net^$generichide
 ! netcine.us
 @@/wp-content/themes/wpmovies4/js/js.min.js$domain=netcine.us
 ! empregosdomomento.club
-@@||empregosdomomento.club$generichide
+@@||empregosdomomento.club^$generichide
 ! empregototal.club
-@@||empregototal.club$generichide
+@@||empregototal.club^$generichide
 ! empregosdomomento.club|empregototal.club
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=empregosdomomento.club|empregototal.club
 ! topflix.tv
 @@||bit.ly^$domain=topflix.tv
 @@||simpla.site^$domain=topflix.tv
 @@||sistentech.online^$domain=topflix.tv
-@@||topflix.tv$generichide
+@@||topflix.tv^$generichide
 ! filmesonlinehdx.org
 @@||filmesonlinehdx.org/wp-content/cache/wpfc-minified/*/wgbg.js
 @@||filmesonlinehdx.org/wp-content/themes/vizeratt/assets/js/scripts.js
@@ -4143,18 +4143,18 @@ uol.com.br#@#[src*="data:image"]
 @@||filmesonlinehdx.org/wp-content/themes/vizeratt/inc/parts/single/player_post.php
 ! ohmymag.com.br
 @@/ima3.js$domain=ohmymag.com.br
-@@||ohmymag.com.br$generichide
+@@||ohmymag.com.br^$generichide
 ! enrt.eu
-@@||enrt.eu$generichide
 @@||enrt.eu/js/ads.js
+@@||enrt.eu^$generichide
 ! ceesty.com
-@@||ceesty.com$generichide
+@@||ceesty.com^$generichide
 ! futebolaovivovitao.com
 @@/jquery.tablesorter/*/jquery.tablesorter.min.js$domain=futebolaovivovitao.com
 ! thechive.com
 @@||adnxs.com/video/mediation/apn_overlay_integration.js$domain=thechive.com
 ! meupatrocinio.com
-@@||meupatrocinio.com$generichide
+@@||meupatrocinio.com^$generichide
 ! multicanais.com
 @@/bootstrap-table.min.js$domain=multicanais.com
 @@||api.ipify.org^$domain=multicanais.com
