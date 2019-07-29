@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: KaCipti3iklxIg20Fphc3A
-! Version: 201907291223
+! Checksum: BDxJRL5Cj9EvXcMCNRI4jQ
+! Version: 201907291752
 ! Title: EasyList Brasil
-! Last modified: 29 Jul 2019 12:23 UTC
+! Last modified: 29 Jul 2019 17:52 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2725,6 +2725,11 @@ openloadtvseries.com##div[id*="ScriptRoot"]
 openloadtvseries.com##div[style*="z-index"]
 ! topflix.tv
 topflix.tv##div[id^="p_root_"]
+! threepercenternation.com
+threepercenternation.com##a[href^="http://bit.ly"]
+threepercenternation.com##article[class^="vw-main-post"] > div:last-child
+threepercenternation.com##aside[class="vw-content-sidebar"] > div:first-child
+threepercenternation.com##div[itemprop="articleBody"] > div:first-child
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
