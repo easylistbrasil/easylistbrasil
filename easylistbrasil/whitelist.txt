@@ -1415,6 +1415,9 @@ uol.com.br#@#[src*="data:image"]
 ! multicanais.com
 @@/bootstrap-table.min.js$domain=multicanais.com
 @@||api.ipify.org^$domain=multicanais.com
+! skylinewebcams.com
+@@||ad.skylinewebcams.com/ad.php
+@@||skylinewebcams.com/ads.php
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest

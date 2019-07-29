@@ -1164,3 +1164,6 @@ threepercenternation.com##a[href^="http://bit.ly"]
 threepercenternation.com##article[class^="vw-main-post"] > div:last-child
 threepercenternation.com##aside[class="vw-content-sidebar"] > div:first-child
 threepercenternation.com##div[itemprop="articleBody"] > div:first-child
+! skylinewebcams.com
+skylinewebcams.com##div[class^="modal"]
+skylinewebcams.com##div[id="skylinewebcams-ads"]
