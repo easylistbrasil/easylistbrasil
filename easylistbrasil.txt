@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XXMk+fk1g1hqAj9blLtaig
-! Version: 201907291215
+! Checksum: KaCipti3iklxIg20Fphc3A
+! Version: 201907291223
 ! Title: EasyList Brasil
-! Last modified: 29 Jul 2019 12:15 UTC
+! Last modified: 29 Jul 2019 12:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -3865,12 +3865,12 @@ kissjav.com#$#abort-on-property-read open
 @@||cdn.uclaut.net/static/image/ad_top_bg2.png
 @@||cdn.uclaut.net/static/js/b64.js
 @@||cdn.uclaut.net/static/js/view105b.js
-@@||cdn.xterca.ne/static/js/view105c2.js
 @@||cdn.xterca.net$image,stylesheet
 @@||cdn.xterca.net/image/logo.png
 @@||cdn.xterca.net/static/image/ad_top_bg2.png
 @@||cdn.xterca.net/static/js/b64.js
 @@||cdn.xterca.net/static/js/view105b.js
+@@||cdn.xterca.net/static/js/view105c2.js
 @@||clearload.bid^$generichide
 @@||clearonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
 @@||ecleneue.com^$generichide
