@@ -39,6 +39,7 @@
 onplayspotid*.html
 paywall
 pub*/ads.js
+/avantajadas/*
 ! Anti Coin Mining
 -coin-hive.js
 -crypto-miner/

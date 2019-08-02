@@ -147,3 +147,4 @@
 ##img[src^="ads"]
 ##player_img
 ##video_ad_fadein
+##a[href^="https://www.avantajadas.com.br/afiliado.html"]

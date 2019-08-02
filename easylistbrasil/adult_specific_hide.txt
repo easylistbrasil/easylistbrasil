@@ -23,3 +23,6 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! kissjav.com
 kissjav.com###player-advertising
 kissjav.com#$#abort-on-property-read open
+! travestisvip.com.br
+travestisvip.com.br###libidgelBanner
+travestisvip.com.br##div[class^="banner-"]

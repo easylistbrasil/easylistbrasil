@@ -35,3 +35,6 @@
 ||tinypass.com^$third-party
 ||uswgkadyika.com^$third-party
 ||yibacurd.com^$third-party
+||filestatic.xyz^$third-party
+||ad.lomadee.com^$third-party
+||monetizze.com.br^$third-party
