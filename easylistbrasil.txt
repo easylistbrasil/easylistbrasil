@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rIJRBYDLxX0vazwy0eBMEA
-! Version: 201908021847
+! Checksum: RFHqMme1xFDwrvuHUOOR7Q
+! Version: 201908022023
 ! Title: EasyList Brasil
-! Last modified: 02 Aug 2019 18:47 UTC
+! Last modified: 02 Aug 2019 20:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -56,6 +56,7 @@
 onplayspotid*.html
 paywall
 pub*/ads.js
+/avantajadas/*
 ! Anti Coin Mining
 -coin-hive.js
 -crypto-miner/
@@ -317,6 +318,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ##img[src^="ads"]
 ##player_img
 ##video_ad_fadein
+##a[href^="https://www.avantajadas.com.br/afiliado.html"]
 ! *** easylistbrasil:easylistbrasil/whitelist_general_hide.txt ***
 megafilmes.org,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesserieshd.com#@#[class*="modal"]
 assistirtvaovivo.tv#@#[class="modalDialog"]
@@ -375,12 +377,15 @@ kissjav.com#@#div[style*="z-index"]
 ||tinypass.com^$third-party
 ||uswgkadyika.com^$third-party
 ||yibacurd.com^$third-party
+||filestatic.xyz^$third-party
+||ad.lomadee.com^$third-party
+||monetizze.com.br^$third-party
 ! *** easylistbrasil:easylistbrasil/adservers_popup.txt ***
 ||ads.vev.io^$popup
 ! *** easylistbrasil:easylistbrasil/adult_adservers.txt ***
-!
+||avantajadas.com.br^$third-party
 ! *** easylistbrasil:easylistbrasil/adult_adservers_popup.txt ***
-!
+||avantajadas.com.br^$popup
 !-----------------------Anúncios de terceiros-----------------------!
 ! *** easylistbrasil:easylistbrasil/thirdparty.txt ***
 ||*.online^$third-party
@@ -2761,6 +2766,9 @@ xvideos.blog.br,xvideos10.blog.br##div[style*="z-index"]
 ! kissjav.com
 kissjav.com###player-advertising
 kissjav.com#$#abort-on-property-read open
+! travestisvip.com.br
+travestisvip.com.br###libidgelBanner
+travestisvip.com.br##div[class^="banner-"]
 !-----------------------Lista de permissões para corrigir sites quebrados-----------------------!
 ! *** easylistbrasil:easylistbrasil/whitelist.txt ***
 ! youtube.com
