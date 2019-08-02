@@ -1418,6 +1418,10 @@ uol.com.br#@#[src*="data:image"]
 ! skylinewebcams.com
 @@||ad.skylinewebcams.com/ad.php
 @@||skylinewebcams.com/ads.php
+! guitarflash.com
+@@||guitarflash.com^$generichide
+! murodoclassicrock4.blogspot.com
+@@||murodoclassicrock4.blogspot.com^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest

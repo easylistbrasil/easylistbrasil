@@ -590,6 +590,8 @@ get.$domain=xilften.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=tvdesporto.info
 ! mediafire.com
 $csp=script-src 'self',domain=mediafire.com
+! zippyshare.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=zippyshare.com
 ! redeflix.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=redeflix.net
 ! skyonlinegratis.com
