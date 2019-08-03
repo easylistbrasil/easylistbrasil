@@ -21,6 +21,8 @@ $popup,domain=widestream.io
 |http*://$popup,domain=topflix.tv
 ! outros
 $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.me|katfile.com|sendit.cloud|uploadhaven.com|userscloud.com
+/*.jpg$popup,domain=futebolaovivo.in
+/*.png$popup,domain=futebolaovivo.in
 ||*.jpg$popup,domain=gomovies.cool|gomovies.mx|gomovieshd.cc|putlocker.vip|watchfree.ac|xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 ||*.png$popup,domain=watchfree.ac|xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 ||*123movie*.*/wp-content/uploads/*/*/*.jpg$popup
