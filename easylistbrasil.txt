@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: RFHqMme1xFDwrvuHUOOR7Q
-! Version: 201908022023
+! Checksum: rLlgD05dA/t7bQEkdLcMfQ
+! Version: 201908022117
 ! Title: EasyList Brasil
-! Last modified: 02 Aug 2019 20:23 UTC
+! Last modified: 02 Aug 2019 21:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -28,6 +28,7 @@
 /adservice.$domain=~adservice.io
 /anuncio/
 /api/tinypass.
+/avantajadas/*
 /banner.gif?
 /blockadblock.js
 /frameads.
@@ -56,7 +57,6 @@
 onplayspotid*.html
 paywall
 pub*/ads.js
-/avantajadas/*
 ! Anti Coin Mining
 -coin-hive.js
 -crypto-miner/
@@ -281,6 +281,7 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ##a[href*="hyphenion.com"]
 ##a[href*="marketing"]
 ##a[href*="traqueto.com"]
+##a[href^="https://www.avantajadas.com.br/afiliado.html"]
 ##ad_creative_expand_btn_1
 ##ads_id
 ##adsdiv
@@ -318,7 +319,6 @@ $xmlhttprequest,domain=a-o.ninja|adfreetv.ch|alltube.pl|alltube.tv|auroravid.to|
 ##img[src^="ads"]
 ##player_img
 ##video_ad_fadein
-##a[href^="https://www.avantajadas.com.br/afiliado.html"]
 ! *** easylistbrasil:easylistbrasil/whitelist_general_hide.txt ***
 megafilmes.org,megafilmeshdplus.org,megafilmesonline-hd.com,megafilmesserieshd.com#@#[class*="modal"]
 assistirtvaovivo.tv#@#[class="modalDialog"]
@@ -341,6 +341,7 @@ kissjav.com#@#div[style*="z-index"]
 !-----------------------Anunciantes de terceiros-----------------------!
 ! *** easylistbrasil:easylistbrasil/adservers.txt ***
 ||5edeb195868e2195.com^$third-party
+||ad.lomadee.com^$third-party
 ||ads.vev.io^$third-party
 ||adsco.re^$third-party
 ||btovopyov.com^$third-party
@@ -349,6 +350,7 @@ kissjav.com#@#div[style*="z-index"]
 ||dolohen.com^$third-party
 ||doubleclick.*^$third-party
 ||dynamicadx.com^$third-party
+||filestatic.xyz^$third-party
 ||gleaminist.info^$third-party
 ||googlesyndication.com^$third-party
 ||greatdexchange.com^$third-party
@@ -360,6 +362,7 @@ kissjav.com#@#div[style*="z-index"]
 ||logsss.com^$third-party
 ||mgid.com^$third-party
 ||moatads.com^$third-party
+||monetizze.com.br^$third-party
 ||pagead*.googlesyndication.com^$third-party
 ||pdn-1.com^$third-party
 ||phengung.net^$third-party
@@ -377,9 +380,6 @@ kissjav.com#@#div[style*="z-index"]
 ||tinypass.com^$third-party
 ||uswgkadyika.com^$third-party
 ||yibacurd.com^$third-party
-||filestatic.xyz^$third-party
-||ad.lomadee.com^$third-party
-||monetizze.com.br^$third-party
 ! *** easylistbrasil:easylistbrasil/adservers_popup.txt ***
 ||ads.vev.io^$popup
 ! *** easylistbrasil:easylistbrasil/adult_adservers.txt ***
@@ -2740,6 +2740,8 @@ threepercenternation.com##div[itemprop="articleBody"] > div:first-child
 ! skylinewebcams.com
 skylinewebcams.com##div[class^="modal"]
 skylinewebcams.com##div[id="skylinewebcams-ads"]
+! reddit.com
+reddit.com##div[data-before-content="advertisement"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube, pornhub, youporn, tube8
 pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
