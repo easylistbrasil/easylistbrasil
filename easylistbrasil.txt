@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: rLlgD05dA/t7bQEkdLcMfQ
-! Version: 201908022117
+! Checksum: StUZ2tF1DemzjQHsDt/Qkg
+! Version: 201908032009
 ! Title: EasyList Brasil
-! Last modified: 02 Aug 2019 21:17 UTC
+! Last modified: 03 Aug 2019 20:09 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1510,6 +1510,8 @@ $popup,domain=widestream.io
 |http*://$popup,domain=topflix.tv
 ! outros
 $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.me|katfile.com|sendit.cloud|uploadhaven.com|userscloud.com
+/*.jpg$popup,domain=futebolaovivo.in
+/*.png$popup,domain=futebolaovivo.in
 ||*.jpg$popup,domain=gomovies.cool|gomovies.mx|gomovieshd.cc|putlocker.vip|watchfree.ac|xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 ||*.png$popup,domain=watchfree.ac|xmovies08.org|xmovies8.cloud|xmovies8.io|xmovies8.is
 ||*123movie*.*/wp-content/uploads/*/*/*.jpg$popup
