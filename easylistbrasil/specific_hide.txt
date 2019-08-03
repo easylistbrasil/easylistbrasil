@@ -1167,3 +1167,5 @@ threepercenternation.com##div[itemprop="articleBody"] > div:first-child
 ! skylinewebcams.com
 skylinewebcams.com##div[class^="modal"]
 skylinewebcams.com##div[id="skylinewebcams-ads"]
+! reddit.com
+reddit.com##div[data-before-content="advertisement"]

@@ -11,6 +11,7 @@
 /adservice.$domain=~adservice.io
 /anuncio/
 /api/tinypass.
+/avantajadas/*
 /banner.gif?
 /blockadblock.js
 /frameads.
@@ -39,7 +40,6 @@
 onplayspotid*.html
 paywall
 pub*/ads.js
-/avantajadas/*
 ! Anti Coin Mining
 -coin-hive.js
 -crypto-miner/

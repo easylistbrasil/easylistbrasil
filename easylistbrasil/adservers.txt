@@ -1,4 +1,5 @@
 ||5edeb195868e2195.com^$third-party
+||ad.lomadee.com^$third-party
 ||ads.vev.io^$third-party
 ||adsco.re^$third-party
 ||btovopyov.com^$third-party
@@ -7,6 +8,7 @@
 ||dolohen.com^$third-party
 ||doubleclick.*^$third-party
 ||dynamicadx.com^$third-party
+||filestatic.xyz^$third-party
 ||gleaminist.info^$third-party
 ||googlesyndication.com^$third-party
 ||greatdexchange.com^$third-party
@@ -18,6 +20,7 @@
 ||logsss.com^$third-party
 ||mgid.com^$third-party
 ||moatads.com^$third-party
+||monetizze.com.br^$third-party
 ||pagead*.googlesyndication.com^$third-party
 ||pdn-1.com^$third-party
 ||phengung.net^$third-party
@@ -35,6 +38,3 @@
 ||tinypass.com^$third-party
 ||uswgkadyika.com^$third-party
 ||yibacurd.com^$third-party
-||filestatic.xyz^$third-party
-||ad.lomadee.com^$third-party
-||monetizze.com.br^$third-party

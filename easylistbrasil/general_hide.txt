@@ -110,6 +110,7 @@
 ##a[href*="hyphenion.com"]
 ##a[href*="marketing"]
 ##a[href*="traqueto.com"]
+##a[href^="https://www.avantajadas.com.br/afiliado.html"]
 ##ad_creative_expand_btn_1
 ##ads_id
 ##adsdiv
@@ -147,4 +148,3 @@
 ##img[src^="ads"]
 ##player_img
 ##video_ad_fadein
-##a[href^="https://www.avantajadas.com.br/afiliado.html"]
