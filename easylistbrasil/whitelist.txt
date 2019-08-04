@@ -1422,6 +1422,10 @@ uol.com.br#@#[src*="data:image"]
 @@||guitarflash.com^$generichide
 ! murodoclassicrock4.blogspot.com
 @@||murodoclassicrock4.blogspot.com^$generichide
+! infinityfree.net
+@@||app.infinityfree.net/js/ads.js
+! jmail.ovh
+@@||jmail.ovh^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
