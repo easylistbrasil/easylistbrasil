@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: StUZ2tF1DemzjQHsDt/Qkg
-! Version: 201908032009
+! Checksum: 33NnAYF8Txotq5vWlovztQ
+! Version: 201908032208
 ! Title: EasyList Brasil
-! Last modified: 03 Aug 2019 20:09 UTC
+! Last modified: 03 Aug 2019 22:08 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1408,6 +1408,8 @@ $script,domain=speedtest.net
 ! topflix.tv
 |http*://$popup,script,third-party,xmlhttprequest,domain=topflix.tv
 ||topflix.tv/js/prot2.js
+! jmail.ovh
+/img/banners/*$image,third-party,domain=jmail.ovh
 ! Anti mine mining
 $script,domain=centrum-dramy.pl|hentai-online.pl
 |http*://$script,third-party,domain=kinokong.cc|kinokrad.co|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -4199,6 +4201,10 @@ uol.com.br#@#[src*="data:image"]
 @@||guitarflash.com^$generichide
 ! murodoclassicrock4.blogspot.com
 @@||murodoclassicrock4.blogspot.com^$generichide
+! infinityfree.net
+@@||app.infinityfree.net/js/ads.js
+! jmail.ovh
+@@||jmail.ovh^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
