@@ -1440,6 +1440,10 @@ uol.com.br#@#[src*="data:image"]
 @@||products.wera.de^$xmlhttprequest
 ! techrrival.com
 @@||techrrival.com^$generichide
+! baixarsomgospel.org
+@@||api.bsgspl.xyz^$third-party,domain=bsgospel.net
+@@||bsgospel.net^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=bsgospel.net
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
