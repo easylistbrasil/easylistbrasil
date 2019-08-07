@@ -8,12 +8,14 @@
 ||adap.tv^$~object-subrequest,third-party
 ||adsymptotic.com^$third-party
 ||afriflatry.co^$third-party
+||analytics.analytics-egain.com^
 ||aoredi.com^$third-party
 ||areyouahuman.com^$third-party
 ||authorne.info^$popup,third-party
 ||baa2e174884c9c0460e.com^$third-party
 ||bnserving.com^$third-party
 ||clevernt.com^$third-party
+||cloud-us.analytics-egain.com/tracker
 ||criteo.com^$third-party
 ||defpush.com^$third-party
 ||drumuwimmzxqps.com^$third-party
