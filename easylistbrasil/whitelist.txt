@@ -1426,6 +1426,20 @@ uol.com.br#@#[src*="data:image"]
 @@||app.infinityfree.net/js/ads.js
 ! jmail.ovh
 @@||jmail.ovh^$generichide
+! digikey.com
+@@||analytics.analytics-egain.com/onetag/$domain=digikey.com
+! nutaku.net
+@@||nutaku.net^$generichide
+@@||storage.googleapis.com/xxx-mightyparty.appspot.com/builds^$third-party
+@@||storage.googleapis.com/xxx-mightyparty.appspot.com/release_builds^$third-party
+! uktvplay.uktv.co.uk
+@@||fwmrm.net/ad/$xmlhttprequest,domain=uktvplay.uktv.co.uk
+! rp5.ru
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=rp5.ru
+! products.wera.de
+@@||products.wera.de^$xmlhttprequest
+! techrrival.com
+@@||techrrival.com^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest

@@ -1169,3 +1169,12 @@ skylinewebcams.com##div[class^="modal"]
 skylinewebcams.com##div[id="skylinewebcams-ads"]
 ! reddit.com
 reddit.com##div[data-before-content="advertisement"]
+! techrrival.com
+techrrival.com##.adtester-container
+techrrival.com##.ezmob-footer
+techrrival.com##.ezo_ad
+techrrival.com##.ezoic-ad
+techrrival.com##.ezoic-floating-bottom
+techrrival.com##.td-a-rec-id-custom_ad_1
+techrrival.com##.td-a-rec-id-custom_ad_2
+techrrival.com##div[id^="google_ads_iframe_"]

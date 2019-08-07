@@ -16,3 +16,5 @@ adblockplus.org#@#a[href*="ads."]
 adblockplus.org#@#a[href*="adserver"]
 ! kissjav.com
 kissjav.com#@#div[style*="z-index"]
+! rp5.ru
+rp5.ru#@#.adsbygoogle
