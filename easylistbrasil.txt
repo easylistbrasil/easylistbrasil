@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: GcbwNSjntIpoEWIdHISQVg
-! Version: 201908062135
+! Checksum: OFZSWB3EIhxRJWp8/XtmYw
+! Version: 201908062353
 ! Title: EasyList Brasil
-! Last modified: 06 Aug 2019 21:35 UTC
+! Last modified: 06 Aug 2019 23:53 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -4230,6 +4230,10 @@ uol.com.br#@#[src*="data:image"]
 @@||products.wera.de^$xmlhttprequest
 ! techrrival.com
 @@||techrrival.com^$generichide
+! baixarsomgospel.org
+@@||api.bsgspl.xyz^$third-party,domain=bsgospel.net
+@@||bsgospel.net^$generichide
+@@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=bsgospel.net
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
