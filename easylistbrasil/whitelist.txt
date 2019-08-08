@@ -1447,6 +1447,7 @@ uol.com.br#@#[src*="data:image"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=bsgospel.net
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
+@@||*.jus.br^$genericblock,generichide,script,xmlhttprequest
 @@||aliexpress.com^$genericblock,generichide,script,xmlhttprequest
 @@||americanas.com.br^$genericblock,generichide,script,xmlhttprequest
 @@||azuracast.com^$generichide
