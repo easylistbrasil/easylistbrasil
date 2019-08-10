@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 3B+S2MtGm5OGntTwBbAFew
-! Version: 201908082013
+! Checksum: CAVGCqZOE7WqlnGDVgVAoQ
+! Version: 201908092131
 ! Title: EasyList Brasil
-! Last modified: 08 Aug 2019 20:13 UTC
+! Last modified: 09 Aug 2019 21:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1088,8 +1088,6 @@ $script,domain=amgload.net|piguiqproxy.com
 ! brasilsports.tv
 |http*://$popup,script,third-party,xmlhttprequest,domain=brasilsports.tv
 ! hipertela.net
-! viki.com
-|http*://$popup,script,third-party,domain=viki.com
 ! clipwatching.com
 ! livrefilmeshd.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=livrefilmeshd.net
@@ -1986,11 +1984,9 @@ megafilmess.com##div > a[target="_top"]
 megafilmess.com##div[id="playerads"]
 megafilmess.com##li[id="count"]
 ! viki.com
-viki.com##a[class="btn btn-flat btn-full-screen"]
-viki.com##div[class="mod mod-advertisement vp-no-ads mod-advertisement-narrow"]
-viki.com##div[class="row section recommended-row"]
-viki.com##div[class="vkp-timed-comments-message"]
 viki.com##div[class="vkp-vikipass-ads-label"]
+viki.com##div[id^="div-gpt-ad"]
+viki.com##div[id^="google_ads_iframe_"]
 ! hardware.com.br
 hardware.com.br##div[id*="-ad-"]
 ! megafilmes
@@ -3758,11 +3754,7 @@ travestisvip.com.br##div[class^="banner-"]
 ! gadgetsparablog.com
 @@||gadgetsparablog.com/ws/tabeladobrasileirao/script?funcao=*^$script
 ! viki.com
-@@blob:*www.viki.com/*^$script
 @@||*.viki.io/*/ima3.js
-@@||*.viki.io/a/application_header_sync-*.js
-@@||*.viki.io/a/i*n/pt-*.js
-@@||0.viki.io/a/*.js
 @@||viki.com^$generichide
 ! hardware.com.br
 @@||hardware.com.br^$generichide
