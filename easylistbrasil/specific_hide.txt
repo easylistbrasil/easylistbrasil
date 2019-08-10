@@ -405,11 +405,9 @@ megafilmess.com##div > a[target="_top"]
 megafilmess.com##div[id="playerads"]
 megafilmess.com##li[id="count"]
 ! viki.com
-viki.com##a[class="btn btn-flat btn-full-screen"]
-viki.com##div[class="mod mod-advertisement vp-no-ads mod-advertisement-narrow"]
-viki.com##div[class="row section recommended-row"]
-viki.com##div[class="vkp-timed-comments-message"]
 viki.com##div[class="vkp-vikipass-ads-label"]
+viki.com##div[id^="div-gpt-ad"]
+viki.com##div[id^="google_ads_iframe_"]
 ! hardware.com.br
 hardware.com.br##div[id*="-ad-"]
 ! megafilmes

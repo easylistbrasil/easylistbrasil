@@ -966,11 +966,7 @@
 ! gadgetsparablog.com
 @@||gadgetsparablog.com/ws/tabeladobrasileirao/script?funcao=*^$script
 ! viki.com
-@@blob:*www.viki.com/*^$script
 @@||*.viki.io/*/ima3.js
-@@||*.viki.io/a/application_header_sync-*.js
-@@||*.viki.io/a/i*n/pt-*.js
-@@||0.viki.io/a/*.js
 @@||viki.com^$generichide
 ! hardware.com.br
 @@||hardware.com.br^$generichide

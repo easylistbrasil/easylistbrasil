@@ -418,8 +418,6 @@ $script,domain=amgload.net|piguiqproxy.com
 ! brasilsports.tv
 |http*://$popup,script,third-party,xmlhttprequest,domain=brasilsports.tv
 ! hipertela.net
-! viki.com
-|http*://$popup,script,third-party,domain=viki.com
 ! clipwatching.com
 ! livrefilmeshd.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=livrefilmeshd.net
