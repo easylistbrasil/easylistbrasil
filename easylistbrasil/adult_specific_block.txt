@@ -7,4 +7,4 @@
 ||kissjav.com/sw.js
 ||kissjav.com^$csp=script-src 'self' 'unsafe-inline'
 ! imagefap.com
-imagefap.com#$#abort-on-property-read popCookie
+imagefap.com#$#abort-on-property-read popcookie

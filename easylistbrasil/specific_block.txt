@@ -489,34 +489,8 @@ get.$domain=xilften.net
 ! aovivobrasil.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
-! $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz.net|briskgram.net|uclaut.net|gloyah.net
-/afu.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-/show.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=gloyah.net|uclaut.net|xterca.net
-! ||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net|xterca.net
-! ||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net|xterca.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=ecleneue.com
-||*.info$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-||*.net^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-||*.site^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-||*.xyz^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-||activetect.net/js/display.js
-||activetect.net/puopen.php
-||ay.gy/js/display.js
-||ay.gy/puopen.php
-||brightvar.bid/js/display.js
-||brightvar.bid/puopen.php
-||clearload.bid/js/display.js
-||clearload.bid/puopen.php
-||gloyah.net/js/display.js
-||gloyah.net/puopen.php
-||swiftviz.net/js/display.js
-||swiftviz.net/puopen.php
-||uclaut.net/js/display.js
-||uclaut.net/puopen.php
-||xterca.net/js/display.js
-||xterca.net/puopen.php
+activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,swiftviz.net,uclaut.net,xterca.net#$#abort-on-property-read frame_check; abort-on-property-read intpop; abort-on-property-read scripts
+||cloudfront.net^$third-party,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net|xterca.net
 ! futeboltv.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=futeboltv.com|futeboltvgratis.com
 ||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
