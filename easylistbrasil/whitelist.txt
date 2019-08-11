@@ -1056,14 +1056,7 @@
 @@||aovivobrasil.com.br^$generichide
 @@||maps.googleapis.com^$domain=aovivobrasil.com.br
 ! adf.ly
-@@||activetect.net^$genericblock,~third-party,~xmlhttprequest
-@@||ay.gy^$genericblock,~third-party,~xmlhttprequest
-@@||brightvar.bid^$genericblock,~third-party,~xmlhttprequest
-@@||briskgram.net^$genericblock,~third-party,~xmlhttprequest
-@@||clearload.bid^$genericblock,~third-party,~xmlhttprequest
-@@||swiftviz.net^$genericblock,~third-party,~xmlhttprequest
-@@||uclaut.net^$genericblock,~third-party,~xmlhttprequest
-@@||xterca.net^$genericblock,~third-party,~xmlhttprequest
+@@||cdn.*/static/image/ad_top_bg2.png?$image,~third-party
 ! icarros.com.br
 @@||icarros.com.br^$genericblock,generichide,image
 ! uol.com.br
