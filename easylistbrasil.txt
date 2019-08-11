@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YKRG2tBlGGu1j076B4N6zQ
-! Version: 201908101529
+! Checksum: hf2anQq9n59YU5RkeHgINg
+! Version: 201908102303
 ! Title: EasyList Brasil
-! Last modified: 10 Aug 2019 15:29 UTC
+! Last modified: 10 Aug 2019 23:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1159,34 +1159,8 @@ get.$domain=xilften.net
 ! aovivobrasil.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
-! $csp=frame-src 'self',domain=clearload.bid|brightvar.bid|activetect.net|swiftviz.net|briskgram.net|uclaut.net|gloyah.net
-/afu.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-/show.php$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=gloyah.net|uclaut.net|xterca.net
-! ||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net|xterca.net
-! ||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|swiftviz.net|uclaut.net|gloyah.net|xterca.net
-|http*://$popup,script,third-party,xmlhttprequest,domain=ecleneue.com
-||*.info$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-||*.net^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-||*.site^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-||*.xyz^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-||activetect.net/js/display.js
-||activetect.net/puopen.php
-||ay.gy/js/display.js
-||ay.gy/puopen.php
-||brightvar.bid/js/display.js
-||brightvar.bid/puopen.php
-||clearload.bid/js/display.js
-||clearload.bid/puopen.php
-||gloyah.net/js/display.js
-||gloyah.net/puopen.php
-||swiftviz.net/js/display.js
-||swiftviz.net/puopen.php
-||uclaut.net/js/display.js
-||uclaut.net/puopen.php
-||xterca.net/js/display.js
-||xterca.net/puopen.php
+activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,swiftviz.net,uclaut.net,xterca.net#$#abort-on-property-read frame_check; abort-on-property-read intpop; abort-on-property-read scripts
+||cloudfront.net^$third-party,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net|xterca.net
 ! futeboltv.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=futeboltv.com|futeboltvgratis.com
 ||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
@@ -1569,7 +1543,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 ||kissjav.com/sw.js
 ||kissjav.com^$csp=script-src 'self' 'unsafe-inline'
 ! imagefap.com
-imagefap.com#$#abort-on-property-read popCookie
+imagefap.com#$#abort-on-property-read popcookie
 ! *** easylistbrasil:easylistbrasil/adult_specific_block_popup.txt ***
 $popup,domain=pornhub.com|redtube.com|redtube.com.br|sexyhotplay.com.br|tube8.com|youporn.com
 ! xvideos.blog.br
@@ -2273,13 +2247,11 @@ bobfilmes.com##div[class="afs_ads"]
 bobfilmes.com##div[id*="floatLayer"]
 bobfilmes.com##div[style*="z-index"]
 ! adf.ly
-! activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,swiftviz.net,uclaut.net##iframe[src*="redirect"]
-! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(advert)
-! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Atenção)
-! uclaut.net,swiftviz.net,ay.gy,activetect.net,brightvar.bid,clearload.bid,briskgram.net#?#div[id="_bd"] > p:-abp-contains(Warning)
-gloyah.net,uclaut.net,xterca.net##body[id="home"] > div[style="margin:auto; width:50%;"]
+activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,swiftviz.net,uclaut.net,xterca.net#?#div:-abp-has(div:-abp-contains(Deny))
 ecleneue.com##div[class="arrow"]
 ecleneue.com##div[class="logo-wrapper"]
+activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,swiftviz.net,uclaut.net,xterca.net##iframe[src*="market.php"] > html
+activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,swiftviz.net,uclaut.net,xterca.net##span[class^="bottom"]
 ! futeboltvgratis.com
 futeboltvgratis.com##[id*="anuncio"]
 futeboltvgratis.com##a[id="linkantes"]
@@ -3846,92 +3818,14 @@ travestisvip.com.br##div[class^="banner-"]
 @@||aovivobrasil.com.br^$generichide
 @@||maps.googleapis.com^$domain=aovivobrasil.com.br
 ! adf.ly
-@@/nr-*.min.js$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@/ntfc.php$domain=ecleneue.com
-@@/script/wait.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||*/a/display.php?r=$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||*/script/pub.js$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||activetect.net/1market.php
-@@||activetect.net/static/css/omnigy.css
-@@||activetect.net^$generichide
-@@||adexchangetracker.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||ay.gy/1market.php
-@@||ay.gy/static/css/omnigy.css
-@@||ay.gy^$generichide
-@@||bam.nr-data.net$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||bitonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||boudja.com/$subdocument,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||boudja.com/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||brightvar.bid^$generichide
-@@||briskgram.net/1market.php
-@@||briskgram.net/static/css/omnigy.css
-@@||briskgram.net^$generichide
-@@||cdn.activetect.net$image,stylesheet
-@@||cdn.activetect.net/static/js/b64.js
-@@||cdn.activetect.net/static/js/view105b.js
-@@||cdn.ay.gy$image,stylesheet
-@@||cdn.ay.gy/static/image/logo.png
-@@||cdn.ay.gy/static/js/b64.js
-@@||cdn.ay.gy/static/js/view105b.js
-@@||cdn.brightvar.bid$image,stylesheet
-@@||cdn.brightvar.bid/static/js/b64.js
-@@||cdn.brightvar.bid/static/js/view105b.js
-@@||cdn.briskgram.net$image,stylesheet
-@@||cdn.briskgram.net/static/image/logo.png
-@@||cdn.briskgram.net/static/js/b64.js
-@@||cdn.briskgram.net/static/js/view105b.js
-@@||cdn.clearload.bid$image,stylesheet
-@@||cdn.clearload.bid/static/js/b64.js
-@@||cdn.clearload.bid/static/js/view105b.js
-@@||cdn.gloyah.net$image,stylesheet
-@@||cdn.gloyah.net/static/image/ad_top_bg2.png
-@@||cdn.gloyah.net/static/image/logo.png
-@@||cdn.gloyah.net/static/js/b64.js
-@@||cdn.gloyah.net/static/js/view105b.js
-@@||cdn.gloyah.net/static/js/view105c2.js
-@@||cdn.swiftviz.net$image,stylesheet
-@@||cdn.swiftviz.net/static/js/b64.js
-@@||cdn.swiftviz.net/static/js/view105b.js
-@@||cdn.uclaut.net$image,stylesheet
-@@||cdn.uclaut.net/static/image/ad_top_bg2.png
-@@||cdn.uclaut.net/static/js/b64.js
-@@||cdn.uclaut.net/static/js/view105b.js
-@@||cdn.xterca.net$image,stylesheet
-@@||cdn.xterca.net/image/logo.png
-@@||cdn.xterca.net/static/image/ad_top_bg2.png
-@@||cdn.xterca.net/static/js/b64.js
-@@||cdn.xterca.net/static/js/view105b.js
-@@||cdn.xterca.net/static/js/view105c2.js
-@@||clearload.bid^$generichide
-@@||clearonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||ecleneue.com^$generichide
-@@||facebook.com/plugins/like.php$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||gloyah.net/1market.php
-@@||gloyah.net/2market.php
-@@||gloyah.net/static/css/omnigy.css
-@@||gloyah.net^$generichide
-@@||liveadexchanger.com/a/display.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||liveadexchanger.com/a/display.php?$subdocument,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||maxonclick.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||onclickprediction.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||onclickpulse.com/script/chrome.js^$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||onclickpulse.com/script/identify.html$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||swiftviz.net/1market.php
-@@||swiftviz.net/static/css/omnigy.css
-@@||swiftviz.net^$generichide
-@@||uclaut.net/1market.php
-@@||uclaut.net/static/css/omnigy.css
-@@||uclaut.net^$generichide
-@@||unrestern.info/popunder.gif$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||venturead.com/script/suurl.php?$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||www.google-analytics.com^$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||xterca.net/1market.php
-@@||xterca.net/2market.php
-@@||xterca.net/static/css/omnigy.css
-@@||xterca.net^$generichide
-! adf.ly new
-@@||*.club$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
-@@||*.com^$domain=activetect.net|ay.gy|brightvar.bid|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
+@@||activetect.net^$genericblock,~third-party,~xmlhttprequest
+@@||ay.gy^$genericblock,~third-party,~xmlhttprequest
+@@||brightvar.bid^$genericblock,~third-party,~xmlhttprequest
+@@||briskgram.net^$genericblock,~third-party,~xmlhttprequest
+@@||clearload.bid^$genericblock,~third-party,~xmlhttprequest
+@@||swiftviz.net^$genericblock,~third-party,~xmlhttprequest
+@@||uclaut.net^$genericblock,~third-party,~xmlhttprequest
+@@||xterca.net^$genericblock,~third-party,~xmlhttprequest
 ! icarros.com.br
 @@||icarros.com.br^$genericblock,generichide,image
 ! uol.com.br
