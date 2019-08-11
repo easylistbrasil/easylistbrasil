@@ -18,6 +18,9 @@ $popup,domain=widestream.io
 ! netu streaming
 ||hqq.*/out$popup
 ! topflix.tv
+.ico$popup,domain=topflix.tv
+.jpeg$popup,domain=topflix.tv
+.png$popup,domain=topflix.tv
 |http*://$popup,domain=topflix.tv
 ! outros
 $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.me|katfile.com|sendit.cloud|uploadhaven.com|userscloud.com
