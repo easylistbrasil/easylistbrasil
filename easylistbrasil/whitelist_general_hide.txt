@@ -18,3 +18,5 @@ adblockplus.org#@#a[href*="adserver"]
 kissjav.com#@#div[style*="z-index"]
 ! rp5.ru
 rp5.ru#@#.adsbygoogle
+! adf.ly
+xterca.net#@#div[style*="z-index"]
