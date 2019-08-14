@@ -1,15 +1,51 @@
-! redtube, pornhub, youporn, tube8
-pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[class^="removeAdLink"]
-pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##a[href*="doublepimpssl"]
-pornhub.com##div[class="abAlertInner"] > a
-pornhub.com##div[class="abAlertInner"] > span
-tube8.com##div[class="rightColBanner"]
-pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##div[id="ab_banner"]
+! redtube.com
+redtube.com,redtube.com.br##a[class^="removeAdLink"]
+redtube.com,redtube.com.br##div[class="content_limit"] > div:first-child
+redtube.com,redtube.com.br##div[id="ab_banner"]
 redtube.com,redtube.com.br##div[id="content_container"] > div:last-child
-##div[id="pb_block"]
-redtube.com,redtube.com.br##div[onclick*="cp.abbp"]
-pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##iframe[src*="phncdn"]
-pornhub.com,redtube.com,redtube.com.br,tube8.com,youporn.com##p[class*="subtxt"]
+redtube.com,redtube.com.br##div[id="content_container"] > div:nth-child(4)
+redtube.com,redtube.com.br##div[id="content_container"] > div:nth-child(5)
+redtube.com,redtube.com.br##div[id="content_container"] > div[class="abovePlayer"]
+redtube.com,redtube.com.br##div[id="content_container"] > div[id^="below_footer_ad_content"]
+redtube.com,redtube.com.br##div[id="video_right_col"] > div:first-child
+redtube.com,redtube.com.br##iframe[src*="phncdn"]
+redtube.com,redtube.com.br#?#div > p:-abp-contains(ADVERTISEMENT)
+redtube.com,redtube.com.br#?#div > p:-abp-contains(PROPAGANDA)
+redtube.com,redtube.com.br#?#div > p:-abp-contains(PUBLICIDAD)
+redtube.com,redtube.com.br#?#div > p:-abp-contains(PUBLICITÉ)
+redtube.com,redtube.com.br#?#div > p:-abp-contains(Pubblicità)
+redtube.com,redtube.com.br#?#div > p:-abp-contains(REKLAMA)
+redtube.com,redtube.com.br#?#div > p:-abp-contains(WERBUNG)
+redtube.com,redtube.com.br#?#div > p:-abp-contains(Реклама)
+redtube.com,redtube.com.br#?#div > p:-abp-contains(広告)
+redtube.com,redtube.com.br#?#div[id="content_container"] > div:nth-child(3):-abp-has(iframe[class*="tm_ad_footer"])
+! youporn.com
+youporn.com##div[class*="trafficjunky"]
+youporn.com##div[class="promo-message"]
+youporn.com##div[id^="adblock"]
+youporn.com#?#div[class$="playWrapper"] > aside:-abp-has(div[class^="ad-remove"])
+youporn.com#?#div[class="container"] > div[class^="row"] > div[class^="row"] > div[class*="column"] > div:-abp-has(div[class^="ad-remove"])
+youporn.com#?#div[class="modal-box-content"] > div[class^="clearfix"] > div[class="wait-ad"]:-abp-has(div[class^="ad-remove"])
+youporn.com#?#div[class^="watchVideo"] > div[class="four-column"] > div:-abp-has(a[class^="adLinkText"])
+youporn.com#?#div[class^="watchVideo"] > div[class="four-column"] > div:-abp-has(div[class^="ad-remove"])
+youporn.com#?#footer > div:first-child:-abp-has(div[class^="ad-remove"])
+! pornhub.com
+pornhub.com##div[class="abAlertShown"]
+pornhub.com##div[id="vpContentContainer"] > div:nth-child(2)
+pornhub.com#$#abort-on-property-write window.zone_5
+pornhub.com##ul[class^="videos-morepad"] > [class="alpha"]:first-child
+! tube8.com
+tube8.com##.footerBanner
+tube8.com##.gridBanner
+tube8.com##div[class$="underplayer_ad"]
+tube8.com##div[class="scale_4k"]
+tube8.com##div[class="underplayerBanner"]
+tube8.com##div[id="announcement_ticker"]
+tube8.com##div[id="catFishBanner"]
+tube8.com##div[id="flvplayer"] > div[class$="_gridMenuSide"]
+tube8.com##div[id="videoPageWrapper"] > div[id="videoWatchPage"] > main[class$="clearfix"] > aside[class$="col-3-lg"]
+tube8.com##div[id^="adBlockAlert"]
+tube8.com#?#div > div > div > div > div > div > div:-abp-has(a[href$="#advertising")
 ! sexyhotplay.com.br
 sexyhotplay.com.br##div[class="banner"]
 sexyhotplay.com.br##div[class="banner-full"]

@@ -8,3 +8,10 @@
 ||kissjav.com^$csp=script-src 'self' 'unsafe-inline'
 ! imagefap.com
 imagefap.com#$#abort-on-property-read popcookie
+! redtube.com
+redtube.com,redtube.com.br#$#abort-on-property-read _goat
+||smpop.icfcdn.com/smpop-stable.js$script
+! pornhub.com
+pornhub.com#$#abort-on-property-write window.zone_5
+! tube8.com
+tube8.com#$#abort-on-property-read today
