@@ -1,6 +1,8 @@
 ||ad.lojapremio.net^
 ||afriflatry.co^$popup
 ||allornamenti.com^$popup,third-party
+||daurifek.net^$popup,third-party
+||hackesie.net^$popup,third-party
 ||hqq.*/out$popup
 ||myornamenti.com^$popup,third-party
 ||popads.net^$third-party

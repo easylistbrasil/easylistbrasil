@@ -393,6 +393,7 @@ $script,domain=amgload.net|piguiqproxy.com
 ! reviewsdecelular.ga
 |http*://$popup,third-party,xmlhttprequest,domain=reviewsdecelular.ga
 ! netcine.us
+|http*://$popup,script,third-party,xmlhttprequest,domain=aquitecnologia.com|ntcdn.us|sqldatabasebacks.com
 |http*://$script,third-party,xmlhttprequest,domain=netcine.tv|netcine.us
 ! filmes0800.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=filmes0800.com
