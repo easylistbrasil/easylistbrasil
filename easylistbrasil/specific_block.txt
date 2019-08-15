@@ -53,6 +53,8 @@
 ||spotscenered.info^$domain=streamango.com
 ! streamcherry.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=streamcherry.com
+! verystream.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=verystream.com
 ! wstream.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=wstream.to
 ! vidzi

@@ -472,6 +472,8 @@
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*ie8/videojs-ie8.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/*/videojs-contrib-hls.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/videojs-flash/*/videojs-flash.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/videojs-ima/*/videojs.ima.js
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-ima/*/videojs.ima.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/wow/*/wow.min.js
 @@||code.jquery.com/j*.js
