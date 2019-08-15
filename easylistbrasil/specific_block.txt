@@ -101,7 +101,7 @@ miner_$domain=vidoza.net
 ||thevid.*/ad/psd.js
 ||thevid.*/imgs/thevid-logo3.png
 ! rapidvideo.com
-|http*://$popup,script,third-party,xmlhttprequest,domain=www.rapidvideo.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=rapidvid.to|rapidvideo.com
 ! unitplay.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=unitplay.net
 ! clipwatching.com
