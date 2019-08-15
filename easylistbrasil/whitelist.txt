@@ -1301,8 +1301,12 @@ uol.com.br#@#[src*="data:image"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=empregosdomomento.club|empregototal.club
 ! topflix.tv
 @@||bit.ly^$domain=topflix.tv
-@@||simpla.site^$domain=topflix.tv
+@@||kuteche.tech^$generichide
+@@||ntcdn.stream^$xmlhttprequest,domain=topflix.tv
+@@||portaltalantov.club^$generichide
+@@||simpla.site^$subdocument,xmlhttprequest,domain=topflix.tv
 @@||sistentech.online^$domain=topflix.tv
+@@||sistentech.online^$generichide
 @@||topflix.tv^$generichide
 @@||wurfl.io/wurfl.js$domain=topflix.tv
 ! filmesonlinehdx.org

@@ -1152,7 +1152,7 @@ openloadtvseries.com##a[href*="refer"]
 openloadtvseries.com##div[id*="ScriptRoot"]
 openloadtvseries.com##div[style*="z-index"]
 ! topflix.tv
-topflix.tv##div[id^="p_root_"]
+! topflix.tv##div[id^="p_root_"]
 ! threepercenternation.com
 threepercenternation.com##a[href^="http://bit.ly"]
 threepercenternation.com##article[class^="vw-main-post"] > div:last-child
