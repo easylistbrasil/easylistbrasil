@@ -1308,7 +1308,7 @@ uol.com.br#@#[src*="data:image"]
 @@||sistentech.online^$domain=topflix.tv
 @@||sistentech.online^$generichide
 @@||topflix.tv^$generichide
-@@||wurfl.io/wurfl.js$domain=topflix.tv
+@@||wurfl.io/wurfl.js^$script,domain=topflix.tv
 ! filmesonlinehdx.org
 @@||filmesonlinehdx.org/wp-content/cache/wpfc-minified/*/wgbg.js
 @@||filmesonlinehdx.org/wp-content/themes/vizeratt/assets/js/scripts.js
