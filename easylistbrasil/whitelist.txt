@@ -1301,13 +1301,12 @@ uol.com.br#@#[src*="data:image"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=empregosdomomento.club|empregototal.club
 ! topflix.tv
 @@||bit.ly^$domain=topflix.tv
-@@||kuteche.tech^$generichide
+@@||kuteche.tech^$generichide,subdocument,xmlhttprequest,domain=topflix.tv
 @@||ntcdn.stream^$xmlhttprequest,domain=topflix.tv
-@@||portaltalantov.club^$generichide
-@@||simpla.site^$subdocument,xmlhttprequest,domain=topflix.tv
-@@||sistentech.online^$domain=topflix.tv
-@@||sistentech.online^$generichide
-@@||topflix.tv^$generichide
+@@||portaltalantov.club^$generichide,subdocument,xmlhttprequest,domain=topflix.tv
+@@||simpla.site^$generichide,subdocument,xmlhttprequest,domain=topflix.tv
+@@||sistentech.online^$generichide,subdocument,xmlhttprequest,domain=topflix.tv
+@@||topflix.tv^$elemhide,generichide
 @@||wurfl.io/wurfl.js^$script,domain=topflix.tv
 ! filmesonlinehdx.org
 @@||filmesonlinehdx.org/wp-content/cache/wpfc-minified/*/wgbg.js
