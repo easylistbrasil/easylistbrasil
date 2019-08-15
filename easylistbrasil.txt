@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: CMQKRvEKuuaoX3LvBYRTXQ
-! Version: 201908142316
+! Checksum: j1ImMdG32HYxx0muHep/Pg
+! Version: 201908150042
 ! Title: EasyList Brasil
-! Last modified: 14 Aug 2019 23:16 UTC
+! Last modified: 15 Aug 2019 00:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -717,6 +717,8 @@ xterca.net#@#div[style*="z-index"]
 ||spotscenered.info^$domain=streamango.com
 ! streamcherry.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=streamcherry.com
+! verystream.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=verystream.com
 ! wstream.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=wstream.to
 ! vidzi
@@ -3283,6 +3285,8 @@ travestisvip.com.br##div[class^="banner-"]
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*/video.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/video.js/*ie8/videojs-ie8.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/*/videojs-contrib-hls.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/videojs-flash/*/videojs-flash.min.js
+@@||cdnjs.cloudflare.com/ajax/libs/videojs-ima/*/videojs.ima.js
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-ima/*/videojs.ima.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/wow/*/wow.min.js
 @@||code.jquery.com/j*.js
