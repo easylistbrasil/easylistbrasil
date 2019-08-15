@@ -712,6 +712,7 @@ $script,domain=speedtest.net
 ! openloadtvseries.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=openloadtvseries.com
 ! topflix.tv
+topflix.tv#$#abort-on-property-read element
 |http*://$popup,script,third-party,xmlhttprequest,domain=topflix.tv
 ||topflix.tv/js/prot2.js
 ! jmail.ovh
