@@ -54,7 +54,7 @@
 ! streamcherry.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=streamcherry.com
 ! verystream.com
-|http*://$popup,script,third-party,xmlhttprequest,domain=verystream.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=verystream.com|woof.tube
 ! wstream.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=wstream.to
 ! vidzi
