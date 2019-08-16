@@ -1216,16 +1216,6 @@ uol.com.br#@#[src*="data:image"]
 @@||netfilmeshd.com.br/js/index.js
 @@||netfilmeshd.com.br/themes/MTI/ajax/get_rating.php
 @@||netfilmeshd.com.br/themes/MTI/assets/js/app.js
-! seriesonlinehd.org
-@@||google.com/calendar/$csp,domain=seriesonlinehd.org
-@@||mega.nz/embed$csp,domain=seriesonlinehd.org
-@@||ok.ru$csp,domain=seriesonlinehd.org
-@@||oload.fun$csp,domain=seriesonlinehd.org
-@@||openload.co$csp,domain=seriesonlinehd.org
-@@||rapidvideo.com$csp,domain=seriesonlinehd.org
-@@||seriesonlinehd.org/player_series/$csp
-@@||thevid.tv$csp,domain=seriesonlinehd.org
-@@||youtube.com/embed/$csp,domain=seriesonlinehd.org
 ! assistindoanimesonline.org
 @@||videok7.online/$subdocument,domain=assistindoanimesonline.org
 ! animeplus.org
@@ -1357,6 +1347,8 @@ uol.com.br#@#[src*="data:image"]
 @@||api.bsgspl.xyz^$third-party,domain=bsgospel.net
 @@||bsgospel.net^$generichide
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=bsgospel.net
+! thevid.tv
+@@||thevid.tv/v/thumbs/$image
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest

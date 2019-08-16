@@ -101,6 +101,7 @@ miner_$domain=vidoza.net
 ||thevid.*/ad/pop/js.js?v=0.1
 ||thevid.*/ad/psd.js
 ||thevid.*/imgs/thevid-logo3.png
+||thevid.tv/js/dbjs.js
 ! rapidvideo.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=rapidvid.to|rapidvideo.com
 ! unitplay.net
@@ -596,8 +597,6 @@ $csp=script-src 'self',domain=mirrorace.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=animeplus.org
 ! assistindoanimesonline.info
 |http*://$popup,script,third-party,xmlhttprequest,domain=assistindoanimesonline.info
-! seriesonlinehd.org
-$csp=script-src 'self',domain=seriesonlinehd.org
 ! filmesonline.blog
 |http*://$popup,script,third-party,xmlhttprequest,domain=filmesonline.blog
 ! midiaflixhd.net
