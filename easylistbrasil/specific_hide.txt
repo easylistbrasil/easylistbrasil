@@ -1170,3 +1170,5 @@ techrrival.com##.ezoic-floating-bottom
 techrrival.com##.td-a-rec-id-custom_ad_1
 techrrival.com##.td-a-rec-id-custom_ad_2
 techrrival.com##div[id^="google_ads_iframe_"]
+! animesonline.vip
+animesonline.vip##iframe[src*="playerprotected.php"]
