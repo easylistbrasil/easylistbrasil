@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Fz3hEBDt42vm42WuZ1T9Pg
-! Version: 201908150047
+! Checksum: SKZWpp9m3lhyijg/efHXKQ
+! Version: 201908152248
 ! Title: EasyList Brasil
-! Last modified: 15 Aug 2019 00:47 UTC
+! Last modified: 15 Aug 2019 22:48 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -718,7 +718,7 @@ xterca.net#@#div[style*="z-index"]
 ! streamcherry.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=streamcherry.com
 ! verystream.com
-|http*://$popup,script,third-party,xmlhttprequest,domain=verystream.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=verystream.com|woof.tube
 ! wstream.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=wstream.to
 ! vidzi
@@ -1929,8 +1929,6 @@ netcine.tv,netcine.us##script[src*="oclasrv"]
 filmes0800.com##.afs_ads
 ! filmeseseriesonline.net
 filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeseriesonline.info,filmeeseriesonline.net,filmeeseriesonline.online,filmeeseriesonline.org,filmeseserieonline.co,filmeseserieonline.com,filmeseserieonline.gratis,filmeseserieonline.info,filmeseserieonline.net,filmeseserieonline.online,filmeseserieonline.org,filmeseseriesonline.co,filmeseseriesonline.com,filmeseseriesonline.gratis,filmeseseriesonline.info,filmeseseriesonline.net,filmeseseriesonline.online,filmeseseriesonline.org,filmesonlineseries.co,filmesonlineseries.com,filmesonlineseries.gratis,filmesonlineseries.info,filmesonlineseries.net,filmesonlineseries.online,filmesonlineseries.org##a[href*="adserver"]
-filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeseriesonline.info,filmeeseriesonline.net,filmeeseriesonline.online,filmeeseriesonline.org,filmeseserieonline.co,filmeseserieonline.com,filmeseserieonline.gratis,filmeseserieonline.info,filmeseserieonline.net,filmeseserieonline.online,filmeseserieonline.org,filmeseseriesonline.co,filmeseseriesonline.com,filmeseseriesonline.gratis,filmeseseriesonline.info,filmeseseriesonline.net,filmeseseriesonline.online,filmeseseriesonline.org,filmesonlineseries.co,filmesonlineseries.com,filmesonlineseries.gratic,filmesonlineseries.gratis,filmesonlineseries.info,filmesonlineseries.net,filmesonlineseries.online,filmesonlineseries.org##a[onclick*="player"]
-filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeseriesonline.info,filmeeseriesonline.net,filmeeseriesonline.online,filmeeseriesonline.org,filmeseserieonline.co,filmeseserieonline.com,filmeseserieonline.gratis,filmeseserieonline.info,filmeseserieonline.net,filmeseserieonline.online,filmeseserieonline.org,filmeseseriesonline.co,filmeseseriesonline.com,filmeseseriesonline.gratis,filmeseseriesonline.info,filmeseseriesonline.net,filmeseseriesonline.online,filmeseseriesonline.org,filmesonlineseries.co,filmesonlineseries.com,filmesonlineseries.gratis,filmesonlineseries.info,filmesonlineseries.net,filmesonlineseries.online,filmesonlineseries.org##div[class="itens"] > a:first-child
 filmeeseriesonline.co,filmeeseriesonline.com,filmeeseriesonline.gratis,filmeeseriesonline.info,filmeeseriesonline.net,filmeeseriesonline.online,filmeeseriesonline.org,filmeseserieonline.co,filmeseserieonline.com,filmeseserieonline.gratis,filmeseserieonline.info,filmeseserieonline.net,filmeseserieonline.online,filmeseserieonline.org,filmeseseriesonline.co,filmeseseriesonline.com,filmeseseriesonline.gratis,filmeseseriesonline.info,filmeseseriesonline.net,filmeseseriesonline.online,filmeseseriesonline.org,filmesonlineseries.co,filmesonlineseries.com,filmesonlineseries.gratis,filmesonlineseries.info,filmesonlineseries.net,filmesonlineseries.online,filmesonlineseries.org##div[style*="z-index"]
 ! redecanais
 cometa.top##div[id="video-id_logo"]
@@ -3493,10 +3491,7 @@ travestisvip.com.br##div[class^="banner-"]
 @@||cinepremiere.net/*/gkpluginsAPI.js
 @@||cinepremiere.net/*/jwplayer*.js
 ! thevid.net
-@@||onclickmega.com^$domain=thevid.net|thevid.tv
-@@||onclicksuper.com^$domain=thevid.net|thevid.tv
 @@||s0*.thevid.*/videos/screenshots/*.jpg
-@@||superfastcdn.com/script/compatibility.js^$domain=thevid.net|thevid.tv
 @@||thevid.*/js/jquery.js
 @@||thevid.*/js/jrange/jquery.range-min.js
 @@||thevid.*/player/videojs/plugins/videojs.airplay.js
@@ -3505,7 +3500,6 @@ travestisvip.com.br##div[class^="banner-"]
 @@||thevid.*/player/videojs/videojs-thumbnails.min.js
 @@||thevid.*/player/videojs/videojs.errors.js
 @@||thevid.*^$media
-@@||velocecdn.com/script/compatibility.js^$domain=thevid.net|thevid.tv
 ! rapidvideo.com
 @@||rapidvideo.*/embed/undefined^
 @@||rapidvideo.*/js/jquery.limit-*.source.js
