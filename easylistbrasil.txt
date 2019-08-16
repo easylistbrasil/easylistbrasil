@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: EWBjek9HXwyHxQkVxXIIow
-! Version: 201908152325
+! Checksum: a2XstZmDVW3tPJhy/gUGiQ
+! Version: 201908162025
 ! Title: EasyList Brasil
-! Last modified: 15 Aug 2019 23:25 UTC
+! Last modified: 16 Aug 2019 20:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1384,6 +1384,8 @@ topflix.tv#$#abort-on-property-read element
 ||topflix.tv/js/prot2.js
 ! jmail.ovh
 /img/banners/*$image,third-party,domain=jmail.ovh
+! assistindoanimesonline.org
+|http*://$popup,script,third-party,xmlhttprequest,domain=assistindoanimesonline.org
 ! Anti mine mining
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|gofile.io|hq-porns.com|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thepiratebay.cr|thepiratebay.org|thepiratebay.red|thevideo.us|tvad.me|vidoza.net|vidup.me
