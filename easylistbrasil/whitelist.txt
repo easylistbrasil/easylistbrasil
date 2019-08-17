@@ -521,9 +521,9 @@
 ! github
 @@||github.com^$genericblock,generichide,popup,xmlhttprequest
 ! media
-@@/*.m3u8
-@@/*.ts
-@@||*.mp4$domain=~alfastream.cc|~tv-msn.com|~tvonlineaovivo.net
+@@/*.m3u8^$media
+@@/*.ts^$media
+@@||*.mp4^$media,domain=~alfastream.cc|~tv-msn.com|~tvonlineaovivo.net
 @@||*.srt
 @@||*/crossdomain.xml$domain=vidto.me
 @@||*/live/master*/hls.key$xmlhttprequest
