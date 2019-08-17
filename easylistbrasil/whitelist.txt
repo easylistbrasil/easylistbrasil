@@ -1060,6 +1060,7 @@
 @@||activetect.net^$genericblock,~third-party,~xmlhttprequest
 @@||ay.gy^$genericblock,~third-party,~xmlhttprequest
 @@||brightvar.bid^$genericblock,~third-party,~xmlhttprequest
+@@||larati.net^$genericblock,~third-party,~xmlhttprequest
 @@||uclaut.net^$genericblock,~third-party,~xmlhttprequest
 @@||xterca.net^$genericblock,~third-party,~xmlhttprequest
 ! icarros.com.br

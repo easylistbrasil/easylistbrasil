@@ -494,11 +494,11 @@ get.$domain=xilften.net
 ! aovivobrasil.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=aovivobrasil.com.br
 ! adf.ly
-.php$script,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net|xterca.net
-||cdn.*/static/js/amvn.js^$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net|xterca.net
+.php$script,domain=larati.net,activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net|xterca.net
+||cdn.*/static/js/amvn.js^$domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|larati.net|swiftviz.net|uclaut.net|xterca.net
 ! new
-activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,swiftviz.net,uclaut.net,xterca.net#$#abort-on-property-read frame_check; abort-on-property-read intpop; abort-on-property-read scripts
-||cloudfront.net^$third-party,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net|xterca.net
+activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,larati.net,swiftviz.net,uclaut.net,xterca.net#$#abort-on-property-read frame_check; abort-on-property-read intpop; abort-on-property-read scripts
+||cloudfront.net^$third-party,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|larati.net|swiftviz.net|uclaut.net|xterca.net
 ! futeboltv.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=futeboltv.com|futeboltvgratis.com
 ||embed.tawk.to^$third-party,domain=futeboltv.com|futeboltvgratis.com
