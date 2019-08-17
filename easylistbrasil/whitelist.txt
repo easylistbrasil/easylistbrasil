@@ -510,6 +510,7 @@
 @@||ssl.p.jwpcdn.com/player/v/*/jwplayer.flash.swf
 @@||ssl.p.jwpcdn.com/player/v/*/polyfills.vttrenderer.js
 @@||ssl.p.jwpcdn.com/player/v/*/provider.flash.js
+@@||ssl.p.jwpcdn.com/player/v/*/translations/*.json
 @@||translate.google.com/translate*/element.js
 @@||translate.googleapis.com/translate_static/js/element/main_*.js
 @@||vjs.zencdn.net/*/video.js$script
@@ -1349,6 +1350,9 @@ uol.com.br#@#[src*="data:image"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=bsgospel.net
 ! thevid.tv
 @@||thevid.tv/v/thumbs/$image
+! animesonlinebr.site
+@@||animesonlinebr.biz/players/fv-player-pro/js/fv_player_pro.min.js
+@@||animesonlinebr.biz/players/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest
