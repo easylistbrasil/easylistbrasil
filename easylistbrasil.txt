@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bChVNbOM5Za7QF5zyC/pZA
-! Version: 201908170154
+! Checksum: k58282TC9VhOgwwoGLC26A
+! Version: 201908170218
 ! Title: EasyList Brasil
-! Last modified: 17 Aug 2019 01:54 UTC
+! Last modified: 17 Aug 2019 02:18 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1565,6 +1565,7 @@ $popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torren
 imagefap.com#$#abort-on-property-read popcookie
 ! redtube.com
 redtube.com,redtube.com.br#$#abort-on-property-read _goat
+redtube.com,redtube.com.br#$#abort-on-property-read rab
 ||smpop.icfcdn.com/smpop-stable.js$script
 ! pornhub.com
 pornhub.com#$#abort-on-property-write window.zone_5
@@ -2769,6 +2770,7 @@ redtube.com,redtube.com.br##div[id="content_container"] > div[class="abovePlayer
 redtube.com,redtube.com.br##div[id="content_container"] > div[id^="below_footer_ad_content"]
 redtube.com,redtube.com.br##div[id="video_right_col"] > div:first-child
 redtube.com,redtube.com.br##iframe[src*="phncdn"]
+redtube.com,redtube.com.br#?#[class] > div > div > div > div > div > div > div:-abp-has(div > a[class^="ad-link"])
 redtube.com,redtube.com.br#?#div > p:-abp-contains(ADVERTISEMENT)
 redtube.com,redtube.com.br#?#div > p:-abp-contains(PROPAGANDA)
 redtube.com,redtube.com.br#?#div > p:-abp-contains(PUBLICIDAD)
