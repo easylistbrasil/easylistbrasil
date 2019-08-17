@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: ZdELnySW8a+G0UAWHwoDqA
-! Version: 201908162054
+! Checksum: r1HL/koHS3qH42+7bMqZUA
+! Version: 201908162123
 ! Title: EasyList Brasil
-! Last modified: 16 Aug 2019 20:54 UTC
+! Last modified: 16 Aug 2019 21:23 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1388,6 +1388,8 @@ topflix.tv#$#abort-on-property-read element
 |http*://$popup,script,third-party,xmlhttprequest,domain=assistindoanimesonline.org
 ! animesonline.vip
 |http*://$popup,script,third-party,xmlhttprequest,domain=animesonline.vip
+! animesonlinebr.site
+|http*://$popup,script,third-party,xmlhttprequest,domain=animesonlinebr.site
 ! Anti mine mining
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|gofile.io|hq-porns.com|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thepiratebay.cr|thepiratebay.org|thepiratebay.red|thevideo.us|tvad.me|vidoza.net|vidup.me
@@ -2748,6 +2750,8 @@ techrrival.com##.td-a-rec-id-custom_ad_2
 techrrival.com##div[id^="google_ads_iframe_"]
 ! animesonline.vip
 animesonline.vip##iframe[src*="playerprotected.php"]
+! animesonlinebr.site
+animesonlinebr.site#?#div[class="sidebar"]:-abp-contains(PARCEIROS)
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube.com
 redtube.com,redtube.com.br##a[class^="removeAdLink"]
@@ -3327,6 +3331,7 @@ travestisvip.com.br##div[class^="banner-"]
 @@||ssl.p.jwpcdn.com/player/v/*/jwplayer.flash.swf
 @@||ssl.p.jwpcdn.com/player/v/*/polyfills.vttrenderer.js
 @@||ssl.p.jwpcdn.com/player/v/*/provider.flash.js
+@@||ssl.p.jwpcdn.com/player/v/*/translations/*.json
 @@||translate.google.com/translate*/element.js
 @@||translate.googleapis.com/translate_static/js/element/main_*.js
 @@||vjs.zencdn.net/*/video.js$script
@@ -4166,6 +4171,9 @@ uol.com.br#@#[src*="data:image"]
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js^$domain=bsgospel.net
 ! thevid.tv
 @@||thevid.tv/v/thumbs/$image
+! animesonlinebr.site
+@@||animesonlinebr.biz/players/fv-player-pro/js/fv_player_pro.min.js
+@@||animesonlinebr.biz/players/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest
