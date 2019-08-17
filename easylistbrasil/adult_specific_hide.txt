@@ -3,7 +3,6 @@ redtube.com,redtube.com.br##a[class^="removeAdLink"]
 redtube.com,redtube.com.br##div[class="content_limit"] > div:first-child
 redtube.com,redtube.com.br##div[id="ab_banner"]
 redtube.com,redtube.com.br##div[id="content_container"] > div:last-child
-redtube.com,redtube.com.br##div[id="content_container"] > div:nth-child(4)
 redtube.com,redtube.com.br##div[id="content_container"] > div:nth-child(5)
 redtube.com,redtube.com.br##div[id="content_container"] > div[class="abovePlayer"]
 redtube.com,redtube.com.br##div[id="content_container"] > div[id^="below_footer_ad_content"]
