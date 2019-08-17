@@ -8,6 +8,7 @@ redtube.com,redtube.com.br##div[id="content_container"] > div[class="abovePlayer
 redtube.com,redtube.com.br##div[id="content_container"] > div[id^="below_footer_ad_content"]
 redtube.com,redtube.com.br##div[id="video_right_col"] > div:first-child
 redtube.com,redtube.com.br##iframe[src*="phncdn"]
+redtube.com,redtube.com.br#?#[class] > div > div > div > div > div > div > div:-abp-has(div > a[class^="ad-link"])
 redtube.com,redtube.com.br#?#div > p:-abp-contains(ADVERTISEMENT)
 redtube.com,redtube.com.br#?#div > p:-abp-contains(PROPAGANDA)
 redtube.com,redtube.com.br#?#div > p:-abp-contains(PUBLICIDAD)

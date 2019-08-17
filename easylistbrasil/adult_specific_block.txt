@@ -10,6 +10,7 @@
 imagefap.com#$#abort-on-property-read popcookie
 ! redtube.com
 redtube.com,redtube.com.br#$#abort-on-property-read _goat
+redtube.com,redtube.com.br#$#abort-on-property-read rab
 ||smpop.icfcdn.com/smpop-stable.js$script
 ! pornhub.com
 pornhub.com#$#abort-on-property-write window.zone_5
