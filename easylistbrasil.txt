@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: mfatGs3Diio67wAaaBNGuA
-! Version: 201908171749
+! Checksum: SsLGoethiGtze1kcJPV2uw
+! Version: 201908171750
 ! Title: EasyList Brasil
-! Last modified: 17 Aug 2019 17:49 UTC
+! Last modified: 17 Aug 2019 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -331,7 +331,7 @@ kissjav.com#@#div[style*="z-index"]
 ! rp5.ru
 rp5.ru#@#.adsbygoogle
 ! adf.ly
-larati.net,xterca.net#@#div[style*="z-index"]
+activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,larati.net,swiftviz.net,uclaut.net,xterca.net#@#div[style*="z-index"]
 !-----------------------Anunciantes de terceiros-----------------------!
 ! *** easylistbrasil:easylistbrasil/adservers.txt ***
 ||5edeb195868e2195.com^$third-party
