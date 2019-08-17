@@ -693,6 +693,9 @@ bobfilmes.com##div[style*="z-index"]
 ecleneue.com##div[class="arrow"]
 ecleneue.com##div[class="logo-wrapper"]
 activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,swiftviz.net,uclaut.net,xterca.net##span[class^="bottom"]
+! new
+activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,swiftviz.net,uclaut.net,xterca.net#?#div:-abp-has(div:-abp-contains(Deny))
+activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,swiftviz.net,uclaut.net,xterca.net##iframe[src*="market.php"] > html
 ! futeboltvgratis.com
 futeboltvgratis.com##[id*="anuncio"]
 futeboltvgratis.com##a[id="linkantes"]
