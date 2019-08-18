@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: pfj51lb7EyeVFyETS+0IKQ
-! Version: 201908180051
+! Checksum: XcAE4+xTm7u4GSu39Im+sw
+! Version: 201908180105
 ! Title: EasyList Brasil
-! Last modified: 18 Aug 2019 00:51 UTC
+! Last modified: 18 Aug 2019 01:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1401,6 +1401,8 @@ topflix.tv#$#abort-on-property-read element
 ! goyabu.com
 goyabu.com#$#abort-on-property-write adblockenabled
 |http*://$popup,script,third-party,xmlhttprequest,domain=goyabu.com
+! animeshd.us
+|http*://$popup,script,third-party,xmlhttprequest,domain=animeshd.us
 ! Anti mine mining
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|gofile.io|hq-porns.com|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thepiratebay.cr|thepiratebay.org|thepiratebay.red|thevideo.us|tvad.me|vidoza.net|vidup.me
@@ -2772,6 +2774,8 @@ goyabu.com##.adsbox
 goyabu.com##.afs_ads
 goyabu.com##div[class="OUTBRAIN"]
 goyabu.com##div[id="warning"]
+! animeshd.us
+animeshd.us##.module_home_ads
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube.com
 redtube.com,redtube.com.br##a[class^="removeAdLink"]
@@ -4203,6 +4207,8 @@ uol.com.br#@#[src*="data:image"]
 @@||animesonlinebr.biz/players/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js
 ! goyabu.com
 @@||goyabu.com^$generichide
+! animeshd.us
+@@||animeshd.us^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest
