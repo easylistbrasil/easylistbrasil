@@ -20,3 +20,6 @@ kissjav.com#@#div[style*="z-index"]
 rp5.ru#@#.adsbygoogle
 ! adf.ly
 activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,larati.net,swiftviz.net,uclaut.net,xterca.net#@#div[style*="z-index"]
+! goyabu.com
+goyabu.com#@#[src*="data:image"]
+goyabu.com#@#div[style*="z-index"]

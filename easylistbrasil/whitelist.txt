@@ -1360,6 +1360,8 @@ uol.com.br#@#[src*="data:image"]
 ! animesonlinebr.site
 @@||animesonlinebr.biz/players/fv-player-pro/js/fv_player_pro.min.js
 @@||animesonlinebr.biz/players/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js
+! goyabu.com
+@@||goyabu.com^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest

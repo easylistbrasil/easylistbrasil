@@ -1177,3 +1177,8 @@ techrrival.com##div[id^="google_ads_iframe_"]
 animesonline.vip##iframe[src*="playerprotected.php"]
 ! animesonlinebr.site
 animesonlinebr.site#?#div[class="sidebar"]:-abp-contains(PARCEIROS)
+! goyabu.com
+goyabu.com##.adsbox
+goyabu.com##.afs_ads
+goyabu.com##div[class="OUTBRAIN"]
+goyabu.com##div[id="warning"]
