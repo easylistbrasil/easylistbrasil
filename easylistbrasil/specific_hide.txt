@@ -1182,3 +1182,5 @@ goyabu.com##.adsbox
 goyabu.com##.afs_ads
 goyabu.com##div[class="OUTBRAIN"]
 goyabu.com##div[id="warning"]
+! animeshd.us
+animeshd.us##.module_home_ads

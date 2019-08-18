@@ -1362,6 +1362,8 @@ uol.com.br#@#[src*="data:image"]
 @@||animesonlinebr.biz/players/fv-wordpress-flowplayer/flowplayer/fv-flowplayer.min.js
 ! goyabu.com
 @@||goyabu.com^$generichide
+! animeshd.us
+@@||animeshd.us^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest
