@@ -19,6 +19,7 @@
 @@||twitter.com^$popup
 ! discord
 @@||discord.gg^$popup
+@@||discordapp.com^$popup
 ! imdb
 @@||imdb.com/video/imdb/$popup
 @@||imdb.com/videoplayer/$popup
