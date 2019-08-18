@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: XcAE4+xTm7u4GSu39Im+sw
-! Version: 201908180105
+! Checksum: uED1R5GJJGvoG3Tc9su/EQ
+! Version: 201908180126
 ! Title: EasyList Brasil
-! Last modified: 18 Aug 2019 01:05 UTC
+! Last modified: 18 Aug 2019 01:26 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -756,6 +756,8 @@ miner_$domain=vidoza.net
 ! cinepremiere.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=cinepremiere.net
 ||i.imgur.com/4Io0o1p.png^$domain=cinepremiere.net
+! onifile.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=onifile.com
 ! thevid
 /ad/300x250.php$domain=thevid.net|thevid.tv
 /ad/ads1.php$domain=thevid.net|thevid.tv
@@ -2776,6 +2778,8 @@ goyabu.com##div[class="OUTBRAIN"]
 goyabu.com##div[id="warning"]
 ! animeshd.us
 animeshd.us##.module_home_ads
+! onifile.com
+mirrordrive.net,onifile.com##div[class="afs_ads"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube.com
 redtube.com,redtube.com.br##a[class^="removeAdLink"]
