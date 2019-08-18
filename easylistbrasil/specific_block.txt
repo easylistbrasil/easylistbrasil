@@ -89,6 +89,8 @@ miner_$domain=vidoza.net
 ! cinepremiere.net
 |http*://$popup,script,third-party,xmlhttprequest,domain=cinepremiere.net
 ||i.imgur.com/4Io0o1p.png^$domain=cinepremiere.net
+! onifile.com
+|http*://$popup,script,third-party,xmlhttprequest,domain=onifile.com
 ! thevid
 /ad/300x250.php$domain=thevid.net|thevid.tv
 /ad/ads1.php$domain=thevid.net|thevid.tv

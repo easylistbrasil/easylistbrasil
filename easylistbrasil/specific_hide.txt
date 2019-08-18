@@ -1184,3 +1184,5 @@ goyabu.com##div[class="OUTBRAIN"]
 goyabu.com##div[id="warning"]
 ! animeshd.us
 animeshd.us##.module_home_ads
+! onifile.com
+mirrordrive.net,onifile.com##div[class="afs_ads"]
