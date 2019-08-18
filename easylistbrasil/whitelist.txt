@@ -401,7 +401,7 @@
 @@||/wp-content/themes/*/assets/js/simple-requests-public.js
 @@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.js
 @@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.min.map
-@@||ajax.googleapis.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|oload.vip|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||ajax.googleapis.com/ajax/libs/angular_material/*/angular-material.min.js
 @@||ajax.googleapis.com/ajax/libs/angularjs/*/angular.min.js
 @@||ajax.googleapis.com/ajax/libs/dojo/*/dojo/dojo.js
@@ -446,7 +446,7 @@
 @@||cdn.jsdelivr.net/wp/*^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
 @@||cdn.viblast.com/vb/*/viblast.remuxer.js
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|oload.vip|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/*/jquery.lazyloadxt.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/clappr/*/clappr.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/*/cookieconsent.min.js
@@ -480,7 +480,7 @@
 @@||code.jquery.com/jquery.min.map
 @@||code.jquery.com/query.js
 @@||code.jquery.com/ui/*/jquery-ui.js
-@@||code.jquery.com^$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||code.jquery.com^$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|oload.vip|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||connect.facebook.net/*/all.js^$script
 @@||connect.facebook.net/en_US/fbevents.js
 @@||connect.facebook.net/pt_BR/sdk.js
@@ -517,7 +517,7 @@
 @@||vjs.zencdn.net/*/video.min.js
 @@||youtube.com/iframe_api^$media,script
 @@||youtube.com/player_api^$media,script
-@@||zencdn.net^$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||zencdn.net^$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|oload.vip|openload.co|skyback.ru|streamango.com|streamcherry.com
 ! github
 @@||github.com^$genericblock,generichide,popup,xmlhttprequest
 ! media
