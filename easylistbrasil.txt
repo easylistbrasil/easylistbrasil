@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uED1R5GJJGvoG3Tc9su/EQ
-! Version: 201908180126
+! Checksum: dflAOjT41og57aT9Tgr95g
+! Version: 201908181337
 ! Title: EasyList Brasil
-! Last modified: 18 Aug 2019 01:26 UTC
+! Last modified: 18 Aug 2019 13:37 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -669,7 +669,7 @@ goyabu.com#@#div[style*="z-index"]
 ||youtube.com/get_endscreen?
 ||youtube.com/get_midroll_
 ! openload.co
-oladblock.me,oladblock.services,oladblock.xyz,olaod.net,oload.best,oload.cc,oload.cloud,oload.club,oload.life,oload.live,oload.press,oload.space,oload.website,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.fun,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net,﻿openload.online,﻿openload.org,﻿openload.ru,﻿openload.site,﻿openload.to,﻿openload.top,﻿openload.tv,﻿openload.us,﻿openload.vip,﻿openload.win#$#abort-on-property-write _pop; abort-on-property-read decodeURI; abort-on-property-read popjs; abort-on-property-read toString; abort-on-property-read AaDetector; abort-on-property-read BetterJsPop; abort-on-property-write Fingerprint2; abort-current-inline-script document.getElementById isSandboxed; abort-on-property-read window.open
+oladblock.me,oladblock.services,oladblock.xyz,olaod.net,oload.best,oload.cc,oload.cloud,oload.club,oload.life,oload.live,oload.press,oload.space,oload.website,﻿oload.biz,﻿oload.co,﻿oload.com,﻿oload.download,﻿oload.fun,﻿oload.info,﻿oload.io,﻿oload.me,﻿oload.online,﻿oload.org,﻿oload.ru,﻿oload.site,﻿oload.to,﻿oload.top,﻿oload.tv,﻿oload.us,﻿oload.vip,﻿openload.biz,﻿openload.co,﻿openload.com,﻿openload.download,﻿openload.info,﻿openload.io,﻿openload.me,﻿openload.net,﻿openload.online,﻿openload.org,﻿openload.ru,﻿openload.site,﻿openload.to,﻿openload.top,﻿openload.tv,﻿openload.us,﻿openload.vip,﻿openload.win#$#abort-on-property-write _pop; abort-on-property-read decodeURI; abort-on-property-read popjs; abort-on-property-read toString; abort-on-property-read AaDetector; abort-on-property-read BetterJsPop; abort-on-property-write Fingerprint2; abort-on-property-read window.open; abort-on-property-read adblock2
 |http*://$popup,script,third-party,xmlhttprequest,domain=oladblock.me|oladblock.services|oladblock.xyz|olaod.net|oload.best|oload.biz|oload.cc|oload.cloud|oload.club|oload.co|oload.com|oload.download|oload.fun|oload.info|oload.io|oload.life|oload.live|oload.me|oload.online|oload.org|oload.press|oload.ru|oload.site|oload.space|oload.to|oload.top|oload.tv|oload.us|oload.vip|oload.website|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*.com^$third-party,domain=oladblock.me|oladblock.services|oladblock.xyz|olaod.net|oload.best|oload.biz|oload.cc|oload.cloud|oload.club|oload.co|oload.com|oload.download|oload.fun|oload.info|oload.io|oload.life|oload.live|oload.me|oload.online|oload.org|oload.press|oload.ru|oload.site|oload.space|oload.to|oload.top|oload.tv|oload.us|oload.vip|oload.website|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.io|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|openload.win
 ||*.info/googlead.js^$script
@@ -3250,7 +3250,7 @@ travestisvip.com.br##div[class^="banner-"]
 @@||/wp-content/themes/*/assets/js/simple-requests-public.js
 @@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.js
 @@||ajax.aspnetcdn.com/ajax/jQuery/jquery-*.min.map
-@@||ajax.googleapis.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||ajax.googleapis.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|oload.vip|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||ajax.googleapis.com/ajax/libs/angular_material/*/angular-material.min.js
 @@||ajax.googleapis.com/ajax/libs/angularjs/*/angular.min.js
 @@||ajax.googleapis.com/ajax/libs/dojo/*/dojo/dojo.js
@@ -3295,7 +3295,7 @@ travestisvip.com.br##div[class^="banner-"]
 @@||cdn.jsdelivr.net/wp/*^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
 @@||cdn.viblast.com/vb/*/viblast.remuxer.js
-@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|oload.vip|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||cdnjs.cloudflare.com/ajax/libs/*/jquery.lazyloadxt.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/clappr/*/clappr.min.js
 @@||cdnjs.cloudflare.com/ajax/libs/cookieconsent2/*/cookieconsent.min.js
@@ -3329,7 +3329,7 @@ travestisvip.com.br##div[class^="banner-"]
 @@||code.jquery.com/jquery.min.map
 @@||code.jquery.com/query.js
 @@||code.jquery.com/ui/*/jquery-ui.js
-@@||code.jquery.com^$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||code.jquery.com^$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|oload.vip|openload.co|skyback.ru|streamango.com|streamcherry.com
 @@||connect.facebook.net/*/all.js^$script
 @@||connect.facebook.net/en_US/fbevents.js
 @@||connect.facebook.net/pt_BR/sdk.js
@@ -3366,7 +3366,7 @@ travestisvip.com.br##div[class^="banner-"]
 @@||vjs.zencdn.net/*/video.min.js
 @@||youtube.com/iframe_api^$media,script
 @@||youtube.com/player_api^$media,script
-@@||zencdn.net^$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|openload.co|skyback.ru|streamango.com|streamcherry.com
+@@||zencdn.net^$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|oload.vip|openload.co|skyback.ru|streamango.com|streamcherry.com
 ! github
 @@||github.com^$genericblock,generichide,popup,xmlhttprequest
 ! media
