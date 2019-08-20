@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: dflAOjT41og57aT9Tgr95g
-! Version: 201908181337
+! Checksum: WySvAm/760nLpYW/04JaJQ
+! Version: 201908192100
 ! Title: EasyList Brasil
-! Last modified: 18 Aug 2019 13:37 UTC
+! Last modified: 19 Aug 2019 21:00 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2060,6 +2060,7 @@ filmesonline.online##div[class="full-story"] > center
 ekostreams.co,estream.to,fruithosts.net,oload.tv,onplay.tv,openload.co,openload.tv,p3g.tv,pxstream.tv,streamango.com,streamcherry.com,streamguard.cc,thevid.net,thevid.tv,uptostream.com,vidito.me,vidlox.tv,vidoza.net,vidzi.tv,whostreams.net,widestream.io##div[style*="z-index"]
 ! filmesonlinegratis.com
 filmesonlinegratis.com##div[class^="ads-"]
+hm-technology.com##div[id^="p_root_"]
 ! livrefilmeshd.net
 livrefilmeshd.net##a[href*="porn"]
 livrefilmeshd.net##div[class="afs_ads"]
