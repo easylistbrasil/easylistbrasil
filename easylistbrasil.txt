@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: uoRfDRp3A7FfXmU+kyW0Hg
-! Version: 201908192206
+! Checksum: 4MsJ8D2hzzf2w3cfHR3u5w
+! Version: 201908192251
 ! Title: EasyList Brasil
-! Last modified: 19 Aug 2019 22:06 UTC
+! Last modified: 19 Aug 2019 22:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -376,6 +376,7 @@ goyabu.com#@#div[style*="z-index"]
 ||tgdaudience.com^$third-party
 ||tinypass.com^$third-party
 ||uswgkadyika.com^$third-party
+||waveaddy.com^$third-party
 ||yibacurd.com^$third-party
 ! *** easylistbrasil:easylistbrasil/adservers_popup.txt ***
 ||ads.vev.io^$popup
@@ -2790,6 +2791,10 @@ mirrordrive.net,onifile.com##div[class="afs_ads"]
 querofilmeshd.online##div[style*="z-index"]
 querofilmeshd.online##iframe[src*="deloplen.com"]
 querofilmeshd.online##iframe[src="about:blank"]
+! ultracinefilmes.com
+ultracinefilmes.com##div[class*="text-center "][class$="hidden-xs"]
+ultracinefilmes.com##div[style*="z-index"]
+ultracinefilmes.com##iframe[src="about:blank"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube.com
 redtube.com,redtube.com.br##a[class^="removeAdLink"]
@@ -3412,6 +3417,7 @@ travestisvip.com.br##div[class^="banner-"]
 @@||easylist.club/ados.js
 @@||easylist.club/popunder1.js
 @@||oload.*/adv*.js
+@@||oload.*/assets/js/jquery.jtruncate.pack.js
 @@||oload.*/assets/js/jquery.min.js^$script
 @@||oload.*/assets/js/license.44*.js
 @@||oload.*/assets/js/script.2*.js
