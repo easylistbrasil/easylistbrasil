@@ -1197,3 +1197,5 @@ querofilmeshd.online##iframe[src="about:blank"]
 ultracinefilmes.com##div[class*="text-center "][class$="hidden-xs"]
 ultracinefilmes.com##div[style*="z-index"]
 ultracinefilmes.com##iframe[src="about:blank"]
+! livrefilmeshd.net
+livrefilmeshd.net##div[class="container"] > div[class="btn-assistir"]
