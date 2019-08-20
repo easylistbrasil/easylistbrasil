@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: Vmihpuf4HBATATNa8AgPBA
-! Version: 201908192202
+! Checksum: uoRfDRp3A7FfXmU+kyW0Hg
+! Version: 201908192206
 ! Title: EasyList Brasil
-! Last modified: 19 Aug 2019 22:02 UTC
+! Last modified: 19 Aug 2019 22:06 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -4225,8 +4225,8 @@ uol.com.br#@#[src*="data:image"]
 ! animeshd.us
 @@||animeshd.us^$generichide
 ! akugyash.com
+@@||*.streamcontinent.cc/sec/*/hls/tracks-*/*.m3u8^$media,xmlhttprequest,domain=akugyash.com
 @@||*.streamcontinent.cc/sec/*/hls/tracks-*/*.ts^$media,xmlhttprequest,domain=akugyash.com
-@@||*.streamcontinent.cc/sec/*/hls/tracks-*/index.m3u8^$media,xmlhttprequest,domain=akugyash.com
 ! querofilmeshd.online
 @@||*wp.com/querofilmeshd.online/wp-content/$image
 @@||querofilmeshd.online/wp-content/themes/*/assets/js/min/front.scripts.*.js
