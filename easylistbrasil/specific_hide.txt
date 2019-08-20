@@ -466,6 +466,7 @@ filmesonline.online##div[class="full-story"] > center
 ekostreams.co,estream.to,fruithosts.net,oload.tv,onplay.tv,openload.co,openload.tv,p3g.tv,pxstream.tv,streamango.com,streamcherry.com,streamguard.cc,thevid.net,thevid.tv,uptostream.com,vidito.me,vidlox.tv,vidoza.net,vidzi.tv,whostreams.net,widestream.io##div[style*="z-index"]
 ! filmesonlinegratis.com
 filmesonlinegratis.com##div[class^="ads-"]
+hm-technology.com##div[id^="p_root_"]
 ! livrefilmeshd.net
 livrefilmeshd.net##a[href*="porn"]
 livrefilmeshd.net##div[class="afs_ads"]
