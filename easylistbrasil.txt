@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: 4MsJ8D2hzzf2w3cfHR3u5w
-! Version: 201908192251
+! Checksum: 2ZBEVn/kP6JWZuvrNHAYbg
+! Version: 201908192259
 ! Title: EasyList Brasil
-! Last modified: 19 Aug 2019 22:51 UTC
+! Last modified: 19 Aug 2019 22:59 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1036,15 +1036,15 @@ $script,domain=tvgram.stream
 ! megadictos
 |http*://$popup,script,third-party,xmlhttprequest,domain=desmix.org|megadictos.org
 ! filmes
-||*cinefilmes*.*^$popup,script,xmlhttprequest
-||*filmeseseries*.*^$popup,script,xmlhttprequest
-||*filmeshd*.*^$popup,script,xmlhttprequest
-||*filmesonline*.*^$popup,script,xmlhttprequest
-||*mega*filmes*.*^$popup,script,xmlhttprequest
-||*megacine*.*^$popup,script,xmlhttprequest
-||*nightfilmes*.*^$popup,script,xmlhttprequest
-||*qqfilmes*.*^$popup,script,xmlhttprequest
-||*seriesonline*.*^$popup,script,xmlhttprequest
+||*cinefilmes*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*filmeseseries*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*filmeshd*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*filmesonline*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*mega*filmes*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*megacine*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*nightfilmes*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*qqfilmes*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*seriesonline*.*^$popup,script,xmlhttprequest,domain=~youtube.com
 ||blogspot.com^$image,domain=filmesonlinex.co
 ||ultracine*.*^$popup,script,xmlhttprequest
 ! ultracine.com.br redirect abp 3.2
