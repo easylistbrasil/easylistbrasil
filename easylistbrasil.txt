@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: /8HXwGU3snhJ+sX9nvUzBQ
-! Version: 201908192353
+! Checksum: h2/UgrtHRFJxCPPcljsXYA
+! Version: 201908200055
 ! Title: EasyList Brasil
-! Last modified: 19 Aug 2019 23:53 UTC
+! Last modified: 20 Aug 2019 00:55 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -2799,6 +2799,8 @@ querofilmeshd.online##iframe[src="about:blank"]
 ultracinefilmes.com##div[class*="text-center "][class$="hidden-xs"]
 ultracinefilmes.com##div[style*="z-index"]
 ultracinefilmes.com##iframe[src="about:blank"]
+! livrefilmeshd.net
+livrefilmeshd.net##div[class="container"] > div[class="btn-assistir"]
 ! *** easylistbrasil:easylistbrasil/adult_specific_hide.txt ***
 ! redtube.com
 redtube.com,redtube.com.br##a[class^="removeAdLink"]
