@@ -368,15 +368,15 @@ $script,domain=tvgram.stream
 ! megadictos
 |http*://$popup,script,third-party,xmlhttprequest,domain=desmix.org|megadictos.org
 ! filmes
-||*cinefilmes*.*^$popup,script,xmlhttprequest
-||*filmeseseries*.*^$popup,script,xmlhttprequest
-||*filmeshd*.*^$popup,script,xmlhttprequest
-||*filmesonline*.*^$popup,script,xmlhttprequest
-||*mega*filmes*.*^$popup,script,xmlhttprequest
-||*megacine*.*^$popup,script,xmlhttprequest
-||*nightfilmes*.*^$popup,script,xmlhttprequest
-||*qqfilmes*.*^$popup,script,xmlhttprequest
-||*seriesonline*.*^$popup,script,xmlhttprequest
+||*cinefilmes*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*filmeseseries*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*filmeshd*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*filmesonline*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*mega*filmes*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*megacine*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*nightfilmes*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*qqfilmes*.*^$popup,script,xmlhttprequest,domain=~youtube.com
+||*seriesonline*.*^$popup,script,xmlhttprequest,domain=~youtube.com
 ||blogspot.com^$image,domain=filmesonlinex.co
 ||ultracine*.*^$popup,script,xmlhttprequest
 ! ultracine.com.br redirect abp 3.2
