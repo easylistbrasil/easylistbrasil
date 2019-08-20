@@ -55,6 +55,7 @@ oladblock.me,oladblock.services,oladblock.xyz,olaod.net,oload.best,oload.cc,oloa
 ! streamcherry.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=streamcherry.com
 ! verystream.com
+verystream.com#$#abort-on-property-write adblock; abort-on-property-read done
 |http*://$popup,script,third-party,xmlhttprequest,domain=verystream.com|woof.tube
 ! wstream.to
 |http*://$popup,script,third-party,xmlhttprequest,domain=wstream.to
