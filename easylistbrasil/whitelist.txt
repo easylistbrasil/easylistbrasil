@@ -428,6 +428,7 @@
 @@||c.disquscdn.com/next/embed/common.bundle.*.js
 @@||c.disquscdn.com/next/embed/lounge.bundle.*.js
 @@||c.disquscdn.com/next/embed/styles/lounge.*.css
+@@||cdn.irsdn.net/flowplayer-hls-dna-plugin/*/stable/flowplayer-hls-dna-plugin.js
 @@||cdn.jsdelivr.net/*/lazysizes(lazysizes.min.js)
 @@||cdn.jsdelivr.net/clappr.chromecast-plugin/latest/clappr-chromecast-plugin.js
 @@||cdn.jsdelivr.net/clappr.level-selector/latest/level-selector.min.js
@@ -1364,6 +1365,12 @@ uol.com.br#@#[src*="data:image"]
 @@||goyabu.com^$generichide
 ! animeshd.us
 @@||animeshd.us^$generichide
+! akugyash.com
+@@||*.streamcontinent.cc/sec/*/hls/tracks-*/*.ts^$media,xmlhttprequest,domain=akugyash.com
+@@||*.streamcontinent.cc/sec/*/hls/tracks-*/index.m3u8^$media,xmlhttprequest,domain=akugyash.com
+! querofilmeshd.online
+@@||*wp.com/querofilmeshd.online/wp-content/$image
+@@||querofilmeshd.online/wp-content/themes/*/assets/js/min/front.scripts.*.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest

@@ -1122,6 +1122,8 @@ empregandoab.xyz##img[id="h1bg"]
 alfastream.cc##a[class="adv_clickable"]
 ! actelecup.com
 actelecup.com##a[class="adv_clickable"]
+! akugyash.com
+akugyash.com##a[class="adv_clickable"]
 ! hdfilmes.pro
 hdfilmes.pro##center > a[class="imgadv"]
 hdfilmes.pro##center > a[class="imgadvup"]
@@ -1187,3 +1189,7 @@ goyabu.com##div[id="warning"]
 animeshd.us##.module_home_ads
 ! onifile.com
 mirrordrive.net,onifile.com##div[class="afs_ads"]
+! querofilmeshd.online
+querofilmeshd.online##div[style*="z-index"]
+querofilmeshd.online##iframe[src*="deloplen.com"]
+querofilmeshd.online##iframe[src="about:blank"]
