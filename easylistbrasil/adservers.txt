@@ -37,4 +37,5 @@
 ||tgdaudience.com^$third-party
 ||tinypass.com^$third-party
 ||uswgkadyika.com^$third-party
+||waveaddy.com^$third-party
 ||yibacurd.com^$third-party

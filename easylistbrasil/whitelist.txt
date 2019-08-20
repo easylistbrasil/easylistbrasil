@@ -553,6 +553,7 @@
 @@||easylist.club/ados.js
 @@||easylist.club/popunder1.js
 @@||oload.*/adv*.js
+@@||oload.*/assets/js/jquery.jtruncate.pack.js
 @@||oload.*/assets/js/jquery.min.js^$script
 @@||oload.*/assets/js/license.44*.js
 @@||oload.*/assets/js/script.2*.js

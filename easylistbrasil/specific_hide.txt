@@ -1193,3 +1193,7 @@ mirrordrive.net,onifile.com##div[class="afs_ads"]
 querofilmeshd.online##div[style*="z-index"]
 querofilmeshd.online##iframe[src*="deloplen.com"]
 querofilmeshd.online##iframe[src="about:blank"]
+! ultracinefilmes.com
+ultracinefilmes.com##div[class*="text-center "][class$="hidden-xs"]
+ultracinefilmes.com##div[style*="z-index"]
+ultracinefilmes.com##iframe[src="about:blank"]
