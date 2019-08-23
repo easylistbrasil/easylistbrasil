@@ -946,6 +946,7 @@
 @@||canais.ink/snew/js/js.js
 @@||canais.ink/snew/js/js2.js
 @@||cometa.top/player3/RedeCanaisVTTS/js/RCFServer1/videojs.thumbnails.js
+@@||degames.xyz^$genericblock,generichide
 @@||redecanais.*/js/bootstrap-notify.min.js
 @@||redecanais.*/js/melody.dev.js
 @@||redecanais.*/templates/echo/js/jasny-bootstrap.min.js
