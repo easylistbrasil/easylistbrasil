@@ -9,7 +9,7 @@ canais.ink#@#body > div:last-child
 megafilmes.co#@#div[class*="pop"]
 thenightseries.net#@#div[class="itens"] > a:first-child
 megafilmeshd50.top,megafilmesonline-hd.com#@#div[id^="ad"]
-assistirtvaovivo.tv,concrete.com.br,degames.xyz,diarioonline.com.br,encurta.net,fatosdesconhecidos.com.br,filmesonlineplay.com,gomovies.cool,gomovies.mx,gomovieshd.cc,ipfingerprints.com,liveleak.com,multicanais.com,player.theplatform.com,putlocker.vip,speedtest.net,tecmundo.com.br,tugaflix.com,tugaflix.date,tvonlinegratis.ru,xmovies8.cloud,youtube.com#@#div[style*="z-index"]
+assistirtvaovivo.tv,concrete.com.br,degames.xyz,diarioonline.com.br,encurta.net,fatosdesconhecidos.com.br,filmesonlineplay.com,gomovies.cool,gomovies.mx,gomovieshd.cc,ipfingerprints.com,liveleak.com,multicanais.com,player.theplatform.com,putlocker.vip,receitasdomestrecuca.com,speedtest.net,tecmundo.com.br,tugaflix.com,tugaflix.date,tvonlinegratis.ru,xmovies8.cloud,youtube.com#@#div[style*="z-index"]
 youtube.com#@#iframe[src*="about"]
 youtube.com#@#iframe[src^="about"]
 ! fix adblockplus.org/en/subscriptions
