@@ -444,6 +444,7 @@
 @@||cdn.jsdelivr.net/npm/lazyload@*/lazyload.min.js
 @@||cdn.jsdelivr.net/npm/p2p-media-loader-core@*/build/p2p-media-loader-core.min.js
 @@||cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@*/build/p2p-media-loader-hlsjs.min.js
+@@||cdn.jsdelivr.net/npm/videojs-contrib-hls.js@latest
 @@||cdn.jsdelivr.net/wp/*^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
 @@||cdn.viblast.com/vb/*/viblast.remuxer.js
@@ -944,6 +945,15 @@
 @@||canais.*/rc-player/player/video.js
 @@||canais.ink/snew/js/js.js
 @@||canais.ink/snew/js/js2.js
+@@||cometa.top/player3/RedeCanaisVTTS/js/RCFServer1/videojs.thumbnails.js
+@@||redecanais.*/js/bootstrap-notify.min.js
+@@||redecanais.*/js/melody.dev.js
+@@||redecanais.*/templates/echo/js/jasny-bootstrap.min.js
+@@||redecanais.*/templates/echo/js/jquery.autosize.min.js
+@@||redecanais.*/templates/echo/js/jquery.cropit.js
+@@||redecanais.*/templates/echo/js/jquery.dotdotdot.min.js
+@@||redecanais.*/templates/echo/js/melody.dev.js
+@@||redecanais.*/templates/echo/js/theme.js
 ! filmes
 @@||*cine*.*^$generichide
 @@||*cinefilmes*.*^$generichide
@@ -1375,6 +1385,8 @@ uol.com.br#@#[src*="data:image"]
 ! querofilmeshd.online
 @@||*wp.com/querofilmeshd.online/wp-content/$image
 @@||querofilmeshd.online/wp-content/themes/*/assets/js/min/front.scripts.*.js
+! mmfilmes
+@@||mmfilmes*/wp-content/themes/MegaFilmesHD%20-%20STHD/js/jquery.mb.YTPlayer.js
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest

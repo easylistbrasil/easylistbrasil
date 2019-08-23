@@ -470,6 +470,7 @@ hm-technology.com##div[id^="p_root_"]
 ! livrefilmeshd.net
 livrefilmeshd.net##a[href*="porn"]
 livrefilmeshd.net##div[class="afs_ads"]
+livrefilmeshd.net##div[class="container"] > div[class="btn-assistir"]
 ! mmfilmes.tv
 mmfilmes.tv##div[class="afs_ads"]
 ! kkfilmesonline.com.br
@@ -1197,5 +1198,3 @@ querofilmeshd.online##iframe[src="about:blank"]
 ultracinefilmes.com##div[class*="text-center "][class$="hidden-xs"]
 ultracinefilmes.com##div[style*="z-index"]
 ultracinefilmes.com##iframe[src="about:blank"]
-! livrefilmeshd.net
-livrefilmeshd.net##div[class="container"] > div[class="btn-assistir"]
