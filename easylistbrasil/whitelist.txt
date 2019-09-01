@@ -434,6 +434,7 @@
 @@||cdn.jsdelivr.net/clappr.level-selector/latest/level-selector.min.js
 @@||cdn.jsdelivr.net/clappr.thumbnails-plugin/latest/clappr-thumbnails-plugin.js
 @@||cdn.jsdelivr.net/clappr/latest/clappr.min.js
+@@||cdn.jsdelivr.net/gh/clappr/clappr-level-selector-plugin@latest/dist/level-selector.min.js
 @@||cdn.jsdelivr.net/gh/jquery*^$script
 @@||cdn.jsdelivr.net/jwplayer/*/jwplayer.js
 @@||cdn.jsdelivr.net/npm/@hola.org/jwplayer-hlsjs@latest/dist/jwplayer.hlsjs.min.js
@@ -1389,6 +1390,11 @@ uol.com.br#@#[src*="data:image"]
 @@||querofilmeshd.online/wp-content/themes/*/assets/js/min/front.scripts.*.js
 ! mmfilmes
 @@||mmfilmes*/wp-content/themes/MegaFilmesHD%20-%20STHD/js/jquery.mb.YTPlayer.js
+! football-live.stream
+@@||fbcdn.net^$xmlhttprequest,domain=football-live.stream
+@@||fmaxcdn.net^$xmlhttprequest,domain=football-live.stream
+! amblin.com
+@@||amblin.com^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest

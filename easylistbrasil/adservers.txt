@@ -8,6 +8,7 @@
 ||dolohen.com^$third-party
 ||doubleclick.*^$third-party
 ||dynamicadx.com^$third-party
+||edua29146y.com^$third-party
 ||filestatic.xyz^$third-party
 ||gleaminist.info^$third-party
 ||googlesyndication.com^$third-party
