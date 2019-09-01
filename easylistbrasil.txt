@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: YzJq6Nbl1+2jfd2du+OAoQ
-! Version: 201908280026
+! Checksum: SoXBuRIszg76OGu3YyypWQ
+! Version: 201908312117
 ! Title: EasyList Brasil
-! Last modified: 28 Aug 2019 00:26 UTC
+! Last modified: 31 Aug 2019 21:17 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -348,6 +348,7 @@ goyabu.com#@#div[style*="z-index"]
 ||dolohen.com^$third-party
 ||doubleclick.*^$third-party
 ||dynamicadx.com^$third-party
+||edua29146y.com^$third-party
 ||filestatic.xyz^$third-party
 ||gleaminist.info^$third-party
 ||googlesyndication.com^$third-party
@@ -1413,6 +1414,8 @@ querofilmeshd.online#$#abort-on-property-read _0x98a1; abort-on-property-read _0
 |http*://$popup,script,third-party,xmlhttprequest,domain=querofilmeshd.online
 ! hm-technology.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=hm-technology.com
+! football-live.stream
+|http*://$popup,script,third-party,xmlhttprequest,domain=football-live.stream
 ! Anti mine mining
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|gofile.io|hq-porns.com|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thepiratebay.cr|thepiratebay.org|thepiratebay.red|thevideo.us|tvad.me|vidoza.net|vidup.me
@@ -1552,7 +1555,7 @@ $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.m
 ! adf.ly
 $popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|swiftviz.net|uclaut.net
 ! popups
-$popup,domain=receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torrentfilmes.net|ydujmccmydwu.bid
+$popup,domain=futebolaovivo.in|receitasdamaria.me|significadosbrasil.com|torrentfilmes.biz|torrentfilmes.net|ydujmccmydwu.bid
 ! semi-generic popup block
 /http*.:\/\/.*[?|=|&|%|#|+].*/$popup,domain=123moviespedia.com|abcast.me|abcast.net|actelecup.com|alfastream.cc|aovivonatv.com|baixarfilmestorrent.me|buffstream.com|canais.gratis|canais.ink|cinepremiere.net|clipwatching.com|comandofilmes.tv|comandotorrents.com|darthfilmes.com.br|ekostreams.co|ekostreams.me|embeducaster.com|filmeshd-online.com|filmesonlinegratis.co|filmesonlinehdx.org|filmesonlineplay.com|filmesonlineseries.net|filmesonlineuhd.com|filmesonlinex.br|filmesonlinex.cc|filmesonlinex.co|filmesonlinex.com|filmesonlinex.com.br|filmesonlinex.gratis|filmesonlinex.info|filmesonlinex.me|filmesonlinex.net|filmesonlinex.online|filmesonlinex.org|filmesonlinex.ru|filmesonlinex.site|filmesonlinex.tk|filmesonlinex.top|filmesonlinex.tv|filmesonlinex.us|filmesonlinex.vip|flashx.co|flashx.tv|flashx1.tv|freelivestream.tv|fruitadblock.net|fruithosts.net|futebolaovivo.in|futebolaovivohd.net|g1futebolaovivo.com|geroubuzz.com|ggfilmes.club|hdfilmes.pro|hipertela.net|hqq.tv|hqq.watch|iptv.gratis|janjuaplayer.com|kastream.biz|legendei.com|megafilme.co|megafilmes.co|megafilmes.org|megafilmes.tv|megafilmesahd.com|megafilmeshd.org|megafilmeshd50.top|megafilmeshdplus.org|megafilmesonline-hd.com|megafilmesonlinegratis.org|megafilmess.com|megafilmesserieshd.com|megafilmesshd.com|megahfilmeshd.net|megaseriehd.com|micetop.co|micetop.com|micetop.net|micetop.org|micetop.tv|micetop.us|mipsplayer.com|netcine.tk|netcine.tv|netcine.us|netesportiva.com|olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.fun|oload.info|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|onplay.tv|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|otampadabola2.com|p3g.tv|playflixhd.co|playtop.online|popfilmeshd.net|portalzuca.com|qqfilmes.com|qqfilmes.net|qqfilmes.online|qqfilmes.org|rapidvideo.com|redecanais.cz|redecanais.gratis|redecanais.ink|redecanais.me|seriesonlinehd.biz|seriesonlinex.com|seuseriado.com|sosfilmes.com|sportzonline.xyz|streamango.com|streamcherry.com|streamlive.to|streamplay.to|thenightanimes.net|thenightfilmes.net|thenightseries.net|thevid.net|thevid.tv|torcidatricolor.eu|tudotv.tv|tudotvonline.com|tugaflix.com|tugaflix.date|tv-aovivo.nl|tvonline.plus|tvonlineaovivo.net|ultracinefilmes.com|verfilmes.biz|verfilmeseseriesonline.com|vertv.me|vidlox.me|vidlox.tv|vidnode.net|vidoza.net|vidto.co|vidto.com|vidto.io|vidto.me|vidto.net|vidto.se|vidto.to|vidto.top|vidto.tv|vidzi.nu|vidzi.online|vidzi.si|vidzi.tv|vlive.pw|vto.gratis|watchers.to|watchvideo.us|week-series.com|weekseries.net|whostreams.net|widestream.io|wstream.video|xilften.net|zseriesonline.com
 /http*.:\/\/.*[a-zA-Z0-9]{110,}.*/$popup,domain=123movie.cc|123movies.la|123moviesfreenow.com|123moviesfull.me|123moviespedia.com|abcast.me|abcast.net|all123movies.com|all123movies.se|all123movies.to|aovivonatv.com|apollocdn.cc|baixarfilmestorrent.me|buffstream.com|canais.gratis|canais.ink|cinepremiere.net|comandofilmes.tv|comandotorrents.com|darthfilmes.com.br|ekostreams.co|ekostreams.me|embeducaster.com|filmeseseriesonline.info|filmeshd-online.com|filmesonlinegratis.co|filmesonlineplay.com|filmesonlineseries.net|filmesonlineuhd.com|filmesonlinex.br|filmesonlinex.cc|filmesonlinex.co|filmesonlinex.com|filmesonlinex.com.br|filmesonlinex.gratis|filmesonlinex.info|filmesonlinex.me|filmesonlinex.net|filmesonlinex.online|filmesonlinex.org|filmesonlinex.ru|filmesonlinex.site|filmesonlinex.tk|filmesonlinex.top|filmesonlinex.tv|filmesonlinex.us|filmesonlinex.vip|flashx.co|flashx.tv|flashx1.tv|freelivestream.tv|fruitadblock.net|fruithosts.net|futebolaovivo.in|futebolaovivohd.net|g1futebolaovivo.com|geroubuzz.com|get123movies.com|hdfilmes.pro|hipertela.net|hqq.tv|hqq.watch|iptv.gratis|janjuaplayer.com|kastream.biz|l23movies.com|legendei.com|megafilme.co|megafilmes.co|megafilmes.org|megafilmes.tv|megafilmesahd.com|megafilmeshd.org|megafilmeshd50.top|megafilmeshdplus.org|megafilmesonline-hd.com|megafilmesonlinegratis.org|megafilmess.com|megafilmesserieshd.com|megafilmesshd.com|megahfilmeshd.net|megaseriehd.com|micetop.co|micetop.com|micetop.net|micetop.org|micetop.tv|micetop.us|mipsplayer.com|my123movies.org|netcine.tk|netcine.tv|netcine.us|netesportiva.com|olaod.net|oload.biz|oload.co|oload.com|oload.download|oload.fun|oload.info|oload.me|oload.online|oload.org|oload.ru|oload.site|oload.to|oload.top|oload.tv|oload.us|oload.vip|onplay.tv|openload.biz|openload.co|openload.com|openload.download|openload.info|openload.me|openload.net|openload.online|openload.org|openload.ru|openload.site|openload.to|openload.top|openload.tv|openload.us|openload.vip|otampadabola2.com|p3g.tv|playflixhd.co|playtop.online|popfilmeshd.net|portalzuca.com|qqfilmes.com|qqfilmes.net|qqfilmes.online|qqfilmes.org|rapidvideo.com|redecanais.cz|redecanais.gratis|redecanais.ink|redecanais.me|seriesonlinehd.biz|seriesonlinex.com|seuseriado.com|sosfilmes.com|sportzonline.xyz|streamango.com|streamcherry.com|streamlive.to|streamplay.to|thenightanimes.net|thenightfilmes.net|thenightseries.net|thevid.net|thevid.tv|torcidatricolor.eu|tudotv.tv|tudotvonline.com|tugaflix.com|tugaflix.date|tv-aovivo.nl|tvonline.plus|tvonlineaovivo.net|ultracinefilmes.com|verfilmes.biz|verfilmeseseriesonline.com|vertv.me|vidlox.me|vidlox.tv|vidnode.net|vidoza.net|vidto.co|vidto.com|vidto.io|vidto.me|vidto.net|vidto.se|vidto.to|vidto.top|vidto.tv|vidzi.nu|vidzi.online|vidzi.si|vidzi.tv|vlive.pw|vto.gratis|watchers.to|watchvideo.us|week-series.com|weekseries.net|whostreams.net|widestream.io|wstream.video|xilften.net|zseriesonline.com
@@ -3305,6 +3308,7 @@ travestisvip.com.br##div[class^="banner-"]
 @@||cdn.jsdelivr.net/clappr.level-selector/latest/level-selector.min.js
 @@||cdn.jsdelivr.net/clappr.thumbnails-plugin/latest/clappr-thumbnails-plugin.js
 @@||cdn.jsdelivr.net/clappr/latest/clappr.min.js
+@@||cdn.jsdelivr.net/gh/clappr/clappr-level-selector-plugin@latest/dist/level-selector.min.js
 @@||cdn.jsdelivr.net/gh/jquery*^$script
 @@||cdn.jsdelivr.net/jwplayer/*/jwplayer.js
 @@||cdn.jsdelivr.net/npm/@hola.org/jwplayer-hlsjs@latest/dist/jwplayer.hlsjs.min.js
@@ -4260,6 +4264,11 @@ uol.com.br#@#[src*="data:image"]
 @@||querofilmeshd.online/wp-content/themes/*/assets/js/min/front.scripts.*.js
 ! mmfilmes
 @@||mmfilmes*/wp-content/themes/MegaFilmesHD%20-%20STHD/js/jquery.mb.YTPlayer.js
+! football-live.stream
+@@||fbcdn.net^$xmlhttprequest,domain=football-live.stream
+@@||fmaxcdn.net^$xmlhttprequest,domain=football-live.stream
+! amblin.com
+@@||amblin.com^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest
