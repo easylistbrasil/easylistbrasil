@@ -22,6 +22,10 @@ $popup,domain=widestream.io
 .jpeg$popup,domain=topflix.tv
 .png$popup,domain=topflix.tv
 |http*://$popup,domain=topflix.tv
+! superflix.net
+.ico$popup,domain=superflix.net
+.jpeg$popup,domain=superflix.net
+.png$popup,domain=superflix.net
 ! outros
 $popup,domain=9xupload.me|bdupload.info|clicknupload.org|downace.com|indishare.me|katfile.com|sendit.cloud|uploadhaven.com|userscloud.com
 /*.jpg$popup,domain=futebolaovivo.in

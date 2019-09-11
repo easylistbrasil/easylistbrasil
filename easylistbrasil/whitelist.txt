@@ -1395,6 +1395,10 @@ uol.com.br#@#[src*="data:image"]
 @@||fmaxcdn.net^$xmlhttprequest,domain=football-live.stream
 ! amblin.com
 @@||amblin.com^$generichide
+! keysbrasil.blogspot.com
+@@||blogger.com/static/v1/jsbin/*-comment_from_post_iframe.js^$domain=keysbrasil.blogspot.com
+@@||blogger.com/static/v1/widgets/*-widgets.js^$domain=keysbrasil.blogspot.com
+@@||keysbrasil.blogspot.com^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest

@@ -1200,3 +1200,12 @@ querofilmeshd.online##iframe[src="about:blank"]
 ultracinefilmes.com##div[class*="text-center "][class$="hidden-xs"]
 ultracinefilmes.com##div[style*="z-index"]
 ultracinefilmes.com##iframe[src="about:blank"]
+! keysbrasil.blogspot.com
+keysbrasil.blogspot.com###AdSense1
+keysbrasil.blogspot.com##.AdSense
+keysbrasil.blogspot.com##.adsbygoogle
+keysbrasil.blogspot.com##div[id="HTML1"]
+keysbrasil.blogspot.com##div[id="HTML3"]
+keysbrasil.blogspot.com##div[id="HTML4"]
+keysbrasil.blogspot.com##div[id="HTML7"]
+keysbrasil.blogspot.com##div[id="HTML8"]
