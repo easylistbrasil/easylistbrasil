@@ -750,6 +750,8 @@ querofilmeshd.online#$#abort-on-property-read _0x98a1; abort-on-property-read _0
 |http*://$script,third-party,xmlhttprequest,domain=keysbrasil.blogspot.com
 ! assistirtvonlinegratis.com.br
 |http*://$popup,script,third-party,xmlhttprequest,domain=assistirtvonlinegratis.com.br
+! saude-legal.club
+|http*://$popup,script,third-party,xmlhttprequest,domain=saude-legal.club
 ! Anti mine mining
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|gofile.io|hq-porns.com|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thepiratebay.cr|thepiratebay.org|thepiratebay.red|thevideo.us|tvad.me|vidoza.net|vidup.me
