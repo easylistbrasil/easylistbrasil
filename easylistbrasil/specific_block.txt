@@ -401,7 +401,7 @@ $script,domain=amgload.net|piguiqproxy.com
 |http*://$popup,third-party,xmlhttprequest,domain=reviewsdecelular.ga
 ! netcine.us
 |http*://$popup,script,third-party,xmlhttprequest,domain=aquitecnologia.com|ntcdn.us|sqldatabasebacks.com
-|http*://$script,third-party,xmlhttprequest,domain=netcine.tv|netcine.us
+|http*://$script,third-party,xmlhttprequest,domain=netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win
 ! filmes0800.com
 |http*://$popup,script,third-party,xmlhttprequest,domain=filmes0800.com
 ! apollocdn.cc
@@ -748,6 +748,8 @@ querofilmeshd.online#$#abort-on-property-read _0x98a1; abort-on-property-read _0
 |http*://$popup,script,third-party,xmlhttprequest,domain=football-live.stream
 ! keysbrasil.blogspot.com
 |http*://$script,third-party,xmlhttprequest,domain=keysbrasil.blogspot.com
+! assistirtvonlinegratis.com.br
+|http*://$popup,script,third-party,xmlhttprequest,domain=assistirtvonlinegratis.com.br
 ! Anti mine mining
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|gofile.io|hq-porns.com|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thepiratebay.cr|thepiratebay.org|thepiratebay.red|thevideo.us|tvad.me|vidoza.net|vidup.me

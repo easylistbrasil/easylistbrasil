@@ -447,6 +447,7 @@
 @@||cdn.jsdelivr.net/npm/p2p-media-loader-hlsjs@*/build/p2p-media-loader-hlsjs.min.js
 @@||cdn.jsdelivr.net/npm/videojs-contrib-hls.js@latest
 @@||cdn.jsdelivr.net/wp/*^$script
+@@||cdn.jwplayer.com/libraries/*.js^$script
 @@||cdn.rawgit.com/gkatsev/vtt.js/vjs-v*/dist/vtt.min.js
 @@||cdn.viblast.com/vb/*/viblast.remuxer.js
 @@||cdnjs.cloudflare.com/ajax/libs/$script,domain=fruithosts.net|kinokong.cc|kinokrad.co|oload.fun|oload.info|oload.tv|oload.vip|openload.co|skyback.ru|streamango.com|streamcherry.com
@@ -1303,7 +1304,7 @@ uol.com.br#@#[src*="data:image"]
 @@||www.iptvtools.net/files/js/adsbygoogle.js
 @@||www.iptvtools.net^$generichide
 ! netcine.us
-@@/wp-content/themes/wpmovies4/js/js.min.js$domain=netcine.us
+@@/wp-content/themes/wpmovies4/js/js.min.js$domain=netcine.biz|netcine.co|netcine.fun|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.tv|netcine.us|netcine.win|neticne.cc|neticne.info|neticne.live|neticne.top|neticne.vip
 ! empregosdomomento.club
 @@||empregosdomomento.club^$generichide
 ! empregototal.club
@@ -1399,6 +1400,10 @@ uol.com.br#@#[src*="data:image"]
 @@||blogger.com/static/v1/jsbin/*-comment_from_post_iframe.js^$domain=keysbrasil.blogspot.com
 @@||blogger.com/static/v1/widgets/*-widgets.js^$domain=keysbrasil.blogspot.com
 @@||keysbrasil.blogspot.com^$generichide
+! assistirtvonlinegratis.com.br
+@@||*.xyz^$xmlhttprequest,domain=assistirtvonlinegratis.com.br
+! tvonlinegratis.ru
+@@||tvonlinegratis.ru^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest

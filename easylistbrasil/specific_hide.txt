@@ -1209,3 +1209,5 @@ keysbrasil.blogspot.com##div[id="HTML3"]
 keysbrasil.blogspot.com##div[id="HTML4"]
 keysbrasil.blogspot.com##div[id="HTML7"]
 keysbrasil.blogspot.com##div[id="HTML8"]
+! netcine
+netcine.tv,netcine.us,netcine.me,netcine.to,netcine.co,netcine.site,netcine.biz,netcine.online,netcine.ru,netcine.win,netcine.vip,netcine.info,netcine.top,netcine.cc,netcine.live,netcine.fun

@@ -26,7 +26,7 @@
 ! outros
 @@||*/videos/*^$popup,domain=playtop.online
 @@||*/videos/campanha.php$popup,domain=filmeseseriesonline.info|megafilmes.co|midiaflixhd.net
-@@||*php?data=*netcine.*/$popup,domain=netcine.tv|netcine.us
+@@||*php?data=*netcine.*/$popup,domain=netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win
 @@||123moviesfull.me$popup,domain=get123movies.com
 @@||abrirlinks.com$popup,domain=bludv.me|bludvfilmes.com|filmestr.com|sofilmestorrent.com|soparagamestorrents.com|wolverdonfilmes.org
 @@||adororeceitas.com$popup,domain=kkfilmesonline.com.br
@@ -46,7 +46,7 @@
 @@||empregandoab.xyz$popup,domain=verfilmeseseriesonline.com
 @@||empregosdomomento.club$popup,domain=verfilmeseseriesonline.com
 @@||empregototal.club$popup,domain=verfilmeseseriesonline.com
-@@||estantepublica.net/video/campanha.php?*^$popup,domain=netcine.tv|netcine.us
+@@||estantepublica.net/video/campanha.php?*^$popup,domain=netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win
 @@||file.seriesonline.io/download$popup
 @@||filmeseseriesonline.info/campanha.php$popup
 @@||filmeseseriesonlinex.com/wp-login.php$popup
@@ -58,10 +58,10 @@
 @@||i.imgur.com/xSIkNpm.png$image,popup
 @@||kkfilmesonline.com.br/campanha.php?$popup
 @@||legendei.com/$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com
-@@||letrasdemusicas.biz/video/campanha.php?*^$popup,domain=netcine.tv|netcine.us
+@@||letrasdemusicas.biz/video/campanha.php?*^$popup,domain=netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win
 @@||luigireceitas.com$popup,domain=kkfilmesonline.com.br
 @@||mangasbr.com.br$popup,domain=animeflix.biz|animesonehd.net|animesonlinebr.com.br|animesonlinehd.com.br|animesonlinez.com
-@@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us|thepiratefilmesonline.org
+@@||masterads.info$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win|thepiratefilmesonline.org
 @@||mega.nz$popup,domain=comandofilmes.tv|comandotorrents.com
 @@||megafilmes.co/player.php$popup,domain=megafilmes.co
 @@||megafilmesbluray.com$popup,domain=maxflixhd.com
@@ -73,19 +73,19 @@
 @@||openload.co/f/*^$popup,domain=megahfilmeshd.net
 @@||openloadmovies.bz$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
 @@||openloadmovies.review$popup,domain=bing.com|duckduckgo.com|google.com|google.com.br|yahoo.com|yahoo.com.br|youtube.com
-@@||p.netcine.*/players/*.php?n=*&p=*^$popup,domain=netcine.tv|netcine.us
+@@||p.netcine.*/players/*.php?n=*&p=*^$popup,domain=netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win
 @@||querofilmeshd.online/campanha.php$popup
 @@||rapidvideo.com/d/$popup
 @@||ratatuireceitas.com^$popup,domain=megaseriehd.com
-@@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
+@@||receitasdabela.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win
 @@||receitasdamae.com$popup,domain=filmeseseriesonline.info
 @@||revendaderoupas.com$generichide,popup
 @@||seriesonlinehd.biz/player/$popup
 @@||seriesonlinehd.org/player_series/download.php$popup
 @@||seriesonlinex.org$popup,domain=seuseriado.org
 @@||seriesonlinex.org/app/$popup
-@@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
-@@||social.ulala.us/link.php$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us
+@@||social.ulala.us/instagram/campanha.php?data=*^$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win
+@@||social.ulala.us/link.php$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win
 @@||socialise.ml$popup,domain=filmeseseriesonline.info
 @@||socializando.info$popup,domain=playtop.online
 @@||soparagamestorrents.com$popup,domain=bludvfilmes.com
@@ -185,8 +185,8 @@
 @@||zippyshare.com/$popup,domain=activetect.net|ay.gy|brightvar.bid|briskgram.net|clearload.bid|gloyah.net|swiftviz.net|uclaut.net|xterca.net
 ! torrentfilmes
 @@||legendei.com$popup,domain=thefilmestorrents.com|torrentfilmes.biz|torrentfilmes.net
-@@||link-download.in$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us|torrentfilmes.biz|torrentfilmes.net
-@@||receitasdamaria.me$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us|torrentfilmes.biz|torrentfilmes.net
+@@||link-download.in$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win|torrentfilmes.biz|torrentfilmes.net
+@@||receitasdamaria.me$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win|torrentfilmes.biz|torrentfilmes.net
 @@||significadosbrasil.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us|torrentfilmes.biz|torrentfilmes.net
 @@||sites.google.com$popup,domain=comandofilmes.tv|comandotorrents.com|lapumiafilmes.com|netcine.tv|netcine.us|torrentfilmes.biz|torrentfilmes.net
 ! torrentmegafilmes.com

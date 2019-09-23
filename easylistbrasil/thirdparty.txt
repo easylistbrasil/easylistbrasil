@@ -61,6 +61,7 @@
 ||zplvjgpxvh.com^$third-party
 ||zukxd6fkxqn.com^$third-party
 ! Anti Coin Mining
+||*.ml^$third-party,domain=netcine.biz|netcine.cc|netcine.co|netcine.fun|netcine.info|netcine.live|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.top|netcine.tv|netcine.us|netcine.vip|netcine.win
 ||1beb2a44.space^$third-party
 ||1q2w3.fun^$third-party
 ||1q2w3.me^$third-party
