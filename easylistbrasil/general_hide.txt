@@ -128,7 +128,7 @@
 ##div[data-item-id^="~~V1~~"]
 ##div[id="divPanel"]
 ##div[id^="google_ads_iframe_"]
-~bing.com,~blokada.org,~facebook.com,~github.com,~github.io,~gitlab.com,~gmail.com,~google.com,~google.com.br,~instagram.com,~linkedin.com,~live.com,~pinterest.com,~rapidvideo.com,~reddit.com,~twitter.com,~yahoo.com,~yahoo.com.br##div[style*="z-index"]
+! ~bing.com,~blokada.org,~facebook.com,~github.com,~github.io,~gitlab.com,~gmail.com,~google.com,~google.com.br,~instagram.com,~linkedin.com,~live.com,~pinterest.com,~rapidvideo.com,~reddit.com,~twitter.com,~yahoo.com,~yahoo.com.br##div[style*="z-index"]
 ##dmbar[id="dm_topbar"]
 ##iframe[id="Ifid"]
 ##iframe[id^="google_ads_iframe_"]
