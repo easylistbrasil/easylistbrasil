@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: G6BzcOrgS5s5u3rIPAF/MA
-! Version: 201909222349
+! Checksum: NrOY6DPb7ems32I9yDEwrw
+! Version: 201910020046
 ! Title: EasyList Brasil
-! Last modified: 22 Sep 2019 23:49 UTC
+! Last modified: 02 Oct 2019 00:46 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -1423,6 +1423,8 @@ querofilmeshd.online#$#abort-on-property-read _0x98a1; abort-on-property-read _0
 |http*://$popup,script,third-party,xmlhttprequest,domain=assistirtvonlinegratis.com.br
 ! saude-legal.club
 |http*://$popup,script,third-party,xmlhttprequest,domain=saude-legal.club
+! converto.io
+|http*://$popup,script,third-party,xmlhttprequest,domain=converto.io
 ! Anti mine mining
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|gofile.io|hq-porns.com|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thepiratebay.cr|thepiratebay.org|thepiratebay.red|thevideo.us|tvad.me|vidoza.net|vidup.me
@@ -4300,6 +4302,10 @@ uol.com.br#@#[src*="data:image"]
 @@||*.xyz^$xmlhttprequest,domain=assistirtvonlinegratis.com.br
 ! tvonlinegratis.ru
 @@||tvonlinegratis.ru^$generichide
+! redecanais
+@@||*.site^$third-party,domain=canaisgratis.top
+@@||5t59uw2iuh.com^$third-party,domain=canaisgratis.top
+@@||ie8eamus.com^$third-party,domain=canaisgratis.top
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest
