@@ -1404,6 +1404,10 @@ uol.com.br#@#[src*="data:image"]
 @@||*.xyz^$xmlhttprequest,domain=assistirtvonlinegratis.com.br
 ! tvonlinegratis.ru
 @@||tvonlinegratis.ru^$generichide
+! redecanais
+@@||*.site^$third-party,domain=canaisgratis.top
+@@||5t59uw2iuh.com^$third-party,domain=canaisgratis.top
+@@||ie8eamus.com^$third-party,domain=canaisgratis.top
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest
