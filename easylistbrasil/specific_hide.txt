@@ -997,8 +997,22 @@ trendsmap.com##iframe[id^="google_ads_iframe"]
 ! fatosdesconhecidos.com.br
 fatosdesconhecidos.com.br#?#div[class="grade"]:-abp-has(div.reloadads)
 ! brasilescola.uol.com.br
+brasilescola.uol.com.br###area-flutuante-secao-1
+brasilescola.uol.com.br###banner-300x250-area
+brasilescola.uol.com.br###banner-300x600-area
+brasilescola.uol.com.br###banner-728x90-area
+brasilescola.uol.com.br###pub-flutuante-secao-1
+brasilescola.uol.com.br##.box-publicidade-topo
+brasilescola.uol.com.br##.conteudo-materia > div:nth-child(3)
+brasilescola.uol.com.br##.conteudo-materia > div:nth-child(4)
+brasilescola.uol.com.br##.grid-2 > div:nth-child(4)
+brasilescola.uol.com.br##.omnia-new-ads.f-esquerda.publicidade-content
+brasilescola.uol.com.br##.publicidade-content
+brasilescola.uol.com.br##.tm-ads
+brasilescola.uol.com.br#?#div[style="height:250px; width:300px;"]:-abp-has(div[id^="banner"])
 brasilescola.uol.com.br##div[class$="-publicidade"]
 brasilescola.uol.com.br##div[class$="-publicidade-topo"]
+brasilescola.uol.com.br##div[style="width: 300px; height: 600px;"]
 ! diarioonline.com.br
 diarioonline.com.br##div[class*="banner-"]
 diarioonline.com.br##div[class^="box-banner"]
