@@ -1305,6 +1305,7 @@ uol.com.br#@#[src*="data:image"]
 @@||www.iptvtools.net^$generichide
 ! netcine.us
 @@/wp-content/themes/wpmovies4/js/js.min.js$domain=netcine.biz|netcine.co|netcine.fun|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.tv|netcine.us|netcine.win|neticne.cc|neticne.info|neticne.live|neticne.top|neticne.vip
+@@||nsc*.global.ssl.fastly.net/wp-content/themes/wpmovies4/js/js.min.js
 ! empregosdomomento.club
 @@||empregosdomomento.club^$generichide
 ! empregototal.club
