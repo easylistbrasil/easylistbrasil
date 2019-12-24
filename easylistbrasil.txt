@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: bObPlTaK61Os1JK13I8BqA
-! Version: 201911192343
+! Checksum: o2L4Ij4J7aGrVYyeYgWktQ
+! Version: 201912241650
 ! Title: EasyList Brasil
-! Last modified: 19 Nov 2019 23:43 UTC
+! Last modified: 24 Dec 2019 16:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -4216,6 +4216,7 @@ uol.com.br#@#[src*="data:image"]
 @@||www.iptvtools.net^$generichide
 ! netcine.us
 @@/wp-content/themes/wpmovies4/js/js.min.js$domain=netcine.biz|netcine.co|netcine.fun|netcine.me|netcine.online|netcine.ru|netcine.site|netcine.to|netcine.tv|netcine.us|netcine.win|neticne.cc|neticne.info|neticne.live|neticne.top|neticne.vip
+@@||nsc*.global.ssl.fastly.net/wp-content/themes/wpmovies4/js/js.min.js
 ! empregosdomomento.club
 @@||empregosdomomento.club^$generichide
 ! empregototal.club
