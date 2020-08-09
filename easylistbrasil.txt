@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: o2L4Ij4J7aGrVYyeYgWktQ
-! Version: 201912241650
+! Checksum: Wpl/6Pkmjc/8BqIFtrjxfg
+! Version: 202008091942
 ! Title: EasyList Brasil
-! Last modified: 24 Dec 2019 16:50 UTC
+! Last modified: 09 Aug 2020 19:42 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -4320,6 +4320,8 @@ uol.com.br#@#[src*="data:image"]
 @@||*.site^$third-party,domain=canaisgratis.top
 @@||5t59uw2iuh.com^$third-party,domain=canaisgratis.top
 @@||ie8eamus.com^$third-party,domain=canaisgratis.top
+! bibliotechsuper.com
+@@||bibliotechsuper.com^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest
