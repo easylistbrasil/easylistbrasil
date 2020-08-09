@@ -1409,6 +1409,8 @@ uol.com.br#@#[src*="data:image"]
 @@||*.site^$third-party,domain=canaisgratis.top
 @@||5t59uw2iuh.com^$third-party,domain=canaisgratis.top
 @@||ie8eamus.com^$third-party,domain=canaisgratis.top
+! bibliotechsuper.com
+@@||bibliotechsuper.com^$generichide
 ! evitar problemas com outros filtros
 @@||*.gov.*^$genericblock,generichide,script,xmlhttprequest
 @@||*.jus.br^$genericblock,generichide,script,xmlhttprequest
