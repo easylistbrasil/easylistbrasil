@@ -1,6 +1,6 @@
 ||*.online^$third-party
-||*.site^$third-party
-||*.xyz^$third-party
+||*.site^$third-party,domain=~invidious.site
+||*.xyz^$third-party,domain=~invidious.xyz|invidious.048596.xyz
 ||.website^$third-party
 ||5t59uw2iuh.com^$third-party
 ||9likesg.com^$third-party
