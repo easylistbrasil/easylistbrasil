@@ -1,8 +1,40 @@
-&zoneid=*&ad_$popup
 ! GLOBO
 ||recomendacao.globo.com
 ||globo-ab.globo.com
 ||cocoon.globo.com
+||sentry.globoi.com
+!! RASTREADORES HORIZON, GA, FACEBOOK E COOKIES
+!! PODEM SER SERVIDOS ATRÁVES DE VÁRIOS CDN DIFERENTES
+||glbimg.com^*/horizon-client-js.min.js
+||glbimg.com^*/profiling.min.js
+||glbimg.com^*/horizon-client-js.min.js
+||glbimg.com^*/4c1064b084af3049b2b15cc8c22692c4.js
+||glbimg.com^*/globo-ab-v2.min.js
+||glbimg.com^*/globo-ab.min.js
+||glbimg.com^*/glb-rt.js
+
+!! OUTROS RASTREADORES E/OU ABORRECIMENTOS
+||glbimg.com^*/growth.min.js
+||glbimg.com^*/lgpd-lib.min.js
+||glbimg.com^*/tv4.min.js
+||glbimg.com^*/video-recommendation-plugin.js
+||glbimg.com^*/youboralib*.js
+||glbimg.com^*/glb-pv-min.js
+||glbimg.com^*/comScore*.js
+||glbimg.com^*/settings.min.js
+
+!! NECESSÁRIO PARA LIVES, BARRA LATERAL, LOGIN, WORKERS, NOTIFICAÇÕES ETC
+!! PORÉM TAMBÉM PODEM CARREGAR OUTRAS COISAS INDESEJADAS
+!||glbimg.com^*/barra-globocom.min.js
+!||glbimg.com^*/97c0cd02f8bf5cf87fc2f141ea3cf79f.js
+!||glbimg.com^*/e24076c3c6525fdff13b4b62104d4934.js
+!||glbimg.com^*/bastian*.js
+!||glbimg.com^*/api/*/api.min.js
+!||glbimg.com^*/cadun.js
+
+!! end GLOBO
+
+&zoneid=*&ad_$popup
 .openx.$domain=~openx.com
 .php?zoneid=
 /?zoneid
