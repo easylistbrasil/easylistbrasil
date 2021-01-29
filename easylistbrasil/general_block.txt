@@ -1,4 +1,8 @@
 &zoneid=*&ad_$popup
+! GLOBO
+||recomendacao.globo.com
+||globo-ab.globo.com
+||cocoon.globo.com
 .openx.$domain=~openx.com
 .php?zoneid=
 /?zoneid
