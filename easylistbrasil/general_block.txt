@@ -2,6 +2,7 @@
 ||recomendacao.globo.com
 ||globo-ab.globo.com
 ||cocoon.globo.com
+||cocoon.qa.globoi.com
 ||sentry.globoi.com
 ||analysis.infoglobo.com.br
 !! RASTREADORES HORIZON, GA, FACEBOOK E COOKIES
@@ -13,6 +14,8 @@
 ||glbimg.com^*/globo-ab-v2.min.js
 ||glbimg.com^*/globo-ab.min.js
 ||glbimg.com^*/glb-rt.js
+||ogjs.infoglobo.com.br^*/*observer*.js
+||ogjs.infoglobo.com.br^*/*advertising*.js
 
 !! OUTROS RASTREADORES E/OU ABORRECIMENTOS
 ||glbimg.com^*/growth.min.js
@@ -33,12 +36,10 @@
 !||glbimg.com^*/api/*/api.min.js
 !||glbimg.com^*/cadun.js
 
-! ESPECÍFICOS PARA A EPOCA.GLOBO.COM
+! ESPECÍFICOS PARA REVISTAQUEM.GLOBO.COM
 ||revistaquem.globo.com/one-signal/
 ||ogjs.infoglobo.com.br^*/*GTM*js
 ||ogjs.infoglobo.com.br^*/gallery.js
-||ogjs.infoglobo.com.br^*/observer.js
-||ogjs.infoglobo.com.br^*/advertising.js
 ||s3.glbimg.com^*/revistaquem.bundle*.js
 ||static.infoglobo.com.br^*/tiny.js
 ||static.infoglobo.com.br^*/tools.js
@@ -47,6 +48,9 @@
 !||s3.glbimg.com^*/bundle*.js
 !! Barra globo.com
 !||barra.globo.com^*/barra-globocom.min.js
+
+! ESPECÍFICOS PARA EPOCA.GLOBO.COM
+||ogjs.infoglobo.com.br^*/infg_id_globoid.js
 
 ! end GLOBO
 
