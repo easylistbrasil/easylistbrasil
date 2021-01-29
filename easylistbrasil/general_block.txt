@@ -19,7 +19,7 @@
 ||glbimg.com^*/tv4.min.js
 ||glbimg.com^*/video-recommendation-plugin.js
 ||glbimg.com^*/youboralib*.js
-||glbimg.com^*/glb-pv-min.js
+||glbimg.com^*/glb*pv*min.js
 ||glbimg.com^*/comScore*.js
 ||glbimg.com^*/settings.min.js
 
