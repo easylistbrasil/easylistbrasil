@@ -2,6 +2,7 @@
 ||*.site^$third-party
 ||*.xyz^$third-party
 ||.website^$third-party
+||ampproject.org^$third-party
 ||5t59uw2iuh.com^$third-party
 ||9likesg.com^$third-party
 ||aaxads.com^$third-party
