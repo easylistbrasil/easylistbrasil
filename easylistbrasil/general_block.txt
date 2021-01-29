@@ -33,7 +33,22 @@
 !||glbimg.com^*/api/*/api.min.js
 !||glbimg.com^*/cadun.js
 
-!! end GLOBO
+! ESPECÍFICOS PARA A EPOCA.GLOBO.COM
+||revistaquem.globo.com/one-signal/
+||ogjs.infoglobo.com.br^*/*GTM*js
+||ogjs.infoglobo.com.br^*/gallery.js
+||ogjs.infoglobo.com.br^*/observer.js
+||ogjs.infoglobo.com.br^*/advertising.js
+||s3.glbimg.com^*/revistaquem.bundle*.js
+||static.infoglobo.com.br^*/tiny.js
+||static.infoglobo.com.br^*/tools.js
+!! JS para imagens das publicações, porém também carrega 
+!! propagandas e tags de rastreamento
+!||s3.glbimg.com^*/bundle*.js
+!! Barra globo.com
+!||barra.globo.com^*/barra-globocom.min.js
+
+! end GLOBO
 
 &zoneid=*&ad_$popup
 .openx.$domain=~openx.com
