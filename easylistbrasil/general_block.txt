@@ -3,6 +3,7 @@
 ||globo-ab.globo.com
 ||cocoon.globo.com
 ||sentry.globoi.com
+||analysis.infoglobo.com.br
 !! RASTREADORES HORIZON, GA, FACEBOOK E COOKIES
 !! PODEM SER SERVIDOS ATRÁVES DE VÁRIOS CDN DIFERENTES
 ||glbimg.com^*/horizon-client-js.min.js
