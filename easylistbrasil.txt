@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Checksum: T6/NqMgpiZkj9L7l8EiqeQ
+! Checksum: D8lanhOVb7caW3ieo6sGEw
 ! Version: 202104081608
 ! Title: EasyList Brasil
 ! Last modified: 08 Apr 2021 16:08 UTC
@@ -391,6 +391,7 @@ goyabu.com#@#div[style*="z-index"]
 ||*.site^$third-party,domain=~invidious.site
 ||*.xyz^$third-party,domain=~invidious.xyz|invidious.048596.xyz
 ||.website^$third-party
+||ampproject.org^$third-party
 ||5t59uw2iuh.com^$third-party
 ||9likesg.com^$third-party
 ||aaxads.com^$third-party
