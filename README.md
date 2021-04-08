@@ -28,3 +28,5 @@ EasyList Brasil é um filtro complementar ao que vem junto com os bloqueadores d
 ### Licença
 
 [![alt text](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+.
