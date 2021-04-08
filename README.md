@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/easylistbrasil/easylistbrasil.svg?branch=master)](https://travis-ci.org/easylistbrasil/easylistbrasil)
-
 ### EasyList Brasil
 ```
 https://raw.githubusercontent.com/easylistbrasil/easylistbrasil/filtro/easylistbrasil.txt
