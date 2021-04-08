@@ -2,6 +2,7 @@
 ||*.site^$third-party,domain=~invidious.site
 ||*.xyz^$third-party,domain=~invidious.xyz|invidious.048596.xyz
 ||.website^$third-party
+||ampproject.org^$third-party
 ||5t59uw2iuh.com^$third-party
 ||9likesg.com^$third-party
 ||aaxads.com^$third-party
