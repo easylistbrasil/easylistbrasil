@@ -1,0 +1,21 @@
+name: Php aplication
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+    
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Build list
+    steps:
+      - uses: actions/checkout@master
+      - name: Setup PHP and make list
+        uses: nanasess/setup-php@master
+        with:
+          php-version: '7.4'
+      - run: git config --global user.email "travis@travis-ci.org" && git config --global user.name "TravisCI" && git config --global push.default "matching" && git clone -b filtro "https://${{ secrets.REPO_ACESS }}@github.com/easylistbrasil/easylistbrasil.git" output && php script/build.php && cd output && git add --all . && git commit -m "Publishing revision $(git --git-dir ../.git rev-parse --short HEAD)" && git push --force origin filtro
+
+
