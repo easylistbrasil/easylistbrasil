@@ -755,7 +755,56 @@ querofilmeshd.online#$#abort-on-property-read _0x98a1; abort-on-property-read _0
 ! converto.io
 |http*://$popup,script,third-party,xmlhttprequest,domain=converto.io
 ! mercado livre analitics
-||http2.mlstatic.com/analytics/*$domain=mercadolivre.com.br
+||http2.mlstatic.com/analytics/$domain=mercadolivre.com.br
+! GLOBO
+||analysis.infoglobo.com.br
+||cocoon.globo.com
+||cocoon.qa.globoi.com
+||globo-ab.globo.com
+||recomendacao.globo.com
+||sentry.globoi.com
+!! RASTREADORES HORIZON, GA, FACEBOOK E COOKIES
+!! PODEM SER SERVIDOS ATRÁVES DE VÁRIOS CDN DIFERENTES
+||glbimg.com^*/4c1064b084af3049b2b15cc8c22692c4.js
+||glbimg.com^*/glb-rt.js
+||glbimg.com^*/globo-ab-v2.min.js
+||glbimg.com^*/globo-ab.min.js
+||glbimg.com^*/horizon-client-js.min.js
+||glbimg.com^*/profiling.min.js
+||ogjs.infoglobo.com.br^*/*advertising*.js
+||ogjs.infoglobo.com.br^*/*observer*.js
+!! OUTROS RASTREADORES E/OU ABORRECIMENTOS
+||glbimg.com^*/comScore*.js
+||glbimg.com^*/glb*pv*min.js
+||glbimg.com^*/growth.min.js
+||glbimg.com^*/lgpd-lib.min.js
+||glbimg.com^*/settings.min.js
+||glbimg.com^*/tv4.min.js
+||glbimg.com^*/video-recommendation-plugin.js
+||glbimg.com^*/youboralib*.js
+!! NECESSÁRIO PARA LIVES, BARRA LATERAL, LOGIN, WORKERS, NOTIFICAÇÕES ETC
+!! PORÉM TAMBÉM PODEM CARREGAR OUTRAS COISAS INDESEJADAS
+!||glbimg.com^*/barra-globocom.min.js
+!||glbimg.com^*/97c0cd02f8bf5cf87fc2f141ea3cf79f.js
+!||glbimg.com^*/e24076c3c6525fdff13b4b62104d4934.js
+!||glbimg.com^*/bastian*.js
+!||glbimg.com^*/api/*/api.min.js
+!||glbimg.com^*/cadun.js
+! ESPECÍFICOS PARA REVISTAQUEM.GLOBO.COM
+||ogjs.infoglobo.com.br^*/*GTM*js
+||ogjs.infoglobo.com.br^*/gallery.js
+||revistaquem.globo.com/one-signal/
+||s3.glbimg.com^*/revistaquem.bundle*.js
+||static.infoglobo.com.br^*/tiny.js
+||static.infoglobo.com.br^*/tools.js
+!! JS para imagens das publicações, porém também carrega
+!! propagandas e tags de rastreamento
+!||s3.glbimg.com^*/bundle*.js
+!! Barra globo.com
+!||barra.globo.com^*/barra-globocom.min.js
+! ESPECÍFICOS PARA EPOCA.GLOBO.COM
+||ogjs.infoglobo.com.br^*/infg_id_globoid.js
+! end GLOBO
 ! Anti mine mining
 $csp=child-src 'none'; frame-src 'self' *; worker-src 'none',domain=fileone.tv|theappguruz.com
 $csp=child-src 'none'; frame-src *; worker-src 'none',domain=adfreetv.ch|ddmix.net|extratorrent.cd|gofile.io|hq-porns.com|intactoffers.club|kickass.cd|myfeed4u.net|reservedoffers.club|skyback.ru|szukajka.tv|thevideo.cc|thevideo.ch|thevideo.io|thevideo.me|thepiratebay.cr|thepiratebay.org|thepiratebay.red|thevideo.us|tvad.me|vidoza.net|vidup.me

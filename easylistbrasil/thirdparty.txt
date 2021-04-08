@@ -1,14 +1,14 @@
 ||*.online^$third-party
 ||*.site^$third-party,domain=~invidious.site
-||*.xyz^$third-party,domain=~invidious.xyz|invidious.048596.xyz
+||*.xyz^$third-party,domain=invidious.048596.xyz|~invidious.xyz
 ||.website^$third-party
-||ampproject.org^$third-party
 ||5t59uw2iuh.com^$third-party
 ||9likesg.com^$third-party
 ||aaxads.com^$third-party
 ||adap.tv^$~object-subrequest,third-party
 ||adsymptotic.com^$third-party
 ||afriflatry.co^$third-party
+||ampproject.org^$third-party
 ||analytics.analytics-egain.com^
 ||aoredi.com^$third-party
 ||areyouahuman.com^$third-party
