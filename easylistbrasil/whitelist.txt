@@ -1,4 +1,7 @@
 ! youtube.com
+! disable anti adblock youtube
+@@||*/pagead/lvz*^$domain=youtube.com
+!---------------------------------
 @@||servicesdirectory.withyoutube.com^$popup,domain=youtube.com
 @@||static.doubleclick.net/instream/ad_status.js
 @@||www.gstatic.com/external_hosted/polymer/v*/webcomponents.min.js^$script
