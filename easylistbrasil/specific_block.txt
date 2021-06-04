@@ -760,15 +760,13 @@ querofilmeshd.online#$#abort-on-property-read _0x98a1; abort-on-property-read _0
 ||analysis.infoglobo.com.br
 ||cocoon.globo.com
 ||cocoon.qa.globoi.com
-||globo-ab.globo.com
+||globo-ab.globo.com^$selected-alternatives?skipImpressions=true&experiments=g1-video-detach-plugin
 ||recomendacao.globo.com
 ||sentry.globoi.com
 !! RASTREADORES HORIZON, GA, FACEBOOK E COOKIES
 !! PODEM SER SERVIDOS ATRÁVES DE VÁRIOS CDN DIFERENTES
 ||glbimg.com^*/4c1064b084af3049b2b15cc8c22692c4.js
 ||glbimg.com^*/glb-rt.js
-||glbimg.com^*/globo-ab-v2.min.js
-||glbimg.com^*/globo-ab.min.js
 ||glbimg.com^*/horizon-client-js.min.js
 ||glbimg.com^*/profiling.min.js
 ||ogjs.infoglobo.com.br^*/*advertising*.js
@@ -778,7 +776,6 @@ querofilmeshd.online#$#abort-on-property-read _0x98a1; abort-on-property-read _0
 ||glbimg.com^*/glb*pv*min.js
 ||glbimg.com^*/growth.min.js
 ||glbimg.com^*/lgpd-lib.min.js
-||glbimg.com^*/settings.min.js
 ||glbimg.com^*/tv4.min.js
 ||glbimg.com^*/video-recommendation-plugin.js
 ||glbimg.com^*/youboralib*.js
