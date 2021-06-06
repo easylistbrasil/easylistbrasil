@@ -760,7 +760,7 @@ querofilmeshd.online#$#abort-on-property-read _0x98a1; abort-on-property-read _0
 ||analysis.infoglobo.com.br
 ||cocoon.globo.com
 ||cocoon.qa.globoi.com
-||globo-ab.globo.com
+||globo-ab.globo.com^$domain=~globo.com
 ||recomendacao.globo.com
 ||sentry.globoi.com
 !! RASTREADORES HORIZON, GA, FACEBOOK E COOKIES

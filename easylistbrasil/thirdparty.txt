@@ -8,7 +8,7 @@
 ||adap.tv^$~object-subrequest,third-party
 ||adsymptotic.com^$third-party
 ||afriflatry.co^$third-party
-||ampproject.org^$third-party,domain=~g1.globo.com
+||ampproject.org^$third-party,domain=~globo.com
 ||analytics.analytics-egain.com^
 ||aoredi.com^$third-party
 ||areyouahuman.com^$third-party
