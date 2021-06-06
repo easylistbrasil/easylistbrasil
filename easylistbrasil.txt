@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: n84N4O9z1m7m0pikMn8dPA
-! Version: 202105232335
+! Checksum: VyC+4tO0rn/MjLduz98FPg
+! Version: 202106062025
 ! Title: EasyList Brasil
-! Last modified: 23 May 2021 23:35 UTC
+! Last modified: 06 Jun 2021 20:25 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylistbrasil.github.io/
 ! Licence: https://creativecommons.org/licenses/by-sa/4.0/
@@ -397,7 +397,7 @@ goyabu.com#@#div[style*="z-index"]
 ||adap.tv^$~object-subrequest,third-party
 ||adsymptotic.com^$third-party
 ||afriflatry.co^$third-party
-||ampproject.org^$third-party,domain=~g1.globo.com
+||ampproject.org^$third-party,domain=~globo.com
 ||analytics.analytics-egain.com^
 ||aoredi.com^$third-party
 ||areyouahuman.com^$third-party
@@ -1431,7 +1431,7 @@ querofilmeshd.online#$#abort-on-property-read _0x98a1; abort-on-property-read _0
 ||analysis.infoglobo.com.br
 ||cocoon.globo.com
 ||cocoon.qa.globoi.com
-||globo-ab.globo.com
+||globo-ab.globo.com^$domain=~globo.com
 ||recomendacao.globo.com
 ||sentry.globoi.com
 !! RASTREADORES HORIZON, GA, FACEBOOK E COOKIES
