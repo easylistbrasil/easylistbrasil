@@ -24,3 +24,5 @@ activetect.net,ay.gy,brightvar.bid,briskgram.net,clearload.bid,larati.net,swiftv
 ! goyabu.com
 goyabu.com#@#[src*="data:image"]
 goyabu.com#@#div[style*="z-index"]
+! forums.mydigitallife.net
+forums.mydigitallife.net#@#[class*="Pub"]
